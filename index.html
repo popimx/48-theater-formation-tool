@@ -114,34 +114,46 @@
     .h-line {
       position: absolute;
       height: 2px;
-      width: calc(100% / 12 * 9); /* 9区画幅で横線を切る */
       background-color: white;
       left: calc((100% / 13) * 0.5); /* 左外枠線真ん中に揃える */
       z-index: 2;
     }
-    /* 横線は3区画を均等に2本 */
+    /* 横線は3区画を均等に2本＋上下の外枠横線 */
     .h-line.top {
-      top: calc(100% / 3);
+      width: calc((100% / 13) * 12); /* ステージ幅いっぱい */
+      top: 0;
     }
-    .h-line.middle {
+    .h-line.upper-middle {
+      width: calc((100% / 13) * 9); /* 9区画幅 */
+      top: calc(100% / 3);
+      left: calc((100% / 13) * 0.5);
+    }
+    .h-line.lower-middle {
+      width: calc((100% / 13) * 9); /* 9区画幅 */
       top: calc((100% / 3) * 2);
+      left: calc((100% / 13) * 0.5);
+    }
+    .h-line.bottom {
+      width: calc((100% / 13) * 12); /* ステージ幅いっぱい */
+      bottom: 0;
+      left: calc((100% / 13) * 0.5);
     }
 
     .member {
       position: absolute;
-      width: 32px;
-      height: 32px;
+      width: 40px;
+      height: 40px;
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 32px;
-      font-size: 7px; /* ここを7pxに統一 */
+      line-height: 40px;
+      font-size: 7.5px;
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
       user-select: none;
-      z-index: 10;
+      z-index: 10; /* 線より前面に */
       white-space: nowrap;
       overflow: visible;
     }
@@ -174,6 +186,7 @@
       align-items: center;
       justify-content: center;
       user-select: none;
+      font-family: monospace, sans-serif;
     }
 
     #controls {
@@ -226,23 +239,26 @@
       <div class="grid-line v-line center2"></div>
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
+
       <div class="h-line top"></div>
-      <div class="h-line middle"></div>
+      <div class="h-line upper-middle"></div>
+      <div class="h-line lower-middle"></div>
+      <div class="h-line bottom"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label">6️⃣</div>
-      <div class="position-label">5️⃣</div>
-      <div class="position-label">4️⃣</div>
-      <div class="position-label">3️⃣</div>
-      <div class="position-label">2️⃣</div>
-      <div class="position-label">1️⃣</div>
-      <div class="position-label">0️⃣</div>
-      <div class="position-label">1️⃣</div>
-      <div class="position-label">2️⃣</div>
-      <div class="position-label">3️⃣</div>
-      <div class="position-label">4️⃣</div>
-      <div class="position-label">5️⃣</div>
-      <div class="position-label">6️⃣</div>
+      <div class="position-label">6</div>
+      <div class="position-label">5</div>
+      <div class="position-label">4</div>
+      <div class="position-label">3</div>
+      <div class="position-label">2</div>
+      <div class="position-label">1</div>
+      <div class="position-label">0</div>
+      <div class="position-label">1</div>
+      <div class="position-label">2</div>
+      <div class="position-label">3</div>
+      <div class="position-label">4</div>
+      <div class="position-label">5</div>
+      <div class="position-label">6</div>
     </div>
   </div>
 
