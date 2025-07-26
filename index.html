@@ -169,8 +169,39 @@
       justify-content: center;
       height: 28px;
     }
-    
-      </style>
+
+    #controls {
+      margin-top: 20px;
+      max-width: 390px;
+      margin-left: auto;
+      margin-right: auto;
+      user-select: none;
+    }
+
+    .member-control {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 8px;
+      align-items: center;
+    }
+
+    .member-control span {
+      flex: 1 0 60px;
+      font-weight: bold;
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }
+
+    .member-control input {
+      width: 40%;
+      padding: 6px;
+      font-size: 0.9rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+    }
+
+  </style>
 </head>
 <body>
   <header>
@@ -207,32 +238,91 @@
     </div>
   </div>
 
-  <div id="controls" style="text-align: center; margin-top: 20px;">
+  <div id="controls">
+    <!-- ここにメンバーごとのX/Y調整フォームが追加されます -->
+  </div>
+
+  <div style="text-align: center; margin-top: 20px;">
     <button onclick="saveImage()">画像として保存</button>
   </div>
 
   <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
   <script>
+    // メンバー情報格納用配列
+    const members = [];
+
     function addMember() {
-      const name = document.getElementById('member-name').value.trim();
+      const nameInput = document.getElementById('member-name');
+      const name = nameInput.value.trim();
       if (!name) return;
 
-      const member = document.createElement('div');
-      member.className = 'member';
-      member.textContent = name;
+      const stage = document.getElementById('stage');
+      const memberDiv = document.createElement('div');
+      memberDiv.className = 'member';
+      memberDiv.textContent = name;
+      memberDiv.style.left = '50%';
+      memberDiv.style.top = '50%';
+      makeDraggable(memberDiv);
+      stage.appendChild(memberDiv);
 
-      // 初期位置はステージの中央
-      member.style.left = '50%';
-      member.style.top = '50%';
+      // メンバーごとのコントロール（X,Y入力）を追加
+      addControl(name, memberDiv);
 
-      // ドラッグできるように
-      makeDraggable(member);
+      // メンバー配列に追加
+      members.push({ name, element: memberDiv });
 
-      document.getElementById('stage').appendChild(member);
-      document.getElementById('member-name').value = '';
+      nameInput.value = '';
     }
 
-    function makeDraggable(el) {
+    function addControl(name, memberDiv) {
+      const controls = document.getElementById('controls');
+
+      const controlDiv = document.createElement('div');
+      controlDiv.className = 'member-control';
+
+      const nameSpan = document.createElement('span');
+      nameSpan.textContent = name;
+
+      const inputX = document.createElement('input');
+      inputX.type = 'number';
+      inputX.min = 0;
+      inputX.max = 100;
+      inputX.step = 0.1;
+      inputX.value = 50;
+      inputX.title = 'X座標（％）';
+
+      const inputY = document.createElement('input');
+      inputY.type = 'number';
+      inputY.min = 0;
+      inputY.max = 100;
+      inputY.step = 0.1;
+      inputY.value = 50;
+      inputY.title = 'Y座標（％）';
+
+      // 入力欄の変更でメンバー位置を更新
+      inputX.addEventListener('input', () => {
+        let val = parseFloat(inputX.value);
+        if (isNaN(val)) return;
+        val = Math.min(100, Math.max(0, val));
+        memberDiv.style.left = val + '%';
+      });
+      inputY.addEventListener('input', () => {
+        let val = parseFloat(inputY.value);
+        if (isNaN(val)) return;
+        val = Math.min(100, Math.max(0, val));
+        memberDiv.style.top = val + '%';
+      });
+
+      // メンバーのドラッグ時に入力欄も連動更新
+      makeDraggable(memberDiv, inputX, inputY);
+
+      controlDiv.appendChild(nameSpan);
+      controlDiv.appendChild(inputX);
+      controlDiv.appendChild(inputY);
+      controls.appendChild(controlDiv);
+    }
+
+    function makeDraggable(el, inputX, inputY) {
       let offsetX, offsetY, isDragging = false;
 
       el.addEventListener('mousedown', startDrag);
@@ -262,8 +352,15 @@
         x = Math.max(0, Math.min(stage.offsetWidth, x));
         y = Math.max(0, Math.min(stage.offsetHeight, y));
 
-        el.style.left = `${x}px`;
-        el.style.top = `${y}px`;
+        const xPercent = (x / stage.offsetWidth) * 100;
+        const yPercent = (y / stage.offsetHeight) * 100;
+
+        el.style.left = `${xPercent}%`;
+        el.style.top = `${yPercent}%`;
+
+        // 入力欄も更新
+        if(inputX) inputX.value = xPercent.toFixed(1);
+        if(inputY) inputY.value = yPercent.toFixed(1);
       }
 
       function endDrag() {
