@@ -1,232 +1,332 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>劇場公演フォーメーションツール</title>
-  <style>
-    /* Reset */
-    * {
-      box-sizing: border-box;
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>劇場公演 フォーメーションツール</title>
+<style>
+  /* ベース */
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #222;
+    max-width: 390px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #333;
+  }
+  textarea {
+    width: 100%;
+    max-width: 100%;
+    font-size: 1rem;
+    padding: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-bottom: 12px;
+    height: 180px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  @media screen and (max-width: 430px) {
+    textarea {
+      font-size: 1rem;
+      height: 100px;
     }
-    body {
-      background-color: black;
-      color: yellow;
-      margin: 0;
-      font-family: Arial, sans-serif;
-      user-select: none;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-    }
-    .toolbar {
-      padding: 8px;
-      background: #111;
-      display: flex;
-      gap: 10px;
-      justify-content: center;
-      border-bottom: 1px solid #444;
-    }
-    button {
-      background: #222;
-      color: yellow;
-      border: 1px solid yellow;
-      border-radius: 4px;
-      padding: 6px 12px;
-      font-size: 16px;
-      cursor: pointer;
-      user-select: none;
-    }
-    button:hover {
-      background: yellow;
-      color: black;
-    }
-
-    #stage-wrapper {
-      max-width: 1000px;
-      margin: 12px auto;
-      position: relative;
-      aspect-ratio: 2 / 1;
-      width: 95vw;
-      background-color: black;
-      border: 2px solid white;
-    }
-    #stage {
-      position: relative;
-      width: 100%;
-      height: 100%;
-    }
-
-    /* セリ線 */
-    #stage::before,
-    #stage::after {
-      content: "";
-      position: absolute;
-      background: white;
-      z-index: 1;
-    }
-    /* 縦線3本 */
-    #stage::before {
-      top: 0;
-      bottom: 0;
-      width: 2px;
-      left: 25%;
-      box-shadow:
-        150px 0 white,
-        300px 0 white;
-    }
-    /* 横線2本 */
-    #stage::after {
-      left: 0;
-      right: 0;
-      height: 2px;
-      top: 33.33%;
-      box-shadow:
-        0 133px white;
-    }
-
-    /* 立ち位置番号（黒⬛＋黄色数字） */
-    .pos-label {
-      position: absolute;
-      width: 28px;
-      height: 28px;
-      background-color: black;
-      color: yellow;
-      font-weight: bold;
-      font-size: 18px;
-      border-radius: 4px;
-      text-align: center;
-      line-height: 28px;
-      user-select: none;
-      z-index: 5;
-    }
-
-    /* メンバーアイコン */
-    .member-icon {
-      position: absolute;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      background-color: white;
-      color: black;
-      font-weight: bold;
-      font-size: 13px;
-      text-align: center;
-      line-height: 36px;
-      cursor: grab;
-      user-select: none;
-      z-index: 10;
-      box-shadow: 0 0 4px #0005;
-      transition: box-shadow 0.2s ease;
-    }
-    .member-icon:active {
-      cursor: grabbing;
-      box-shadow: 0 0 8px #ff0;
-    }
-    .member-icon.selected {
-      outline: 3px solid yellow;
-      box-shadow: 0 0 12px #ff0;
-    }
-
-    /* 編集用コントロール */
-    #controls {
-      max-width: 1000px;
-      margin: 12px auto;
-      background: #111;
-      padding: 10px 20px;
-      border-radius: 6px;
-      color: yellow;
-      font-size: 16px;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      user-select: text;
-    }
-    #controls.hidden {
-      display: none;
-    }
-    #controls label {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    #controls input[type="number"] {
-      width: 80px;
-      padding: 4px 6px;
-      font-size: 16px;
-      border-radius: 4px;
-      border: none;
-      text-align: right;
-      -moz-appearance: textfield;
-    }
-    /* Remove spinner on number input (Chrome, Edge) */
-    #controls input[type=number]::-webkit-inner-spin-button, 
-    #controls input[type=number]::-webkit-outer-spin-button { 
-      -webkit-appearance: none;
-      margin: 0; 
-    }
-  </style>
-
-  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  }
+  button#assign-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 1.2rem;
+    background-color: #007aff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  button#assign-btn:hover {
+    background-color: #005bb5;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 0.95rem;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  thead {
+    background-color: #f2f2f2;
+  }
+  /* ツールバー */
+  .toolbar {
+    padding: 8px;
+    background: #111;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    border-bottom: 1px solid #444;
+    margin-bottom: 12px;
+  }
+  button {
+    background: #222;
+    color: yellow;
+    border: 1px solid yellow;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+  }
+  button:hover {
+    background: yellow;
+    color: black;
+  }
+  /* ステージ全体 */
+  #stage-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 390px;
+    background-color: black;
+    border: 2px solid white;
+    aspect-ratio: 2 / 1;
+    margin: 0 auto 20px;
+    user-select: none;
+  }
+  #stage {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  /* セリ線 縦3本 横2本 */
+  #stage::before,
+  #stage::after {
+    content: "";
+    position: absolute;
+    background: white;
+    z-index: 1;
+  }
+  /* 縦線3本 */
+  #stage::before {
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    left: 33.33%;
+    box-shadow:
+      33.33% 0 white,
+      66.66% 0 white;
+  }
+  /* 横線2本 */
+  #stage::after {
+    left: 0;
+    right: 0;
+    height: 2px;
+    top: 33.33%;
+    box-shadow:
+      0 33.33% white;
+  }
+  /* 立ち位置番号用コンテナ */
+  #position-numbers {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    max-width: 390px;
+    margin: 0 auto;
+    margin-top: 6px;
+  }
+  .pos-label {
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    font-size: 18px;
+    width: 28px;
+    height: 28px;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 28px;
+    user-select: none;
+  }
+  /* メンバーアイコン */
+  .member-icon {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+    line-height: 36px;
+    cursor: grab;
+    user-select: none;
+    z-index: 10;
+    box-shadow: 0 0 4px #0005;
+    transition: box-shadow 0.2s ease;
+  }
+  .member-icon:active {
+    cursor: grabbing;
+    box-shadow: 0 0 8px #ff0;
+  }
+  .member-icon.selected {
+    outline: 3px solid yellow;
+    box-shadow: 0 0 12px #ff0;
+  }
+  /* 編集用コントロール */
+  #controls {
+    max-width: 390px;
+    margin: 12px auto;
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: #222;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    user-select: text;
+  }
+  #controls.hidden {
+    display: none;
+  }
+  #controls label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  #controls input[type="number"] {
+    width: 80px;
+    padding: 4px 6px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    text-align: right;
+    -moz-appearance: textfield;
+  }
+  /* Remove spinner on number input (Chrome, Edge) */
+  #controls input[type=number]::-webkit-inner-spin-button, 
+  #controls input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    margin: 0; 
+  }
+  /* メンバー追加フォーム */
+  #member-form {
+    max-width: 390px;
+    margin: 0 auto 12px;
+    display: flex;
+    gap: 8px;
+  }
+  #member-name-input {
+    flex-grow: 1;
+    padding: 8px;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  #add-member-btn {
+    padding: 8px 16px;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: none;
+    background-color: #007aff;
+    color: white;
+    cursor: pointer;
+  }
+  #add-member-btn:hover {
+    background-color: #005bb5;
+  }
+  /* メンバーリスト */
+  #member-list {
+    max-width: 390px;
+    margin: 0 auto 20px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  #member-list li {
+    background: #eee;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #222;
+    cursor: pointer;
+    user-select: none;
+  }
+  #member-list li.selected {
+    background-color: #007aff;
+    color: white;
+  }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
 </head>
 <body>
-  <div class="toolbar">
-    <button id="edit-toggle">編集モード</button>
-    <button id="save-image">画像として保存</button>
-  </div>
+<header>
+  <h1>劇場公演 フォーメーションツール</h1>
+</header>
 
-  <div id="stage-wrapper" aria-label="AKB48劇場中央ステージ">
-    <div id="stage" role="region" aria-live="polite" aria-atomic="true" tabindex="0">
-      <!-- JSで立ち位置番号・メンバーアイコン配置 -->
-    </div>
-  </div>
+<div class="toolbar">
+  <button id="edit-toggle">編集モード</button>
+  <button id="save-image">画像として保存</button>
+</div>
 
-  <div id="controls" class="hidden" aria-label="位置調整コントロール">
-    <p>選択中: <span id="selected-name">なし</span></p>
-    <label for="x-input">X: 
-      <input type="number" id="x-input" min="0" max="1000" step="1" />
-    </label>
-    <label for="y-input">Y: 
-      <input type="number" id="y-input" min="0" max="1000" step="1" />
-    </label>
-  </div>
+<form id="member-form" autocomplete="off">
+  <input type="text" id="member-name-input" placeholder="メンバー名（名字3文字以内）" maxlength="3" required />
+  <button type="submit" id="add-member-btn">メンバー追加</button>
+</form>
 
-  <script>
-    // main.js の内容をここに直接埋め込みます
+<ul id="member-list" aria-label="メンバー一覧"></ul>
+
+<div id="stage-wrapper" aria-label="AKB48劇場中央ステージ">
+  <div id="stage" role="region" aria-live="polite" aria-atomic="true" tabindex="0">
+    <!-- セリ線はCSS疑似要素で -->
+  </div>
+</div>
+
+<div id="position-numbers" aria-label="立ち位置番号">
+  <!-- 立ち位置番号はJSでここに配置 -->
+</div>
+
+<div id="controls" class="hidden" aria-label="位置調整コントロール">
+  <p>選択中: <span id="selected-name">なし</span></p>
+  <label for="x-input">X: 
+    <input type="number" id="x-input" min="0" max="390" step="1" />
+  </label>
+  <label for="y-input">Y: 
+    <input type="number" id="y-input" min="0" max="195" step="1" />
+  </label>
+</div>
+
+<script>
 (() => {
   'use strict';
 
-  // ポジション番号リスト（13ポジション）
-  const positions = [
-    {num: -6, left: 50, top: 70},
-    {num: -5, left: 110, top: 70},
-    {num: -4, left: 170, top: 70},
-    {num: -3, left: 230, top: 70},
-    {num: -2, left: 290, top: 70},
-    {num: -1, left: 350, top: 70},
-    {num: 0,  left: 410, top: 70},
-    {num: 1,  left: 470, top: 70},
-    {num: 2,  left: 530, top: 70},
-    {num: 3,  left: 590, top: 70},
-    {num: 4,  left: 650, top: 70},
-    {num: 5,  left: 710, top: 70},
-    {num: 6,  left: 770, top: 70}
-  ];
-
-  // 仮メンバー（名字3文字以内）
-  const members = [
-    {name: "倉野尾", pos: 0},
-    {name: "向井地", pos: 3},
-    {name: "岡田", pos: -2},
-    {name: "千葉", pos: 5},
-    {name: "小栗", pos: -5}
-  ];
-
-  // メンバーの位置（x, y）を初期値として設定
-  // left/topのpx基準なので相対的に表示
-  // pos の left + offsetなど調整可能
+  // 立ち位置番号（0～6まで左右両側用に0～6のみ表示）
+  const posNumbers = [6,5,4,3,0,3,4,5,6]; // 中央0と左右対称で
 
   const stage = document.getElementById('stage');
+  const posNumContainer = document.getElementById('position-numbers');
+  const memberList = document.getElementById('member-list');
+  const memberForm = document.getElementById('member-form');
+  const memberNameInput = document.getElementById('member-name-input');
   const controls = document.getElementById('controls');
   const selectedNameSpan = document.getElementById('selected-name');
   const xInput = document.getElementById('x-input');
@@ -237,47 +337,42 @@
   let isEditMode = false;
   let selectedMember = null;
 
-  // メンバー要素を管理
-  const memberElements = new Map();
+  // メンバー配列: {name, x, y, el}
+  const members = [];
 
-  // メンバー初期配置 (立ち位置番号に基づいてx,yを設定)
-  function initMembers() {
-    members.forEach(m => {
-      const pos = positions.find(p => p.num === m.pos) || positions[0];
-      const left = pos.left;
-      const top = pos.top;
+  // ステージの大きさ取得（実際に表示されるサイズで座標制限）
+  function getStageRect() {
+    return stage.getBoundingClientRect();
+  }
 
-      m.x = left;
-      m.y = top;
+  // 立ち位置番号描画
+  function renderPositionNumbers() {
+    posNumContainer.innerHTML = '';
+    // 画面幅内に均等配置するflexboxなので、要素を9つ並べる
+    posNumbers.forEach(num => {
+      const div = document.createElement('div');
+      div.className = 'pos-label';
+      div.textContent = num;
+      posNumContainer.appendChild(div);
     });
   }
 
-  // 立ち位置番号を描画
-  function renderPositionLabels() {
-    positions.forEach(p => {
-      const label = document.createElement('div');
-      label.className = 'pos-label';
-      label.style.left = p.left + 'px';
-      label.style.top = p.top + 'px';
-      label.textContent = Math.abs(p.num);
-      stage.appendChild(label);
-    });
-  }
-
-  // メンバーアイコンを描画
+  // メンバーをステージに描画
   function renderMembers() {
-    // 既存削除
-    memberElements.forEach(el => el.remove());
-    memberElements.clear();
+    // 既存要素を削除
+    members.forEach(m => {
+      if (m.el) m.el.remove();
+      m.el = null;
+    });
 
     members.forEach(m => {
       const div = document.createElement('div');
       div.className = 'member-icon';
       div.textContent = m.name;
-      div.style.left = (m.x - 18) + 'px'; // 中央寄せ(36/2=18)
-      div.style.top = (m.y - 18) + 'px';
+      div.style.left = m.x + 'px';
+      div.style.top = m.y + 'px';
       stage.appendChild(div);
-      memberElements.set(m.name, div);
+      m.el = div;
 
       div.addEventListener('mousedown', e => {
         if (!isEditMode) return;
@@ -294,28 +389,26 @@
     });
   }
 
-  // 選択メンバーを設定してコントロールに反映
+  // メンバー選択
   function selectMember(name) {
     if (selectedMember === name) return;
     selectedMember = name;
     selectedNameSpan.textContent = name;
     controls.classList.remove('hidden');
 
-    const m = members.find(mem => mem.name === name);
-    if (m) {
-      xInput.value = Math.round(m.x);
-      yInput.value = Math.round(m.y);
-    }
-
-    // ハイライト更新
-    memberElements.forEach((el, nm) => {
-      el.classList.toggle('selected', nm === name);
+    members.forEach(m => {
+      if (m.name === name) {
+        m.el.classList.add('selected');
+        xInput.value = Math.round(m.x);
+        yInput.value = Math.round(m.y);
+      } else {
+        if (m.el) m.el.classList.remove('selected');
+      }
     });
   }
 
   // ドラッグ処理
   let dragInfo = null;
-
   function startDrag(e, el, member) {
     dragInfo = {
       el,
@@ -330,7 +423,6 @@
     window.addEventListener('touchmove', onTouchDrag, { passive: false });
     window.addEventListener('touchend', endDrag);
   }
-
   function onDrag(e) {
     if (!dragInfo) return;
     e.preventDefault();
@@ -346,7 +438,7 @@
     const dy = touch.clientY - dragInfo.startY;
     updateMemberPosition(dragInfo.member, dragInfo.origX + dx, dragInfo.origY + dy);
   }
-  function endDrag(e) {
+  function endDrag() {
     dragInfo = null;
     window.removeEventListener('mousemove', onDrag);
     window.removeEventListener('mouseup', endDrag);
@@ -354,65 +446,107 @@
     window.removeEventListener('touchend', endDrag);
   }
 
-  // メンバーの位置を更新して再描画
+  // 位置更新
   function updateMemberPosition(member, x, y) {
-    member.x = Math.min(Math.max(x, 0), stage.clientWidth);
-    member.y = Math.min(Math.max(y, 0), stage.clientHeight);
-    const el = memberElements.get(member.name);
-    if (el) {
-      el.style.left = (member.x - 18) + 'px';
-      el.style.top = (member.y - 18) + 'px';
+    const rect = getStageRect();
+    // stageはposition: relativeだが座標は絶対なので相対化
+    let newX = x;
+    let newY = y;
+    // ステージ内の座標範囲に制限（メンバーアイコン36x36なので考慮）
+    if (newX < 0) newX = 0;
+    if (newY < 0) newY = 0;
+    if (newX > rect.width - 36) newX = rect.width - 36;
+    if (newY > rect.height - 36) newY = rect.height - 36;
+
+    member.x = newX;
+    member.y = newY;
+    if (member.el) {
+      member.el.style.left = member.x + 'px';
+      member.el.style.top = member.y + 'px';
     }
     if (selectedMember === member.name) {
       xInput.value = Math.round(member.x);
-      yInput.value = Math.round(member.y);
+      yInput.value = Math
+            yInput.value = Math.round(member.y);
     }
   }
 
-  // 入力欄変更時の処理
-  xInput.addEventListener('change', () => {
+  // 手入力で座標変更時の反映
+  xInput.addEventListener('input', () => {
     if (!selectedMember) return;
-    const m = members.find(mem => mem.name === selectedMember);
-    if (m) updateMemberPosition(m, Number(xInput.value), m.y);
+    const member = members.find(m => m.name === selectedMember);
+    if (!member) return;
+    let x = parseInt(xInput.value, 10);
+    if (isNaN(x)) return;
+    updateMemberPosition(member, x, member.y);
   });
-  yInput.addEventListener('change', () => {
+
+  yInput.addEventListener('input', () => {
     if (!selectedMember) return;
-    const m = members.find(mem => mem.name === selectedMember);
-    if (m) updateMemberPosition(m, m.x, Number(yInput.value));
+    const member = members.find(m => m.name === selectedMember);
+    if (!member) return;
+    let y = parseInt(yInput.value, 10);
+    if (isNaN(y)) return;
+    updateMemberPosition(member, member.x, y);
   });
 
   // 編集モード切替
   editToggle.addEventListener('click', () => {
     isEditMode = !isEditMode;
-    editToggle.textContent = isEditMode ? '確認モード' : '編集モード';
+    editToggle.textContent = isEditMode ? '編集モード（ON）' : '編集モード';
     if (!isEditMode) {
       selectedMember = null;
-      selectedNameSpan.textContent = 'なし';
       controls.classList.add('hidden');
-      memberElements.forEach(el => el.classList.remove('selected'));
+      members.forEach(m => {
+        if (m.el) m.el.classList.remove('selected');
+      });
     }
+  });
+
+  // メンバー追加
+  memberForm.addEventListener('submit', e => {
+    e.preventDefault();
+    const name = memberNameInput.value.trim();
+    if (!name) return;
+    if (members.some(m => m.name === name)) {
+      alert('同じ名前のメンバーが既にいます');
+      return;
+    }
+    // 初期位置はステージ中央（適当に中央寄りに）
+    const rect = getStageRect();
+    const initX = rect.width / 2 - 18; // アイコン幅36の半分
+    const initY = rect.height / 2 - 18;
+    const member = { name, x: initX, y: initY, el: null };
+    members.push(member);
+    renderMembers();
+    selectMember(name);
+    memberNameInput.value = '';
   });
 
   // 画像保存
   saveImageBtn.addEventListener('click', () => {
-    html2canvas(stage, { scale: 3 }).then(canvas => {
-      const link = document.createElement('a');
-      link.download = 'formation.png';
-      link.href = canvas.toDataURL('image/png');
-      link.click();
+    const wrapper = document.getElementById('stage-wrapper');
+    html2canvas(wrapper, { scale: 3, backgroundColor: null }).then(canvas => {
+      canvas.toBlob(blob => {
+        if (!blob) {
+          alert('画像生成に失敗しました');
+          return;
+        }
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'formation.png';
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(url);
+      }, 'image/png');
     });
   });
 
-  // 初期化
-  function init() {
-    initMembers();
-    renderPositionLabels();
-    renderMembers();
-  }
-
-  init();
-
+  // 初期描画
+  renderPositionNumbers();
 })();
-  </script>
+</script>
 </body>
 </html>
