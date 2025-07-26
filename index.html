@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>劇場公演 フォーメーションツール</title>
   <style>
     body {
@@ -16,13 +16,11 @@
       margin-left: auto;
       margin-right: auto;
     }
-
     header h1 {
       font-size: 1.5rem;
       text-align: center;
       margin-bottom: 1.5rem;
     }
-
     label {
       display: block;
       margin-bottom: 8px;
@@ -30,7 +28,6 @@
       font-size: 1rem;
       color: #333;
     }
-
     #member-name {
       width: 100%;
       padding: 10px;
@@ -40,7 +37,6 @@
       border-radius: 6px;
       box-sizing: border-box;
     }
-
     button {
       display: inline-block;
       padding: 10px 16px;
@@ -52,25 +48,28 @@
       cursor: pointer;
       margin-bottom: 16px;
     }
-
     button:hover {
       background-color: #005bb5;
     }
-
     #stage-wrapper {
-      position: relative;
+      width: 390px;
+      max-width: 100%;
+      margin: 0 auto;
       background-color: #f9f9f9;
       padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      position: relative;
+      user-select: none;
     }
-
     #stage {
       position: relative;
-      width: 100%;
-      padding-top: 56.25%;
+      width: 390px;
+      height: 220px;
       background-color: black;
       border: 2px solid #333;
+      margin-bottom: 6px;
     }
-
     .member {
       position: absolute;
       width: 40px;
@@ -82,53 +81,80 @@
       line-height: 40px;
       font-size: 0.8rem;
       font-weight: bold;
-      cursor: move;
+      cursor: grab;
       transform: translate(-50%, -50%);
+      user-select: none;
     }
-
     .grid-line {
       position: absolute;
       background-color: white;
     }
-
     .v-line {
       width: 2px;
       height: 100%;
       top: 0;
     }
-
+    .v-line.left {
+      left: calc(7.69% * 6 + 3.85%);
+    }
+    .v-line.center {
+      left: calc(7.69% * 7 + 3.85%);
+    }
+    .v-line.right {
+      left: calc(7.69% * 10 + 3.85%);
+    }
     .h-line {
       height: 2px;
       width: 100%;
       left: 0;
     }
-
-    .position-label {
-      text-align: center;
-      font-size: 0.75rem;
-      background-color: black;
-      color: yellow;
-      padding: 2px 4px;
-      display: inline-block;
-      width: 40px;
-      margin: 2px;
+    .h-line.top {
+      top: 33.3%;
     }
-
+    .h-line.bottom {
+      top: 66.6%;
+    }
     #position-numbers {
       display: flex;
       justify-content: space-between;
-      flex-wrap: wrap;
-      margin-top: 8px;
+      margin-top: 6px;
+      user-select: none;
     }
-
-    #position-numbers span {
-      width: 12.5%;
+    .position-label {
+      background-color: black;
+      color: yellow;
+      padding: 3px 6px;
+      font-size: 0.75rem;
+      border-radius: 3px;
+      width: 6.5%;
       text-align: center;
     }
-
-    .coords-input {
-      font-size: 0.8rem;
-      margin-top: 4px;
+    #controls {
+      margin-top: 30px;
+      padding: 10px;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    #member-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .member-control {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.95rem;
+    }
+    .member-control span {
+      width: 80px;
+      font-weight: bold;
+    }
+    .member-control input {
+      width: 60px;
+      padding: 4px 6px;
+      font-size: 0.9rem;
     }
   </style>
 </head>
@@ -144,22 +170,24 @@
 
   <div id="stage-wrapper">
     <div id="stage">
-      <!-- セリの縦線（-3, 0, +3） -->
-      <div class="grid-line v-line" style="left: 25%;"></div>
-      <div class="grid-line v-line" style="left: 50%;"></div>
-      <div class="grid-line v-line" style="left: 75%;"></div>
+      <!-- 縦線（立ち位置-3,0,3の位置に合わせて） -->
+      <div class="grid-line v-line left"></div>
+      <div class="grid-line v-line center"></div>
+      <div class="grid-line v-line right"></div>
+      <!-- 横線 -->
+      <div class="grid-line h-line top"></div>
+      <div class="grid-line h-line bottom"></div>
 
-      <!-- セリの横線 -->
-      <div class="grid-line h-line" style="top: 33.3%;"></div>
-      <div class="grid-line h-line" style="top: 66.6%;"></div>
+      <!-- メンバーアイコンはJSで追加 -->
     </div>
+
     <div id="position-numbers">
-      <span class="position-label">-6</span>
-      <span class="position-label">-5</span>
-      <span class="position-label">-4</span>
-      <span class="position-label">-3</span>
-      <span class="position-label">-2</span>
-      <span class="position-label">-1</span>
+      <span class="position-label">6</span>
+      <span class="position-label">5</span>
+      <span class="position-label">4</span>
+      <span class="position-label">3</span>
+      <span class="position-label">2</span>
+      <span class="position-label">1</span>
       <span class="position-label">0</span>
       <span class="position-label">1</span>
       <span class="position-label">2</span>
@@ -169,8 +197,13 @@
       <span class="position-label">6</span>
     </div>
   </div>
-  
-    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+
+  <div id="controls">
+    <h2>位置調整</h2>
+    <div id="member-controls"></div>
+  </div>
+
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
   <script>
     function addMember() {
       const nameInput = document.getElementById('member-name');
@@ -183,23 +216,21 @@
       memberDiv.textContent = name;
       memberDiv.style.left = '50%';
       memberDiv.style.top = '50%';
-
-      // ドラッグ可能に
       makeDraggable(memberDiv);
+      stage.appendChild(memberDiv);
 
-      // 入力フィールド（手動調整）
+      // 位置調整入力欄作成
+      const controlArea = document.getElementById('member-controls');
+      const controlLine = document.createElement('div');
+      controlLine.className = 'member-control';
+
+      const label = document.createElement('span');
+      label.textContent = name;
+
       const inputX = document.createElement('input');
-      inputX.type = 'number';
-      inputX.placeholder = 'X%';
-      inputX.className = 'coords-input';
-      inputX.style.width = '48%';
-
       const inputY = document.createElement('input');
+      inputX.type = 'number';
       inputY.type = 'number';
-      inputY.placeholder = 'Y%';
-      inputY.className = 'coords-input';
-      inputY.style.width = '48%';
-
       inputX.value = 50;
       inputY.value = 50;
 
@@ -210,37 +241,48 @@
         memberDiv.style.top = `${inputY.value}%`;
       };
 
-      stage.appendChild(memberDiv);
-      stage.appendChild(inputX);
-      stage.appendChild(inputY);
+      // メンバーのドラッグ時に入力欄も連動
+      memberDiv._linkedInputs = { x: inputX, y: inputY };
+
+      controlLine.appendChild(label);
+      controlLine.appendChild(inputX);
+      controlLine.appendChild(inputY);
+      controlArea.appendChild(controlLine);
 
       nameInput.value = '';
     }
 
     function makeDraggable(element) {
-      let offsetX = 0, offsetY = 0, isDragging = false;
+      let isDragging = false;
+      let offsetX, offsetY;
 
       element.addEventListener('mousedown', (e) => {
         isDragging = true;
-        const rect = element.getBoundingClientRect();
-        offsetX = e.clientX - rect.left;
-        offsetY = e.clientY - rect.top;
+        offsetX = e.offsetX;
+        offsetY = e.offsetY;
+        element.style.zIndex = 1000;
+        e.preventDefault();
       });
 
       document.addEventListener('mousemove', (e) => {
         if (!isDragging) return;
-        const stage = document.getElementById('stage');
-        const stageRect = stage.getBoundingClientRect();
+        const stageRect = document.getElementById('stage').getBoundingClientRect();
+        let x = ((e.clientX - stageRect.left - offsetX) / stageRect.width) * 100;
+        let y = ((e.clientY - stageRect.top - offsetY) / stageRect.height) * 100;
+        x = Math.max(0, Math.min(100, x));
+        y = Math.max(0, Math.min(100, y));
+        element.style.left = `${x}%`;
+        element.style.top = `${y}%`;
 
-        const x = ((e.clientX - stageRect.left) / stageRect.width) * 100;
-        const y = ((e.clientY - stageRect.top) / stageRect.height) * 100;
-
-        element.style.left = `${Math.min(Math.max(x, 0), 100)}%`;
-        element.style.top = `${Math.min(Math.max(y, 0), 100)}%`;
+        if (element._linkedInputs) {
+          element._linkedInputs.x.value = x.toFixed(1);
+          element._linkedInputs.y.value = y.toFixed(1);
+        }
       });
 
       document.addEventListener('mouseup', () => {
         isDragging = false;
+        element.style.zIndex = '';
       });
     }
 
@@ -249,15 +291,16 @@
 
       html2canvas(wrapper, {
         backgroundColor: '#f9f9f9',
-        scale: 3
+        scale: 3,
       }).then((canvas) => {
         const link = document.createElement('a');
-        link.download = 'stage.png';
-        link.href = canvas.toDataURL();
+        link.download = 'stage_formation.png';
+        link.href = canvas.toDataURL('image/png');
         link.click();
+      }).catch(e => {
+        console.error('画像保存エラー', e);
       });
     }
   </script>
 </body>
 </html>
-  
