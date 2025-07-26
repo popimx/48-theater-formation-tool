@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>劇場公演フォーメーションツール</title>
+  <style>
+    /* Reset */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      background-color: black;
+      color: yellow;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    }
+    .toolbar {
+      padding: 8px;
+      background: #111;
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      border-bottom: 1px solid #444;
+    }
+    button {
+      background: #222;
+      color: yellow;
+      border: 1px solid yellow;
+      border-radius: 4px;
+      padding: 6px 12px;
+      font-size: 16px;
+      cursor: pointer;
+      user-select: none;
+    }
+    button:hover {
+      background: yellow;
+      color: black;
+    }
+
+    #stage-wrapper {
+      max-width: 1000px;
+      margin: 12px auto;
+      position: relative;
+      aspect-ratio: 2 / 1;
+      width: 95vw;
+      background-color: black;
+      border: 2px solid white;
+    }
+    #stage {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* セリ線 */
+    #stage::before,
+    #stage::after {
+      content: "";
+      position: absolute;
+      background: white;
+      z-index: 1;
+    }
+    /* 縦線3本 */
+    #stage::before {
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      left: 25%;
+      box-shadow:
+        150px 0 white,
+        300px 0 white;
+    }
+    /* 横線2本 */
+    #stage::after {
+      left: 0;
+      right: 0;
+      height: 2px;
+      top: 33.33%;
+      box-shadow:
+        0 133px white;
+    }
+
+    /* 立ち位置番号（黒⬛＋黄色数字） */
+    .pos-label {
+      position: absolute;
+      width: 28px;
+      height: 28px;
+      background-color: black;
+      color: yellow;
+      font-weight: bold;
+      font-size: 18px;
+      border-radius: 4px;
+      text-align: center;
+      line-height: 28px;
+      user-select: none;
+      z-index: 5;
+    }
+
+    /* メンバーアイコン */
+    .member-icon {
+      position: absolute;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background-color: white;
+      color: black;
+      font-weight: bold;
+      font-size: 13px;
+      text-align: center;
+      line-height: 36px;
+      cursor: grab;
+      user-select: none;
+      z-index: 10;
+      box-shadow: 0 0 4px #0005;
+      transition: box-shadow 0.2s ease;
+    }
+    .member-icon:active {
+      cursor: grabbing;
+      box-shadow: 0 0 8px #ff0;
+    }
+    .member-icon.selected {
+      outline: 3px solid yellow;
+      box-shadow: 0 0 12px #ff0;
+    }
+
+    /* 編集用コントロール */
+    #controls {
+      max-width: 1000px;
+      margin: 12px auto;
+      background: #111;
+      padding: 10px 20px;
+      border-radius: 6px;
+      color: yellow;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      user-select: text;
+    }
+    #controls.hidden {
+      display: none;
+    }
+    #controls label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    #controls input[type="number"] {
+      width: 80px;
+      padding: 4px 6px;
+      font-size: 16px;
+      border-radius: 4px;
+      border: none;
+      text-align: right;
+      -moz-appearance: textfield;
+    }
+    /* Remove spinner on number input (Chrome, Edge) */
+    #controls input[type=number]::-webkit-inner-spin-button, 
+    #controls input[type=number]::-webkit-outer-spin-button { 
+      -webkit-appearance: none;
+      margin: 0; 
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+  <div class="toolbar">
+    <button id="edit-toggle">編集モード</button>
+    <button id="save-image">画像として保存</button>
+  </div>
+
+  <div id="stage-wrapper" aria-label="AKB48劇場中央ステージ">
+    <div id="stage" role="region" aria-live="polite" aria-atomic="true" tabindex="0">
+      <!-- JSで立ち位置番号・メンバーアイコン配置 -->
+    </div>
+  </div>
+
+  <div id="controls" class="hidden" aria-label="位置調整コントロール">
+    <p>選択中: <span id="selected-name">なし</span></p>
+    <label for="x-input">X: 
+      <input type="number" id="x-input" min="0" max="1000" step="1" />
+    </label>
+    <label for="y-input">Y: 
+      <input type="number" id="y-input" min="0" max="1000" step="1" />
+    </label>
+  </div>
+
+  <script>
+    // main.js の内容をここに直接埋め込みます
+(() => {
+  'use strict';
+
+  // ポジション番号リスト（13ポジション）
+  const positions = [
+    {num: -6, left: 50, top: 70},
+    {num: -5, left: 110, top: 70},
+    {num: -4, left: 170, top: 70},
+    {num: -3, left: 230, top: 70},
+    {num: -2, left: 290, top: 70},
+    {num: -1, left: 350, top: 70},
+    {num: 0,  left: 410, top: 70},
+    {num: 1,  left: 470, top: 70},
+    {num: 2,  left: 530, top: 70},
+    {num: 3,  left: 590, top: 70},
+    {num: 4,  left: 650, top: 70},
+    {num: 5,  left: 710, top: 70},
+    {num: 6,  left: 770, top: 70}
+  ];
+
+  // 仮メンバー（名字3文字以内）
+  const members = [
+    {name: "倉野尾", pos: 0},
+    {name: "向井地", pos: 3},
+    {name: "岡田", pos: -2},
+    {name: "千葉", pos: 5},
+    {name: "小栗", pos: -5}
+  ];
+
+  // メンバーの位置（x, y）を初期値として設定
+  // left/topのpx基準なので相対的に表示
+  // pos の left + offsetなど調整可能
+
+  const stage = document.getElementById('stage');
+  const controls = document.getElementById('controls');
+  const selectedNameSpan = document.getElementById('selected-name');
+  const xInput = document.getElementById('x-input');
+  const yInput = document.getElementById('y-input');
+  const editToggle = document.getElementById('edit-toggle');
+  const saveImageBtn = document.getElementById('save-image');
+
+  let isEditMode = false;
+  let selectedMember = null;
+
+  // メンバー要素を管理
+  const memberElements = new Map();
+
+  // メンバー初期配置 (立ち位置番号に基づいてx,yを設定)
+  function initMembers() {
+    members.forEach(m => {
+      const pos = positions.find(p => p.num === m.pos) || positions[0];
+      const left = pos.left;
+      const top = pos.top;
+
+      m.x = left;
+      m.y = top;
+    });
+  }
+
+  // 立ち位置番号を描画
+  function renderPositionLabels() {
+    positions.forEach(p => {
+      const label = document.createElement('div');
+      label.className = 'pos-label';
+      label.style.left = p.left + 'px';
+      label.style.top = p.top + 'px';
+      label.textContent = Math.abs(p.num);
+      stage.appendChild(label);
+    });
+  }
+
+  // メンバーアイコンを描画
+  function renderMembers() {
+    // 既存削除
+    memberElements.forEach(el => el.remove());
+    memberElements.clear();
+
+    members.forEach(m => {
+      const div = document.createElement('div');
+      div.className = 'member-icon';
+      div.textContent = m.name;
+      div.style.left = (m.x - 18) + 'px'; // 中央寄せ(36/2=18)
+      div.style.top = (m.y - 18) + 'px';
+      stage.appendChild(div);
+      memberElements.set(m.name, div);
+
+      div.addEventListener('mousedown', e => {
+        if (!isEditMode) return;
+        e.preventDefault();
+        selectMember(m.name);
+        startDrag(e, div, m);
+      });
+      div.addEventListener('touchstart', e => {
+        if (!isEditMode) return;
+        e.preventDefault();
+        selectMember(m.name);
+        startDrag(e.touches[0], div, m);
+      });
+    });
+  }
+
+  // 選択メンバーを設定してコントロールに反映
+  function selectMember(name) {
+    if (selectedMember === name) return;
+    selectedMember = name;
+    selectedNameSpan.textContent = name;
+    controls.classList.remove('hidden');
+
+    const m = members.find(mem => mem.name === name);
+    if (m) {
+      xInput.value = Math.round(m.x);
+      yInput.value = Math.round(m.y);
+    }
+
+    // ハイライト更新
+    memberElements.forEach((el, nm) => {
+      el.classList.toggle('selected', nm === name);
+    });
+  }
+
+  // ドラッグ処理
+  let dragInfo = null;
+
+  function startDrag(e, el, member) {
+    dragInfo = {
+      el,
+      member,
+      startX: e.clientX,
+      startY: e.clientY,
+      origX: member.x,
+      origY: member.y
+    };
+    window.addEventListener('mousemove', onDrag);
+    window.addEventListener('mouseup', endDrag);
+    window.addEventListener('touchmove', onTouchDrag, { passive: false });
+    window.addEventListener('touchend', endDrag);
+  }
+
+  function onDrag(e) {
+    if (!dragInfo) return;
+    e.preventDefault();
+    const dx = e.clientX - dragInfo.startX;
+    const dy = e.clientY - dragInfo.startY;
+    updateMemberPosition(dragInfo.member, dragInfo.origX + dx, dragInfo.origY + dy);
+  }
+  function onTouchDrag(e) {
+    if (!dragInfo) return;
+    e.preventDefault();
+    const touch = e.touches[0];
+    const dx = touch.clientX - dragInfo.startX;
+    const dy = touch.clientY - dragInfo.startY;
+    updateMemberPosition(dragInfo.member, dragInfo.origX + dx, dragInfo.origY + dy);
+  }
+  function endDrag(e) {
+    dragInfo = null;
+    window.removeEventListener('mousemove', onDrag);
+    window.removeEventListener('mouseup', endDrag);
+    window.removeEventListener('touchmove', onTouchDrag);
+    window.removeEventListener('touchend', endDrag);
+  }
+
+  // メンバーの位置を更新して再描画
+  function updateMemberPosition(member, x, y) {
+    member.x = Math.min(Math.max(x, 0), stage.clientWidth);
+    member.y = Math.min(Math.max(y, 0), stage.clientHeight);
+    const el = memberElements.get(member.name);
+    if (el) {
+      el.style.left = (member.x - 18) + 'px';
+      el.style.top = (member.y - 18) + 'px';
+    }
+    if (selectedMember === member.name) {
+      xInput.value = Math.round(member.x);
+      yInput.value = Math.round(member.y);
+    }
+  }
+
+  // 入力欄変更時の処理
+  xInput.addEventListener('change', () => {
+    if (!selectedMember) return;
+    const m = members.find(mem => mem.name === selectedMember);
+    if (m) updateMemberPosition(m, Number(xInput.value), m.y);
+  });
+  yInput.addEventListener('change', () => {
+    if (!selectedMember) return;
+    const m = members.find(mem => mem.name === selectedMember);
+    if (m) updateMemberPosition(m, m.x, Number(yInput.value));
+  });
+
+  // 編集モード切替
+  editToggle.addEventListener('click', () => {
+    isEditMode = !isEditMode;
+    editToggle.textContent = isEditMode ? '確認モード' : '編集モード';
+    if (!isEditMode) {
+      selectedMember = null;
+      selectedNameSpan.textContent = 'なし';
+      controls.classList.add('hidden');
+      memberElements.forEach(el => el.classList.remove('selected'));
+    }
+  });
+
+  // 画像保存
+  saveImageBtn.addEventListener('click', () => {
+    html2canvas(stage, { scale: 3 }).then(canvas => {
+      const link = document.createElement('a');
+      link.download = 'formation.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    });
+  });
+
+  // 初期化
+  function init() {
+    initMembers();
+    renderPositionLabels();
+    renderMembers();
+  }
+
+  init();
+
+})();
+  </script>
+</body>
+</html>
