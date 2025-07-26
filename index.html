@@ -1,552 +1,263 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>劇場公演 フォーメーションツール</title>
-<style>
-  /* ベース */
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f9f9f9;
-    color: #222;
-    max-width: 390px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  header h1 {
-    font-size: 1.5rem;
-    text-align: center;
-    margin-bottom: 1.5rem;
-  }
-  label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: bold;
-    font-size: 1rem;
-    color: #333;
-  }
-  textarea {
-    width: 100%;
-    max-width: 100%;
-    font-size: 1rem;
-    padding: 14px;
-    border-radius: 6px;
-    border: 1px solid #ccc;
-    margin-bottom: 12px;
-    height: 180px;
-    box-sizing: border-box;
-    resize: vertical;
-  }
-  @media screen and (max-width: 430px) {
-    textarea {
-      font-size: 1rem;
-      height: 100px;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>劇場公演 フォーメーションツール</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #222;
+      max-width: 390px;
+      margin-left: auto;
+      margin-right: auto;
     }
-  }
-  button#assign-btn {
-    display: block;
-    width: 100%;
-    padding: 15px;
-    font-size: 1.2rem;
-    background-color: #007aff;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-  }
-  button#assign-btn:hover {
-    background-color: #005bb5;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-    font-size: 0.95rem;
-  }
-  th, td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: left;
-  }
-  thead {
-    background-color: #f2f2f2;
-  }
-  /* ツールバー */
-  .toolbar {
-    padding: 8px;
-    background: #111;
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    border-bottom: 1px solid #444;
-    margin-bottom: 12px;
-  }
-  button {
-    background: #222;
-    color: yellow;
-    border: 1px solid yellow;
-    border-radius: 4px;
-    padding: 6px 12px;
-    font-size: 16px;
-    cursor: pointer;
-    user-select: none;
-  }
-  button:hover {
-    background: yellow;
-    color: black;
-  }
-  /* ステージ全体 */
-  #stage-wrapper {
-    position: relative;
-    width: 100%;
-    max-width: 390px;
-    background-color: black;
-    border: 2px solid white;
-    aspect-ratio: 2 / 1;
-    margin: 0 auto 20px;
-    user-select: none;
-  }
-  #stage {
-    position: relative;
-    width: 100%;
-    height: 100%;
-  }
-  /* セリ線 縦3本 横2本 */
-  #stage::before,
-  #stage::after {
-    content: "";
-    position: absolute;
-    background: white;
-    z-index: 1;
-  }
-  /* 縦線3本 */
-  #stage::before {
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    left: 33.33%;
-    box-shadow:
-      33.33% 0 white,
-      66.66% 0 white;
-  }
-  /* 横線2本 */
-  #stage::after {
-    left: 0;
-    right: 0;
-    height: 2px;
-    top: 33.33%;
-    box-shadow:
-      0 33.33% white;
-  }
-  /* 立ち位置番号用コンテナ */
-  #position-numbers {
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    max-width: 390px;
-    margin: 0 auto;
-    margin-top: 6px;
-  }
-  .pos-label {
-    background-color: black;
-    color: yellow;
-    font-weight: bold;
-    font-size: 18px;
-    width: 28px;
-    height: 28px;
-    border-radius: 4px;
-    text-align: center;
-    line-height: 28px;
-    user-select: none;
-  }
-  /* メンバーアイコン */
-  .member-icon {
-    position: absolute;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background-color: white;
-    color: black;
-    font-weight: bold;
-    font-size: 13px;
-    text-align: center;
-    line-height: 36px;
-    cursor: grab;
-    user-select: none;
-    z-index: 10;
-    box-shadow: 0 0 4px #0005;
-    transition: box-shadow 0.2s ease;
-  }
-  .member-icon:active {
-    cursor: grabbing;
-    box-shadow: 0 0 8px #ff0;
-  }
-  .member-icon.selected {
-    outline: 3px solid yellow;
-    box-shadow: 0 0 12px #ff0;
-  }
-  /* 編集用コントロール */
-  #controls {
-    max-width: 390px;
-    margin: 12px auto;
-    background: #fff;
-    padding: 10px 20px;
-    border-radius: 6px;
-    color: #222;
-    font-size: 16px;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    user-select: text;
-  }
-  #controls.hidden {
-    display: none;
-  }
-  #controls label {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-  #controls input[type="number"] {
-    width: 80px;
-    padding: 4px 6px;
-    font-size: 16px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    text-align: right;
-    -moz-appearance: textfield;
-  }
-  /* Remove spinner on number input (Chrome, Edge) */
-  #controls input[type=number]::-webkit-inner-spin-button, 
-  #controls input[type=number]::-webkit-outer-spin-button { 
-    -webkit-appearance: none;
-    margin: 0; 
-  }
-  /* メンバー追加フォーム */
-  #member-form {
-    max-width: 390px;
-    margin: 0 auto 12px;
-    display: flex;
-    gap: 8px;
-  }
-  #member-name-input {
-    flex-grow: 1;
-    padding: 8px;
-    font-size: 1rem;
-    border-radius: 6px;
-    border: 1px solid #ccc;
-  }
-  #add-member-btn {
-    padding: 8px 16px;
-    font-size: 1rem;
-    border-radius: 6px;
-    border: none;
-    background-color: #007aff;
-    color: white;
-    cursor: pointer;
-  }
-  #add-member-btn:hover {
-    background-color: #005bb5;
-  }
-  /* メンバーリスト */
-  #member-list {
-    max-width: 390px;
-    margin: 0 auto 20px;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
-  }
-  #member-list li {
-    background: #eee;
-    padding: 6px 10px;
-    border-radius: 6px;
-    font-weight: bold;
-    color: #222;
-    cursor: pointer;
-    user-select: none;
-  }
-  #member-list li.selected {
-    background-color: #007aff;
-    color: white;
-  }
-</style>
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+    header h1 {
+      font-size: 1.5rem;
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+      font-size: 1rem;
+      color: #333;
+    }
+
+    #member-name {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 12px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+    }
+
+    button {
+      display: inline-block;
+      padding: 10px 16px;
+      font-size: 1rem;
+      background-color: #007aff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-bottom: 16px;
+    }
+
+    button:hover {
+      background-color: #005bb5;
+    }
+
+    #stage-wrapper {
+      position: relative;
+      background-color: #f9f9f9;
+      padding: 10px;
+    }
+
+    #stage {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+      background-color: black;
+      border: 2px solid #333;
+    }
+
+    .member {
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: white;
+      color: black;
+      text-align: center;
+      line-height: 40px;
+      font-size: 0.8rem;
+      font-weight: bold;
+      cursor: move;
+      transform: translate(-50%, -50%);
+    }
+
+    .grid-line {
+      position: absolute;
+      background-color: white;
+    }
+
+    .v-line {
+      width: 2px;
+      height: 100%;
+      top: 0;
+    }
+
+    .h-line {
+      height: 2px;
+      width: 100%;
+      left: 0;
+    }
+
+    .position-label {
+      text-align: center;
+      font-size: 0.75rem;
+      background-color: black;
+      color: yellow;
+      padding: 2px 4px;
+      display: inline-block;
+      width: 40px;
+      margin: 2px;
+    }
+
+    #position-numbers {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin-top: 8px;
+    }
+
+    #position-numbers span {
+      width: 12.5%;
+      text-align: center;
+    }
+
+    .coords-input {
+      font-size: 0.8rem;
+      margin-top: 4px;
+    }
+  </style>
 </head>
 <body>
-<header>
-  <h1>劇場公演 フォーメーションツール</h1>
-</header>
+  <header>
+    <h1>劇場公演フォーメーションツール</h1>
+  </header>
 
-<div class="toolbar">
-  <button id="edit-toggle">編集モード</button>
-  <button id="save-image">画像として保存</button>
-</div>
+  <label for="member-name">メンバー名を追加</label>
+  <input type="text" id="member-name" placeholder="例: 倉野尾" />
+  <button onclick="addMember()">メンバー追加</button>
+  <button onclick="saveImage()">画像として保存</button>
 
-<form id="member-form" autocomplete="off">
-  <input type="text" id="member-name-input" placeholder="メンバー名（名字3文字以内）" maxlength="3" required />
-  <button type="submit" id="add-member-btn">メンバー追加</button>
-</form>
+  <div id="stage-wrapper">
+    <div id="stage">
+      <!-- セリの縦線（-3, 0, +3） -->
+      <div class="grid-line v-line" style="left: 25%;"></div>
+      <div class="grid-line v-line" style="left: 50%;"></div>
+      <div class="grid-line v-line" style="left: 75%;"></div>
 
-<ul id="member-list" aria-label="メンバー一覧"></ul>
-
-<div id="stage-wrapper" aria-label="AKB48劇場中央ステージ">
-  <div id="stage" role="region" aria-live="polite" aria-atomic="true" tabindex="0">
-    <!-- セリ線はCSS疑似要素で -->
+      <!-- セリの横線 -->
+      <div class="grid-line h-line" style="top: 33.3%;"></div>
+      <div class="grid-line h-line" style="top: 66.6%;"></div>
+    </div>
+    <div id="position-numbers">
+      <span class="position-label">-6</span>
+      <span class="position-label">-5</span>
+      <span class="position-label">-4</span>
+      <span class="position-label">-3</span>
+      <span class="position-label">-2</span>
+      <span class="position-label">-1</span>
+      <span class="position-label">0</span>
+      <span class="position-label">1</span>
+      <span class="position-label">2</span>
+      <span class="position-label">3</span>
+      <span class="position-label">4</span>
+      <span class="position-label">5</span>
+      <span class="position-label">6</span>
+    </div>
   </div>
-</div>
+  
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+  <script>
+    function addMember() {
+      const nameInput = document.getElementById('member-name');
+      const name = nameInput.value.trim();
+      if (!name) return;
 
-<div id="position-numbers" aria-label="立ち位置番号">
-  <!-- 立ち位置番号はJSでここに配置 -->
-</div>
+      const stage = document.getElementById('stage');
+      const memberDiv = document.createElement('div');
+      memberDiv.className = 'member';
+      memberDiv.textContent = name;
+      memberDiv.style.left = '50%';
+      memberDiv.style.top = '50%';
 
-<div id="controls" class="hidden" aria-label="位置調整コントロール">
-  <p>選択中: <span id="selected-name">なし</span></p>
-  <label for="x-input">X: 
-    <input type="number" id="x-input" min="0" max="390" step="1" />
-  </label>
-  <label for="y-input">Y: 
-    <input type="number" id="y-input" min="0" max="195" step="1" />
-  </label>
-</div>
+      // ドラッグ可能に
+      makeDraggable(memberDiv);
 
-<script>
-(() => {
-  'use strict';
+      // 入力フィールド（手動調整）
+      const inputX = document.createElement('input');
+      inputX.type = 'number';
+      inputX.placeholder = 'X%';
+      inputX.className = 'coords-input';
+      inputX.style.width = '48%';
 
-  // 立ち位置番号（0～6まで左右両側用に0～6のみ表示）
-  const posNumbers = [6,5,4,3,0,3,4,5,6]; // 中央0と左右対称で
+      const inputY = document.createElement('input');
+      inputY.type = 'number';
+      inputY.placeholder = 'Y%';
+      inputY.className = 'coords-input';
+      inputY.style.width = '48%';
 
-  const stage = document.getElementById('stage');
-  const posNumContainer = document.getElementById('position-numbers');
-  const memberList = document.getElementById('member-list');
-  const memberForm = document.getElementById('member-form');
-  const memberNameInput = document.getElementById('member-name-input');
-  const controls = document.getElementById('controls');
-  const selectedNameSpan = document.getElementById('selected-name');
-  const xInput = document.getElementById('x-input');
-  const yInput = document.getElementById('y-input');
-  const editToggle = document.getElementById('edit-toggle');
-  const saveImageBtn = document.getElementById('save-image');
+      inputX.value = 50;
+      inputY.value = 50;
 
-  let isEditMode = false;
-  let selectedMember = null;
+      inputX.oninput = () => {
+        memberDiv.style.left = `${inputX.value}%`;
+      };
+      inputY.oninput = () => {
+        memberDiv.style.top = `${inputY.value}%`;
+      };
 
-  // メンバー配列: {name, x, y, el}
-  const members = [];
+      stage.appendChild(memberDiv);
+      stage.appendChild(inputX);
+      stage.appendChild(inputY);
 
-  // ステージの大きさ取得（実際に表示されるサイズで座標制限）
-  function getStageRect() {
-    return stage.getBoundingClientRect();
-  }
-
-  // 立ち位置番号描画
-  function renderPositionNumbers() {
-    posNumContainer.innerHTML = '';
-    // 画面幅内に均等配置するflexboxなので、要素を9つ並べる
-    posNumbers.forEach(num => {
-      const div = document.createElement('div');
-      div.className = 'pos-label';
-      div.textContent = num;
-      posNumContainer.appendChild(div);
-    });
-  }
-
-  // メンバーをステージに描画
-  function renderMembers() {
-    // 既存要素を削除
-    members.forEach(m => {
-      if (m.el) m.el.remove();
-      m.el = null;
-    });
-
-    members.forEach(m => {
-      const div = document.createElement('div');
-      div.className = 'member-icon';
-      div.textContent = m.name;
-      div.style.left = m.x + 'px';
-      div.style.top = m.y + 'px';
-      stage.appendChild(div);
-      m.el = div;
-
-      div.addEventListener('mousedown', e => {
-        if (!isEditMode) return;
-        e.preventDefault();
-        selectMember(m.name);
-        startDrag(e, div, m);
-      });
-      div.addEventListener('touchstart', e => {
-        if (!isEditMode) return;
-        e.preventDefault();
-        selectMember(m.name);
-        startDrag(e.touches[0], div, m);
-      });
-    });
-  }
-
-  // メンバー選択
-  function selectMember(name) {
-    if (selectedMember === name) return;
-    selectedMember = name;
-    selectedNameSpan.textContent = name;
-    controls.classList.remove('hidden');
-
-    members.forEach(m => {
-      if (m.name === name) {
-        m.el.classList.add('selected');
-        xInput.value = Math.round(m.x);
-        yInput.value = Math.round(m.y);
-      } else {
-        if (m.el) m.el.classList.remove('selected');
-      }
-    });
-  }
-
-  // ドラッグ処理
-  let dragInfo = null;
-  function startDrag(e, el, member) {
-    dragInfo = {
-      el,
-      member,
-      startX: e.clientX,
-      startY: e.clientY,
-      origX: member.x,
-      origY: member.y
-    };
-    window.addEventListener('mousemove', onDrag);
-    window.addEventListener('mouseup', endDrag);
-    window.addEventListener('touchmove', onTouchDrag, { passive: false });
-    window.addEventListener('touchend', endDrag);
-  }
-  function onDrag(e) {
-    if (!dragInfo) return;
-    e.preventDefault();
-    const dx = e.clientX - dragInfo.startX;
-    const dy = e.clientY - dragInfo.startY;
-    updateMemberPosition(dragInfo.member, dragInfo.origX + dx, dragInfo.origY + dy);
-  }
-  function onTouchDrag(e) {
-    if (!dragInfo) return;
-    e.preventDefault();
-    const touch = e.touches[0];
-    const dx = touch.clientX - dragInfo.startX;
-    const dy = touch.clientY - dragInfo.startY;
-    updateMemberPosition(dragInfo.member, dragInfo.origX + dx, dragInfo.origY + dy);
-  }
-  function endDrag() {
-    dragInfo = null;
-    window.removeEventListener('mousemove', onDrag);
-    window.removeEventListener('mouseup', endDrag);
-    window.removeEventListener('touchmove', onTouchDrag);
-    window.removeEventListener('touchend', endDrag);
-  }
-
-  // 位置更新
-  function updateMemberPosition(member, x, y) {
-    const rect = getStageRect();
-    // stageはposition: relativeだが座標は絶対なので相対化
-    let newX = x;
-    let newY = y;
-    // ステージ内の座標範囲に制限（メンバーアイコン36x36なので考慮）
-    if (newX < 0) newX = 0;
-    if (newY < 0) newY = 0;
-    if (newX > rect.width - 36) newX = rect.width - 36;
-    if (newY > rect.height - 36) newY = rect.height - 36;
-
-    member.x = newX;
-    member.y = newY;
-    if (member.el) {
-      member.el.style.left = member.x + 'px';
-      member.el.style.top = member.y + 'px';
+      nameInput.value = '';
     }
-    if (selectedMember === member.name) {
-      xInput.value = Math.round(member.x);
-      yInput.value = Math
-            yInput.value = Math.round(member.y);
-    }
-  }
 
-  // 手入力で座標変更時の反映
-  xInput.addEventListener('input', () => {
-    if (!selectedMember) return;
-    const member = members.find(m => m.name === selectedMember);
-    if (!member) return;
-    let x = parseInt(xInput.value, 10);
-    if (isNaN(x)) return;
-    updateMemberPosition(member, x, member.y);
-  });
+    function makeDraggable(element) {
+      let offsetX = 0, offsetY = 0, isDragging = false;
 
-  yInput.addEventListener('input', () => {
-    if (!selectedMember) return;
-    const member = members.find(m => m.name === selectedMember);
-    if (!member) return;
-    let y = parseInt(yInput.value, 10);
-    if (isNaN(y)) return;
-    updateMemberPosition(member, member.x, y);
-  });
+      element.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        const rect = element.getBoundingClientRect();
+        offsetX = e.clientX - rect.left;
+        offsetY = e.clientY - rect.top;
+      });
 
-  // 編集モード切替
-  editToggle.addEventListener('click', () => {
-    isEditMode = !isEditMode;
-    editToggle.textContent = isEditMode ? '編集モード（ON）' : '編集モード';
-    if (!isEditMode) {
-      selectedMember = null;
-      controls.classList.add('hidden');
-      members.forEach(m => {
-        if (m.el) m.el.classList.remove('selected');
+      document.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        const stage = document.getElementById('stage');
+        const stageRect = stage.getBoundingClientRect();
+
+        const x = ((e.clientX - stageRect.left) / stageRect.width) * 100;
+        const y = ((e.clientY - stageRect.top) / stageRect.height) * 100;
+
+        element.style.left = `${Math.min(Math.max(x, 0), 100)}%`;
+        element.style.top = `${Math.min(Math.max(y, 0), 100)}%`;
+      });
+
+      document.addEventListener('mouseup', () => {
+        isDragging = false;
       });
     }
-  });
 
-  // メンバー追加
-  memberForm.addEventListener('submit', e => {
-    e.preventDefault();
-    const name = memberNameInput.value.trim();
-    if (!name) return;
-    if (members.some(m => m.name === name)) {
-      alert('同じ名前のメンバーが既にいます');
-      return;
+    function saveImage() {
+      const wrapper = document.getElementById('stage-wrapper');
+
+      html2canvas(wrapper, {
+        backgroundColor: '#f9f9f9',
+        scale: 3
+      }).then((canvas) => {
+        const link = document.createElement('a');
+        link.download = 'stage.png';
+        link.href = canvas.toDataURL();
+        link.click();
+      });
     }
-    // 初期位置はステージ中央（適当に中央寄りに）
-    const rect = getStageRect();
-    const initX = rect.width / 2 - 18; // アイコン幅36の半分
-    const initY = rect.height / 2 - 18;
-    const member = { name, x: initX, y: initY, el: null };
-    members.push(member);
-    renderMembers();
-    selectMember(name);
-    memberNameInput.value = '';
-  });
-
-  // 画像保存
-  saveImageBtn.addEventListener('click', () => {
-    const wrapper = document.getElementById('stage-wrapper');
-    html2canvas(wrapper, { scale: 3, backgroundColor: null }).then(canvas => {
-      canvas.toBlob(blob => {
-        if (!blob) {
-          alert('画像生成に失敗しました');
-          return;
-        }
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'formation.png';
-        document.body.appendChild(a);
-        a.click();
-        a.remove();
-        URL.revokeObjectURL(url);
-      }, 'image/png');
-    });
-  });
-
-  // 初期描画
-  renderPositionNumbers();
-})();
-</script>
+  </script>
 </body>
 </html>
+  
