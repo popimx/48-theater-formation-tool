@@ -79,7 +79,6 @@
       border: 2px solid #333;
       margin-bottom: 20px;
       z-index: 1;
-      overflow: visible;
     }
 
     .grid-line {
@@ -91,17 +90,25 @@
       z-index: 2;
     }
 
-    /* 縦線を立ち位置3番(4番目),0番(7番目),3番(10番目)の中央に正確に配置 */
+    /* 外枠の縦線が6番の真ん中に */
     .v-line.left {
-      left: calc((100% / 13) * 3.5);
+      left: calc((100% / 13) * 0.5);
     }
 
     .v-line.center {
+      left: calc((100% / 13) * 3.5);
+    }
+
+    .v-line.center2 {
       left: calc((100% / 13) * 6.5);
     }
 
-    .v-line.right {
+    .v-line.center3 {
       left: calc((100% / 13) * 9.5);
+    }
+
+    .v-line.right {
+      left: calc((100% / 13) * 12.5);
     }
 
     .h-line {
@@ -113,37 +120,32 @@
       z-index: 2;
     }
 
-    /* 横線2本を33.33%, 66.66%に引いて12部屋を均等に */
+    /* 横線は12部屋を均等に */
     .h-line.top {
-      top: 33.3333%;
+      top: calc(100% / 3);
     }
 
     .h-line.middle {
-      top: 66.6666%;
+      top: calc((100% / 3) * 2);
     }
 
     .member {
       position: absolute;
-      width: 36px;
-      height: 36px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 36px;
-      font-size: 0.68rem; /* 1~3文字に対応しつつ視認性を維持 */
+      line-height: 32px;
+      font-size: 1rem;
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
       user-select: none;
       z-index: 10;
-      word-break: break-word;
-      padding: 2px 4px; /* 少し内側に余白を入れて文字が切れにくいように */
-      box-sizing: border-box;
       white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 36px;
+      overflow: visible;
     }
 
     .block {
@@ -161,26 +163,27 @@
       user-select: none;
       padding: 0 4px;
       margin-top: -6px;
-      margin-bottom: 8px;
+      margin-bottom: 4px;
+      box-sizing: border-box;
     }
 
     .position-label {
       background-color: black;
       color: yellow;
       font-weight: bold;
-      font-size: 0.75rem;
-      border-radius: 4px;
+      font-size: 0.65rem;
+      padding: 4px 0;
+      border-radius: 3px;
       margin: 0 2px;
-      width: 26px;
-      height: 26px;
+      width: 24px;
       text-align: center;
       box-sizing: border-box;
-      line-height: 26px;
+      line-height: 1;
       display: flex;
       align-items: center;
       justify-content: center;
+      height: 24px;
       user-select: none;
-      flex-shrink: 0;
     }
 
     #controls {
@@ -203,8 +206,7 @@
       font-weight: bold;
       font-size: 0.9rem;
       white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      overflow: visible;
     }
 
     .member-control input {
@@ -231,29 +233,31 @@
     <div id="stage">
       <div class="grid-line v-line left"></div>
       <div class="grid-line v-line center"></div>
+      <div class="grid-line v-line center2"></div>
+      <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
       <div class="h-line top"></div>
       <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label">6</div>
-      <div class="position-label">5</div>
-      <div class="position-label">4</div>
-      <div class="position-label">3</div>
-      <div class="position-label">2</div>
-      <div class="position-label">1</div>
-      <div class="position-label">0</div>
-      <div class="position-label">1</div>
-      <div class="position-label">2</div>
-      <div class="position-label">3</div>
-      <div class="position-label">4</div>
-      <div class="position-label">5</div>
-      <div class="position-label">6</div>
+      <div class="position-label">⬛︎6</div>
+      <div class="position-label">⬛︎5</div>
+      <div class="position-label">⬛︎4</div>
+      <div class="position-label">⬛︎3</div>
+      <div class="position-label">⬛︎2</div>
+      <div class="position-label">⬛︎1</div>
+      <div class="position-label">⬛︎0</div>
+      <div class="position-label">⬛︎1</div>
+      <div class="position-label">⬛︎2</div>
+      <div class="position-label">⬛︎3</div>
+      <div class="position-label">⬛︎4</div>
+      <div class="position-label">⬛︎5</div>
+      <div class="position-label">⬛︎6</div>
     </div>
   </div>
 
   <div id="controls">
-    <!-- メンバーごとのX/Y調整フォームがここに追加される -->
+    <!-- メンバーのX/Y調整フォームをここに追加 -->
   </div>
 
   <div style="text-align: center; margin-top: 20px;">
@@ -266,21 +270,25 @@
 
     function addMember() {
       const nameInput = document.getElementById('member-name');
-      const name = nameInput.value.trim();
-      if (!name) return;
+      const fullName = nameInput.value.trim();
+      if (!fullName) return;
+
+      // 3文字までは省略なし、4文字以上は3文字＋…
+      const displayName = fullName.length > 3 ? fullName.slice(0, 3) + '…' : fullName;
 
       const stage = document.getElementById('stage');
       const memberDiv = document.createElement('div');
       memberDiv.className = 'member';
-      memberDiv.textContent = name;
+      memberDiv.textContent = displayName;
+      memberDiv.title = fullName;
       memberDiv.style.left = '50%';
       memberDiv.style.top = '50%';
       makeDraggable(memberDiv);
       stage.appendChild(memberDiv);
 
-      addControl(name, memberDiv);
+      addControl(fullName, memberDiv);
 
-      members.push({ name, element: memberDiv });
+      members.push({ name: fullName, element: memberDiv });
 
       nameInput.value = '';
     }
@@ -316,6 +324,7 @@
         val = Math.min(100, Math.max(0, val));
         memberDiv.style.left = val + '%';
       });
+
       inputY.addEventListener('input', () => {
         let val = parseFloat(inputY.value);
         if (isNaN(val)) return;
@@ -383,19 +392,26 @@
     function saveImage() {
       const stageWrapper = document.getElementById('stage-wrapper');
       const controls = document.getElementById('controls');
-      const addMemberDiv = document.getElementById('add-member');
 
-      // 編集画面を非表示にして立ち位置番号も含めるため
+      // 編集コントロールを一時非表示
       controls.style.display = 'none';
-      addMemberDiv.style.display = 'none';
 
-      html2canvas(stageWrapper, {
+      // html2canvasキャプチャ時に余白を追加するため
+      const clone = stageWrapper.cloneNode(true);
+      clone.style.paddingLeft = '28px';  // 左余白: 6番の真ん中合わせ分くらい
+      clone.style.paddingRight = '28px'; // 右余白
+
+      document.body.appendChild(clone);
+
+      html2canvas(clone, {
         backgroundColor: null,
         scale: 2,
-        // 余白確保のためにwidth少し広げてキャプチャしてみる場合はオプションここに追加
+        scrollX: 0,
+        scrollY: 0,
       }).then(canvas => {
+        // 終わったらclone削除＆編集表示戻す
+        document.body.removeChild(clone);
         controls.style.display = '';
-        addMemberDiv.style.display = '';
 
         const dataUrl = canvas.toDataURL('image/png');
         const win = window.open();
