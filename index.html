@@ -29,29 +29,27 @@
       align-items: center;
       margin-bottom: 16px;
       width: 100%;
-      max-width: 390px;
     }
 
-    #add-member input {
+    #add-member input,
+    #add-member button {
       width: 90%;
       max-width: 360px;
       padding: 10px;
       font-size: 1rem;
-      border: 1px solid #ccc;
       border-radius: 6px;
       box-sizing: border-box;
+    }
+
+    #add-member input {
+      border: 1px solid #ccc;
       margin-bottom: 8px;
     }
 
     #add-member button {
-      width: 90%;
-      max-width: 360px;
-      padding: 12px;
-      font-size: 1rem;
-      border-radius: 6px;
+      border: none;
       background-color: #007aff;
       color: white;
-      border: none;
       cursor: pointer;
     }
 
@@ -64,7 +62,6 @@
       max-width: 390px;
       margin: 0 auto;
       padding: 10px;
-      padding-bottom: 20px;
       background-color: #f9f9f9;
       border: 1px solid #ccc;
       border-radius: 6px;
@@ -77,46 +74,49 @@
       aspect-ratio: 390 / 220;
       background-color: black;
       border: 2px solid #333;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       z-index: 1;
+      overflow: hidden;
     }
 
     .grid-line {
       position: absolute;
       background-color: white;
-      width: 2px;
-      height: 100%;
-      top: 0;
       z-index: 2;
     }
 
+    .v-line {
+      width: 2px;
+      height: 100%;
+      top: 0;
+    }
+
     .v-line.left {
-      left: calc((100% / 13) * 3.5);
+      left: calc((100% / 13) * 3);
     }
 
     .v-line.center {
-      left: calc((100% / 13) * 6.5);
+      left: calc((100% / 13) * 6);
     }
 
     .v-line.right {
-      left: calc((100% / 13) * 9.5);
+      left: calc((100% / 13) * 9);
     }
 
     .h-line {
       height: 2px;
       width: 100%;
-      left: 0;
       background-color: white;
+      left: 0;
       position: absolute;
-      z-index: 2;
     }
 
     .h-line.top {
-      top: 33.33%;
+      top: 33.3333%;
     }
 
     .h-line.middle {
-      top: 66.66%;
+      top: 66.6666%;
     }
 
     .member {
@@ -136,20 +136,13 @@
       z-index: 10;
     }
 
-    .block {
-      position: absolute;
-      border: 1px solid transparent;
-      box-sizing: border-box;
-      pointer-events: none;
-      z-index: 0;
-    }
-
     #position-numbers {
       display: flex;
       justify-content: space-between;
-      width: 100%;
-      user-select: none;
       padding: 0 4px;
+      margin-top: 4px;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .position-label {
@@ -157,25 +150,19 @@
       color: yellow;
       font-weight: bold;
       font-size: 0.75rem;
-      padding: 6px 8px;
-      border-radius: 3px;
-      margin: 0 2px;
+      padding: 6px 0;
       width: 28px;
+      height: 28px;
       text-align: center;
-      box-sizing: border-box;
+      border-radius: 3px;
       line-height: 1;
       display: flex;
       align-items: center;
       justify-content: center;
-      height: 28px;
     }
 
     #controls {
       margin-top: 20px;
-      max-width: 390px;
-      margin-left: auto;
-      margin-right: auto;
-      user-select: none;
     }
 
     .member-control {
@@ -200,8 +187,8 @@
       border-radius: 6px;
       box-sizing: border-box;
     }
-
-  </style>
+    
+      </style>
 </head>
 <body>
   <header>
@@ -209,187 +196,158 @@
   </header>
 
   <div id="add-member">
-    <input type="text" id="member-name" placeholder="メンバー名を入力" />
-    <button onclick="addMember()">メンバー名を追加</button>
+    <input type="text" id="member-name" placeholder="メンバー名を入力">
+    <button onclick="addMember()">追加</button>
   </div>
 
   <div id="stage-wrapper">
     <div id="stage">
+      <!-- セリの縦線 -->
       <div class="grid-line v-line left"></div>
       <div class="grid-line v-line center"></div>
       <div class="grid-line v-line right"></div>
-      <div class="h-line top"></div>
-      <div class="h-line middle"></div>
+      <!-- セリの横線 -->
+      <div class="grid-line h-line top"></div>
+      <div class="grid-line h-line middle"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label">⬛︎6</div>
-      <div class="position-label">⬛︎5</div>
-      <div class="position-label">⬛︎4</div>
-      <div class="position-label">⬛︎3</div>
-      <div class="position-label">⬛︎2</div>
-      <div class="position-label">⬛︎1</div>
-      <div class="position-label">⬛︎0</div>
-      <div class="position-label">⬛︎1</div>
-      <div class="position-label">⬛︎2</div>
-      <div class="position-label">⬛︎3</div>
-      <div class="position-label">⬛︎4</div>
-      <div class="position-label">⬛︎5</div>
-      <div class="position-label">⬛︎6</div>
+      <div class="position-label">6</div>
+      <div class="position-label">5</div>
+      <div class="position-label">4</div>
+      <div class="position-label">3</div>
+      <div class="position-label">2</div>
+      <div class="position-label">1</div>
+      <div class="position-label">0</div>
+      <div class="position-label">1</div>
+      <div class="position-label">2</div>
+      <div class="position-label">3</div>
+      <div class="position-label">4</div>
+      <div class="position-label">5</div>
+      <div class="position-label">6</div>
     </div>
   </div>
 
-  <div id="controls">
-    <!-- ここにメンバーごとのX/Y調整フォームが追加されます -->
-  </div>
+  <div id="controls"></div>
 
-  <div style="text-align: center; margin-top: 20px;">
-    <button onclick="saveImage()">画像として保存</button>
-  </div>
+  <button style="margin-top:20px;width:100%;" onclick="saveAsImage()">画像として保存</button>
 
   <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
   <script>
-    // メンバー情報格納用配列
-    const members = [];
-
     function addMember() {
-      const nameInput = document.getElementById('member-name');
-      const name = nameInput.value.trim();
+      const name = document.getElementById("member-name").value.trim();
       if (!name) return;
 
-      const stage = document.getElementById('stage');
-      const memberDiv = document.createElement('div');
-      memberDiv.className = 'member';
-      memberDiv.textContent = name;
-      memberDiv.style.left = '50%';
-      memberDiv.style.top = '50%';
-      makeDraggable(memberDiv);
-      stage.appendChild(memberDiv);
+      const stage = document.getElementById("stage");
+      const member = document.createElement("div");
+      member.className = "member";
+      member.textContent = name;
+      member.style.left = "50%";
+      member.style.top = "50%";
 
-      // メンバーごとのコントロール（X,Y入力）を追加
-      addControl(name, memberDiv);
+      member.setAttribute("draggable", "false");
+      stage.appendChild(member);
+      makeDraggable(member);
+      addControl(name, member);
 
-      // メンバー配列に追加
-      members.push({ name, element: memberDiv });
-
-      nameInput.value = '';
+      document.getElementById("member-name").value = "";
     }
 
-    function addControl(name, memberDiv) {
-      const controls = document.getElementById('controls');
+    function makeDraggable(element) {
+      let isDragging = false;
+      let offsetX, offsetY;
 
-      const controlDiv = document.createElement('div');
-      controlDiv.className = 'member-control';
-
-      const nameSpan = document.createElement('span');
-      nameSpan.textContent = name;
-
-      const inputX = document.createElement('input');
-      inputX.type = 'number';
-      inputX.min = 0;
-      inputX.max = 100;
-      inputX.step = 0.1;
-      inputX.value = 50;
-      inputX.title = 'X座標（％）';
-
-      const inputY = document.createElement('input');
-      inputY.type = 'number';
-      inputY.min = 0;
-      inputY.max = 100;
-      inputY.step = 0.1;
-      inputY.value = 50;
-      inputY.title = 'Y座標（％）';
-
-      // 入力欄の変更でメンバー位置を更新
-      inputX.addEventListener('input', () => {
-        let val = parseFloat(inputX.value);
-        if (isNaN(val)) return;
-        val = Math.min(100, Math.max(0, val));
-        memberDiv.style.left = val + '%';
-      });
-      inputY.addEventListener('input', () => {
-        let val = parseFloat(inputY.value);
-        if (isNaN(val)) return;
-        val = Math.min(100, Math.max(0, val));
-        memberDiv.style.top = val + '%';
-      });
-
-      // メンバーのドラッグ時に入力欄も連動更新
-      makeDraggable(memberDiv, inputX, inputY);
-
-      controlDiv.appendChild(nameSpan);
-      controlDiv.appendChild(inputX);
-      controlDiv.appendChild(inputY);
-      controls.appendChild(controlDiv);
-    }
-
-    function makeDraggable(el, inputX, inputY) {
-      let offsetX, offsetY, isDragging = false;
-
-      el.addEventListener('mousedown', startDrag);
-      el.addEventListener('touchstart', startDrag, { passive: false });
+      element.addEventListener("mousedown", startDrag);
+      element.addEventListener("touchstart", startDrag);
 
       function startDrag(e) {
         e.preventDefault();
         isDragging = true;
-        const event = e.type === 'touchstart' ? e.touches[0] : e;
-        offsetX = event.clientX - el.getBoundingClientRect().left;
-        offsetY = event.clientY - el.getBoundingClientRect().top;
-        document.addEventListener('mousemove', drag);
-        document.addEventListener('mouseup', endDrag);
-        document.addEventListener('touchmove', drag, { passive: false });
-        document.addEventListener('touchend', endDrag);
+        const rect = element.getBoundingClientRect();
+        if (e.touches) {
+          offsetX = e.touches[0].clientX - rect.left;
+          offsetY = e.touches[0].clientY - rect.top;
+        } else {
+          offsetX = e.clientX - rect.left;
+          offsetY = e.clientY - rect.top;
+        }
+        document.addEventListener("mousemove", drag);
+        document.addEventListener("mouseup", endDrag);
+        document.addEventListener("touchmove", drag);
+        document.addEventListener("touchend", endDrag);
       }
 
       function drag(e) {
         if (!isDragging) return;
-        const event = e.type === 'touchmove' ? e.touches[0] : e;
-        const stage = document.getElementById('stage');
+        const stage = document.getElementById("stage");
         const rect = stage.getBoundingClientRect();
+        let x, y;
 
-        let x = event.clientX - rect.left - offsetX + el.offsetWidth / 2;
-        let y = event.clientY - rect.top - offsetY + el.offsetHeight / 2;
+        if (e.touches) {
+          x = e.touches[0].clientX - rect.left - offsetX;
+          y = e.touches[0].clientY - rect.top - offsetY;
+        } else {
+          x = e.clientX - rect.left - offsetX;
+          y = e.clientY - rect.top - offsetY;
+        }
 
-        x = Math.max(0, Math.min(stage.offsetWidth, x));
-        y = Math.max(0, Math.min(stage.offsetHeight, y));
+        const centerX = x + element.offsetWidth / 2;
+        const centerY = y + element.offsetHeight / 2;
 
-        const xPercent = (x / stage.offsetWidth) * 100;
-        const yPercent = (y / stage.offsetHeight) * 100;
-
-        el.style.left = `${xPercent}%`;
-        el.style.top = `${yPercent}%`;
-
-        // 入力欄も更新
-        if(inputX) inputX.value = xPercent.toFixed(1);
-        if(inputY) inputY.value = yPercent.toFixed(1);
+        element.style.left = `${(centerX / rect.width) * 100}%`;
+        element.style.top = `${(centerY / rect.height) * 100}%`;
       }
 
       function endDrag() {
         isDragging = false;
-        document.removeEventListener('mousemove', drag);
-        document.removeEventListener('mouseup', endDrag);
-        document.removeEventListener('touchmove', drag);
-        document.removeEventListener('touchend', endDrag);
+        document.removeEventListener("mousemove", drag);
+        document.removeEventListener("mouseup", endDrag);
+        document.removeEventListener("touchmove", drag);
+        document.removeEventListener("touchend", endDrag);
       }
     }
 
-    function saveImage() {
-      const stageWrapper = document.getElementById('stage-wrapper');
-      html2canvas(stageWrapper, {
+    function addControl(name, element) {
+      const controls = document.getElementById("controls");
+      const container = document.createElement("div");
+      container.className = "member-control";
+
+      const label = document.createElement("span");
+      label.textContent = name;
+
+      const inputX = document.createElement("input");
+      inputX.type = "number";
+      inputX.placeholder = "X (%)";
+      inputX.value = parseFloat(element.style.left);
+
+      const inputY = document.createElement("input");
+      inputY.type = "number";
+      inputY.placeholder = "Y (%)";
+      inputY.value = parseFloat(element.style.top);
+
+      inputX.addEventListener("input", () => {
+        element.style.left = `${inputX.value}%`;
+      });
+
+      inputY.addEventListener("input", () => {
+        element.style.top = `${inputY.value}%`;
+      });
+
+      container.appendChild(label);
+      container.appendChild(inputX);
+      container.appendChild(inputY);
+      controls.appendChild(container);
+    }
+
+    function saveAsImage() {
+      const wrapper = document.getElementById("stage-wrapper");
+      html2canvas(wrapper, {
         backgroundColor: null,
         scale: 2
       }).then(canvas => {
-        const dataUrl = canvas.toDataURL('image/png');
-        const win = window.open();
-        if (win) {
-          win.document.write('<title>stage_formation.png</title>');
-          win.document.write(`<img src="${dataUrl}" style="width:100%;">`);
-        } else {
-          alert("画像を表示できませんでした。ポップアップブロックを確認してください。");
-        }
-
-        const link = document.createElement('a');
-        link.download = 'stage_formation.png';
-        link.href = dataUrl;
+        const img = canvas.toDataURL("image/png");
+        const link = document.createElement("a");
+        link.download = "stage_formation.png";
+        link.href = img;
         link.click();
       });
     }
