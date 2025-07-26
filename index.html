@@ -63,7 +63,7 @@
       width: 100%;
       max-width: 390px;
       margin: 0 auto;
-      padding: 10px;
+      padding: 10px 28px; /* 左右余白は6番の真ん中合わせ */
       padding-bottom: 20px;
       background-color: #f9f9f9;
       border: 1px solid #ccc;
@@ -74,10 +74,11 @@
     #stage {
       position: relative;
       width: 100%;
-      aspect-ratio: 370 / 220;
+      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
+      max-width: 334px; /* 線までに収まる幅 */
       background-color: black;
       border: 2px solid #333;
-      margin-bottom: 0;
+      margin: 0 auto 8px;
       z-index: 1;
       overflow: visible;
     }
@@ -88,44 +89,40 @@
       width: 2px;
       height: 100%;
       top: 0;
-      z-index: 2;
+      z-index: 3;
     }
 
-    /* 外枠の縦線が6番の真ん中に */
+    /* 外枠縦線は6番（1番目）と6番（13番目）の真ん中に */
     .v-line.left {
       left: calc((100% / 13) * 0.5);
     }
-
-    .v-line.center {
-      left: calc((100% / 13) * 3.5);
-    }
-
-    .v-line.center2 {
-      left: calc((100% / 13) * 6.5);
-    }
-
-    .v-line.center3 {
-      left: calc((100% / 13) * 9.5);
-    }
-
     .v-line.right {
       left: calc((100% / 13) * 12.5);
     }
 
-    .h-line {
-      height: 2px;
-      width: 100%;
-      left: 0;
-      background-color: white;
-      position: absolute;
-      z-index: 2;
+    /* 中枠縦線は3番（4番目）、0番（7番目）、3番（10番目）の真ん中に */
+    .v-line.center {
+      left: calc((100% / 13) * 3.5);
+    }
+    .v-line.center2 {
+      left: calc((100% / 13) * 6.5);
+    }
+    .v-line.center3 {
+      left: calc((100% / 13) * 9.5);
     }
 
-    /* 横線は12部屋を均等に */
+    .h-line {
+      position: absolute;
+      height: 2px;
+      width: calc(100% / 12 * 9); /* 9区画幅で横線を切る */
+      background-color: white;
+      left: calc((100% / 13) * 0.5); /* 左外枠線真ん中に揃える */
+      z-index: 2;
+    }
+    /* 横線は3区画を均等に2本 */
     .h-line.top {
       top: calc(100% / 3);
     }
-
     .h-line.middle {
       top: calc((100% / 3) * 2);
     }
@@ -139,7 +136,7 @@
       color: black;
       text-align: center;
       line-height: 32px;
-      font-size: 0.8rem;
+      font-size: 7px; /* ここを7pxに統一 */
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
@@ -149,21 +146,14 @@
       overflow: visible;
     }
 
-    .block {
-      position: absolute;
-      border: 1px solid transparent;
-      box-sizing: border-box;
-      pointer-events: none;
-      z-index: 0;
-    }
-
     #position-numbers {
       display: flex;
       justify-content: space-between;
-      width: 370px;
-      user-select: none;
+      width: 100%;
+      max-width: 334px;
+      margin: 0 auto;
       padding: 0 4px;
-      margin: 6px auto 10px auto;
+      user-select: none;
       box-sizing: border-box;
     }
 
@@ -179,7 +169,7 @@
       height: 24px;
       text-align: center;
       box-sizing: border-box;
-      line-height: 24px;
+      line-height: 1;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -240,19 +230,19 @@
       <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label">6</div>
-      <div class="position-label">5</div>
-      <div class="position-label">4</div>
-      <div class="position-label">3</div>
-      <div class="position-label">2</div>
-      <div class="position-label">1</div>
-      <div class="position-label">0</div>
-      <div class="position-label">1</div>
-      <div class="position-label">2</div>
-      <div class="position-label">3</div>
-      <div class="position-label">4</div>
-      <div class="position-label">5</div>
-      <div class="position-label">6</div>
+      <div class="position-label">6️⃣</div>
+      <div class="position-label">5️⃣</div>
+      <div class="position-label">4️⃣</div>
+      <div class="position-label">3️⃣</div>
+      <div class="position-label">2️⃣</div>
+      <div class="position-label">1️⃣</div>
+      <div class="position-label">0️⃣</div>
+      <div class="position-label">1️⃣</div>
+      <div class="position-label">2️⃣</div>
+      <div class="position-label">3️⃣</div>
+      <div class="position-label">4️⃣</div>
+      <div class="position-label">5️⃣</div>
+      <div class="position-label">6️⃣</div>
     </div>
   </div>
 
