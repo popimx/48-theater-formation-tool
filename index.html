@@ -74,26 +74,14 @@
     #stage {
       position: relative;
       width: 100%;
-      aspect-ratio: 390 / 195;
+      aspect-ratio: 390 / 220;
       background-color: black;
       border: 2px solid #333;
-      margin-bottom: 4px;
+      margin-bottom: 20px;
       z-index: 1;
-      display: grid;
-      grid-template-columns: repeat(12, 1fr);
-      grid-template-rows: repeat(3, 1fr);
-      gap: 0;
+      overflow: visible;
     }
 
-    /* 12個の均等ブロックを境界線なしで均等配置 */
-    #stage > .block {
-      border: 1px solid transparent;
-      box-sizing: border-box;
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    /* セリ(縦線)を立ち位置6番の左右境界に表示する */
     .grid-line {
       position: absolute;
       background-color: white;
@@ -103,16 +91,67 @@
       z-index: 2;
     }
 
-    /* 6番の左右境界に縦線 */
+    /* 縦線を立ち位置3番(4番目),0番(7番目),3番(10番目)の中央に正確に配置 */
     .v-line.left {
-      left: calc((100% / 13) * 3 - 1px);
-    }
-    .v-line.right {
-      left: calc((100% / 13) * 4 - 1px);
+      left: calc((100% / 13) * 3.5);
     }
 
     .v-line.center {
-      left: calc((100% / 13) * 7 - 1px);
+      left: calc((100% / 13) * 6.5);
+    }
+
+    .v-line.right {
+      left: calc((100% / 13) * 9.5);
+    }
+
+    .h-line {
+      height: 2px;
+      width: 100%;
+      left: 0;
+      background-color: white;
+      position: absolute;
+      z-index: 2;
+    }
+
+    /* 横線2本を33.33%, 66.66%に引いて12部屋を均等に */
+    .h-line.top {
+      top: 33.3333%;
+    }
+
+    .h-line.middle {
+      top: 66.6666%;
+    }
+
+    .member {
+      position: absolute;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background-color: white;
+      color: black;
+      text-align: center;
+      line-height: 36px;
+      font-size: 0.68rem; /* 1~3文字に対応しつつ視認性を維持 */
+      font-weight: bold;
+      cursor: grab;
+      transform: translate(-50%, -50%);
+      user-select: none;
+      z-index: 10;
+      word-break: break-word;
+      padding: 2px 4px; /* 少し内側に余白を入れて文字が切れにくいように */
+      box-sizing: border-box;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 36px;
+    }
+
+    .block {
+      position: absolute;
+      border: 1px solid transparent;
+      box-sizing: border-box;
+      pointer-events: none;
+      z-index: 0;
     }
 
     #position-numbers {
@@ -120,48 +159,28 @@
       justify-content: space-between;
       width: 100%;
       user-select: none;
-      padding: 0 2px;
-      margin-top: 4px;
+      padding: 0 4px;
+      margin-top: -6px;
+      margin-bottom: 8px;
     }
 
     .position-label {
       background-color: black;
       color: yellow;
       font-weight: bold;
-      font-size: 0.8rem;
-      padding: 4px 0;
-      border-radius: 3px;
-      margin: 0 1px;
-      width: 28px;
-      height: 28px;
+      font-size: 0.75rem;
+      border-radius: 4px;
+      margin: 0 2px;
+      width: 26px;
+      height: 26px;
       text-align: center;
       box-sizing: border-box;
-      line-height: 28px;
+      line-height: 26px;
       display: flex;
       align-items: center;
       justify-content: center;
       user-select: none;
       flex-shrink: 0;
-    }
-
-    .member {
-      position: absolute;
-      width: 32px;
-      height: 32px;
-      border-radius: 50%;
-      background-color: white;
-      color: black;
-      text-align: center;
-      line-height: 32px;
-      font-size: 0.75rem;
-      font-weight: bold;
-      cursor: grab;
-      transform: translate(-50%, -50%);
-      user-select: none;
-      z-index: 10;
-      white-space: nowrap;
-      padding: 0 4px;
-      box-sizing: border-box;
     }
 
     #controls {
@@ -184,6 +203,8 @@
       font-weight: bold;
       font-size: 0.9rem;
       white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .member-control input {
@@ -208,10 +229,11 @@
 
   <div id="stage-wrapper">
     <div id="stage">
-      <!-- セリ用縦線 -->
       <div class="grid-line v-line left"></div>
       <div class="grid-line v-line center"></div>
       <div class="grid-line v-line right"></div>
+      <div class="h-line top"></div>
+      <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
       <div class="position-label">6</div>
@@ -231,7 +253,7 @@
   </div>
 
   <div id="controls">
-    <!-- メンバーごとのX/Y調整フォームがここに追加されます -->
+    <!-- メンバーごとのX/Y調整フォームがここに追加される -->
   </div>
 
   <div style="text-align: center; margin-top: 20px;">
@@ -257,6 +279,7 @@
       stage.appendChild(memberDiv);
 
       addControl(name, memberDiv);
+
       members.push({ name, element: memberDiv });
 
       nameInput.value = '';
@@ -344,8 +367,8 @@
         el.style.left = `${xPercent}%`;
         el.style.top = `${yPercent}%`;
 
-        if(inputX) inputX.value = xPercent.toFixed(1);
-        if(inputY) inputY.value = yPercent.toFixed(1);
+        if (inputX) inputX.value = xPercent.toFixed(1);
+        if (inputY) inputY.value = yPercent.toFixed(1);
       }
 
       function endDrag() {
@@ -360,22 +383,19 @@
     function saveImage() {
       const stageWrapper = document.getElementById('stage-wrapper');
       const controls = document.getElementById('controls');
+      const addMemberDiv = document.getElementById('add-member');
 
-      // 編集パネル非表示
-      if (controls) controls.style.display = 'none';
-
-      // 余白を一時追加
-      const originalPadding = stageWrapper.style.padding;
-      stageWrapper.style.padding = '20px';
+      // 編集画面を非表示にして立ち位置番号も含めるため
+      controls.style.display = 'none';
+      addMemberDiv.style.display = 'none';
 
       html2canvas(stageWrapper, {
         backgroundColor: null,
         scale: 2,
+        // 余白確保のためにwidth少し広げてキャプチャしてみる場合はオプションここに追加
       }).then(canvas => {
-        // 余白戻し
-        stageWrapper.style.padding = originalPadding;
-
-        if (controls) controls.style.display = '';
+        controls.style.display = '';
+        addMemberDiv.style.display = '';
 
         const dataUrl = canvas.toDataURL('image/png');
         const win = window.open();
