@@ -2,245 +2,198 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>劇場公演 フォーメーションツール</title>
   <style>
     body {
       font-family: sans-serif;
-      background: #fff;
       margin: 0;
-      padding: 10px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+      background-color: #fff;
+      color: #000;
     }
-    #container {
-      width: 100%;
+    .container {
       max-width: 390px;
+      margin: 0 auto;
+      padding: 10px;
     }
     .controls {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
       margin-bottom: 10px;
     }
-    .controls input, .controls button {
+    .controls input {
+      width: 100%;
+      margin-bottom: 5px;
       font-size: 16px;
-      padding: 6px;
     }
-    #stage-wrapper {
+    .stage-wrapper {
+      position: relative;
+      background: #ddd;
+      padding: 10px 0 0 0;
+    }
+    .stage {
       position: relative;
       width: 100%;
-      aspect-ratio: 4 / 3;
-      background: black;
-      margin-bottom: 8px;
+      aspect-ratio: 13 / 6;
+      background: #666;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      box-sizing: border-box;
     }
-    #stage {
+    .vertical-line, .horizontal-line {
       position: absolute;
-      width: 100%;
-      height: 100%;
+      background: white;
+      z-index: 0;
     }
-    .position-number {
+    .vertical-line {
+      width: 2px;
+      top: 0;
+      bottom: 0;
+    }
+    .horizontal-line {
+      height: 2px;
+      left: 0;
+      right: 0;
+    }
+    .position-labels {
       display: flex;
       justify-content: space-between;
-      margin-top: 4px;
+      margin-top: 2px;
     }
-    .position-number .pos {
-      background: black;
+    .position-label {
+      background: #000;
       color: yellow;
-      width: 7%;
-      aspect-ratio: 1 / 1;
-      font-size: 12px;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-shrink: 0;
     }
-    .icon {
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      background: pink;
-      color: black;
-      text-align: center;
-      line-height: 40px;
+    .member {
       position: absolute;
-      cursor: grab;
-      user-select: none;
-    }
-    .line {
-      position: absolute;
-      background: white;
-    }
-    .v-line {
-      width: 2px;
-      height: 100%;
-    }
-    .h-line {
-      height: 2px;
-      width: 100%;
-    }
-    .icon input {
-      display: none;
-    }
-    .coord-inputs {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px;
-      font-size: 14px;
-    }
-    .coord-inputs input {
       width: 60px;
-      font-size: 14px;
+      height: 60px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: bold;
+      font-size: 13px;
+      text-align: center;
+      cursor: move;
+      z-index: 2;
+    }
+    .coords {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+    }
+    .hide-during-save {
+      display: block;
+    }
+    .hidden {
+      display: none !important;
     }
   </style>
 </head>
 <body>
-  <div id="container">
-    <div class="controls">
-      <input type="text" id="memberName" placeholder="メンバー名を追加" />
+  <div class="container">
+    <div class="controls hide-during-save">
+      <input type="text" id="memberName" placeholder="メンバー名を追加">
       <button onclick="addMember()">追加</button>
       <button onclick="saveImage()">画像として保存</button>
     </div>
 
-    <div id="stage-wrapper">
-      <div id="stage"></div>
+    <div class="stage-wrapper">
+      <div class="stage" id="stage">
+        <!-- 線は JS で追加 -->
+      </div>
+      <div class="position-labels" id="positionLabels"></div>
     </div>
-    
-    <div class="position-number">
-      <div class="pos">6</div>
-      <div class="pos">5</div>
-      <div class="pos">4</div>
-      <div class="pos">3</div>
-      <div class="pos">2</div>
-      <div class="pos">1</div>
-      <div class="pos">0</div>
-      <div class="pos">1</div>
-      <div class="pos">2</div>
-      <div class="pos">3</div>
-      <div class="pos">4</div>
-      <div class="pos">5</div>
-      <div class="pos">6</div>
-    </div>
-
-    <div id="inputs"></div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
   <script>
     const stage = document.getElementById('stage');
-    const inputs = document.getElementById('inputs');
+    const labelsContainer = document.getElementById('positionLabels');
+    const labelValues = ["6", "5", "4", "3", "2", "1", "0", "1", "2", "3", "4", "5", "6"];
+    labelsContainer.innerHTML = '';
+    labelValues.forEach(val => {
+      const div = document.createElement('div');
+      div.className = 'position-label';
+      div.textContent = val;
+      labelsContainer.appendChild(div);
+    });
 
-    // セリ線（3・0・3）と横線（2本）
-    function drawLines() {
-      const stageWidth = stage.offsetWidth;
-      const stageHeight = stage.offsetHeight;
-
-      const left3 = stageWidth / 13 * 3 + stageWidth / 13 / 2;
-      const zero = stageWidth / 2;
-      const right3 = stageWidth / 13 * 9 + stageWidth / 13 / 2;
-
-      [left3, zero, right3].forEach(x => {
-        const vLine = document.createElement('div');
-        vLine.className = 'line v-line';
-        vLine.style.left = `${x}px`;
-        stage.appendChild(vLine);
+    // セリの縦線（3番・0番・3番）
+    const addVerticalLines = () => {
+      const stageWidth = stage.clientWidth;
+      const positions = [3, 6, 9]; // index in labelValues (left 3, 0, right 3)
+      positions.forEach(idx => {
+        const left = stageWidth * (idx / 13);
+        const line = document.createElement('div');
+        line.className = 'vertical-line';
+        line.style.left = `${left}px`;
+        stage.appendChild(line);
       });
+    };
 
-      const h1 = document.createElement('div');
-      h1.className = 'line h-line';
-      h1.style.top = `${stageHeight / 3}px`;
-      stage.appendChild(h1);
+    // セリの横線（12区画）
+    const addHorizontalLines = () => {
+      const stageHeight = stage.clientHeight;
+      [1, 2].forEach(i => {
+        const top = stageHeight * (i / 3);
+        const line = document.createElement('div');
+        line.className = 'horizontal-line';
+        line.style.top = `${top}px`;
+        stage.appendChild(line);
+      });
+    };
 
-      const h2 = document.createElement('div');
-      h2.className = 'line h-line';
-      h2.style.top = `${stageHeight / 3 * 2}px`;
-      stage.appendChild(h2);
-    }
-
-    drawLines();
+    addVerticalLines();
+    addHorizontalLines();
 
     function addMember() {
       const name = document.getElementById('memberName').value.trim();
       if (!name) return;
-
-      const icon = document.createElement('div');
-      icon.className = 'icon';
-      icon.textContent = name;
-      icon.style.left = '10px';
-      icon.style.top = '10px';
-
-      let offsetX, offsetY;
-
-      icon.addEventListener('mousedown', startDrag);
-      icon.addEventListener('touchstart', startDrag, { passive: false });
-
-      function startDrag(e) {
-        e.preventDefault();
-        const rect = stage.getBoundingClientRect();
-        const startX = (e.touches ? e.touches[0].clientX : e.clientX);
-        const startY = (e.touches ? e.touches[0].clientY : e.clientY);
-        offsetX = startX - icon.offsetLeft - rect.left;
-        offsetY = startY - icon.offsetTop - rect.top;
-
-        document.addEventListener('mousemove', onDrag);
-        document.addEventListener('touchmove', onDrag, { passive: false });
-        document.addEventListener('mouseup', stopDrag);
-        document.addEventListener('touchend', stopDrag);
-      }
-
-      function onDrag(e) {
-        e.preventDefault();
-        const rect = stage.getBoundingClientRect();
-        const x = (e.touches ? e.touches[0].clientX : e.clientX) - rect.left - offsetX;
-        const y = (e.touches ? e.touches[0].clientY : e.clientY) - rect.top - offsetY;
-        icon.style.left = `${x}px`;
-        icon.style.top = `${y}px`;
-        xInput.value = Math.round(x);
-        yInput.value = Math.round(y);
-      }
-
-      function stopDrag() {
-        document.removeEventListener('mousemove', onDrag);
-        document.removeEventListener('touchmove', onDrag);
-        document.removeEventListener('mouseup', stopDrag);
-        document.removeEventListener('touchend', stopDrag);
-      }
-
-      const xInput = document.createElement('input');
-      xInput.type = 'number';
-      xInput.value = 10;
-      xInput.oninput = () => icon.style.left = `${xInput.value}px`;
-
-      const yInput = document.createElement('input');
-      yInput.type = 'number';
-      yInput.value = 10;
-      yInput.oninput = () => icon.style.top = `${yInput.value}px`;
-
-      const wrapper = document.createElement('div');
-      wrapper.className = 'coord-inputs';
-      wrapper.innerHTML = `<strong>${name}</strong><br>`;
-      wrapper.appendChild(xInput);
-      wrapper.appendChild(yInput);
-
-      stage.appendChild(icon);
-      inputs.appendChild(wrapper);
-
+      const div = document.createElement('div');
+      div.className = 'member';
+      div.textContent = name;
+      div.style.left = '10px';
+      div.style.top = '10px';
+      makeDraggable(div);
+      stage.appendChild(div);
       document.getElementById('memberName').value = '';
     }
 
+    function makeDraggable(el) {
+      let offsetX = 0, offsetY = 0;
+      el.onmousedown = function(e) {
+        offsetX = e.clientX - el.offsetLeft;
+        offsetY = e.clientY - el.offsetTop;
+        document.onmousemove = function(e) {
+          const x = e.clientX - offsetX;
+          const y = e.clientY - offsetY;
+          el.style.left = `${x}px`;
+          el.style.top = `${y}px`;
+        };
+        document.onmouseup = function() {
+          document.onmousemove = null;
+          document.onmouseup = null;
+        };
+      };
+    }
+
     function saveImage() {
-      html2canvas(document.getElementById('stage-wrapper')).then(canvas => {
-        const imgData = canvas.toDataURL('image/png');
+      document.querySelectorAll('.hide-during-save').forEach(e => e.classList.add('hidden'));
+      html2canvas(document.querySelector('.stage-wrapper')).then(canvas => {
         const link = document.createElement('a');
         link.download = 'stage_formation.png';
-        link.href = imgData;
+        link.href = canvas.toDataURL();
         link.click();
-
-        // 表示する場合
-        const img = new Image();
-        img.src = imgData;
-        img.style.maxWidth = '100%';
-        document.body.appendChild(img);
+        document.querySelectorAll('.hide-during-save').forEach(e => e.classList.remove('hidden'));
       });
     }
   </script>
