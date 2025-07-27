@@ -79,7 +79,7 @@
       border: 2px solid white; /* 大外枠は白線 */
       margin: 0 auto 8px;
       z-index: 1;
-      overflow: visible;
+      overflow: hidden; /* はみ出し白線を隠す */
     }
 
     /* 縦線（白） */
@@ -93,31 +93,32 @@
     }
 
     /* 大外枠の縦線（6番の真ん中）左右1本ずつ */
+    /* 線の幅2pxの中央がここにくるため、0.5px内側にずらす */
     .v-line.left {
-      left: 12.85px; /* 0.5区画 * 25.69px */
+      left: 1px; /* 0pxより1px内側にずらす */
     }
     .v-line.right {
-      left: 321.13px; /* 12.5区画 * 25.69px */
+      left: calc(100% - 3px); /* 端から1px内側、かつ線幅考慮して3pxに調整 */
     }
 
     /* 中の縦線3本（立ち位置3番4番目、0番7番目、3番10番目の真ん中） */
     .v-line.center {
-      left: 89.91px; /* 3.5区画 * 25.69px */
+      left: calc((100% / 13) * 3.5);
     }
     .v-line.center2 {
-      left: 166.99px; /* 6.5区画 * 25.69px */
+      left: calc((100% / 13) * 6.5);
     }
     .v-line.center3 {
-      left: 243.97px; /* 9.5区画 * 25.69px */
+      left: calc((100% / 13) * 9.5);
     }
 
     /* 横線（白） */
     .h-line {
       position: absolute;
       height: 2px;
-      width: 308.28px; /* 12区画 * 25.69px */
+      width: 100%;
       background-color: white;
-      left: 12.85px; /* 大外枠左端に合わせる */
+      left: 0;
       z-index: 2;
     }
     /* 3区画ごとに中の横線2本 */
