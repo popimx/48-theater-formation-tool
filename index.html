@@ -94,30 +94,30 @@
 
     /* 大外枠の縦線（6番の真ん中）左右1本ずつ */
     .v-line.left {
-      left: calc((100% / 13) * 0.5);
+      left: 12.85px; /* 0.5区画 * 25.69px */
     }
     .v-line.right {
-      left: calc((100% / 13) * 12.5);
+      left: 321.13px; /* 12.5区画 * 25.69px */
     }
 
     /* 中の縦線3本（立ち位置3番4番目、0番7番目、3番10番目の真ん中） */
     .v-line.center {
-      left: calc((100% / 13) * 3.5);
+      left: 89.91px; /* 3.5区画 * 25.69px */
     }
     .v-line.center2 {
-      left: calc((100% / 13) * 6.5);
+      left: 166.99px; /* 6.5区画 * 25.69px */
     }
     .v-line.center3 {
-      left: calc((100% / 13) * 9.5);
+      left: 243.97px; /* 9.5区画 * 25.69px */
     }
 
     /* 横線（白） */
     .h-line {
       position: absolute;
       height: 2px;
-      width: calc((100% / 13) * 12);
+      width: 308.28px; /* 12区画 * 25.69px */
       background-color: white;
-      left: calc((100% / 13) * 0.5);
+      left: 12.85px; /* 大外枠左端に合わせる */
       z-index: 2;
     }
     /* 3区画ごとに中の横線2本 */
