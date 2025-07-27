@@ -74,10 +74,9 @@
     #stage {
       position: relative;
       width: 100%;
-      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
       max-width: 308.65px; /* ステージ幅固定 */
+      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
       background-color: black;
-      border: 2px solid #999; /* 外枠グレーを白線に変えた */
       margin: 0 auto 8px;
       z-index: 1;
       overflow: visible;
@@ -85,14 +84,14 @@
 
     .grid-line {
       position: absolute;
-      background-color: white;
+      background-color: white; /* 白線に変更 */
       width: 2px;
       height: 100%;
       top: 0;
       z-index: 3;
     }
 
-    /* 大外枠の白い縦線（6番 1番目と13番目の真ん中） */
+    /* 大外枠縦線：6番（1番目）と6番（13番目）の真ん中に */
     .v-line.left {
       left: calc((100% / 13) * 0.5);
     }
@@ -100,7 +99,7 @@
       left: calc((100% / 13) * 12.5);
     }
 
-    /* 中枠縦線は3番（4番目）、0番（7番目）、3番（10番目）の真ん中に */
+    /* 中枠縦線：3番（4番目）、0番（7番目）、3番（10番目）の真ん中に */
     .v-line.center {
       left: calc((100% / 13) * 3.5);
     }
@@ -114,35 +113,30 @@
     .h-line {
       position: absolute;
       height: 2px;
-      width: calc((100% / 13) * 12); /* 横線は大外枠の内側いっぱいまで */
-      background-color: white;
-      left: calc((100% / 13) * 0.5); /* 左大外枠線真ん中に揃える */
+      width: calc((100% / 13) * 12); /* 横線は大外枠の内側いっぱいまで伸ばす */
+      background-color: white; /* 白線 */
+      left: calc((100% / 13) * 0.5); /* 左大外枠縦線の真ん中に揃える */
       z-index: 2;
     }
-    /* 横線を4本追加し12区画に分割 */
+
+    /* 横線は12区画を3分割の縦3区画に合わせ2本 */
     .h-line.top {
-      top: calc(100% / 6);
+      top: calc(100% / 3);
     }
-    .h-line.middle-top {
-      top: calc((100% / 3));
-    }
-    .h-line.middle-bottom {
+    .h-line.middle {
       top: calc((100% / 3) * 2);
-    }
-    .h-line.bottom {
-      top: calc((100% / 6) * 5);
     }
 
     .member {
       position: absolute;
-      width: 24px;         /* アイコンサイズを24pxに縮小 */
-      height: 24px;        /* 同じく24px */
+      width: 24px;         
+      height: 24px;        
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 24px;   /* 高さに合わせる */
-      font-size: 7px;      /* 文字サイズを7pxに */
+      line-height: 24px;   
+      font-size: 7px;    
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
@@ -233,9 +227,7 @@
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
       <div class="h-line top"></div>
-      <div class="h-line middle-top"></div>
-      <div class="h-line middle-bottom"></div>
-      <div class="h-line bottom"></div>
+      <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
       <div class="position-label">6</div>
@@ -403,7 +395,7 @@
 
       html2canvas(clone, {
         backgroundColor: null,
-        scale: 3,
+        scale: 3,  // scaleを2から3に変更
         scrollX: 0,
         scrollY: 0,
       }).then(canvas => {
