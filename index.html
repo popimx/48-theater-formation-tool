@@ -10,7 +10,7 @@
         Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
       margin: 0;
       padding: 20px;
-      background-color: #f9f9f9;
+      background-color: #f8f8f8;
       color: #222;
       max-width: 390px;
       margin-left: auto;
@@ -65,7 +65,7 @@
       margin: 0 auto;
       padding: 10px 28px; /* 左右余白は6番の真ん中合わせ */
       padding-bottom: 20px;
-      background-color: #f9f9f9;
+      background-color: #f8f8f8;
       border: 1px solid #ccc;
       border-radius: 6px;
       user-select: none;
@@ -73,9 +73,8 @@
 
     #stage {
       position: relative;
-      width: 100%;
-      max-width: 308.65px; /* ステージ幅固定 */
-      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
+      width: 308.65px;
+      height: 308.65px;
       background-color: black;
       margin: 0 auto 8px;
       z-index: 1;
@@ -84,59 +83,77 @@
 
     .grid-line {
       position: absolute;
-      background-color: white; /* 白線に変更 */
-      width: 2px;
-      height: 100%;
-      top: 0;
+      background-color: white;
       z-index: 3;
     }
 
-    /* 大外枠縦線：6番（1番目）と6番（13番目）の真ん中に */
+    /* 大外枠（左右の縦線） */
     .v-line.left {
-      left: calc((100% / 13) * 0.5);
+      left: 0;
+      width: 2px;
+      top: 0;
+      height: 100%;
     }
     .v-line.right {
-      left: calc((100% / 13) * 12.5);
+      right: 0;
+      width: 2px;
+      top: 0;
+      height: 100%;
     }
 
-    /* 中枠縦線：3番（4番目）、0番（7番目）、3番（10番目）の真ん中に */
+    /* セリにあたる中の縦線3本（4番目、7番目、10番目の真ん中） */
     .v-line.center {
-      left: calc((100% / 13) * 3.5);
+      left: calc(100% / 12 * 3);
+      width: 2px;
+      top: 0;
+      height: 100%;
     }
     .v-line.center2 {
-      left: calc((100% / 13) * 6.5);
+      left: calc(100% / 12 * 6);
+      width: 2px;
+      top: 0;
+      height: 100%;
     }
     .v-line.center3 {
-      left: calc((100% / 13) * 9.5);
+      left: calc(100% / 12 * 9);
+      width: 2px;
+      top: 0;
+      height: 100%;
     }
 
+    /* 横線（上、中1、中2、下）12区画に分割 */
     .h-line {
       position: absolute;
       height: 2px;
-      width: calc((100% / 13) * 12); /* 横線は大外枠の内側いっぱいまで伸ばす */
-      background-color: white; /* 白線 */
-      left: calc((100% / 13) * 0.5); /* 左大外枠縦線の真ん中に揃える */
+      background-color: white;
+      left: 0;
+      width: 100%;
       z-index: 2;
     }
-
-    /* 横線は12区画を3分割の縦3区画に合わせ2本 */
     .h-line.top {
       top: calc(100% / 3);
     }
-    .h-line.middle {
-      top: calc((100% / 3) * 2);
+    .h-line.middle1 {
+      top: calc(100% / 3 * 1.6667);
+    }
+    .h-line.middle2 {
+      top: calc(100% / 3 * 2.3333);
+    }
+    .h-line.bottom {
+      top: 100%;
+      transform: translateY(-2px);
     }
 
     .member {
       position: absolute;
-      width: 24px;         
-      height: 24px;        
+      width: 24px;
+      height: 24px;
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 24px;   
-      font-size: 7px;    
+      line-height: 24px;
+      font-size: 7px;
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
@@ -150,7 +167,7 @@
       display: flex;
       justify-content: space-between;
       width: 100%;
-      max-width: 308.65px;
+      max-width: 334px;
       margin: 0 auto;
       padding: 0 4px;
       user-select: none;
@@ -161,15 +178,15 @@
       background-color: black;
       color: yellow;
       font-weight: bold;
-      font-size: 0.65rem;
-      padding: 4px 0;
+      font-size: 7px;
+      padding: 0;
       border-radius: 3px;
-      margin: 0 2px;
-      width: 24px;
-      height: 24px;
+      margin: 0 0;
+      width: 20px;
+      height: 20px;
       text-align: center;
       box-sizing: border-box;
-      line-height: 1;
+      line-height: 20px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -227,7 +244,9 @@
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
       <div class="h-line top"></div>
-      <div class="h-line middle"></div>
+      <div class="h-line middle1"></div>
+      <div class="h-line middle2"></div>
+      <div class="h-line bottom"></div>
     </div>
     <div id="position-numbers">
       <div class="position-label">6</div>
@@ -395,7 +414,7 @@
 
       html2canvas(clone, {
         backgroundColor: null,
-        scale: 3,  // scaleを2から3に変更
+        scale: 3,
         scrollX: 0,
         scrollY: 0,
       }).then(canvas => {
@@ -419,5 +438,4 @@
       });
     }
   </script>
-</body>
-</html>
+</body
