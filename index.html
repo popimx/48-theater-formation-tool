@@ -75,14 +75,15 @@
       position: relative;
       width: 100%;
       aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
-      max-width: 334px; /* 線までに収まる幅 */
-      background-color: black;
+      max-width: 334px; /* ステージの最大幅 */
+      background-color: black; /* ステージ部分は黒背景 */
       border: 2px solid white; /* 大外枠は白線 */
       margin: 0 auto 8px;
       z-index: 1;
       overflow: visible;
     }
 
+    /* 縦線（白） */
     .grid-line {
       position: absolute;
       background-color: white;
@@ -92,7 +93,7 @@
       z-index: 3;
     }
 
-    /* 大外枠の縦線は6番（1番目）と6番（13番目）の真ん中に */
+    /* 大外枠の縦線（6番の真ん中）左右1本ずつ */
     .v-line.left {
       left: calc((100% / 13) * 0.5);
     }
@@ -100,7 +101,7 @@
       left: calc((100% / 13) * 12.5);
     }
 
-    /* 中枠縦線は3番（4番目）、0番（7番目）、3番（10番目）の真ん中に */
+    /* 中の縦線3本（立ち位置3番4番目、0番7番目、3番10番目の真ん中） */
     .v-line.center {
       left: calc((100% / 13) * 3.5);
     }
@@ -111,7 +112,7 @@
       left: calc((100% / 13) * 9.5);
     }
 
-    /* 中の横線は3区画ごとに2本引く */
+    /* 横線（白） */
     .h-line {
       position: absolute;
       height: 2px;
@@ -120,6 +121,7 @@
       left: calc((100% / 13) * 0.5);
       z-index: 2;
     }
+    /* 3区画ごとに中の横線2本 */
     .h-line.top {
       top: calc(100% / 3);
     }
@@ -127,9 +129,10 @@
       top: calc((100% / 3) * 2);
     }
 
+    /* メンバーアイコン */
     .member {
       position: absolute;
-      width: 24px;       /* 少し小さめ */
+      width: 24px;       /* アイコンサイズ24px */
       height: 24px;
       border-radius: 50%;
       background-color: white;
@@ -146,6 +149,7 @@
       overflow: visible;
     }
 
+    /* 立ち位置番号部分 */
     #position-numbers {
       display: flex;
       justify-content: space-between;
@@ -165,7 +169,7 @@
       padding: 4px 0;
       border-radius: 3px;
       margin: 0 2px;
-      width: 18px;   /* 正方形に近づける */
+      width: 18px;   /* 正方形に近い18×18px */
       height: 18px;
       text-align: center;
       box-sizing: border-box;
@@ -176,6 +180,7 @@
       user-select: none;
     }
 
+    /* メンバー調整フォーム */
     #controls {
       margin-top: 20px;
       max-width: 390px;
