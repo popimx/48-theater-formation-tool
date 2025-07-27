@@ -73,10 +73,11 @@
 
     #stage {
       position: relative;
-      width: 308.65px;  /* 固定幅 */
-      height: calc(308.65px / 12 * 3); /* 横12区画×縦3区画の比率 */
+      width: 100%;
+      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
+      max-width: 308.65px; /* ステージ幅固定 */
       background-color: black;
-      border: 2px solid #333;
+      border: 2px solid #999; /* 外枠グレーを白線に変えた */
       margin: 0 auto 8px;
       z-index: 1;
       overflow: visible;
@@ -91,7 +92,7 @@
       z-index: 3;
     }
 
-    /* 外枠縦線は6番（1番目）と6番（13番目）の真ん中に */
+    /* 大外枠の白い縦線（6番 1番目と13番目の真ん中） */
     .v-line.left {
       left: calc((100% / 13) * 0.5);
     }
@@ -113,46 +114,35 @@
     .h-line {
       position: absolute;
       height: 2px;
-      width: calc((100% / 13) * 12); /* 横線は外枠の内側いっぱいまで伸ばす */
+      width: calc((100% / 13) * 12); /* 横線は大外枠の内側いっぱいまで */
       background-color: white;
-      left: calc((100% / 13) * 0.5); /* 左外枠線真ん中に揃える */
+      left: calc((100% / 13) * 0.5); /* 左大外枠線真ん中に揃える */
       z-index: 2;
     }
-    /* 中の横線は3区画を均等に2本 */
+    /* 横線を4本追加し12区画に分割 */
     .h-line.top {
-      top: calc(100% / 3);
+      top: calc(100% / 6);
     }
-    .h-line.middle {
+    .h-line.middle-top {
+      top: calc((100% / 3));
+    }
+    .h-line.middle-bottom {
       top: calc((100% / 3) * 2);
     }
-
-    /* 大外枠の横線（上下）を追加 */
-    .h-line.outer-top,
-    .h-line.outer-bottom {
-      position: absolute;
-      height: 2px;
-      width: calc((100% / 13) * 12);
-      background-color: white;  /* 大外枠の横線は白 */
-      left: calc((100% / 13) * 0.5);
-      z-index: 4;
-    }
-    .h-line.outer-top {
-      top: 0;
-    }
-    .h-line.outer-bottom {
-      bottom: 0;
+    .h-line.bottom {
+      top: calc((100% / 6) * 5);
     }
 
     .member {
       position: absolute;
-      width: 26px;
-      height: 26px;
+      width: 24px;         /* アイコンサイズを24pxに縮小 */
+      height: 24px;        /* 同じく24px */
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 26px;
-      font-size: 7.5px;
+      line-height: 24px;   /* 高さに合わせる */
+      font-size: 7px;      /* 文字サイズを7pxに */
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
@@ -166,7 +156,7 @@
       display: flex;
       justify-content: space-between;
       width: 100%;
-      max-width: 334px;
+      max-width: 308.65px;
       margin: 0 auto;
       padding: 0 4px;
       user-select: none;
@@ -242,10 +232,10 @@
       <div class="grid-line v-line center2"></div>
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
-      <div class="h-line outer-top"></div>
       <div class="h-line top"></div>
-      <div class="h-line middle"></div>
-      <div class="h-line outer-bottom"></div>
+      <div class="h-line middle-top"></div>
+      <div class="h-line middle-bottom"></div>
+      <div class="h-line bottom"></div>
     </div>
     <div id="position-numbers">
       <div class="position-label">6</div>
@@ -417,6 +407,7 @@
         scrollX: 0,
         scrollY: 0,
       }).then(canvas => {
+        // 終わったらclone削除＆編集表示戻す
         document.body.removeChild(clone);
         controls.style.display = '';
 
