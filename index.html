@@ -73,9 +73,8 @@
 
     #stage {
       position: relative;
-      width: 100%;
-      aspect-ratio: calc(12 / 3); /* 横12区画×縦3区画 */
-      max-width: 334px; /* 線までに収まる幅 */
+      width: 308.65px;  /* 固定幅 */
+      height: calc(308.65px / 12 * 3); /* 横12区画×縦3区画の比率 */
       background-color: black;
       border: 2px solid #333;
       margin: 0 auto 8px;
@@ -119,7 +118,7 @@
       left: calc((100% / 13) * 0.5); /* 左外枠線真ん中に揃える */
       z-index: 2;
     }
-    /* 横線は3区画を均等に2本 */
+    /* 中の横線は3区画を均等に2本 */
     .h-line.top {
       top: calc(100% / 3);
     }
@@ -127,16 +126,33 @@
       top: calc((100% / 3) * 2);
     }
 
+    /* 大外枠の横線（上下）を追加 */
+    .h-line.outer-top,
+    .h-line.outer-bottom {
+      position: absolute;
+      height: 2px;
+      width: calc((100% / 13) * 12);
+      background-color: white;  /* 大外枠の横線は白 */
+      left: calc((100% / 13) * 0.5);
+      z-index: 4;
+    }
+    .h-line.outer-top {
+      top: 0;
+    }
+    .h-line.outer-bottom {
+      bottom: 0;
+    }
+
     .member {
       position: absolute;
-      width: 26px;         /* 32px → 26pxに縮小 */
-      height: 26px;        /* 同じく26px */
+      width: 26px;
+      height: 26px;
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 26px;   /* 高さに合わせる */
-      font-size: 7.5px;    /* 文字サイズは維持 */
+      line-height: 26px;
+      font-size: 7.5px;
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
@@ -147,24 +163,24 @@
     }
 
     #position-numbers {
-      position: relative;
+      display: flex;
+      justify-content: space-between;
       width: 100%;
       max-width: 334px;
       margin: 0 auto;
-      height: 24px; /* 位置調整のため高さを明示 */
+      padding: 0 4px;
       user-select: none;
       box-sizing: border-box;
     }
 
     .position-label {
-      position: absolute;
-      top: 0;
       background-color: black;
       color: yellow;
       font-weight: bold;
       font-size: 0.65rem;
       padding: 4px 0;
       border-radius: 3px;
+      margin: 0 2px;
       width: 24px;
       height: 24px;
       text-align: center;
@@ -174,26 +190,7 @@
       align-items: center;
       justify-content: center;
       user-select: none;
-      margin: 0;
     }
-    /* 左外枠6番 */
-    .pos1 { left: calc((100% / 13) * 0.5 - 12px); } /* -12pxは幅半分で中央寄せ */
-    .pos2 { left: calc((100% / 13) * 1.5 - 12px); }
-    .pos3 { left: calc((100% / 13) * 2.5 - 12px); }
-    /* 中枠縦線3番(4番目) */
-    .pos4 { left: calc((100% / 13) * 3.5 - 12px); }
-    .pos5 { left: calc((100% / 13) * 4.5 - 12px); }
-    .pos6 { left: calc((100% / 13) * 5.5 - 12px); }
-    /* 中枠縦線0番(7番目) */
-    .pos7 { left: calc((100% / 13) * 6.5 - 12px); }
-    .pos8 { left: calc((100% / 13) * 7.5 - 12px); }
-    .pos9 { left: calc((100% / 13) * 8.5 - 12px); }
-    /* 中枠縦線3番(10番目) */
-    .pos10 { left: calc((100% / 13) * 9.5 - 12px); }
-    .pos11 { left: calc((100% / 13) * 10.5 - 12px); }
-    .pos12 { left: calc((100% / 13) * 11.5 - 12px); }
-    /* 右外枠6番 */
-    .pos13 { left: calc((100% / 13) * 12.5 - 12px); }
 
     #controls {
       margin-top: 20px;
@@ -245,23 +242,25 @@
       <div class="grid-line v-line center2"></div>
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
+      <div class="h-line outer-top"></div>
       <div class="h-line top"></div>
       <div class="h-line middle"></div>
+      <div class="h-line outer-bottom"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label pos1">6</div>
-      <div class="position-label pos2">5</div>
-      <div class="position-label pos3">4</div>
-      <div class="position-label pos4">3</div>
-      <div class="position-label pos5">2</div>
-      <div class="position-label pos6">1</div>
-      <div class="position-label pos7">0</div>
-      <div class="position-label pos8">1</div>
-      <div class="position-label pos9">2</div>
-      <div class="position-label pos10">3</div>
-      <div class="position-label pos11">4</div>
-      <div class="position-label pos12">5</div>
-      <div class="position-label pos13">6</div>
+      <div class="position-label">6</div>
+      <div class="position-label">5</div>
+      <div class="position-label">4</div>
+      <div class="position-label">3</div>
+      <div class="position-label">2</div>
+      <div class="position-label">1</div>
+      <div class="position-label">0</div>
+      <div class="position-label">1</div>
+      <div class="position-label">2</div>
+      <div class="position-label">3</div>
+      <div class="position-label">4</div>
+      <div class="position-label">5</div>
+      <div class="position-label">6</div>
     </div>
   </div>
 
@@ -414,11 +413,10 @@
 
       html2canvas(clone, {
         backgroundColor: null,
-        scale: 3,  // scaleを2から3に変更
+        scale: 3,
         scrollX: 0,
         scrollY: 0,
       }).then(canvas => {
-        // 終わったらclone削除＆編集表示戻す
         document.body.removeChild(clone);
         controls.style.display = '';
 
