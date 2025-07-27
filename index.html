@@ -147,24 +147,24 @@
     }
 
     #position-numbers {
-      display: flex;
-      justify-content: space-between;
+      position: relative;
       width: 100%;
       max-width: 334px;
       margin: 0 auto;
-      padding: 0 4px;
+      height: 24px; /* 位置調整のため高さを明示 */
       user-select: none;
       box-sizing: border-box;
     }
 
     .position-label {
+      position: absolute;
+      top: 0;
       background-color: black;
       color: yellow;
       font-weight: bold;
       font-size: 0.65rem;
       padding: 4px 0;
       border-radius: 3px;
-      margin: 0 2px;
       width: 24px;
       height: 24px;
       text-align: center;
@@ -174,7 +174,26 @@
       align-items: center;
       justify-content: center;
       user-select: none;
+      margin: 0;
     }
+    /* 左外枠6番 */
+    .pos1 { left: calc((100% / 13) * 0.5 - 12px); } /* -12pxは幅半分で中央寄せ */
+    .pos2 { left: calc((100% / 13) * 1.5 - 12px); }
+    .pos3 { left: calc((100% / 13) * 2.5 - 12px); }
+    /* 中枠縦線3番(4番目) */
+    .pos4 { left: calc((100% / 13) * 3.5 - 12px); }
+    .pos5 { left: calc((100% / 13) * 4.5 - 12px); }
+    .pos6 { left: calc((100% / 13) * 5.5 - 12px); }
+    /* 中枠縦線0番(7番目) */
+    .pos7 { left: calc((100% / 13) * 6.5 - 12px); }
+    .pos8 { left: calc((100% / 13) * 7.5 - 12px); }
+    .pos9 { left: calc((100% / 13) * 8.5 - 12px); }
+    /* 中枠縦線3番(10番目) */
+    .pos10 { left: calc((100% / 13) * 9.5 - 12px); }
+    .pos11 { left: calc((100% / 13) * 10.5 - 12px); }
+    .pos12 { left: calc((100% / 13) * 11.5 - 12px); }
+    /* 右外枠6番 */
+    .pos13 { left: calc((100% / 13) * 12.5 - 12px); }
 
     #controls {
       margin-top: 20px;
@@ -230,19 +249,19 @@
       <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
-      <div class="position-label">6</div>
-      <div class="position-label">5</div>
-      <div class="position-label">4</div>
-      <div class="position-label">3</div>
-      <div class="position-label">2</div>
-      <div class="position-label">1</div>
-      <div class="position-label">0</div>
-      <div class="position-label">1</div>
-      <div class="position-label">2</div>
-      <div class="position-label">3</div>
-      <div class="position-label">4</div>
-      <div class="position-label">5</div>
-      <div class="position-label">6</div>
+      <div class="position-label pos1">6</div>
+      <div class="position-label pos2">5</div>
+      <div class="position-label pos3">4</div>
+      <div class="position-label pos4">3</div>
+      <div class="position-label pos5">2</div>
+      <div class="position-label pos6">1</div>
+      <div class="position-label pos7">0</div>
+      <div class="position-label pos8">1</div>
+      <div class="position-label pos9">2</div>
+      <div class="position-label pos10">3</div>
+      <div class="position-label pos11">4</div>
+      <div class="position-label pos12">5</div>
+      <div class="position-label pos13">6</div>
     </div>
   </div>
 
