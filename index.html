@@ -114,46 +114,34 @@
     .h-line {
       position: absolute;
       height: 2px;
+      width: calc((100% / 13) * 12); /* 横線は外枠の内側いっぱいまで伸ばす */
       background-color: white;
       left: calc((100% / 13) * 0.5); /* 左外枠線真ん中に揃える */
       z-index: 2;
     }
-    /* 横線は3区画を均等に2本＋上下の外枠横線 */
+    /* 横線は3区画を均等に2本 */
     .h-line.top {
-      width: calc((100% / 13) * 12); /* ステージ幅いっぱい */
-      top: 0;
-    }
-    .h-line.upper-middle {
-      width: calc((100% / 13) * 9); /* 9区画幅 */
       top: calc(100% / 3);
-      left: calc((100% / 13) * 0.5);
     }
-    .h-line.lower-middle {
-      width: calc((100% / 13) * 9); /* 9区画幅 */
+    .h-line.middle {
       top: calc((100% / 3) * 2);
-      left: calc((100% / 13) * 0.5);
-    }
-    .h-line.bottom {
-      width: calc((100% / 13) * 12); /* ステージ幅いっぱい */
-      bottom: 0;
-      left: calc((100% / 13) * 0.5);
     }
 
     .member {
       position: absolute;
-      width: 40px;
-      height: 40px;
+      width: 26px;         /* 32px → 26pxに縮小 */
+      height: 26px;        /* 同じく26px */
       border-radius: 50%;
       background-color: white;
       color: black;
       text-align: center;
-      line-height: 40px;
-      font-size: 7.5px;
+      line-height: 26px;   /* 高さに合わせる */
+      font-size: 7.5px;    /* 文字サイズは維持 */
       font-weight: bold;
       cursor: grab;
       transform: translate(-50%, -50%);
       user-select: none;
-      z-index: 10; /* 線より前面に */
+      z-index: 10;
       white-space: nowrap;
       overflow: visible;
     }
@@ -186,7 +174,6 @@
       align-items: center;
       justify-content: center;
       user-select: none;
-      font-family: monospace, sans-serif;
     }
 
     #controls {
@@ -239,11 +226,8 @@
       <div class="grid-line v-line center2"></div>
       <div class="grid-line v-line center3"></div>
       <div class="grid-line v-line right"></div>
-
       <div class="h-line top"></div>
-      <div class="h-line upper-middle"></div>
-      <div class="h-line lower-middle"></div>
-      <div class="h-line bottom"></div>
+      <div class="h-line middle"></div>
     </div>
     <div id="position-numbers">
       <div class="position-label">6</div>
