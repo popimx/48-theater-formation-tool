@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>劇場公演 フォーメーションツール</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>劇場公演 フォーメーションツール</h1>
+</header>
+
+<div class="form-group">
+  <label for="stage-select">演目を選択：</label>
+  <select id="stage-select">
+    <option value="">演目を選択</option>
+  </select>
+</div>
+
+<div class="form-group">
+  <label for="position-select">ポジションを選択：</label>
+  <select id="position-select" disabled>
+    <option value="">ポジションを選択</option>
+  </select>
+</div>
+
+<div class="form-group">
+  <label for="song-select">楽曲を選択：</label>
+  <select id="song-select" disabled>
+    <option value="">楽曲を選択</option>
+  </select>
+</div>
+
+<div id="image-container">
+  <div id="empty-message">
+    演目・ポジション・楽曲を選択してください
+  </div>
+</div>
+
+<div id="modal">
+  <img id="modal-image" src="" alt="">
+</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
