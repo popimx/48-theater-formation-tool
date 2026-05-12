@@ -87,7 +87,7 @@ function renderFormation() {
           );
 
           /* =========================
-             座標（間隔広め）
+             座標（現在バランス）
           ========================= */
 
           const posX = 50 + ((member.x ?? 0) * 5.8);
@@ -127,7 +127,7 @@ function renderFormation() {
           memberDiv.appendChild(img);
 
           /* =========================
-             ラベル（選択メンバーのみ・数字のみ）
+             ラベル（数字のみ）
           ========================= */
 
           if (isActive) {
@@ -138,13 +138,7 @@ function renderFormation() {
             const positionText =
               Math.abs(member.x ?? 0);
 
-            const displayName =
-              memberData?.display ??
-              memberData?.name ??
-              memberId;
-
-            label.innerHTML =
-              `${displayName}<br>${positionText}`;
+            label.textContent = positionText;
 
             memberDiv.appendChild(label);
           }
@@ -186,8 +180,6 @@ stageSelect.addEventListener("change", () => {
 
   if (!currentStage) return;
 
-  /* メンバー */
-
   currentStage.members.forEach(member => {
 
     const option = document.createElement("option");
@@ -199,8 +191,6 @@ stageSelect.addEventListener("change", () => {
   });
 
   memberSelect.disabled = false;
-
-  /* 楽曲 */
 
   currentStage.songs.forEach(song => {
 
