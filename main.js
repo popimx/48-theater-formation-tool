@@ -1,29 +1,37 @@
-const stageSelect = document.getElementById("stage-select");
-const positionSelect = document.getElementById("position-select");
-const songSelect = document.getElementById("song-select");
+const stageSelect =
+  document.getElementById("stage-select");
 
-const imageContainer = document.getElementById("image-container");
+const memberSelect =
+  document.getElementById("member-select");
 
-const modal = document.getElementById("modal");
-const modalImage = document.getElementById("modal-image");
+const songSelect =
+  document.getElementById("song-select");
 
-let indexData = [];
-let currentData = null;
+const partsContainer =
+  document.getElementById("parts-container");
 
-/* index.json 読み込み */
+let stagesData = [];
 
-fetch("data/index.json")
+let currentStage = null;
+
+/* 演目一覧 */
+
+fetch("data/stages.json")
   .then(response => response.json())
   .then(data => {
 
-    indexData = data;
+    stagesData = data;
 
     data.forEach(stage => {
 
-      const option = document.createElement("option");
+      const option =
+        document.createElement("option");
 
-      option.value = stage.stageId;
-      option.textContent = stage.stage;
+      option.value =
+        stage.stageId;
+
+      option.textContent =
+        stage.stage;
 
       stageSelect.appendChild(option);
 
@@ -35,69 +43,67 @@ fetch("data/index.json")
 
 stageSelect.addEventListener("change", () => {
 
-  positionSelect.innerHTML =
-    '<option value="">ポジションを選択</option>';
+  memberSelect.innerHTML =
+    '<option value="">メンバーを選択</option>';
 
   songSelect.innerHTML =
     '<option value="">楽曲を選択</option>';
 
-  positionSelect.disabled = true;
+  memberSelect.disabled = true;
   songSelect.disabled = true;
 
-  clearImage();
+  partsContainer.innerHTML = "";
 
-  const selectedStage = indexData.find(
-    s => s.stageId === stageSelect.value
-  );
+  currentStage =
+    stagesData.find(
+      stage =>
+        stage.stageId === stageSelect.value
+    );
 
-  if (!selectedStage) return;
+  if (!currentStage) return;
 
-  selectedStage.positions.forEach(position => {
+  /* メンバー */
 
-    const option = document.createElement("option");
+  currentStage.members.forEach(member => {
 
-    option.value = position.id;
-    option.textContent = position.name;
+    const option =
+      document.createElement("option");
 
-    positionSelect.appendChild(option);
+    option.value =
+      member.id;
+
+    option.textContent =
+      member.name;
+
+    memberSelect.appendChild(option);
 
   });
 
-  positionSelect.disabled = false;
+  memberSelect.disabled = false;
 
 });
 
-/* ポジション変更 */
+/* メンバー変更 */
 
-positionSelect.addEventListener("change", async () => {
+memberSelect.addEventListener("change", () => {
 
   songSelect.innerHTML =
     '<option value="">楽曲を選択</option>';
 
   songSelect.disabled = true;
 
-  clearImage();
+  partsContainer.innerHTML = "";
 
-  const fileName =
-    `${stageSelect.value}_${positionSelect.value}.json`;
+  currentStage.songs.forEach(song => {
 
-  const response =
-    await fetch(`data/${fileName}`);
+    const option =
+      document.createElement("option");
 
-  currentData = await response.json();
+    option.value =
+      song.file;
 
-  const songNames = [
-    ...new Set(
-      currentData.parts.map(part => part.song)
-    )
-  ];
-
-  songNames.forEach(song => {
-
-    const option = document.createElement("option");
-
-    option.value = song;
-    option.textContent = song;
+    option.textContent =
+      song.name;
 
     songSelect.appendChild(option);
 
@@ -109,76 +115,126 @@ positionSelect.addEventListener("change", async () => {
 
 /* 楽曲変更 */
 
-songSelect.addEventListener("change", () => {
+songSelect.addEventListener("change", async () => {
 
-  clearImage();
+  partsContainer.innerHTML = "";
 
-  const selectedSong = songSelect.value;
-
-  const filteredParts =
-    currentData.parts.filter(
-      part => part.song === selectedSong
+  const response =
+    await fetch(
+      `formations/${currentStage.stageId}/${songSelect.value}`
     );
 
-  imageContainer.innerHTML = "";
+  const data =
+    await response.json();
 
-  filteredParts.forEach(part => {
+  const focusMember =
+    memberSelect.value;
 
-    imageContainer.innerHTML += `
+  data.parts.forEach(part => {
 
-      <div class="image-card">
+    const card =
+      document.createElement("div");
 
-        <h2 class="part-title">
-          ${part.title}
-        </h2>
+    card.className =
+      "part-card";
 
-        <div class="lyrics">${part.lyrics}</div>
+    card.innerHTML = `
+      <h2 class="part-title">
+        ${part.title}
+      </h2>
 
-        <img
-          src="${part.image}"
-          class="formation-image"
-          alt="${part.title}"
-        >
-
+      <div class="lyrics">
+        ${part.lyrics}
       </div>
 
+      <div class="formation-area"></div>
     `;
 
-  });
+    const formationArea =
+      card.querySelector(".formation-area");
 
-  /* 画像クリック */
+    part.members.forEach(member => {
 
-  document.querySelectorAll(".formation-image")
-    .forEach(image => {
+      const memberDiv =
+        document.createElement("div");
 
-      image.addEventListener("click", () => {
+      memberDiv.className =
+        "member";
 
-        modalImage.src = image.src;
+      if (member.name === focusMember) {
 
-        modal.classList.add("active");
+        memberDiv.classList.add("active");
 
-      });
+      } else {
+
+        memberDiv.classList.add("sub");
+
+      }
+
+      const posX =
+        50 + (member.x * 5);
+
+      const posY =
+        92 - (member.y * 18);
+
+      memberDiv.style.left =
+        `${posX}%`;
+
+      memberDiv.style.top =
+        `${posY}%`;
+
+      const image =
+        document.createElement("img");
+
+      image.src =
+        `images/members/${member.name}.webp`;
+
+      memberDiv.appendChild(image);
+
+      /* ラベル */
+
+      if (member.name === focusMember) {
+
+        const label =
+          document.createElement("div");
+
+        label.className =
+          "label";
+
+        let positionText = "";
+
+        if (member.x < 0) {
+
+          positionText =
+            `下 ${Math.abs(member.x)}`;
+
+        } else if (member.x > 0) {
+
+          positionText =
+            `上 ${member.x}`;
+
+        } else {
+
+          positionText =
+            "0";
+
+        }
+
+        label.innerHTML = `
+          ${member.name}<br>
+          ${positionText}
+        `;
+
+        memberDiv.appendChild(label);
+
+      }
+
+      formationArea.appendChild(memberDiv);
 
     });
 
-});
+    partsContainer.appendChild(card);
 
-/* モーダル閉じる */
-
-modal.addEventListener("click", () => {
-
-  modal.classList.remove("active");
+  });
 
 });
-
-/* 初期化 */
-
-function clearImage() {
-
-  imageContainer.innerHTML = `
-    <div id="empty-message">
-      演目・ポジション・楽曲を選択してください
-    </div>
-  `;
-
-}
