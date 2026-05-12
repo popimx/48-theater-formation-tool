@@ -90,8 +90,8 @@ function renderFormation() {
              座標（間隔広め）
           ========================= */
 
-          const posX = 50 + ((member.x ?? 0) * 6.5);
-          const posY = 92 - ((member.y ?? 0) * 22);
+          const posX = 50 + ((member.x ?? 0) * 5.8);
+          const posY = 92 - ((member.y ?? 0) * 20);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
