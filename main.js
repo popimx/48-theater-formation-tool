@@ -1,4 +1,4 @@
-const stageSelect =
+ const stageSelect =
   document.getElementById("stage-select");
 
 const memberSelect =
@@ -28,11 +28,8 @@ fetch("data/stages.json")
       const option =
         document.createElement("option");
 
-      option.value =
-        stage.stageId;
-
-      option.textContent =
-        stage.stage;
+      option.value = stage.stageId;
+      option.textContent = stage.stage;
 
       stageSelect.appendChild(option);
 
@@ -41,7 +38,7 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   描画関数（統一本体）
+   描画関数
 ========================= */
 
 async function renderFormation() {
@@ -90,7 +87,7 @@ async function renderFormation() {
         memberDiv.className = "member";
 
         /* =========================
-           ★完全統一：IDで判定
+           ★ここ重要：idで統一
         ========================= */
 
         const isActive =
@@ -112,7 +109,7 @@ async function renderFormation() {
         memberDiv.style.top = `${posY}%`;
 
         /* =========================
-           メンバー情報（idで引く）
+           画像（確実に出る版）
         ========================= */
 
         const memberData =
@@ -123,20 +120,18 @@ async function renderFormation() {
         const imgKey =
           memberData?.image ?? member.id;
 
-        const image =
+        const img =
           document.createElement("img");
 
-        image.src =
+        img.src =
           `images/members/${currentStage.stageId}/${imgKey}.PNG`;
 
-        image.alt =
+        img.alt =
           memberData?.name ?? member.id;
 
-        memberDiv.appendChild(image);
+        memberDiv.appendChild(img);
 
-        /* =========================
-           ラベル（フォーカスのみ）
-        ========================= */
+        /* ラベル */
 
         if (isActive) {
 
@@ -198,9 +193,7 @@ stageSelect.addEventListener("change", () => {
   partsContainer.innerHTML = "";
 
   currentStage =
-    stagesData.find(
-      s => s.stageId === stageSelect.value
-    );
+    stagesData.find(s => s.stageId === stageSelect.value);
 
   if (!currentStage) return;
 
@@ -209,8 +202,7 @@ stageSelect.addEventListener("change", () => {
     const option =
       document.createElement("option");
 
-    option.value =
-      member.id;
+    option.value = member.id;
 
     option.textContent =
       `${member.name}ポジ`;
@@ -226,11 +218,8 @@ stageSelect.addEventListener("change", () => {
     const option =
       document.createElement("option");
 
-    option.value =
-      song.file;
-
-    option.textContent =
-      song.name;
+    option.value = song.file;
+    option.textContent = song.name;
 
     songSelect.appendChild(option);
 
@@ -241,7 +230,7 @@ stageSelect.addEventListener("change", () => {
 });
 
 /* =========================
-   即時更新（ここが重要）
+   即時反映
 ========================= */
 
 songSelect.addEventListener("change", renderFormation);
