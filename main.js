@@ -38,7 +38,7 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   描画関数
+   描画関数（本体）
 ========================= */
 
 async function renderFormation() {
@@ -87,7 +87,7 @@ async function renderFormation() {
         memberDiv.className = "member";
 
         /* =========================
-           ★ここ重要：idで統一
+           フォーカス（ID統一）
         ========================= */
 
         const isActive =
@@ -109,7 +109,7 @@ async function renderFormation() {
         memberDiv.style.top = `${posY}%`;
 
         /* =========================
-           画像（確実に出る版）
+           メンバー情報取得
         ========================= */
 
         const memberData =
@@ -131,7 +131,9 @@ async function renderFormation() {
 
         memberDiv.appendChild(img);
 
-        /* ラベル */
+        /* =========================
+           ラベル（フォーカスのみ）
+        ========================= */
 
         if (isActive) {
 
@@ -193,9 +195,13 @@ stageSelect.addEventListener("change", () => {
   partsContainer.innerHTML = "";
 
   currentStage =
-    stagesData.find(s => s.stageId === stageSelect.value);
+    stagesData.find(
+      s => s.stageId === stageSelect.value
+    );
 
   if (!currentStage) return;
+
+  /* メンバー */
 
   currentStage.members.forEach(member => {
 
@@ -213,12 +219,15 @@ stageSelect.addEventListener("change", () => {
 
   memberSelect.disabled = false;
 
+  /* 楽曲 */
+
   currentStage.songs.forEach(song => {
 
     const option =
       document.createElement("option");
 
     option.value = song.file;
+
     option.textContent = song.name;
 
     songSelect.appendChild(option);
@@ -230,7 +239,7 @@ stageSelect.addEventListener("change", () => {
 });
 
 /* =========================
-   即時反映
+   即時更新（重要）
 ========================= */
 
 songSelect.addEventListener("change", renderFormation);
