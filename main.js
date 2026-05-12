@@ -1,3 +1,114 @@
+const stageSelect =
+  document.getElementById("stage-select");
+
+const memberSelect =
+  document.getElementById("member-select");
+
+const songSelect =
+  document.getElementById("song-select");
+
+const partsContainer =
+  document.getElementById("parts-container");
+
+let stagesData = [];
+
+let currentStage = null;
+
+/* =========================
+   演目一覧読み込み
+========================= */
+
+fetch("data/stages.json")
+  .then(response => response.json())
+  .then(data => {
+
+    stagesData = data;
+
+    data.forEach(stage => {
+
+      const option =
+        document.createElement("option");
+
+      option.value =
+        stage.stageId;
+
+      option.textContent =
+        stage.stage;
+
+      stageSelect.appendChild(option);
+
+    });
+
+  });
+
+/* =========================
+   演目変更
+========================= */
+
+stageSelect.addEventListener("change", () => {
+
+  memberSelect.innerHTML =
+    '<option value="">メンバーを選択</option>';
+
+  songSelect.innerHTML =
+    '<option value="">楽曲を選択</option>';
+
+  memberSelect.disabled = true;
+  songSelect.disabled = true;
+
+  partsContainer.innerHTML = "";
+
+  currentStage =
+    stagesData.find(
+      stage => stage.stageId === stageSelect.value
+    );
+
+  if (!currentStage) return;
+
+  /* メンバー */
+
+  currentStage.members.forEach(member => {
+
+    const option =
+      document.createElement("option");
+
+    option.value =
+      member.id;
+
+    option.textContent =
+      member.display ?? member.name;
+
+    memberSelect.appendChild(option);
+
+  });
+
+  memberSelect.disabled = false;
+
+  /* 楽曲 */
+
+  currentStage.songs.forEach(song => {
+
+    const option =
+      document.createElement("option");
+
+    option.value =
+      song.file;
+
+    option.textContent =
+      song.name;
+
+    songSelect.appendChild(option);
+
+  });
+
+  songSelect.disabled = false;
+
+});
+
+/* =========================
+   楽曲変更（統合＋安全版）
+========================= */
+
 songSelect.addEventListener("change", async () => {
 
   partsContainer.innerHTML = "";
@@ -18,15 +129,15 @@ songSelect.addEventListener("change", async () => {
     const data =
       await response.json();
 
-    const focusMember =
-      memberSelect.value;
-
     if (!data.parts) {
       console.error("partsが存在しません:", data);
       return;
     }
 
-    /* パートごと */
+    const focusMember =
+      memberSelect.value;
+
+    /* パート */
 
     data.parts.forEach(part => {
 
@@ -51,9 +162,9 @@ songSelect.addEventListener("change", async () => {
       const formationArea =
         card.querySelector(".formation-area");
 
-      /* メンバー描画 */
+      /* メンバー */
 
-      part.members.forEach(member => {
+      (part.members ?? []).forEach(member => {
 
         const memberDiv =
           document.createElement("div");
@@ -61,7 +172,7 @@ songSelect.addEventListener("change", async () => {
         memberDiv.className =
           "member";
 
-        /* ★フォーカス判定（安全版） */
+        /* フォーカス判定（安定版） */
 
         if (member.name === focusMember) {
           memberDiv.classList.add("active");
@@ -69,13 +180,13 @@ songSelect.addEventListener("change", async () => {
           memberDiv.classList.add("sub");
         }
 
-        /* 座標 */
+        /* 座標（安全化） */
 
         const posX =
-          50 + (member.x * 5);
+          50 + ((member.x ?? 0) * 5);
 
         const posY =
-          92 - (member.y * 18);
+          92 - ((member.y ?? 0) * 18);
 
         memberDiv.style.left =
           `${posX}%`;
@@ -83,7 +194,7 @@ songSelect.addEventListener("change", async () => {
         memberDiv.style.top =
           `${posY}%`;
 
-        /* ★メンバー取得（idベース統一） */
+        /* メンバー情報取得（id統一） */
 
         const memberData =
           currentStage.members.find(
@@ -92,20 +203,21 @@ songSelect.addEventListener("change", async () => {
 
         /* 画像 */
 
+        const imgKey =
+          memberData?.image ?? member.name;
+
         const image =
           document.createElement("img");
 
         image.src =
-          memberData
-            ? `images/members/${currentStage.stageId}/${memberData.image}.PNG`
-            : `images/members/${currentStage.stageId}/${member.name}.PNG`;
+          `images/members/${currentStage.stageId}/${imgKey}.PNG`;
 
         image.alt =
           memberData?.name ?? member.name;
 
         memberDiv.appendChild(image);
 
-        /* ラベル（フォーカスのみ） */
+        /* ラベル */
 
         if (member.name === focusMember) {
 
@@ -117,9 +229,9 @@ songSelect.addEventListener("change", async () => {
 
           let positionText = "";
 
-          if (member.x < 0) {
+          if ((member.x ?? 0) < 0) {
             positionText = `下 ${Math.abs(member.x)}`;
-          } else if (member.x > 0) {
+          } else if ((member.x ?? 0) > 0) {
             positionText = `上 ${member.x}`;
           } else {
             positionText = "0";
