@@ -1,5 +1,3 @@
-/* 楽曲変更 */
-
 songSelect.addEventListener("change", async () => {
 
   partsContainer.innerHTML = "";
@@ -52,7 +50,7 @@ songSelect.addEventListener("change", async () => {
       memberDiv.className =
         "member";
 
-      /* 強調 */
+      /* 強調（idベースで安定化） */
 
       if (member.name === focusMember) {
         memberDiv.classList.add("active");
@@ -74,11 +72,11 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
-      /* メンバー情報取得（idで紐付け） */
+      /* メンバー情報取得（★ここ修正：nameで統一） */
 
       const memberData =
         currentStage.members.find(
-          m => m.id === member.name
+          m => m.name === member.name
         );
 
       /* 画像 */
