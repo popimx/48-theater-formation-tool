@@ -4,136 +4,149 @@ songSelect.addEventListener("change", async () => {
 
   if (!currentStage) return;
 
-  const response =
-    await fetch(
-      `formations/${currentStage.stageId}/${songSelect.value}`
-    );
+  try {
 
-  const data =
-    await response.json();
+    const response =
+      await fetch(
+        `formations/${currentStage.stageId}/${songSelect.value}`
+      );
 
-  const focusMember =
-    memberSelect.value;
+    if (!response.ok) {
+      throw new Error("formation JSON not found");
+    }
 
-  /* パートごと */
+    const data =
+      await response.json();
 
-  data.parts.forEach(part => {
+    const focusMember =
+      memberSelect.value;
 
-    const card =
-      document.createElement("div");
+    if (!data.parts) {
+      console.error("partsが存在しません:", data);
+      return;
+    }
 
-    card.className =
-      "part-card";
+    /* パートごと */
 
-    card.innerHTML = `
-      <h2 class="part-title">
-        ${part.title}
-      </h2>
+    data.parts.forEach(part => {
 
-      <div class="lyrics">
-        ${part.lyrics.trim()}
-      </div>
-
-      <div class="formation-area"></div>
-    `;
-
-    const formationArea =
-      card.querySelector(".formation-area");
-
-    /* メンバー描画 */
-
-    part.members.forEach(member => {
-
-      const memberDiv =
+      const card =
         document.createElement("div");
 
-      memberDiv.className =
-        "member";
+      card.className =
+        "part-card";
 
-      /* ★修正：idで統一 */
+      card.innerHTML = `
+        <h2 class="part-title">
+          ${part.title ?? ""}
+        </h2>
 
-      if (member.name === focusMember) {
-        memberDiv.classList.add("active");
-      } else {
-        memberDiv.classList.add("sub");
-      }
+        <div class="lyrics">
+          ${(part.lyrics ?? "").trim()}
+        </div>
 
-      /* 座標 */
+        <div class="formation-area"></div>
+      `;
 
-      const posX =
-        50 + (member.x * 5);
+      const formationArea =
+        card.querySelector(".formation-area");
 
-      const posY =
-        92 - (member.y * 18);
+      /* メンバー描画 */
 
-      memberDiv.style.left =
-        `${posX}%`;
+      part.members.forEach(member => {
 
-      memberDiv.style.top =
-        `${posY}%`;
-
-      /* ★修正：id一致で取得 */
-
-      const memberData =
-        currentStage.members.find(
-          m => m.id === member.name
-        );
-
-      /* 画像 */
-
-      const image =
-        document.createElement("img");
-
-      image.src =
-        memberData
-          ? `images/members/${currentStage.stageId}/${memberData.image}.PNG`
-          : `images/members/${currentStage.stageId}/${member.name}.PNG`;
-
-      image.alt =
-        memberData?.name ?? member.name;
-
-      memberDiv.appendChild(image);
-
-      /* ラベル */
-
-      if (member.name === focusMember) {
-
-        const label =
+        const memberDiv =
           document.createElement("div");
 
-        label.className =
-          "label";
+        memberDiv.className =
+          "member";
 
-        let positionText = "";
+        /* ★フォーカス判定（安全版） */
 
-        if (member.x < 0) {
-          positionText = `下 ${Math.abs(member.x)}`;
-        } else if (member.x > 0) {
-          positionText = `上 ${member.x}`;
+        if (member.name === focusMember) {
+          memberDiv.classList.add("active");
         } else {
-          positionText = "0";
+          memberDiv.classList.add("sub");
         }
 
-        const displayName =
-          memberData?.display ??
-          memberData?.name ??
-          member.name;
+        /* 座標 */
 
-        label.innerHTML = `
-          ${displayName}<br>
-          ${positionText}
-        `;
+        const posX =
+          50 + (member.x * 5);
 
-        memberDiv.appendChild(label);
+        const posY =
+          92 - (member.y * 18);
 
-      }
+        memberDiv.style.left =
+          `${posX}%`;
 
-      formationArea.appendChild(memberDiv);
+        memberDiv.style.top =
+          `${posY}%`;
+
+        /* ★メンバー取得（idベース統一） */
+
+        const memberData =
+          currentStage.members.find(
+            m => m.id === member.name
+          );
+
+        /* 画像 */
+
+        const image =
+          document.createElement("img");
+
+        image.src =
+          memberData
+            ? `images/members/${currentStage.stageId}/${memberData.image}.PNG`
+            : `images/members/${currentStage.stageId}/${member.name}.PNG`;
+
+        image.alt =
+          memberData?.name ?? member.name;
+
+        memberDiv.appendChild(image);
+
+        /* ラベル（フォーカスのみ） */
+
+        if (member.name === focusMember) {
+
+          const label =
+            document.createElement("div");
+
+          label.className =
+            "label";
+
+          let positionText = "";
+
+          if (member.x < 0) {
+            positionText = `下 ${Math.abs(member.x)}`;
+          } else if (member.x > 0) {
+            positionText = `上 ${member.x}`;
+          } else {
+            positionText = "0";
+          }
+
+          const displayName =
+            memberData?.display ??
+            memberData?.name ??
+            member.name;
+
+          label.innerHTML =
+            `${displayName}<br>${positionText}`;
+
+          memberDiv.appendChild(label);
+
+        }
+
+        formationArea.appendChild(memberDiv);
+
+      });
+
+      partsContainer.appendChild(card);
 
     });
 
-    partsContainer.appendChild(card);
-
-  });
+  } catch (err) {
+    console.error("エラー:", err);
+  }
 
 });
