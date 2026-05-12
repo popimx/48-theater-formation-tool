@@ -1,0 +1,262 @@
+{
+  "song": "Teacher Teacher",
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -2, "y": 3 },
+        { "name": "nishida", "x": 2, "y": 3 },
+
+        { "name": "ikeda", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "ikeda", "x": -2, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 2, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "学校じゃ 気づいていなかった〜",
+      "members": [
+        { "name": "nishijima", "x": -1.5, "y": 2 },
+        { "name": "nishida", "x": 1.5, "y": 2 },
+
+        { "name": "ikeda", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "誰かに見られて噂されても 私は平気〜",
+      "members": [
+        { "name": "nishijima", "x": -1.5, "y": 2 },
+        { "name": "nishida", "x": 1.5, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Teacher Teacher なぜ 逃げ腰で〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Teacher Teacher なぜ 私とは〜",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "Teacher Teacher なぜ 教え子は〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "Teacher Teacher なぜ プライベートは〜",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ⑤",
+      "lyrics": "いつもと違う 今日の先生〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 4, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "パパより年下なら ちょっとセクシー〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "nishijima", "x": -1, "y": 1 },
+        { "name": "nishida", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "Teacher Teacher 今 さりげなく〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "Teacher Teacher 今 駄々っ子を〜",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "Teacher Teacher 今 気をつけて〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "Teacher Teacher 今 学園ドラマね〜",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ⑤",
+      "lyrics": "夢の世界へついて来なさい〜",
+      "members": [
+        { "name": "itagaki", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "nishijima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 4, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -6, "y": 1 },
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 },
+        { "name": "nishida", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -6, "y": 1 },
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 },
+        { "name": "nishida", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -2, "y": 3 },
+        { "name": "nishida", "x": 2, "y": 3 },
+
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "ikeda", "x": 1, "y": 2 },
+
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
