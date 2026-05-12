@@ -67,14 +67,14 @@ select {
 }
 
 /* =========================
-   メンバーアイコン（20px）
+   メンバーアイコン（25px）
 ========================= */
 
 .member {
   position: absolute;
 
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
 
   transform: translate(-50%, -50%);
 }
@@ -99,13 +99,13 @@ select {
 }
 
 /* =========================
-   名前ラベル（20px対応）
+   名前ラベル（25px対応）
 ========================= */
 
 .label {
   position: absolute;
 
-  top: 24px; /* 20pxアイコンに最適化 */
+  top: 28px; /* 25pxアイコンに最適化 */
 
   left: 50%;
 
@@ -113,7 +113,7 @@ select {
 
   text-align: center;
 
-  font-size: 0.55rem;
+  font-size: 0.58rem;
 
   font-weight: 600;
 
