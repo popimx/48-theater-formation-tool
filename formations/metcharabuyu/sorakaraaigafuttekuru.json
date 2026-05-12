@@ -124,8 +124,9 @@
     { "name": "takeda", "x": 6.5, "y": 2 },
     { "name": "nishida", "x": 7.5, "y": 2 }
   ]
-},
-{
+ },
+    
+ {
   "title": "2番Bメロ",
   "lyrics": "雲行きも (WOW WOW) 悪くなる〜",
   "members": [
@@ -147,8 +148,9 @@
     { "name": "takeda", "x": 6.5, "y": 1 },
     { "name": "nishida", "x": 7.5, "y": 1 }
   ]
-},
-{
+ },
+    
+ {
   "title": "2番サビ",
   "lyrics": "",
   "members": [
@@ -173,8 +175,9 @@
     { "name": "sakurada", "x": -1, "y": 1 },
     { "name": "sakashita", "x": 1, "y": 1 }
   ]
-},
-{
+ },
+    
+ {
   "title": "2番サビ後",
   "lyrics": "",
   "members": [
@@ -198,8 +201,9 @@
     { "name": "sakashita", "x": 1.5, "y": 1 },
     { "name": "izumi", "x": 4.5, "y": 1 }
   ]
-},
-{
+ },
+    
+ {
   "title": "ラストサビ",
   "lyrics": "",
   "members": [
