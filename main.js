@@ -84,18 +84,19 @@ function renderFormation() {
           memberDiv.className = "member";
 
           /* =========================
-             フォーカス（完全統一）
+             フォーカス判定
           ========================= */
 
           const isActive =
-            focusMember &&
-            member.id === focusMember;
+            focusMember && member.id === focusMember;
 
           memberDiv.classList.add(
             isActive ? "active" : "sub"
           );
 
-          /* 座標 */
+          /* =========================
+             座標
+          ========================= */
 
           const posX =
             50 + ((member.x ?? 0) * 5);
@@ -107,24 +108,37 @@ function renderFormation() {
           memberDiv.style.top = `${posY}%`;
 
           /* =========================
-             画像（ここが重要修正）
+             メンバーデータ取得
           ========================= */
 
-          const imgKey =
-            member.id; // ← ここを統一（ズレ防止）
+          const memberData =
+            currentStage.members.find(
+              m => m.id === member.id
+            );
+
+          /* =========================
+             画像（ここが完全正解）
+          ========================= */
 
           const image =
             document.createElement("img");
 
           image.src =
-            `images/members/${currentStage.stageId}/${imgKey}_2025.PNG`;
+            `images/members/${currentStage.stageId}/${memberData.image}.PNG`;
 
           image.alt =
-            member.id;
+            memberData?.name ?? member.id;
+
+          /* 画像エラー時ログ（デバッグ用） */
+          image.onerror = () => {
+            console.warn("画像なし:", image.src);
+          };
 
           memberDiv.appendChild(image);
 
-          /* ラベル */
+          /* =========================
+             ラベル
+          ========================= */
 
           if (isActive) {
 
@@ -144,6 +158,8 @@ function renderFormation() {
             }
 
             const displayName =
+              memberData?.display ??
+              memberData?.name ??
               member.id;
 
             label.innerHTML =
