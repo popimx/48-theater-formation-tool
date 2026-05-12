@@ -106,6 +106,50 @@
       {
         "name": "難波愛",
         "file": "nanbaai.json"
+      },
+      {
+        "name": "空から愛が降って来る",
+        "file": "sorakaraaigafuttekuru.json"
+      },
+      {
+        "name": "あまのじゃくバッタ",
+        "file": "amanojakubatta.json"
+      },
+      {
+        "name": "めっちゃラブユー",
+        "file": "metcharabuyu.json"
+      },
+      {
+        "name": "Teacher Teacher",
+        "file": "teacher_teacher.json"
+      },
+      {
+        "name": "愛が終わってもSelfish",
+        "file": "aigaowattemoselfish.json"
+      },
+      {
+        "name": "ごめん 愛せないんだ",
+        "file": "gomen_aisenainda.json"
+      },
+      {
+        "name": "妄想マシーン3号機",
+        "file": "mousoumachine3gouki.json"
+      },
+      {
+        "name": "波が伝えるもの",
+        "file": "namigatsutaerumono.json"
+      },
+      {
+        "name": "母校へ帰れ！",
+        "file": "bokouekaere.json"
+      },
+      {
+        "name": "上方ストロングスタイル",
+        "file": "kamigatastrongstyle.json"
+      },
+      {
+        "name": "光と影の日々",
+        "file": "hikaritokagenohibi.json"
       }
     ]
   }
