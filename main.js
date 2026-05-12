@@ -41,143 +41,6 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   描画関数（ここが本体）
-========================= */
-
-async function renderFormation() {
-
-  partsContainer.innerHTML = "";
-
-  if (!currentStage) return;
-
-  if (!songSelect.value) return;
-
-  try {
-
-    const response =
-      await fetch(
-        `formations/${currentStage.stageId}/${songSelect.value}`
-      );
-
-    const data =
-      await response.json();
-
-    if (!data.parts) return;
-
-    const focusMember =
-      memberSelect.value;
-
-    data.parts.forEach(part => {
-
-      const card =
-        document.createElement("div");
-
-      card.className = "part-card";
-
-      card.innerHTML = `
-        <h2 class="part-title">${part.title ?? ""}</h2>
-        <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
-        <div class="formation-area"></div>
-      `;
-
-      const formationArea =
-        card.querySelector(".formation-area");
-
-      (part.members ?? []).forEach(member => {
-
-        const memberDiv =
-          document.createElement("div");
-
-        memberDiv.className = "member";
-
-        /* =========================
-           フォーカス（完全統一：id）
-        ========================= */
-
-        const isActive =
-          member.id === focusMember;
-
-        memberDiv.classList.add(
-          isActive ? "active" : "sub"
-        );
-
-        /* 座標 */
-
-        const posX =
-          50 + ((member.x ?? 0) * 5);
-
-        const posY =
-          92 - ((member.y ?? 0) * 18);
-
-        memberDiv.style.left = `${posX}%`;
-        memberDiv.style.top = `${posY}%`;
-
-        /* メンバー情報 */
-
-        const memberData =
-          currentStage.members.find(
-            m => m.id === member.id
-          );
-
-        const imgKey =
-          memberData?.image ?? member.id;
-
-        const img =
-          document.createElement("img");
-
-        img.src =
-          `images/members/${currentStage.stageId}/${imgKey}.PNG`;
-
-        img.alt =
-          memberData?.name ?? member.id;
-
-        memberDiv.appendChild(img);
-
-        /* ラベル（フォーカスのみ） */
-
-        if (isActive) {
-
-          const label =
-            document.createElement("div");
-
-          label.className = "label";
-
-          let positionText = "";
-
-          if ((member.x ?? 0) < 0) {
-            positionText = `下 ${Math.abs(member.x)}`;
-          } else if ((member.x ?? 0) > 0) {
-            positionText = `上 ${member.x}`;
-          } else {
-            positionText = "0";
-          }
-
-          const displayName =
-            memberData?.display ??
-            memberData?.name ??
-            member.id;
-
-          label.innerHTML =
-            `${displayName}<br>${positionText}`;
-
-          memberDiv.appendChild(label);
-
-        }
-
-        formationArea.appendChild(memberDiv);
-
-      });
-
-      partsContainer.appendChild(card);
-
-    });
-
-  } catch (err) {
-    console.error(err);
-  }
-}
-
-/* =========================
    演目変更
 ========================= */
 
@@ -241,10 +104,136 @@ stageSelect.addEventListener("change", () => {
    楽曲変更
 ========================= */
 
-songSelect.addEventListener("change", renderFormation);
+songSelect.addEventListener("change", async () => {
 
-/* =========================
-   メンバー変更（←これが重要）
-========================= */
+  partsContainer.innerHTML = "";
 
-memberSelect.addEventListener("change", renderFormation);
+  if (!currentStage) return;
+
+  try {
+
+    const response =
+      await fetch(
+        `formations/${currentStage.stageId}/${songSelect.value}`
+      );
+
+    const data =
+      await response.json();
+
+    if (!data.parts) return;
+
+    const focusMember =
+      memberSelect.value;
+
+    data.parts.forEach(part => {
+
+      const card =
+        document.createElement("div");
+
+      card.className = "part-card";
+
+      card.innerHTML = `
+        <h2 class="part-title">${part.title ?? ""}</h2>
+        <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
+        <div class="formation-area"></div>
+      `;
+
+      const formationArea =
+        card.querySelector(".formation-area");
+
+      (part.members ?? []).forEach(member => {
+
+        const memberDiv =
+          document.createElement("div");
+
+        memberDiv.className = "member";
+
+        /* =========================
+           フォーカス（ここが重要）
+        ========================= */
+
+        const isActive =
+          member.name === focusMember;
+
+        memberDiv.classList.add(
+          isActive ? "active" : "sub"
+        );
+
+        /* 座標 */
+
+        const posX =
+          50 + ((member.x ?? 0) * 5);
+
+        const posY =
+          92 - ((member.y ?? 0) * 18);
+
+        memberDiv.style.left = `${posX}%`;
+        memberDiv.style.top = `${posY}%`;
+
+        /* =========================
+           ★画像修正（ここが本命）
+        ========================= */
+
+        const memberData =
+          currentStage.members.find(
+            m => m.id === member.name
+          );
+
+        const imgKey =
+          memberData?.image ?? member.name;
+
+        const image =
+          document.createElement("img");
+
+        image.src =
+          `images/members/${currentStage.stageId}/${imgKey}.PNG`;
+
+        image.alt =
+          memberData?.name ?? member.name;
+
+        memberDiv.appendChild(image);
+
+        /* ラベル */
+
+        if (isActive) {
+
+          const label =
+            document.createElement("div");
+
+          label.className = "label";
+
+          let positionText = "";
+
+          if ((member.x ?? 0) < 0) {
+            positionText = `下 ${Math.abs(member.x)}`;
+          } else if ((member.x ?? 0) > 0) {
+            positionText = `上 ${member.x}`;
+          } else {
+            positionText = "0";
+          }
+
+          const displayName =
+            memberData?.display ??
+            memberData?.name ??
+            member.name;
+
+          label.innerHTML =
+            `${displayName}<br>${positionText}`;
+
+          memberDiv.appendChild(label);
+
+        }
+
+        formationArea.appendChild(memberDiv);
+
+      });
+
+      partsContainer.appendChild(card);
+
+    });
+
+  } catch (err) {
+    console.error(err);
+  }
+
+});
