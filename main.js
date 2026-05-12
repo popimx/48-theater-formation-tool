@@ -74,10 +74,10 @@ function renderFormation() {
           memberDiv.className = "member";
 
           /* =========================
-             ★重要：ID統一
+             ID統一
           ========================= */
 
-          const memberId = member.name; // ← JSON側は "ikeda" などで来る前提
+          const memberId = member.name;
 
           const isActive =
             memberId === focusMember;
@@ -94,18 +94,14 @@ function renderFormation() {
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
 
-          /* =========================
-             ★メンバー情報取得
-          ========================= */
+          /* メンバー情報 */
 
           const memberData =
             currentStage.members.find(
               m => m.id === memberId
             );
 
-          /* =========================
-             ★画像パス（ここが確定版）
-          ========================= */
+          /* 画像 */
 
           const imgKey =
             memberData?.image ?? memberId;
@@ -124,22 +120,18 @@ function renderFormation() {
 
           memberDiv.appendChild(img);
 
-          /* ラベル */
+          /* =========================
+             ラベル（修正済み）
+             ★上下表記削除 + マイナス削除
+          ========================= */
 
           if (isActive) {
 
             const label = document.createElement("div");
             label.className = "label";
 
-            let positionText = "";
-
-            if ((member.x ?? 0) < 0) {
-              positionText = `下 ${Math.abs(member.x)}`;
-            } else if ((member.x ?? 0) > 0) {
-              positionText = `上 ${member.x}`;
-            } else {
-              positionText = "0";
-            }
+            const positionText =
+              Math.abs(member.x ?? 0);
 
             const displayName =
               memberData?.display ??
