@@ -27,8 +27,12 @@ select {
   border: 1px solid #ccc;
 }
 
+/* =========================
+   カード
+========================= */
+
 .part-card {
-  background: white;
+  background: #ffffff;
 
   border-radius: 12px;
 
@@ -51,6 +55,10 @@ select {
 
 /* =========================
    フォーメーションエリア
+   ★改善ポイントまとめ
+   - 背景をカードと統一
+   - 5列でも切れないよう余白確保
+   - 中央基準で拡張しやすく
 ========================= */
 
 .formation-area {
@@ -59,15 +67,17 @@ select {
   width: 100%;
   aspect-ratio: 16 / 9;
 
-  background: #fafafa;
+  background: #ffffff; /* ←カードと統一 */
 
   border-radius: 12px;
 
-  overflow: hidden;
+  overflow: visible; /* ←5列が切れる原因対策 */
+
+  padding: 10px 0;
 }
 
 /* =========================
-   メンバーアイコン（25px）
+   メンバーアイコン
 ========================= */
 
 .member {
@@ -99,13 +109,13 @@ select {
 }
 
 /* =========================
-   名前ラベル（25px対応）
+   ラベル（数字のみ想定）
 ========================= */
 
 .label {
   position: absolute;
 
-  top: 28px; /* 25pxアイコンに最適化 */
+  top: 28px;
 
   left: 50%;
 
@@ -113,7 +123,7 @@ select {
 
   text-align: center;
 
-  font-size: 0.58rem;
+  font-size: 0.6rem;
 
   font-weight: 600;
 
