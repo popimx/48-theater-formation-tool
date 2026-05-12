@@ -1,0 +1,100 @@
+[
+  {
+    "stage": "情熱！めっちゃ楽舞友",
+    "stageId": "metcharabuyu",
+
+    "members": [
+      {
+        "name": "池田典愛",
+        "id": "ikeda"
+      },
+
+      {
+        "name": "泉綾乃",
+        "id": "izumi"
+      },
+
+      {
+        "name": "板垣心和",
+        "id": "itagaki"
+      },
+
+      {
+        "name": "坂下真心",
+        "id": "sakashita"
+      },
+
+      {
+        "name": "坂田心咲",
+        "id": "sakata"
+      },
+
+      {
+        "name": "桜田彩叶",
+        "id": "sakurada"
+      },
+
+      {
+        "name": "竹田京加",
+        "id": "takeda"
+      },
+
+      {
+        "name": "中川朋香",
+        "id": "nakagawa"
+      },
+
+      {
+        "name": "西島梨央",
+        "id": "nishijima"
+      },
+
+      {
+        "name": "西田帆花",
+        "id": "nishida"
+      },
+
+      {
+        "name": "芳賀礼",
+        "id": "haga"
+      },
+
+      {
+        "name": "平山真衣",
+        "id": "hirayama"
+      },
+
+      {
+        "name": "松岡さくら",
+        "id": "matsuoka"
+      },
+
+      {
+        "name": "松本海日菜",
+        "id": "matsumoto"
+      },
+
+      {
+        "name": "三鴨くるみ",
+        "id": "mikamo"
+      },
+
+      {
+        "name": "宮本杏海",
+        "id": "miyamoto"
+      }
+    ],
+
+    "songs": [
+      {
+        "name": "難波愛",
+        "file": "nanbaai.json"
+      },
+
+      {
+        "name": "空から愛が降って来る",
+        "file": "sorakaraaigafuttekuru.json"
+      }
+    ]
+  }
+]
