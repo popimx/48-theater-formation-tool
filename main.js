@@ -50,7 +50,7 @@ songSelect.addEventListener("change", async () => {
       memberDiv.className =
         "member";
 
-      /* 強調（idベースで安定化） */
+      /* 強調（idベースで統一） */
 
       if (member.name === focusMember) {
         memberDiv.classList.add("active");
@@ -72,11 +72,11 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
-      /* メンバー情報取得（★ここ修正：nameで統一） */
+      /* メンバー情報取得（★ここが完全修正版） */
 
       const memberData =
         currentStage.members.find(
-          m => m.name === member.name
+          m => m.id === member.name
         );
 
       /* 画像 */
@@ -90,7 +90,7 @@ songSelect.addEventListener("change", async () => {
           : `images/members/${currentStage.stageId}/${member.name}.PNG`;
 
       image.alt =
-        member.name;
+        memberData?.name ?? member.name;
 
       memberDiv.appendChild(image);
 
@@ -115,7 +115,9 @@ songSelect.addEventListener("change", async () => {
         }
 
         const displayName =
-          memberData?.display ?? member.name;
+          memberData?.display ??
+          memberData?.name ??
+          member.name;
 
         label.innerHTML = `
           ${displayName}<br>
