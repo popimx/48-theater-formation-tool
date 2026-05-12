@@ -68,6 +68,22 @@ function renderFormation() {
         const formationArea =
           card.querySelector(".formation-area");
 
+        /* =========================
+           ★列数ベース自動スケール
+        ========================= */
+
+        const MAX_ROWS = 5;
+        const MIN_ROWS = 3;
+
+        const maxY =
+          Math.max(...(part.members ?? []).map(m => m.y ?? 0));
+
+        const clampedRows =
+          Math.min(MAX_ROWS, Math.max(MIN_ROWS, maxY + 1));
+
+        const scaleY =
+          85 * (5 / clampedRows);
+
         (part.members ?? []).forEach(member => {
 
           const memberDiv = document.createElement("div");
@@ -87,11 +103,14 @@ function renderFormation() {
           );
 
           /* =========================
-             座標（現在バランス）
+             座標（最適化版）
           ========================= */
 
-          const posX = 50 + ((member.x ?? 0) * 5);
-          const posY = 110 - ((member.y ?? 0) * 20);
+          const posX =
+            50 + ((member.x ?? 0) * 4.5);
+
+          const posY =
+            100 - ((member.y ?? 0) / (clampedRows - 1)) * scaleY;
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
@@ -135,10 +154,8 @@ function renderFormation() {
             const label = document.createElement("div");
             label.className = "label";
 
-            const positionText =
+            label.textContent =
               Math.abs(member.x ?? 0);
-
-            label.textContent = positionText;
 
             memberDiv.appendChild(label);
           }
