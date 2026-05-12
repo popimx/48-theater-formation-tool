@@ -197,13 +197,20 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
-      /* 画像 */
+      /* 画像（ここが変更点） */
+
+      const memberData =
+        currentStage.members.find(
+          m => m.id === member.name
+        );
 
       const image =
         document.createElement("img");
 
       image.src =
-        `images/members/${currentStage.stageId}/${member.name}.png`;
+        memberData
+          ? `images/members/${currentStage.stageId}/${memberData.image}.PNG`
+          : `images/members/${currentStage.stageId}/${member.name}.PNG`;
 
       image.alt =
         member.name;
