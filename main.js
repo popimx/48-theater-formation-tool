@@ -11,7 +11,6 @@ const partsContainer =
   document.getElementById("parts-container");
 
 let stagesData = [];
-
 let currentStage = null;
 
 /* =========================
@@ -75,8 +74,10 @@ stageSelect.addEventListener("change", () => {
     option.value =
       member.id;
 
+    /* ★修正：ポジ表示 */
+
     option.textContent =
-      member.display ?? member.name;
+      `${member.name}ポジ`;
 
     memberSelect.appendChild(option);
 
@@ -106,7 +107,7 @@ stageSelect.addEventListener("change", () => {
 });
 
 /* =========================
-   楽曲変更（統合＋安全版）
+   楽曲変更（安定版）
 ========================= */
 
 songSelect.addEventListener("change", async () => {
@@ -122,22 +123,13 @@ songSelect.addEventListener("change", async () => {
         `formations/${currentStage.stageId}/${songSelect.value}`
       );
 
-    if (!response.ok) {
-      throw new Error("formation JSON not found");
-    }
-
     const data =
       await response.json();
 
-    if (!data.parts) {
-      console.error("partsが存在しません:", data);
-      return;
-    }
+    if (!data.parts) return;
 
     const focusMember =
       memberSelect.value;
-
-    /* パート */
 
     data.parts.forEach(part => {
 
@@ -162,8 +154,6 @@ songSelect.addEventListener("change", async () => {
       const formationArea =
         card.querySelector(".formation-area");
 
-      /* メンバー */
-
       (part.members ?? []).forEach(member => {
 
         const memberDiv =
@@ -172,7 +162,7 @@ songSelect.addEventListener("change", async () => {
         memberDiv.className =
           "member";
 
-        /* フォーカス判定（安定版） */
+        /* フォーカス */
 
         if (member.name === focusMember) {
           memberDiv.classList.add("active");
@@ -180,7 +170,7 @@ songSelect.addEventListener("change", async () => {
           memberDiv.classList.add("sub");
         }
 
-        /* 座標（安全化） */
+        /* 座標 */
 
         const posX =
           50 + ((member.x ?? 0) * 5);
@@ -194,17 +184,17 @@ songSelect.addEventListener("change", async () => {
         memberDiv.style.top =
           `${posY}%`;
 
-        /* メンバー情報取得（id統一） */
+        /* メンバー情報 */
 
         const memberData =
           currentStage.members.find(
             m => m.id === member.name
           );
 
-        /* 画像 */
-
         const imgKey =
           memberData?.image ?? member.name;
+
+        /* 画像 */
 
         const image =
           document.createElement("img");
@@ -258,7 +248,7 @@ songSelect.addEventListener("change", async () => {
     });
 
   } catch (err) {
-    console.error("エラー:", err);
+    console.error(err);
   }
 
 });
