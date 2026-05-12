@@ -91,7 +91,7 @@ function renderFormation() {
           ========================= */
 
           const posX = 50 + ((member.x ?? 0) * 5.8);
-          const posY = 92 - ((member.y ?? 0) * 20);
+          const posY = 98 - ((member.y ?? 0) * 20);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
