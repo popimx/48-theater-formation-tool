@@ -50,7 +50,7 @@ songSelect.addEventListener("change", async () => {
       memberDiv.className =
         "member";
 
-      /* 強調（idベースで統一） */
+      /* ★修正：idで統一 */
 
       if (member.name === focusMember) {
         memberDiv.classList.add("active");
@@ -72,7 +72,7 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
-      /* メンバー情報取得（★ここが完全修正版） */
+      /* ★修正：id一致で取得 */
 
       const memberData =
         currentStage.members.find(
@@ -94,7 +94,7 @@ songSelect.addEventListener("change", async () => {
 
       memberDiv.appendChild(image);
 
-      /* ラベル（display優先） */
+      /* ラベル */
 
       if (member.name === focusMember) {
 
