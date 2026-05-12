@@ -1,9 +1,7 @@
 body {
   font-family: sans-serif;
-
   margin: 0;
   padding: 16px;
-
   background: #f5f5f5;
 }
 
@@ -18,24 +16,17 @@ header h1 {
 
 select {
   width: 100%;
-
   padding: 8px;
-
   font-size: 1rem;
-
   border-radius: 8px;
   border: 1px solid #ccc;
 }
 
 .part-card {
   background: white;
-
   border-radius: 12px;
-
   padding: 12px;
-
   margin-top: 18px;
-
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
@@ -50,24 +41,26 @@ select {
 }
 
 /* =========================
-   フォーメーションエリア
+   フォーメーションエリア（重要修正）
+   ★5列対応で高さ固定に変更
 ========================= */
 
 .formation-area {
   position: relative;
 
   width: 100%;
-  aspect-ratio: 16 / 9;
+
+  /* ★ここが重要（aspect-ratio廃止） */
+  height: 650px;
 
   background: #fafafa;
-
   border-radius: 12px;
 
-  overflow: hidden;
+  overflow: visible; /* ←切れ防止 */
 }
 
 /* =========================
-   メンバーアイコン（25px）
+   メンバーアイコン
 ========================= */
 
 .member {
@@ -82,9 +75,7 @@ select {
 .member img {
   width: 100%;
   height: 100%;
-
   border-radius: 50%;
-
   object-fit: cover;
 }
 
@@ -99,26 +90,21 @@ select {
 }
 
 /* =========================
-   名前ラベル（25px対応）
+   ラベル（数字表示専用）
 ========================= */
 
 .label {
   position: absolute;
-
-  top: 28px; /* 25pxアイコンに最適化 */
-
+  top: 28px;
   left: 50%;
-
   transform: translateX(-50%);
 
   text-align: center;
 
   font-size: 0.58rem;
-
   font-weight: 600;
 
   line-height: 1.1;
-
   white-space: nowrap;
 
   color: #333;
