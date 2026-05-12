@@ -1,0 +1,228 @@
+{
+  "song": "空から愛が降って来る",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "空の上から 降って来るものは〜",
+      "members": [
+        { "name": "matsumoto", "x": -2, "y": 5 },
+        { "name": "miyamoto", "x": 0, "y": 5 },
+        { "name": "takeda", "x": 2, "y": 5 },
+
+        { "name": "hirayama", "x": -1, "y": 4 },
+        { "name": "itagaki", "x": 1, "y": 4 },
+
+        { "name": "sakata", "x": 0, "y": 3 },
+
+        { "name": "nishijima", "x": -6, "y": 2 },
+        { "name": "matsuoka", "x": -4, "y": 2 },
+        { "name": "nakagawa", "x": 4, "y": 2 },
+        { "name": "nishida", "x": 6, "y": 2 },
+
+        { "name": "mikamo", "x": -7, "y": 1 },
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "haga", "x": -3, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 },
+        { "name": "ikeda", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishijima", "x": -7.5, "y": 2 },
+        { "name": "matsumoto", "x": -6.5, "y": 2 },
+        { "name": "mikamo", "x": -5.5, "y": 2 },
+        { "name": "matsuoka", "x": -4.5, "y": 2 },
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "sakurada", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": -1.5, "y": 2 },
+        { "name": "sakata", "x": -0.5, "y": 2 },
+        { "name": "miyamoto", "x": 0.5, "y": 2 },
+        { "name": "sakashita", "x": 1.5, "y": 2 },
+        { "name": "itagaki", "x": 2.5, "y": 2 },
+        { "name": "izumi", "x": 3.5, "y": 2 },
+        { "name": "nakagawa", "x": 4.5, "y": 2 },
+        { "name": "ikeda", "x": 5.5, "y": 2 },
+        { "name": "takeda", "x": 6.5, "y": 2 },
+        { "name": "nishida", "x": 7.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "胸の奥 (WOW WOW) 積もってく〜",
+      "members": [
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "sakurada", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": -1.5, "y": 2 },
+        { "name": "sakata", "x": -0.5, "y": 2 },
+        { "name": "miyamoto", "x": 0.5, "y": 2 },
+        { "name": "sakashita", "x": 1.5, "y": 2 },
+        { "name": "itagaki", "x": 2.5, "y": 2 },
+        { "name": "izumi", "x": 3.5, "y": 2 },
+
+        { "name": "nishijima", "x": -7.5, "y": 1 },
+        { "name": "matsumoto", "x": -6.5, "y": 1 },
+        { "name": "mikamo", "x": -5.5, "y": 1 },
+        { "name": "matsuoka", "x": -4.5, "y": 1 },
+        { "name": "nakagawa", "x": 4.5, "y": 1 },
+        { "name": "ikeda", "x": 5.5, "y": 1 },
+        { "name": "takeda", "x": 6.5, "y": 1 },
+        { "name": "nishida", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsumoto", "x": -4.5, "y": 5 },
+        { "name": "miyamoto", "x": 0, "y": 5 },
+        { "name": "takeda", "x": 4.5, "y": 5 },
+
+        { "name": "nishijima", "x": -5.5, "y": 4 },
+        { "name": "matsuoka", "x": -3, "y": 4 },
+        { "name": "nakagawa", "x": 3, "y": 4 },
+        { "name": "nishida", "x": 5.5, "y": 4 },
+
+        { "name": "mikamo", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": -1.5, "y": 3 },
+        { "name": "itagaki", "x": 1.5, "y": 3 },
+        { "name": "ikeda", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 2.5, "y": 2 },
+
+        { "name": "sakurada", "x": -1, "y": 1 },
+        { "name": "sakashita", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+  "title": "2番Aメロ後",
+  "lyrics": "",
+  "members": [
+    { "name": "nishijima", "x": -7.5, "y": 2 },
+    { "name": "matsumoto", "x": -6.5, "y": 2 },
+    { "name": "mikamo", "x": -5.5, "y": 2 },
+    { "name": "matsuoka", "x": -4.5, "y": 2 },
+    { "name": "hirayama", "x": -3.5, "y": 2 },
+    { "name": "sakurada", "x": -2.5, "y": 2 },
+    { "name": "haga", "x": -1.5, "y": 2 },
+    { "name": "sakata", "x": -0.5, "y": 2 },
+    { "name": "miyamoto", "x": 0.5, "y": 2 },
+    { "name": "sakashita", "x": 1.5, "y": 2 },
+    { "name": "itagaki", "x": 2.5, "y": 2 },
+    { "name": "izumi", "x": 3.5, "y": 2 },
+    { "name": "nakagawa", "x": 4.5, "y": 2 },
+    { "name": "ikeda", "x": 5.5, "y": 2 },
+    { "name": "takeda", "x": 6.5, "y": 2 },
+    { "name": "nishida", "x": 7.5, "y": 2 }
+  ]
+},
+{
+  "title": "2番Bメロ",
+  "lyrics": "雲行きも (WOW WOW) 悪くなる〜",
+  "members": [
+    { "name": "hirayama", "x": -3.5, "y": 2 },
+    { "name": "sakurada", "x": -2.5, "y": 2 },
+    { "name": "haga", "x": -1.5, "y": 2 },
+    { "name": "sakata", "x": -0.5, "y": 2 },
+    { "name": "miyamoto", "x": 0.5, "y": 2 },
+    { "name": "sakashita", "x": 1.5, "y": 2 },
+    { "name": "itagaki", "x": 2.5, "y": 2 },
+    { "name": "izumi", "x": 3.5, "y": 2 },
+
+    { "name": "nishijima", "x": -7.5, "y": 1 },
+    { "name": "matsumoto", "x": -6.5, "y": 1 },
+    { "name": "mikamo", "x": -5.5, "y": 1 },
+    { "name": "matsuoka", "x": -4.5, "y": 1 },
+    { "name": "nakagawa", "x": 4.5, "y": 1 },
+    { "name": "ikeda", "x": 5.5, "y": 1 },
+    { "name": "takeda", "x": 6.5, "y": 1 },
+    { "name": "nishida", "x": 7.5, "y": 1 }
+  ]
+},
+{
+  "title": "2番サビ",
+  "lyrics": "",
+  "members": [
+    { "name": "matsumoto", "x": -4.5, "y": 5 },
+    { "name": "miyamoto", "x": 0, "y": 5 },
+    { "name": "takeda", "x": 4.5, "y": 5 },
+
+    { "name": "nishijima", "x": -5.5, "y": 4 },
+    { "name": "matsuoka", "x": -3, "y": 4 },
+    { "name": "nakagawa", "x": 3, "y": 4 },
+    { "name": "nishida", "x": 5.5, "y": 4 },
+
+    { "name": "mikamo", "x": -4, "y": 3 },
+    { "name": "hirayama", "x": -1.5, "y": 3 },
+    { "name": "itagaki", "x": 1.5, "y": 3 },
+    { "name": "ikeda", "x": 4, "y": 3 },
+
+    { "name": "sakata", "x": -2.5, "y": 2 },
+    { "name": "haga", "x": 0, "y": 2 },
+    { "name": "izumi", "x": 2.5, "y": 2 },
+
+    { "name": "sakurada", "x": -1, "y": 1 },
+    { "name": "sakashita", "x": 1, "y": 1 }
+  ]
+},
+{
+  "title": "2番サビ後",
+  "lyrics": "",
+  "members": [
+    { "name": "matsumoto", "x": -3.5, "y": 4 },
+    { "name": "miyamoto", "x": 0, "y": 4 },
+    { "name": "takeda", "x": 3.5, "y": 4 },
+
+    { "name": "nishijima", "x": -5, "y": 3 },
+    { "name": "matsuoka", "x": -2, "y": 3 },
+    { "name": "nakagawa", "x": 2, "y": 3 },
+    { "name": "nishida", "x": 5, "y": 3 },
+
+    { "name": "mikamo", "x": -6, "y": 2 },
+    { "name": "hirayama", "x": -3, "y": 2 },
+    { "name": "sakata", "x": 0, "y": 2 },
+    { "name": "itagaki", "x": 3, "y": 2 },
+    { "name": "ikeda", "x": 6, "y": 2 },
+
+    { "name": "haga", "x": -4.5, "y": 1 },
+    { "name": "sakurada", "x": -1.5, "y": 1 },
+    { "name": "sakashita", "x": 1.5, "y": 1 },
+    { "name": "izumi", "x": 4.5, "y": 1 }
+  ]
+},
+{
+  "title": "ラストサビ",
+  "lyrics": "",
+  "members": [
+    { "name": "matsumoto", "x": -3.5, "y": 4 },
+    { "name": "miyamoto", "x": 0, "y": 4 },
+    { "name": "takeda", "x": 3.5, "y": 4 },
+
+    { "name": "nishijima", "x": -5, "y": 3 },
+    { "name": "matsuoka", "x": -2, "y": 3 },
+    { "name": "nakagawa", "x": 2, "y": 3 },
+    { "name": "nishida", "x": 5, "y": 3 },
+
+    { "name": "mikamo", "x": -6, "y": 2 },
+    { "name": "hirayama", "x": -3, "y": 2 },
+    { "name": "sakata", "x": 0, "y": 2 },
+    { "name": "itagaki", "x": 3, "y": 2 },
+    { "name": "ikeda", "x": 6, "y": 2 },
+
+    { "name": "haga", "x": -4.5, "y": 1 },
+    { "name": "sakurada", "x": -1.5, "y": 1 },
+    { "name": "sakashita", "x": 1.5, "y": 1 },
+    { "name": "izumi", "x": 4.5, "y": 1 }
+  ]
+}
+  ]
+}
