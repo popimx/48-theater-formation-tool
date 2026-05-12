@@ -44,137 +44,126 @@ fetch("data/stages.json")
    描画関数
 ========================= */
 
-async function renderFormation() {
+function renderFormation() {
 
   partsContainer.innerHTML = "";
 
   if (!currentStage) return;
   if (!songSelect.value) return;
 
-  try {
+  fetch(`formations/${currentStage.stageId}/${songSelect.value}`)
+    .then(r => r.json())
+    .then(data => {
 
-    const response =
-      await fetch(
-        `formations/${currentStage.stageId}/${songSelect.value}`
-      );
+      if (!data.parts) return;
 
-    const data =
-      await response.json();
+      const focusMember =
+        memberSelect.value;
 
-    if (!data.parts) return;
+      data.parts.forEach(part => {
 
-    const focusMember =
-      memberSelect.value;
-
-    data.parts.forEach(part => {
-
-      const card =
-        document.createElement("div");
-
-      card.className = "part-card";
-
-      card.innerHTML = `
-        <h2 class="part-title">${part.title ?? ""}</h2>
-        <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
-        <div class="formation-area"></div>
-      `;
-
-      const formationArea =
-        card.querySelector(".formation-area");
-
-      (part.members ?? []).forEach(member => {
-
-        const memberDiv =
+        const card =
           document.createElement("div");
 
-        memberDiv.className = "member";
+        card.className = "part-card";
 
-        /* =========================
-           フォーカス
-        ========================= */
+        card.innerHTML = `
+          <h2 class="part-title">${part.title ?? ""}</h2>
+          <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
+          <div class="formation-area"></div>
+        `;
 
-        const isActive =
-          member.id === focusMember;
+        const formationArea =
+          card.querySelector(".formation-area");
 
-        memberDiv.classList.add(
-          isActive ? "active" : "sub"
-        );
+        (part.members ?? []).forEach(member => {
 
-        /* =========================
-           座標
-        ========================= */
-
-        const posX =
-          50 + ((member.x ?? 0) * 5);
-
-        const posY =
-          92 - ((member.y ?? 0) * 18);
-
-        memberDiv.style.left = `${posX}%`;
-        memberDiv.style.top = `${posY}%`;
-
-        /* =========================
-           ★画像（ここが完全修正版）
-        ========================= */
-
-        const memberData =
-          currentStage.members.find(
-            m => m.id === member.id
-          );
-
-        const imgKey =
-          memberData.image; // ← これだけ信じる（超重要）
-
-        const image =
-          document.createElement("img");
-
-        image.src =
-          `images/members/${currentStage.stageId}/${imgKey}.PNG`;
-
-        image.alt =
-          memberData?.name ?? member.id;
-
-        memberDiv.appendChild(image);
-
-        /* =========================
-           ラベル
-        ========================= */
-
-        if (isActive) {
-
-          const label =
+          const memberDiv =
             document.createElement("div");
 
-          label.className = "label";
+          memberDiv.className = "member";
 
-          let positionText = "";
+          /* =========================
+             フォーカス（完全統一）
+          ========================= */
 
-          if ((member.x ?? 0) < 0) {
-            positionText = `下 ${Math.abs(member.x)}`;
-          } else if ((member.x ?? 0) > 0) {
-            positionText = `上 ${member.x}`;
-          } else {
-            positionText = "0";
+          const isActive =
+            focusMember &&
+            member.id === focusMember;
+
+          memberDiv.classList.add(
+            isActive ? "active" : "sub"
+          );
+
+          /* 座標 */
+
+          const posX =
+            50 + ((member.x ?? 0) * 5);
+
+          const posY =
+            92 - ((member.y ?? 0) * 18);
+
+          memberDiv.style.left = `${posX}%`;
+          memberDiv.style.top = `${posY}%`;
+
+          /* =========================
+             画像（ここが重要修正）
+          ========================= */
+
+          const imgKey =
+            member.id; // ← ここを統一（ズレ防止）
+
+          const image =
+            document.createElement("img");
+
+          image.src =
+            `images/members/${currentStage.stageId}/${imgKey}_2025.PNG`;
+
+          image.alt =
+            member.id;
+
+          memberDiv.appendChild(image);
+
+          /* ラベル */
+
+          if (isActive) {
+
+            const label =
+              document.createElement("div");
+
+            label.className = "label";
+
+            let positionText = "";
+
+            if ((member.x ?? 0) < 0) {
+              positionText = `下 ${Math.abs(member.x)}`;
+            } else if ((member.x ?? 0) > 0) {
+              positionText = `上 ${member.x}`;
+            } else {
+              positionText = "0";
+            }
+
+            const displayName =
+              member.id;
+
+            label.innerHTML =
+              `${displayName}<br>${positionText}`;
+
+            memberDiv.appendChild(label);
+
           }
 
-          label.innerHTML =
-            `${memberData.display ?? memberData.name}<br>${positionText}`;
+          formationArea.appendChild(memberDiv);
 
-          memberDiv.appendChild(label);
+        });
 
-        }
-
-        formationArea.appendChild(memberDiv);
+        partsContainer.appendChild(card);
 
       });
 
-      partsContainer.appendChild(card);
+    })
+    .catch(err => console.error(err));
 
-    });
-
-  } catch (err) {
-    console.error(err);
-  }
 }
 
 /* =========================
@@ -210,7 +199,7 @@ stageSelect.addEventListener("change", () => {
       member.id;
 
     option.textContent =
-      `${member.name}ポジ`;
+      member.name;
 
     memberSelect.appendChild(option);
 
@@ -235,10 +224,11 @@ stageSelect.addEventListener("change", () => {
 
   songSelect.disabled = false;
 
+  renderFormation();
 });
 
 /* =========================
-   即時更新（これ入れる）
+   即時更新
 ========================= */
 
 songSelect.addEventListener("change", renderFormation);
