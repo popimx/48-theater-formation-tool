@@ -4,113 +4,178 @@
   "parts": [
     {
       "title": "1番Aメロ",
-
       "lyrics": "WOW ガラガラ音立て 一気に崩れてくもの〜",
 
       "members": [
+        { "name": "matsumoto", "x": -4.5, "y": 4 },
+        { "name": "takeda", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 4.5, "y": 4 },
 
-        {
-          "name": "matsumoto",
-          "x": -4.5,
-          "y": 4
-        },
+        { "name": "miyamoto", "x": -6, "y": 3 },
+        { "name": "nakagawa", "x": -3, "y": 3 },
+        { "name": "nishijima", "x": 3, "y": 3 },
+        { "name": "nishida", "x": 6, "y": 3 },
 
-        {
-          "name": "takeda",
-          "x": 0,
-          "y": 4
-        },
+        { "name": "hirayama", "x": -5, "y": 2 },
+        { "name": "sakurada", "x": -1.5, "y": 2 },
+        { "name": "sakashita", "x": 1.5, "y": 2 },
+        { "name": "mikamo", "x": 5, "y": 2 },
 
-        {
-          "name": "matsuoka",
-          "x": 4.5,
-          "y": 4
-        },
+        { "name": "ikeda", "x": -7, "y": 1 },
+        { "name": "sakata", "x": -3, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 },
+        { "name": "itagaki", "x": 7, "y": 1 }
+      ]
+    },
 
+    {
+      "title": "1番サビ 難波愛 全てが更地になっても〜",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 4 },
+        { "name": "matsumoto", "x": -2, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 7, "y": 4 },
 
+        { "name": "miyamoto", "x": -6, "y": 3 },
+        { "name": "ikeda", "x": -3.5, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+        { "name": "nishijima", "x": 6, "y": 3 },
 
-        {
-          "name": "miyamoto",
-          "x": -6,
-          "y": 3
-        },
+        { "name": "sakurada", "x": -5, "y": 2 },
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "sakashita", "x": 5, "y": 2 },
 
-        {
-          "name": "nakagawa",
-          "x": -3,
-          "y": 3
-        },
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
 
-        {
-          "name": "nishijima",
-          "x": 3,
-          "y": 3
-        },
+    {
+      "title": "1番サビ 難波愛 七つ転んで 八つ起きて〜",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 4 },
+        { "name": "matsumoto", "x": -4.5, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 4.5, "y": 4 },
+        { "name": "takeda", "x": 7, "y": 4 },
 
-        {
-          "name": "nishida",
-          "x": 6,
-          "y": 3
-        },
+        { "name": "miyamoto", "x": -5.5, "y": 3 },
+        { "name": "ikeda", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "mikamo", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "nishijima", "x": 5.5, "y": 3 },
 
+        { "name": "sakurada", "x": -4, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
 
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
 
-        {
-          "name": "hirayama",
-          "x": -5,
-          "y": 2
-        },
+    {
+      "title": "2番Aメロ この世に存在しない 森羅万象よ〜",
+      "members": [
+        { "name": "hirayama", "x": -4, "y": 4 },
+        { "name": "haga", "x": 0, "y": 4 },
+        { "name": "mikamo", "x": 4, "y": 4 },
 
-        {
-          "name": "sakurada",
-          "x": -1.5,
-          "y": 2
-        },
+        { "name": "sakurada", "x": -5.5, "y": 3 },
+        { "name": "nakagawa", "x": -2.5, "y": 3 },
+        { "name": "takeda", "x": 2.5, "y": 3 },
+        { "name": "sakashita", "x": 5.5, "y": 3 },
 
-        {
-          "name": "sakashita",
-          "x": 1.5,
-          "y": 2
-        },
+        { "name": "ikeda", "x": -6.5, "y": 2 },
+        { "name": "sakata", "x": -3.5, "y": 2 },
+        { "name": "nishijima", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 3.5, "y": 2 },
+        { "name": "itagaki", "x": 6.5, "y": 2 },
 
-        {
-          "name": "mikamo",
-          "x": 5,
-          "y": 2
-        },
+        { "name": "miyamoto", "x": -5, "y": 1 },
+        { "name": "matsumoto", "x": -2, "y": 1 },
+        { "name": "matsuoka", "x": 2, "y": 1 },
+        { "name": "nishida", "x": 5, "y": 1 }
+      ]
+    },
 
+    {
+      "title": "2番Bメロ 生きるとは 悲しみを 乗り越える修羅場さ〜",
+      "members": [
+        { "name": "ikeda", "x": -4.5, "y": 4 },
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "mikamo", "x": 1.5, "y": 4 },
+        { "name": "itagaki", "x": 4.5, "y": 4 },
 
+        { "name": "sakurada", "x": -6, "y": 3 },
+        { "name": "sakata", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+        { "name": "sakashita", "x": 6, "y": 3 },
 
-        {
-          "name": "ikeda",
-          "x": -7,
-          "y": 1
-        },
+        { "name": "miyamoto", "x": -4.5, "y": 2 },
+        { "name": "matsumoto", "x": -1.5, "y": 2 },
+        { "name": "matsuoka", "x": 1.5, "y": 2 },
+        { "name": "nishida", "x": 4.5, "y": 2 },
 
-        {
-          "name": "sakata",
-          "x": -3,
-          "y": 1
-        },
+        { "name": "nakagawa", "x": -3, "y": 1 },
+        { "name": "nishijima", "x": 0, "y": 1 },
+        { "name": "takeda", "x": 3, "y": 1 }
+      ]
+    },
 
-        {
-          "name": "haga",
-          "x": 0,
-          "y": 1
-        },
+    {
+      "title": "2番サビ 難波愛 どんなに涙にくれても〜",
+      "members": [
+        { "name": "nakagawa", "x": -4.5, "y": 4 },
+        { "name": "matsumoto", "x": -2.25, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 2.25, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
 
-        {
-          "name": "izumi",
-          "x": 3,
-          "y": 1
-        },
+        { "name": "miyamoto", "x": -6, "y": 3 },
+        { "name": "ikeda", "x": -3.5, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "mikamo", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+        { "name": "nishijima", "x": 6, "y": 3 },
 
-        {
-          "name": "itagaki",
-          "x": 7,
-          "y": 1
-        }
+        { "name": "sakata", "x": -2.5, "y": 2 },
+        { "name": "izumi", "x": 2.5, "y": 2 },
 
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ 難波愛 七つ転んで 八つ起きて〜",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 4 },
+        { "name": "matsumoto", "x": -4.5, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 4.5, "y": 4 },
+        { "name": "takeda", "x": 7, "y": 4 },
+
+        { "name": "miyamoto", "x": -5.5, "y": 3 },
+        { "name": "ikeda", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "mikamo", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "nishijima", "x": 5.5, "y": 3 },
+
+        { "name": "sakurada", "x": -4, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
       ]
     }
   ]
