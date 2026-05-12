@@ -67,14 +67,14 @@ select {
 }
 
 /* =========================
-   メンバーアイコン
+   メンバーアイコン（32px）
 ========================= */
 
 .member {
   position: absolute;
 
-  width: 38px;   /* ←縮小 */
-  height: 38px;  /* ←縮小 */
+  width: 32px;
+  height: 32px;
 
   transform: translate(-50%, -50%);
 }
@@ -88,24 +88,24 @@ select {
   object-fit: cover;
 }
 
-/* うす表示（非選択メンバー） */
+/* 非選択メンバー */
 .member.sub {
   opacity: 0.15;
 }
 
-/* 強調メンバー */
+/* 選択メンバー */
 .member.active {
   opacity: 1;
 }
 
 /* =========================
-   名前ラベル
+   名前ラベル（32px対応）
 ========================= */
 
 .label {
   position: absolute;
 
-  top: 42px; /* ←アイコン縮小に合わせて調整 */
+  top: 36px; /* 38→32に合わせて調整 */
 
   left: 50%;
 
@@ -113,7 +113,7 @@ select {
 
   text-align: center;
 
-  font-size: 0.65rem; /* ←縮小 */
+  font-size: 0.6rem;
 
   font-weight: 600;
 
