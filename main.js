@@ -1,122 +1,3 @@
-const stageSelect =
-  document.getElementById("stage-select");
-
-const memberSelect =
-  document.getElementById("member-select");
-
-const songSelect =
-  document.getElementById("song-select");
-
-const partsContainer =
-  document.getElementById("parts-container");
-
-let stagesData = [];
-
-let currentStage = null;
-
-/* 演目一覧読み込み */
-
-fetch("data/stages.json")
-  .then(response => response.json())
-  .then(data => {
-
-    stagesData = data;
-
-    data.forEach(stage => {
-
-      const option =
-        document.createElement("option");
-
-      option.value =
-        stage.stageId;
-
-      option.textContent =
-        stage.stage;
-
-      stageSelect.appendChild(option);
-
-    });
-
-  });
-
-/* 演目変更 */
-
-stageSelect.addEventListener("change", () => {
-
-  memberSelect.innerHTML =
-    '<option value="">メンバーを選択</option>';
-
-  songSelect.innerHTML =
-    '<option value="">楽曲を選択</option>';
-
-  memberSelect.disabled = true;
-  songSelect.disabled = true;
-
-  partsContainer.innerHTML = "";
-
-  currentStage =
-    stagesData.find(
-      stage =>
-        stage.stageId === stageSelect.value
-    );
-
-  if (!currentStage) return;
-
-  /* メンバー */
-
-  currentStage.members.forEach(member => {
-
-    const option =
-      document.createElement("option");
-
-    option.value =
-      member.id;
-
-    option.textContent =
-      member.name;
-
-    memberSelect.appendChild(option);
-
-  });
-
-  memberSelect.disabled = false;
-
-});
-
-/* メンバー変更 */
-
-memberSelect.addEventListener("change", () => {
-
-  songSelect.innerHTML =
-    '<option value="">楽曲を選択</option>';
-
-  songSelect.disabled = true;
-
-  partsContainer.innerHTML = "";
-
-  if (!currentStage) return;
-
-  /* 楽曲 */
-
-  currentStage.songs.forEach(song => {
-
-    const option =
-      document.createElement("option");
-
-    option.value =
-      song.file;
-
-    option.textContent =
-      song.name;
-
-    songSelect.appendChild(option);
-
-  });
-
-  songSelect.disabled = false;
-
-});
-
 /* 楽曲変更 */
 
 songSelect.addEventListener("change", async () => {
@@ -174,13 +55,9 @@ songSelect.addEventListener("change", async () => {
       /* 強調 */
 
       if (member.name === focusMember) {
-
         memberDiv.classList.add("active");
-
       } else {
-
         memberDiv.classList.add("sub");
-
       }
 
       /* 座標 */
@@ -197,12 +74,14 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
-      /* 画像（ここが変更点） */
+      /* メンバー情報取得（idで紐付け） */
 
       const memberData =
         currentStage.members.find(
           m => m.id === member.name
         );
+
+      /* 画像 */
 
       const image =
         document.createElement("img");
@@ -217,7 +96,7 @@ songSelect.addEventListener("change", async () => {
 
       memberDiv.appendChild(image);
 
-      /* 強調メンバーのみラベル表示 */
+      /* ラベル（display優先） */
 
       if (member.name === focusMember) {
 
@@ -230,24 +109,18 @@ songSelect.addEventListener("change", async () => {
         let positionText = "";
 
         if (member.x < 0) {
-
-          positionText =
-            `下 ${Math.abs(member.x)}`;
-
+          positionText = `下 ${Math.abs(member.x)}`;
         } else if (member.x > 0) {
-
-          positionText =
-            `上 ${member.x}`;
-
+          positionText = `上 ${member.x}`;
         } else {
-
-          positionText =
-            "0";
-
+          positionText = "0";
         }
 
+        const displayName =
+          memberData?.display ?? member.name;
+
         label.innerHTML = `
-          ${member.name}<br>
+          ${displayName}<br>
           ${positionText}
         `;
 
