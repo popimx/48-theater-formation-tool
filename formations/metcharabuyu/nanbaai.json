@@ -1,0 +1,117 @@
+{
+  "song": "難波愛",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+
+      "lyrics": "WOW ガラガラ音立て 一気に崩れてくもの〜",
+
+      "members": [
+
+        {
+          "name": "matsumoto",
+          "x": -4.5,
+          "y": 4
+        },
+
+        {
+          "name": "takeda",
+          "x": 0,
+          "y": 4
+        },
+
+        {
+          "name": "matsuoka",
+          "x": 4.5,
+          "y": 4
+        },
+
+
+
+        {
+          "name": "miyamoto",
+          "x": -6,
+          "y": 3
+        },
+
+        {
+          "name": "nakagawa",
+          "x": -3,
+          "y": 3
+        },
+
+        {
+          "name": "nishijima",
+          "x": 3,
+          "y": 3
+        },
+
+        {
+          "name": "nishida",
+          "x": 6,
+          "y": 3
+        },
+
+
+
+        {
+          "name": "hirayama",
+          "x": -5,
+          "y": 2
+        },
+
+        {
+          "name": "sakurada",
+          "x": -1.5,
+          "y": 2
+        },
+
+        {
+          "name": "sakashita",
+          "x": 1.5,
+          "y": 2
+        },
+
+        {
+          "name": "mikamo",
+          "x": 5,
+          "y": 2
+        },
+
+
+
+        {
+          "name": "ikeda",
+          "x": -7,
+          "y": 1
+        },
+
+        {
+          "name": "sakata",
+          "x": -3,
+          "y": 1
+        },
+
+        {
+          "name": "haga",
+          "x": 0,
+          "y": 1
+        },
+
+        {
+          "name": "izumi",
+          "x": 3,
+          "y": 1
+        },
+
+        {
+          "name": "itagaki",
+          "x": 7,
+          "y": 1
+        }
+
+      ]
+    }
+  ]
+}
