@@ -1,109 +1,107 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: sans-serif;
 
   margin: 0;
   padding: 16px;
 
-  background-color: #f9f9f9;
-  color: #222;
-
-  max-width: 390px;
-  margin-left: auto;
-  margin-right: auto;
+  background: #f5f5f5;
 }
 
 header h1 {
-  font-size: 1.4rem;
   text-align: center;
-  margin-bottom: 1rem;
+  font-size: 1.4rem;
 }
 
 .form-group {
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 
-.form-group label {
-  display: block;
-  margin-bottom: 4px;
-  font-weight: bold;
-}
-
-.form-group select {
+select {
   width: 100%;
+
+  padding: 8px;
+
   font-size: 1rem;
-  padding: 8px 10px;
 
-  border-radius: 6px;
+  border-radius: 8px;
   border: 1px solid #ccc;
-
-  background-color: white;
 }
 
-#image-container {
-  margin-top: 16px;
-}
-
-.image-card {
+.part-card {
   background: white;
 
-  border-radius: 10px;
+  border-radius: 12px;
 
   padding: 12px;
 
-  margin-bottom: 16px;
+  margin-top: 18px;
 
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .part-title {
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin-bottom: 8px;
 }
 
 .lyrics {
-  font-size: 0.95rem;
   line-height: 1.6;
   margin-bottom: 12px;
 }
 
-.formation-image {
+.formation-area {
+  position: relative;
+
   width: 100%;
-  border-radius: 8px;
-  display: block;
-  cursor: pointer;
+  aspect-ratio: 16 / 9;
+
+  background: #fafafa;
+
+  border-radius: 12px;
+
+  overflow: hidden;
 }
 
-#empty-message {
+.member {
+  position: absolute;
+
+  width: 52px;
+  height: 52px;
+
+  transform: translate(-50%, -50%);
+}
+
+.member img {
+  width: 100%;
+  height: 100%;
+
+  border-radius: 50%;
+
+  object-fit: cover;
+}
+
+.member.sub {
+  opacity: 0.15;
+}
+
+.member.active {
+  opacity: 1;
+}
+
+.label {
+  position: absolute;
+
+  top: 58px;
+  left: 50%;
+
+  transform: translateX(-50%);
+
   text-align: center;
-  color: #666;
-  margin-top: 20px;
-}
 
-/* モーダル */
+  font-size: 0.8rem;
+  font-weight: bold;
 
-#modal {
-  position: fixed;
-  inset: 0;
+  line-height: 1.2;
 
-  background: rgba(0,0,0,0.85);
-
-  display: none;
-
-  justify-content: center;
-  align-items: center;
-
-  z-index: 999;
-
-  padding: 12px;
-}
-
-#modal.active {
-  display: flex;
-}
-
-#modal img {
-  max-width: 100%;
-  max-height: 100%;
-  border-radius: 8px;
+  white-space: nowrap;
 }
