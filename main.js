@@ -203,7 +203,7 @@ songSelect.addEventListener("change", async () => {
         document.createElement("img");
 
       image.src =
-        `images/members/${currentStage.stageId}/${member.name}.webp`;
+        `images/members/${currentStage.stageId}/${member.name}.png`;
 
       image.alt =
         member.name;
