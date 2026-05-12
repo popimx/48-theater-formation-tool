@@ -18,7 +18,7 @@ let currentStage = null;
 ========================= */
 
 fetch("data/stages.json")
-  .then(response => response.json())
+  .then(r => r.json())
   .then(data => {
 
     stagesData = data;
@@ -41,78 +41,16 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   演目変更
+   描画関数（ここが本体）
 ========================= */
 
-stageSelect.addEventListener("change", () => {
-
-  memberSelect.innerHTML =
-    '<option value="">メンバーを選択</option>';
-
-  songSelect.innerHTML =
-    '<option value="">楽曲を選択</option>';
-
-  memberSelect.disabled = true;
-  songSelect.disabled = true;
-
-  partsContainer.innerHTML = "";
-
-  currentStage =
-    stagesData.find(
-      stage => stage.stageId === stageSelect.value
-    );
-
-  if (!currentStage) return;
-
-  /* メンバー */
-
-  currentStage.members.forEach(member => {
-
-    const option =
-      document.createElement("option");
-
-    option.value =
-      member.id;
-
-    option.textContent =
-      `${member.name}ポジ`;
-
-    memberSelect.appendChild(option);
-
-  });
-
-  memberSelect.disabled = false;
-
-  /* 楽曲 */
-
-  currentStage.songs.forEach(song => {
-
-    const option =
-      document.createElement("option");
-
-    option.value =
-      song.file;
-
-    option.textContent =
-      song.name;
-
-    songSelect.appendChild(option);
-
-  });
-
-  songSelect.disabled = false;
-
-});
-
-/* =========================
-   楽曲変更（完全修正版）
-========================= */
-
-songSelect.addEventListener("change", async () => {
+async function renderFormation() {
 
   partsContainer.innerHTML = "";
 
   if (!currentStage) return;
+
+  if (!songSelect.value) return;
 
   try {
 
@@ -134,18 +72,11 @@ songSelect.addEventListener("change", async () => {
       const card =
         document.createElement("div");
 
-      card.className =
-        "part-card";
+      card.className = "part-card";
 
       card.innerHTML = `
-        <h2 class="part-title">
-          ${part.title ?? ""}
-        </h2>
-
-        <div class="lyrics">
-          ${(part.lyrics ?? "").trim()}
-        </div>
-
+        <h2 class="part-title">${part.title ?? ""}</h2>
+        <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
         <div class="formation-area"></div>
       `;
 
@@ -157,22 +88,18 @@ songSelect.addEventListener("change", async () => {
         const memberDiv =
           document.createElement("div");
 
-        memberDiv.className =
-          "member";
+        memberDiv.className = "member";
 
         /* =========================
-           ★修正ポイント（ここ重要）
-           フォーカス判定はidで統一
+           フォーカス（完全統一：id）
         ========================= */
 
         const isActive =
-          member.name === focusMember || member.id === focusMember;
+          member.id === focusMember;
 
-        if (isActive) {
-          memberDiv.classList.add("active");
-        } else {
-          memberDiv.classList.add("sub");
-        }
+        memberDiv.classList.add(
+          isActive ? "active" : "sub"
+        );
 
         /* 座標 */
 
@@ -182,32 +109,29 @@ songSelect.addEventListener("change", async () => {
         const posY =
           92 - ((member.y ?? 0) * 18);
 
-        memberDiv.style.left =
-          `${posX}%`;
+        memberDiv.style.left = `${posX}%`;
+        memberDiv.style.top = `${posY}%`;
 
-        memberDiv.style.top =
-          `${posY}%`;
-
-        /* メンバー情報（idで確実に紐付け） */
+        /* メンバー情報 */
 
         const memberData =
           currentStage.members.find(
-            m => m.id === member.name || m.id === member.id
+            m => m.id === member.id
           );
 
         const imgKey =
-          memberData?.image ?? member.name;
+          memberData?.image ?? member.id;
 
-        const image =
+        const img =
           document.createElement("img");
 
-        image.src =
+        img.src =
           `images/members/${currentStage.stageId}/${imgKey}.PNG`;
 
-        image.alt =
-          memberData?.name ?? member.name;
+        img.alt =
+          memberData?.name ?? member.id;
 
-        memberDiv.appendChild(image);
+        memberDiv.appendChild(img);
 
         /* ラベル（フォーカスのみ） */
 
@@ -216,8 +140,7 @@ songSelect.addEventListener("change", async () => {
           const label =
             document.createElement("div");
 
-          label.className =
-            "label";
+          label.className = "label";
 
           let positionText = "";
 
@@ -232,7 +155,7 @@ songSelect.addEventListener("change", async () => {
           const displayName =
             memberData?.display ??
             memberData?.name ??
-            member.name;
+            member.id;
 
           label.innerHTML =
             `${displayName}<br>${positionText}`;
@@ -252,5 +175,76 @@ songSelect.addEventListener("change", async () => {
   } catch (err) {
     console.error(err);
   }
+}
+
+/* =========================
+   演目変更
+========================= */
+
+stageSelect.addEventListener("change", () => {
+
+  memberSelect.innerHTML =
+    '<option value="">メンバーを選択</option>';
+
+  songSelect.innerHTML =
+    '<option value="">楽曲を選択</option>';
+
+  memberSelect.disabled = true;
+  songSelect.disabled = true;
+
+  partsContainer.innerHTML = "";
+
+  currentStage =
+    stagesData.find(
+      s => s.stageId === stageSelect.value
+    );
+
+  if (!currentStage) return;
+
+  currentStage.members.forEach(member => {
+
+    const option =
+      document.createElement("option");
+
+    option.value =
+      member.id;
+
+    option.textContent =
+      `${member.name}ポジ`;
+
+    memberSelect.appendChild(option);
+
+  });
+
+  memberSelect.disabled = false;
+
+  currentStage.songs.forEach(song => {
+
+    const option =
+      document.createElement("option");
+
+    option.value =
+      song.file;
+
+    option.textContent =
+      song.name;
+
+    songSelect.appendChild(option);
+
+  });
+
+  songSelect.disabled = false;
 
 });
+
+/* =========================
+   楽曲変更
+========================= */
+
+songSelect.addEventListener("change", renderFormation);
+
+/* =========================
+   メンバー変更（←これが重要）
+========================= */
+
+memberSelect.addEventListener("change", renderFormation);
