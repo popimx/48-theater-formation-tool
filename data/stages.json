@@ -1,100 +1,115 @@
 [
   {
-    "stage": "NMB48「情熱！めっちゃ楽舞友」",
+    "stage": "情熱！めっちゃ楽舞友",
     "stageId": "metcharabuyu",
 
     "members": [
+
       {
         "name": "池田典愛",
-        "id": "ikeda"
+        "id": "ikeda",
+        "image": "ikeda_tenna_2025"
       },
 
       {
         "name": "泉綾乃",
-        "id": "izumi"
+        "id": "izumi",
+        "image": "izumi_ayano_2025"
       },
 
       {
         "name": "板垣心和",
-        "id": "itagaki"
+        "id": "itagaki",
+        "image": "itagaki_koyori_2025"
       },
 
       {
         "name": "坂下真心",
-        "id": "sakashita"
+        "id": "sakashita",
+        "image": "sakashita_mako_2025"
       },
 
       {
         "name": "坂田心咲",
-        "id": "sakata"
+        "id": "sakata",
+        "image": "sakata_misaki_2025"
       },
 
       {
         "name": "桜田彩叶",
-        "id": "sakurada"
+        "id": "sakurada",
+        "image": "sakurada_ayaka_2025"
       },
 
       {
         "name": "竹田京加",
-        "id": "takeda"
+        "id": "takeda",
+        "image": "takeda_kyoka_2025"
       },
 
       {
         "name": "中川朋香",
-        "id": "nakagawa"
+        "id": "nakagawa",
+        "image": "nakagawa_tomoka_2025"
       },
 
       {
         "name": "西島梨央",
-        "id": "nishijima"
+        "id": "nishijima",
+        "image": "nishijima_rio_2025"
       },
 
       {
         "name": "西田帆花",
-        "id": "nishida"
+        "id": "nishida",
+        "image": "nishida_honoka_2025"
       },
 
       {
         "name": "芳賀礼",
-        "id": "haga"
+        "id": "haga",
+        "image": "haga_rei_2025"
       },
 
       {
         "name": "平山真衣",
-        "id": "hirayama"
+        "id": "hirayama",
+        "image": "hirayama_mai_2025"
       },
 
       {
         "name": "松岡さくら",
-        "id": "matsuoka"
+        "id": "matsuoka",
+        "image": "matsuoka_sakura_2025"
       },
 
       {
         "name": "松本海日菜",
-        "id": "matsumoto"
+        "id": "matsumoto",
+        "image": "matsumoto_mihina_2025"
       },
 
       {
         "name": "三鴨くるみ",
-        "id": "mikamo"
+        "id": "mikamo",
+        "image": "mikamo_kurumi_2025"
       },
 
       {
         "name": "宮本杏海",
-        "id": "miyamoto"
+        "id": "miyamoto",
+        "image": "miyamoto_ami_2025"
       }
+
     ],
 
     "songs": [
+
       {
         "name": "難波愛",
         "file": "nanbaai.json"
-      },
-
-      {
-        "name": "空から愛が降って来る",
-        "file": "sorakaraaigafuttekuru.json"
       }
+
     ]
   }
 ]
