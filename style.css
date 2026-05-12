@@ -49,6 +49,10 @@ select {
   margin-bottom: 12px;
 }
 
+/* =========================
+   フォーメーションエリア
+========================= */
+
 .formation-area {
   position: relative;
 
@@ -62,11 +66,15 @@ select {
   overflow: hidden;
 }
 
+/* =========================
+   メンバーアイコン
+========================= */
+
 .member {
   position: absolute;
 
-  width: 52px;
-  height: 52px;
+  width: 38px;   /* ←縮小 */
+  height: 38px;  /* ←縮小 */
 
   transform: translate(-50%, -50%);
 }
@@ -80,28 +88,38 @@ select {
   object-fit: cover;
 }
 
+/* うす表示（非選択メンバー） */
 .member.sub {
   opacity: 0.15;
 }
 
+/* 強調メンバー */
 .member.active {
   opacity: 1;
 }
 
+/* =========================
+   名前ラベル
+========================= */
+
 .label {
   position: absolute;
 
-  top: 58px;
+  top: 42px; /* ←アイコン縮小に合わせて調整 */
+
   left: 50%;
 
   transform: translateX(-50%);
 
   text-align: center;
 
-  font-size: 0.8rem;
-  font-weight: bold;
+  font-size: 0.65rem; /* ←縮小 */
 
-  line-height: 1.2;
+  font-weight: 600;
+
+  line-height: 1.1;
 
   white-space: nowrap;
+
+  color: #333;
 }
