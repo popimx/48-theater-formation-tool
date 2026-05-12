@@ -128,17 +128,11 @@ songSelect.addEventListener("change", () => {
 
       <div class="image-card">
 
-        <div class="song-name">
-          ${part.song}
-        </div>
-
         <h2 class="part-title">
           ${part.title}
         </h2>
 
-        <div class="lyrics">
-          ${part.lyrics}
-        </div>
+        <div class="lyrics">${part.lyrics}</div>
 
         <img
           src="${part.image}"
