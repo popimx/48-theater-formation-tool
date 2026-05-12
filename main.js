@@ -14,7 +14,7 @@ let stagesData = [];
 
 let currentStage = null;
 
-/* 演目一覧 */
+/* 演目一覧読み込み */
 
 fetch("data/stages.json")
   .then(response => response.json())
@@ -94,6 +94,10 @@ memberSelect.addEventListener("change", () => {
 
   partsContainer.innerHTML = "";
 
+  if (!currentStage) return;
+
+  /* 楽曲 */
+
   currentStage.songs.forEach(song => {
 
     const option =
@@ -119,6 +123,8 @@ songSelect.addEventListener("change", async () => {
 
   partsContainer.innerHTML = "";
 
+  if (!currentStage) return;
+
   const response =
     await fetch(
       `formations/${currentStage.stageId}/${songSelect.value}`
@@ -129,6 +135,8 @@ songSelect.addEventListener("change", async () => {
 
   const focusMember =
     memberSelect.value;
+
+  /* パートごと */
 
   data.parts.forEach(part => {
 
@@ -144,7 +152,7 @@ songSelect.addEventListener("change", async () => {
       </h2>
 
       <div class="lyrics">
-        ${part.lyrics}
+        ${part.lyrics.trim()}
       </div>
 
       <div class="formation-area"></div>
@@ -153,6 +161,8 @@ songSelect.addEventListener("change", async () => {
     const formationArea =
       card.querySelector(".formation-area");
 
+    /* メンバー描画 */
+
     part.members.forEach(member => {
 
       const memberDiv =
@@ -160,6 +170,8 @@ songSelect.addEventListener("change", async () => {
 
       memberDiv.className =
         "member";
+
+      /* 強調 */
 
       if (member.name === focusMember) {
 
@@ -170,6 +182,8 @@ songSelect.addEventListener("change", async () => {
         memberDiv.classList.add("sub");
 
       }
+
+      /* 座標 */
 
       const posX =
         50 + (member.x * 5);
@@ -183,15 +197,20 @@ songSelect.addEventListener("change", async () => {
       memberDiv.style.top =
         `${posY}%`;
 
+      /* 画像 */
+
       const image =
         document.createElement("img");
 
       image.src =
-        `images/members/${member.name}.webp`;
+        `images/members/${currentStage.stageId}/${member.name}.webp`;
+
+      image.alt =
+        member.name;
 
       memberDiv.appendChild(image);
 
-      /* ラベル */
+      /* 強調メンバーのみラベル表示 */
 
       if (member.name === focusMember) {
 
