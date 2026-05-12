@@ -25,14 +25,9 @@ fetch("data/stages.json")
 
     data.forEach(stage => {
 
-      const option =
-        document.createElement("option");
-
-      option.value =
-        stage.stageId;
-
-      option.textContent =
-        stage.stage;
+      const option = document.createElement("option");
+      option.value = stage.stageId;
+      option.textContent = stage.stage;
 
       stageSelect.appendChild(option);
 
@@ -57,14 +52,11 @@ function renderFormation() {
 
       if (!data.parts) return;
 
-      const focusMember =
-        memberSelect.value;
+      const focusMember = memberSelect.value;
 
       data.parts.forEach(part => {
 
-        const card =
-          document.createElement("div");
-
+        const card = document.createElement("div");
         card.className = "part-card";
 
         card.innerHTML = `
@@ -78,73 +70,65 @@ function renderFormation() {
 
         (part.members ?? []).forEach(member => {
 
-          const memberDiv =
-            document.createElement("div");
-
+          const memberDiv = document.createElement("div");
           memberDiv.className = "member";
 
           /* =========================
-             フォーカス判定
+             ★重要：ID統一
           ========================= */
 
+          const memberId = member.name; // ← JSON側は "ikeda" などで来る前提
+
           const isActive =
-            focusMember && member.id === focusMember;
+            memberId === focusMember;
 
           memberDiv.classList.add(
             isActive ? "active" : "sub"
           );
 
-          /* =========================
-             座標
-          ========================= */
+          /* 座標 */
 
-          const posX =
-            50 + ((member.x ?? 0) * 5);
-
-          const posY =
-            92 - ((member.y ?? 0) * 18);
+          const posX = 50 + ((member.x ?? 0) * 5);
+          const posY = 92 - ((member.y ?? 0) * 18);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
 
           /* =========================
-             メンバーデータ取得
+             ★メンバー情報取得
           ========================= */
 
           const memberData =
             currentStage.members.find(
-              m => m.id === member.id
+              m => m.id === memberId
             );
 
           /* =========================
-             画像（ここが完全正解）
+             ★画像パス（ここが確定版）
           ========================= */
 
-          const image =
-            document.createElement("img");
+          const imgKey =
+            memberData?.image ?? memberId;
 
-          image.src =
-            `images/members/${currentStage.stageId}/${memberData.image}.PNG`;
+          const img = document.createElement("img");
 
-          image.alt =
-            memberData?.name ?? member.id;
+          img.src =
+            `images/members/${currentStage.stageId}/${imgKey}.PNG`;
 
-          /* 画像エラー時ログ（デバッグ用） */
-          image.onerror = () => {
-            console.warn("画像なし:", image.src);
+          img.alt =
+            memberData?.name ?? memberId;
+
+          img.onerror = () => {
+            console.warn("画像が見つからない:", img.src);
           };
 
-          memberDiv.appendChild(image);
+          memberDiv.appendChild(img);
 
-          /* =========================
-             ラベル
-          ========================= */
+          /* ラベル */
 
           if (isActive) {
 
-            const label =
-              document.createElement("div");
-
+            const label = document.createElement("div");
             label.className = "label";
 
             let positionText = "";
@@ -160,13 +144,12 @@ function renderFormation() {
             const displayName =
               memberData?.display ??
               memberData?.name ??
-              member.id;
+              memberId;
 
             label.innerHTML =
               `${displayName}<br>${positionText}`;
 
             memberDiv.appendChild(label);
-
           }
 
           formationArea.appendChild(memberDiv);
@@ -178,7 +161,9 @@ function renderFormation() {
       });
 
     })
-    .catch(err => console.error(err));
+    .catch(err => {
+      console.error("描画エラー:", err);
+    });
 
 }
 
@@ -200,22 +185,17 @@ stageSelect.addEventListener("change", () => {
   partsContainer.innerHTML = "";
 
   currentStage =
-    stagesData.find(
-      s => s.stageId === stageSelect.value
-    );
+    stagesData.find(s => s.stageId === stageSelect.value);
 
   if (!currentStage) return;
 
+  /* メンバー */
+
   currentStage.members.forEach(member => {
 
-    const option =
-      document.createElement("option");
-
-    option.value =
-      member.id;
-
-    option.textContent =
-      member.name;
+    const option = document.createElement("option");
+    option.value = member.id;
+    option.textContent = member.name;
 
     memberSelect.appendChild(option);
 
@@ -223,16 +203,13 @@ stageSelect.addEventListener("change", () => {
 
   memberSelect.disabled = false;
 
+  /* 楽曲 */
+
   currentStage.songs.forEach(song => {
 
-    const option =
-      document.createElement("option");
-
-    option.value =
-      song.file;
-
-    option.textContent =
-      song.name;
+    const option = document.createElement("option");
+    option.value = song.file;
+    option.textContent = song.name;
 
     songSelect.appendChild(option);
 
@@ -241,10 +218,11 @@ stageSelect.addEventListener("change", () => {
   songSelect.disabled = false;
 
   renderFormation();
+
 });
 
 /* =========================
-   即時更新
+   即時切替
 ========================= */
 
 songSelect.addEventListener("change", renderFormation);
