@@ -86,22 +86,28 @@ function renderFormation() {
             isActive ? "active" : "sub"
           );
 
-          /* 座標 */
+          /* =========================
+             座標（間隔広め）
+          ========================= */
 
-          const posX = 50 + ((member.x ?? 0) * 5);
-          const posY = 92 - ((member.y ?? 0) * 18);
+          const posX = 50 + ((member.x ?? 0) * 6.5);
+          const posY = 92 - ((member.y ?? 0) * 22);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
 
-          /* メンバー情報 */
+          /* =========================
+             メンバー情報
+          ========================= */
 
           const memberData =
             currentStage.members.find(
               m => m.id === memberId
             );
 
-          /* 画像 */
+          /* =========================
+             画像
+          ========================= */
 
           const imgKey =
             memberData?.image ?? memberId;
@@ -121,8 +127,7 @@ function renderFormation() {
           memberDiv.appendChild(img);
 
           /* =========================
-             ラベル（修正済み）
-             ★上下表記削除 + マイナス削除
+             ラベル（選択メンバーのみ・数字のみ）
           ========================= */
 
           if (isActive) {
