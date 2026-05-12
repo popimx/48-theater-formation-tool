@@ -90,8 +90,8 @@ function renderFormation() {
              座標（現在バランス）
           ========================= */
 
-          const posX = 50 + ((member.x ?? 0) * 5.8);
-          const posY = 98 - ((member.y ?? 0) * 20);
+          const posX = 50 + ((member.x ?? 0) * 5);
+          const posY = 110 - ((member.y ?? 0) * 20);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
