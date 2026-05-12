@@ -74,8 +74,6 @@ stageSelect.addEventListener("change", () => {
     option.value =
       member.id;
 
-    /* ★修正：ポジ表示 */
-
     option.textContent =
       `${member.name}ポジ`;
 
@@ -107,7 +105,7 @@ stageSelect.addEventListener("change", () => {
 });
 
 /* =========================
-   楽曲変更（安定版）
+   楽曲変更（完全修正版）
 ========================= */
 
 songSelect.addEventListener("change", async () => {
@@ -162,9 +160,15 @@ songSelect.addEventListener("change", async () => {
         memberDiv.className =
           "member";
 
-        /* フォーカス */
+        /* =========================
+           ★修正ポイント（ここ重要）
+           フォーカス判定はidで統一
+        ========================= */
 
-        if (member.name === focusMember) {
+        const isActive =
+          member.name === focusMember || member.id === focusMember;
+
+        if (isActive) {
           memberDiv.classList.add("active");
         } else {
           memberDiv.classList.add("sub");
@@ -184,17 +188,15 @@ songSelect.addEventListener("change", async () => {
         memberDiv.style.top =
           `${posY}%`;
 
-        /* メンバー情報 */
+        /* メンバー情報（idで確実に紐付け） */
 
         const memberData =
           currentStage.members.find(
-            m => m.id === member.name
+            m => m.id === member.name || m.id === member.id
           );
 
         const imgKey =
           memberData?.image ?? member.name;
-
-        /* 画像 */
 
         const image =
           document.createElement("img");
@@ -207,9 +209,9 @@ songSelect.addEventListener("change", async () => {
 
         memberDiv.appendChild(image);
 
-        /* ラベル */
+        /* ラベル（フォーカスのみ） */
 
-        if (member.name === focusMember) {
+        if (isActive) {
 
           const label =
             document.createElement("div");
