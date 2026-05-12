@@ -1,28 +1,28 @@
 const stageSelect = document.getElementById("stage-select");
 const positionSelect = document.getElementById("position-select");
 const songSelect = document.getElementById("song-select");
+
 const imageContainer = document.getElementById("image-container");
 
 const modal = document.getElementById("modal");
 const modalImage = document.getElementById("modal-image");
 
-let data = [];
+let indexData = [];
+let currentData = null;
 
-/* JSON読み込み */
+/* index.json 読み込み */
 
-fetch("data/stages.json")
+fetch("data/index.json")
   .then(response => response.json())
-  .then(json => {
+  .then(data => {
 
-    data = json;
-
-    /* 演目一覧 */
+    indexData = data;
 
     data.forEach(stage => {
 
       const option = document.createElement("option");
 
-      option.value = stage.stage;
+      option.value = stage.stageId;
       option.textContent = stage.stage;
 
       stageSelect.appendChild(option);
@@ -46,8 +46,8 @@ stageSelect.addEventListener("change", () => {
 
   clearImage();
 
-  const selectedStage = data.find(
-    s => s.stage === stageSelect.value
+  const selectedStage = indexData.find(
+    s => s.stageId === stageSelect.value
   );
 
   if (!selectedStage) return;
@@ -56,7 +56,7 @@ stageSelect.addEventListener("change", () => {
 
     const option = document.createElement("option");
 
-    option.value = position.name;
+    option.value = position.id;
     option.textContent = position.name;
 
     positionSelect.appendChild(option);
@@ -69,7 +69,7 @@ stageSelect.addEventListener("change", () => {
 
 /* ポジション変更 */
 
-positionSelect.addEventListener("change", () => {
+positionSelect.addEventListener("change", async () => {
 
   songSelect.innerHTML =
     '<option value="">楽曲を選択</option>';
@@ -78,24 +78,26 @@ positionSelect.addEventListener("change", () => {
 
   clearImage();
 
-  const selectedStage = data.find(
-    s => s.stage === stageSelect.value
-  );
+  const fileName =
+    `${stageSelect.value}_${positionSelect.value}.json`;
 
-  if (!selectedStage) return;
+  const response =
+    await fetch(`data/${fileName}`);
 
-  const selectedPosition = selectedStage.positions.find(
-    p => p.name === positionSelect.value
-  );
+  currentData = await response.json();
 
-  if (!selectedPosition) return;
+  const songNames = [
+    ...new Set(
+      currentData.parts.map(part => part.song)
+    )
+  ];
 
-  selectedPosition.songs.forEach(song => {
+  songNames.forEach(song => {
 
     const option = document.createElement("option");
 
-    option.value = song.title;
-    option.textContent = song.title;
+    option.value = song;
+    option.textContent = song;
 
     songSelect.appendChild(option);
 
@@ -111,49 +113,59 @@ songSelect.addEventListener("change", () => {
 
   clearImage();
 
-  const selectedStage = data.find(
-    s => s.stage === stageSelect.value
-  );
+  const selectedSong = songSelect.value;
 
-  if (!selectedStage) return;
+  const filteredParts =
+    currentData.parts.filter(
+      part => part.song === selectedSong
+    );
 
-  const selectedPosition = selectedStage.positions.find(
-    p => p.name === positionSelect.value
-  );
+  imageContainer.innerHTML = "";
 
-  if (!selectedPosition) return;
+  filteredParts.forEach(part => {
 
-  const selectedSong = selectedPosition.songs.find(
-    s => s.title === songSelect.value
-  );
+    imageContainer.innerHTML += `
 
-  if (!selectedSong) return;
+      <div class="image-card">
 
-  imageContainer.innerHTML = `
-    <div class="image-card">
+        <div class="song-name">
+          ${part.song}
+        </div>
 
-      <div class="song-title">
-        ${selectedSong.title}
+        <h2 class="part-title">
+          ${part.title}
+        </h2>
+
+        <div class="lyrics">
+          ${part.lyrics}
+        </div>
+
+        <img
+          src="${part.image}"
+          class="formation-image"
+          alt="${part.title}"
+        >
+
       </div>
 
-      <img
-        src="${selectedSong.image}"
-        class="formation-image"
-        alt="${selectedSong.title}"
-      >
-
-    </div>
-  `;
-
-  const image = document.querySelector(".formation-image");
-
-  image.addEventListener("click", () => {
-
-    modalImage.src = selectedSong.image;
-
-    modal.classList.add("active");
+    `;
 
   });
+
+  /* 画像クリック */
+
+  document.querySelectorAll(".formation-image")
+    .forEach(image => {
+
+      image.addEventListener("click", () => {
+
+        modalImage.src = image.src;
+
+        modal.classList.add("active");
+
+      });
+
+    });
 
 });
 
