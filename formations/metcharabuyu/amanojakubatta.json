@@ -51,33 +51,7 @@
         { "name": "matsuoka", "x": 7.5, "y": 1 }
       ]
     },
-
-    {
-      "title": "2番Aメロ",
-      "lyrics": "制服をちゃんと着なさい スカート短くしたくなる〜",
-      "members": [
-        { "name": "ikeda", "x": -3.75, "y": 5 },
-        { "name": "nishijima", "x": -2.25, "y": 5 },
-        { "name": "takeda", "x": -0.75, "y": 5 },
-        { "name": "matsuoka", "x": 0.75, "y": 5 },
-        { "name": "itagaki", "x": 2.25, "y": 5 },
-        { "name": "nakagawa", "x": 3.75, "y": 5 },
-
-        { "name": "miyamoto", "x": -3, "y": 4 },
-        { "name": "matsumoto", "x": -1.5, "y": 4 },
-        { "name": "nishida", "x": 1.5, "y": 4 },
-        { "name": "sakashita", "x": 3, "y": 4 },
-
-        { "name": "sakurada", "x": -6, "y": 2 },
-        { "name": "sakata", "x": -4.5, "y": 2 },
-        { "name": "mikamo", "x": 4.5, "y": 2 },
-        { "name": "hirayama", "x": 6, "y": 2 },
-
-        { "name": "haga", "x": -5.25, "y": 1 },
-        { "name": "izumi", "x": 5.25, "y": 1 }
-      ]
-    },
-
+    
     {
       "title": "ラストサビ",
       "members": [
