@@ -1,1 +1,146 @@
+{
+  "stage": "NMB48「ここにだって天使はいる」",
+  "stageId": "kokonidattetenshihairu2026",
 
+  "members": [
+    {
+      "name": "青原優花",
+      "display": "優花",
+      "id": "yuka",
+      "image": "aobara_yuka_2025"
+    },
+    {
+      "name": "青原和花",
+      "display": "和花",
+      "id": "waka",
+      "image": "aobara_waka_2025"
+    },
+    {
+      "name": "池帆乃香",
+      "display": "池",
+      "id": "ike",
+      "image": "ike_honoka_2025"
+    },
+    {
+      "name": "板垣心和",
+      "display": "板垣",
+      "id": "itagaki",
+      "image": "itagaki_koyori_2025"
+    },
+    {
+      "name": "黒島咲花",
+      "display": "黒島",
+      "id": "kuroshima",
+      "image": "kuroshima_sakura_2025"
+    },
+    {
+      "name": "坂下真心",
+      "display": "坂下",
+      "id": "sakashita",
+      "image": "sakashita_mako_2025"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2025"
+    },
+    {
+      "name": "桜田彩叶",
+      "display": "桜田",
+      "id": "sakurada",
+      "image": "sakurada_ayaka_2025"
+    },
+    {
+      "name": "高橋ことね",
+      "display": "高橋",
+      "id": "takahashi",
+      "image": "takahashi_kotone_2025"
+    },
+    {
+      "name": "龍本弥生",
+      "display": "龍本",
+      "id": "tatsumoto",
+      "image": "tatsumoto_yayoi_2025"
+    },
+    {
+      "name": "田中雪乃",
+      "display": "田中",
+      "id": "tanaka",
+      "image": "tanaka_yukino_2025"
+    },
+    {
+      "name": "芳賀礼",
+      "display": "芳賀",
+      "id": "haga",
+      "image": "haga_rei_2025"
+    },
+    {
+      "name": "福野杏実",
+      "display": "福野",
+      "id": "fukuno",
+      "image": "fukuno_ami_2025"
+    },
+    {
+      "name": "舟橋礼菜",
+      "display": "舟橋",
+      "id": "funahashi",
+      "image": "funahashi_reina_2025"
+    },
+    {
+      "name": "松岡さくら",
+      "display": "松岡",
+      "id": "matsuoka",
+      "image": "matsuoka_sakura_2025"
+    },
+    {
+      "name": "三鴨くるみ",
+      "display": "三鴨",
+      "id": "mikamo",
+      "image": "mikamo_kurumi_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "青い月が見てるから",
+      "file": "aoitsukigamiterukara.json"
+    },
+    {
+      "name": "ここにだって天使はいる",
+      "file": "kokonidattetenshihairu.json"
+    },
+    {
+      "name": "カトレアの花を見る度に思い出す",
+      "file": "catleyanohanawomirutabiniomoidasu.json"
+    },
+    {
+      "name": "何度も狙え！",
+      "file": "nandomonerae.json"
+    },
+    {
+      "name": "初めての星",
+      "file": "hajimetenohoshi.json"
+    },
+    {
+      "name": "100年先でも",
+      "file": "100nensakidemo.json"
+    },
+    {
+      "name": "リボンなんて似合わない",
+      "file": "ribbonnanteniawanai.json"
+    },
+    {
+      "name": "情熱ハイウェイ",
+      "file": "jounetsuhighway.json"
+    },
+    {
+      "name": "少し苦い人生相談",
+      "file": "sukoshinigaijinseisoudan.json"
+    },
+    {
+      "name": "不毛の土地を満開に...",
+      "file": "fumounotochiwomankaini.json"
+    }
+  ]
+}
