@@ -1,0 +1,182 @@
+{
+  "song": "恋と愛のその間には",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiyama", "x": -6, "y": 3 },
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": -2, "y": 3 },
+        { "name": "nishi", "x": 0, "y": 3 },
+        { "name": "mizuta", "x": 2, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+        { "name": "kinugasa", "x": 6, "y": 3 },
+
+        { "name": "tatsumoto", "x": -5, "y": 2 },
+        { "name": "waka", "x": -3, "y": 2 },
+        { "name": "abe", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+        { "name": "ike", "x": 5, "y": 2 },
+
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "唇を噛むその癖は 何か意味ありげで〜",
+      "members": [
+        { "name": "yoshimi", "x": -5, "y": 3 },
+        { "name": "abe", "x": -3, "y": 3 },
+        { "name": "nishi", "x": -1, "y": 3 },
+        { "name": "takahashi", "x": 1, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+        { "name": "mizuta", "x": 5, "y": 3 },
+
+        { "name": "ishiyama", "x": -4, "y": 2 },
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "sakamoto", "x": 2, "y": 2 },
+        { "name": "kinugasa", "x": 4, "y": 2 },
+
+        { "name": "tatsumoto", "x": -5, "y": 1 },
+        { "name": "waka", "x": -3, "y": 1 },
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 },
+        { "name": "ike", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "恋と愛のその間には いくつ夜が眠るのだろう〜",
+      "members": [
+        { "name": "abe", "x": -7, "y": 4 },
+        { "name": "ike", "x": -3, "y": 4 },
+        { "name": "tatsumoto", "x": 0, "y": 4 },
+        { "name": "waka", "x": 3, "y": 4 },
+        { "name": "shiotsuki", "x": 7, "y": 4 },
+
+        { "name": "nishi", "x": -5, "y": 3 },
+        { "name": "kawakami", "x": -1, "y": 3 },
+        { "name": "yuka", "x": 1, "y": 3 },
+        { "name": "takahashi", "x": 5, "y": 3 },
+
+        { "name": "sakamoto", "x": -6, "y": 2 },
+        { "name": "kinugasa", "x": -2, "y": 2 },
+        { "name": "ishiyama", "x": 2, "y": 2 },
+        { "name": "tanaka", "x": 6, "y": 2 },
+
+        { "name": "yoshimi", "x": -4, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "mizuta", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "abe", "x": -6, "y": 4 },
+        { "name": "nishi", "x": -2, "y": 4 },
+        { "name": "takahashi", "x": 2, "y": 4 },
+        { "name": "shiotsuki", "x": 6, "y": 4 },
+
+        { "name": "kinugasa", "x": -6, "y": 3 },
+        { "name": "yoshimi", "x": -2, "y": 3 },
+        { "name": "mizuta", "x": 2, "y": 3 },
+        { "name": "ishiyama", "x": 6, "y": 3 },
+
+        { "name": "ike", "x": -6, "y": 2 },
+        { "name": "tatsumoto", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+        { "name": "waka", "x": 6, "y": 2 },
+
+        { "name": "sakamoto", "x": -6, "y": 1 },
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 2, "y": 1 },
+        { "name": "tanaka", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "今の僕たちは どこが変かな〜",
+      "members": [
+        { "name": "ike", "x": -5.5, "y": 3 },
+        { "name": "tatsumoto", "x": -3.5, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "yuka", "x": 1.5, "y": 3 },
+        { "name": "shinzawa", "x": 3.5, "y": 3 },
+        { "name": "waka", "x": 5.5, "y": 3 },
+
+        { "name": "sakamoto", "x": -4.25, "y": 2 },
+        { "name": "kinugasa", "x": -2.25, "y": 2 },
+        { "name": "ishiyama", "x": 2.25, "y": 2 },
+        { "name": "tanaka", "x": 4.25, "y": 2 },
+
+        { "name": "yoshimi", "x": -5, "y": 1 },
+        { "name": "nishi", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "mizuta", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakamoto", "x": -4.5, "y": 3 },
+        { "name": "kinugasa", "x": -2.5, "y": 3 },
+        { "name": "ishiyama", "x": 2.5, "y": 3 },
+        { "name": "tanaka", "x": 4.5, "y": 3 },
+
+        { "name": "ike", "x": -5.75, "y": 2 },
+        { "name": "tatsumoto", "x": -3.75, "y": 2 },
+        { "name": "kawakami", "x": -1.75, "y": 2 },
+        { "name": "yuka", "x": 1.75, "y": 2 },
+        { "name": "shinzawa", "x": 3.75, "y": 2 },
+        { "name": "waka", "x": 5.75, "y": 2 },
+
+        { "name": "yoshimi", "x": -5, "y": 1 },
+        { "name": "nishi", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "mizuta", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "恋と愛のその間には いくつ夜が眠るのだろう〜",
+      "members": [
+        { "name": "sakamoto", "x": -4, "y": 3 },
+        { "name": "shiotsuki", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "tanaka", "x": 4, "y": 3 },
+
+        { "name": "kinugasa", "x": -5, "y": 2 },
+        { "name": "yoshimi", "x": -3, "y": 2 },
+        { "name": "nishi", "x": -1, "y": 2 },
+        { "name": "takahashi", "x": 1, "y": 2 },
+        { "name": "mizuta", "x": 3, "y": 2 },
+        { "name": "ishiyama", "x": 5, "y": 2 },
+
+        { "name": "ike", "x": -6, "y": 1 },
+        { "name": "tatsumoto", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 2, "y": 1 },
+        { "name": "shinzawa", "x": 4, "y": 1 },
+        { "name": "waka", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
