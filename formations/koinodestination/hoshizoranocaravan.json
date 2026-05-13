@@ -1,0 +1,92 @@
+{
+  "song": "星空のキャラバン",
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -5, "y": 2 },
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "sakamoto", "x": -1, "y": 2 },
+        { "name": "yuka", "x": 1, "y": 2 },
+        { "name": "mizuta", "x": 3, "y": 2 },
+        { "name": "nishi", "x": 5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sakamoto", "x": -3, "y": 3 },
+        { "name": "yuka", "x": 0, "y": 3 },
+        { "name": "nishi", "x": 3, "y": 3 },
+
+        { "name": "waka", "x": -1.5, "y": 2 },
+        { "name": "mizuta", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "コテージから外に出てみたら〜",
+      "members": [
+        { "name": "yuka", "x": -1, "y": 3 },
+
+        { "name": "sakamoto", "x": -2, "y": 2 },
+        { "name": "nishi", "x": 2, "y": 2 },
+
+        { "name": "waka", "x": -3, "y": 1 },
+        { "name": "abe", "x": 0, "y": 1 },
+        { "name": "mizuta", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "高原の夜は 360° すべて見渡せてしまう〜",
+      "members": [
+        { "name": "sakamoto", "x": -3, "y": 2 },
+        { "name": "yuka", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+        { "name": "nishi", "x": 3, "y": 2 },
+
+        { "name": "waka", "x": -2, "y": 1 },
+        { "name": "mizuta", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "手で包んだコーヒーカップ〜",
+      "members": [
+        { "name": "waka", "x": -3, "y": 3 },
+        { "name": "abe", "x": 0, "y": 3 },
+        { "name": "mizuta", "x": 3, "y": 3 },
+
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "nishi", "x": 1.5, "y": 2 },
+
+        { "name": "yuka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "星空のキャラバンは進む  磁石の針 導かれ〜",
+      "members": [
+        { "name": "sakamoto", "x": -3, "y": 3 },
+        { "name": "yuka", "x": 0, "y": 3 },
+        { "name": "nishi", "x": 3, "y": 3 },
+
+        { "name": "waka", "x": -1.5, "y": 2 },
+        { "name": "mizuta", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
