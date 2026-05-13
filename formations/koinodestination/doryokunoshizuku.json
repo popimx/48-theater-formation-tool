@@ -1,0 +1,83 @@
+{
+  "song": "努力の雫",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "努力の雫 降り注いだ時に 光の中 キラキラするよ〜",
+      "members": [
+        { "name": "ishiyama", "x": -3, "y": 4 },
+        { "name": "tanaka", "x": -1, "y": 4 },
+        { "name": "yoshimi", "x": 1, "y": 4 },
+        { "name": "nishi", "x": 3, "y": 4 },
+
+        { "name": "ike", "x": -4, "y": 3 },
+        { "name": "kinugasa", "x": -2, "y": 3 },
+        { "name": "kawakami", "x": 0, "y": 3 },
+        { "name": "takahashi", "x": 2, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "tatsumoto", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "waka", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "mizuta", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "君が膝まづいて 神に祈っているなら〜",
+      "members": [
+        { "name": "shiotsuki", "x": -4, "y": 4 },
+        { "name": "kinugasa", "x": -1.5, "y": 4 },
+        { "name": "sakamoto", "x": 1.5, "y": 4 },
+        { "name": "shinzawa", "x": 4, "y": 4 },
+
+        { "name": "tatsumoto", "x": -5, "y": 3 },
+        { "name": "waka", "x": -3, "y": 3 },
+        { "name": "yuka", "x": 3, "y": 3 },
+        { "name": "mizuta", "x": 5, "y": 3 },
+
+        { "name": "ishiyama", "x": -4, "y": 2 },
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "yoshimi", "x": 2, "y": 2 },
+        { "name": "nishi", "x": 4, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "ike", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiyama", "x": -4.5, "y": 4 },
+        { "name": "ike", "x": -1.5, "y": 4 },
+        { "name": "abe", "x": 1.5, "y": 4 },
+        { "name": "nishi", "x": 4.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4.5, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "shinzawa", "x": 1.5, "y": 3 },
+        { "name": "yoshimi", "x": 4.5, "y": 3 },
+
+        { "name": "kinugasa", "x": -4.5, "y": 2 },
+        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "sakamoto", "x": 1.5, "y": 2 },
+        { "name": "takahashi", "x": 4.5, "y": 2 },
+
+        { "name": "tatsumoto", "x": -4.5, "y": 1 },
+        { "name": "waka", "x": -1.5, "y": 1 },
+        { "name": "yuka", "x": 1.5, "y": 1 },
+        { "name": "mizuta", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
