@@ -1,4 +1,4 @@
- [
+[
   {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
@@ -9,5 +9,11 @@
     "stage": "NMB48「青春！恋のDestination」",
     "stageId": "koinodestination",
     "file": "stages/koinodestination.json"
+  },
+
+  {
+    "stage": "NMB48「ここにだって天使はいる」",
+    "stageId": "kokonidattetenshihairu2026",
+    "file": "stages/kokonidattetenshihairu2026.json"
   }
 ]
