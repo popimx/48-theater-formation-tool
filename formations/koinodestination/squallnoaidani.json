@@ -1,0 +1,81 @@
+{
+  "song": "スコールの間に",
+
+  "parts": [
+    {
+      "title": "2番サビ後",
+      "lyrics": "空がまた晴れて 虹が架かるように〜",
+      "members": [
+        { "name": "yoshimi", "x": -7.5, "y": 2 },
+        { "name": "kinugasa", "x": -5.5, "y": 2 },
+        { "name": "ike", "x": -3.5, "y": 2 },
+        { "name": "waka", "x": -1.5, "y": 2 },
+        { "name": "takahashi", "x": 0.5, "y": 2 },
+        { "name": "shinzawa", "x": 2.5, "y": 2 },
+        { "name": "kawakami", "x": 4.5, "y": 2 },
+        { "name": "yuka", "x": 6.5, "y": 2 },
+
+        { "name": "mizuta", "x": -6.5, "y": 1 },
+        { "name": "sakamoto", "x": -4.5, "y": 1 },
+        { "name": "tanaka", "x": -2.5, "y": 1 },
+        { "name": "ishiyama", "x": -0.5, "y": 1 },
+        { "name": "nishi", "x": 1.5, "y": 1 },
+        { "name": "tatsumoto", "x": 3.5, "y": 1 },
+        { "name": "abe", "x": 5.5, "y": 1 },
+        { "name": "shiotsuki", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakamoto", "x": -5.25, "y": 4 },
+        { "name": "ishiyama", "x": -3.25, "y": 4 },
+        { "name": "nishi", "x": 3.25, "y": 4 },
+        { "name": "tatsumoto", "x": 5.25, "y": 4 },
+
+        { "name": "mizuta", "x": -4.5, "y": 3 },
+        { "name": "tanaka", "x": -2.5, "y": 3 },
+        { "name": "takahashi", "x": 2.5, "y": 3 },
+        { "name": "abe", "x": 4.5, "y": 3 },
+
+        { "name": "kinugasa", "x": -3.75, "y": 2 },
+        { "name": "ike", "x": -1.75, "y": 2 },
+        { "name": "waka", "x": 1.75, "y": 2 },
+        { "name": "shinzawa", "x": 3.75, "y": 2 },
+
+        { "name": "yoshimi", "x": -3, "y": 1 },
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "ishiyama", "x": -1, "y": 4 },
+        { "name": "nishi", "x": 1, "y": 4 },
+        { "name": "tatsumoto", "x": 3, "y": 4 },
+
+        { "name": "mizuta", "x": -4, "y": 3 },
+        { "name": "tanaka", "x": -2, "y": 3 },
+        { "name": "takahashi", "x": 2, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "kinugasa", "x": -5, "y": 2 },
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "waka", "x": 3, "y": 2 },
+        { "name": "shinzawa", "x": 5, "y": 2 },
+
+        { "name": "yoshimi", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 },
+        { "name": "kawakami", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
