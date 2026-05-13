@@ -1,4 +1,4 @@
- const stageSelect =
+const stageSelect =
   document.getElementById("stage-select");
 
 const memberSelect =
@@ -18,6 +18,8 @@ let currentStage = null;
 ========================= */
 
 const GRID_X_STEP = 6;
+
+/* 4列時の縦間隔を基準固定 */
 const GRID_Y_STEP = 18;
 
 /* =========================
@@ -100,42 +102,51 @@ function renderFormation() {
            使用列数取得
         ========================= */
 
-        const uniqueRows = [
-          ...new Set(
-            (part.members ?? []).map(
-              m => m.y
-            )
-          )
-        ].length;
+        const yList =
+          (part.members ?? []).map(
+            m => m.y ?? 1
+          );
+
+        const maxY =
+          Math.max(...yList);
 
         /* =========================
            フォーメーションエリア高さ
         ========================= */
 
-        /* 1〜3列 */
+        /*
+          1〜3列
+          → 上の空白をカット
+        */
 
-        if (uniqueRows <= 3) {
+        if (maxY <= 3) {
 
           formationArea.style.aspectRatio =
-            "16 / 6";
+            "16 / 5.4";
 
         }
 
-        /* 4列 */
+        /*
+          4列
+          → 5列目相当の空白だけカット
+        */
 
-        else if (uniqueRows === 4) {
+        else if (maxY === 4) {
 
           formationArea.style.aspectRatio =
-            "16 / 8";
+            "16 / 7.2";
 
         }
 
-        /* 5列以上 */
+        /*
+          5列
+          → フルサイズ
+        */
 
         else {
 
           formationArea.style.aspectRatio =
-            "16 / 10";
+            "16 / 9";
 
         }
 
@@ -175,6 +186,11 @@ function renderFormation() {
               (member.x ?? 0)
               * GRID_X_STEP
             );
+
+          /*
+            4列基準の縦間隔を固定
+            y=1〜5 の感覚は常に同じ
+          */
 
           const posY =
             100 -
