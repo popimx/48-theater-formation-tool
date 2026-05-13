@@ -1,0 +1,159 @@
+{
+  "song": "波が伝えるもの",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "matsumoto", "x": -0.75, "y": 4 },
+        { "name": "nishijima", "x": 0.75, "y": 4 },
+        { "name": "takeda", "x": 2.25, "y": 4 },
+
+        { "name": "miyamoto", "x": -2.25, "y": 3 },
+        { "name": "ikeda", "x": -0.75, "y": 3 },
+        { "name": "matsuoka", "x": 0.75, "y": 3 },
+        { "name": "nishida", "x": 2.25, "y": 3 },
+
+        { "name": "mikamo", "x": -2.25, "y": 2 },
+        { "name": "sakashita", "x": -0.75, "y": 2 },
+        { "name": "hirayama", "x": 0.75, "y": 2 },
+        { "name": "itagaki", "x": 2.25, "y": 2 },
+
+        { "name": "sakurada", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ザブーンザブーンと 永遠にずっと〜",
+      "members": [
+        { "name": "sakurada", "x": -5.25, "y": 2 },
+        { "name": "haga", "x": -3.75, "y": 2 },
+        { "name": "sakata", "x": -2.25, "y": 2 },
+        { "name": "izumi", "x": -0.75, "y": 2 },
+        { "name": "mikamo", "x": 0.75, "y": 2 },
+        { "name": "sakashita", "x": 2.25, "y": 2 },
+        { "name": "hirayama", "x": 3.75, "y": 2 },
+        { "name": "itagaki", "x": 5.25, "y": 2 },
+
+        { "name": "miyamoto", "x": -5.25, "y": 1 },
+        { "name": "ikeda", "x": -3.75, "y": 1 },
+        { "name": "matsuoka", "x": -2.25, "y": 1 },
+        { "name": "nishida", "x": -0.75, "y": 1 },
+        { "name": "nakagawa", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 2.25, "y": 1 },
+        { "name": "nishijima", "x": 3.75, "y": 1 },
+        { "name": "takeda", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "いつの日かきっと ここまで届くはず〜",
+      "members": [
+        { "name": "nakagawa", "x": -1.5, "y": 4 },
+        { "name": "matsumoto", "x": 0.5, "y": 4 },
+        { "name": "nishijima", "x": 2.5, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "miyamoto", "x": -2.5, "y": 3 },
+        { "name": "ikeda", "x": -0.5, "y": 3 },
+        { "name": "matsuoka", "x": 1.5, "y": 3 },
+        { "name": "nishida", "x": 3.5, "y": 3 },
+
+        { "name": "mikamo", "x": -3.5, "y": 2 },
+        { "name": "sakashita", "x": -1.5, "y": 2 },
+        { "name": "hirayama", "x": 0.5, "y": 2 },
+        { "name": "itagaki", "x": 2.5, "y": 2 },
+
+        { "name": "sakurada", "x": -4.5, "y": 1 },
+        { "name": "haga", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": -0.5, "y": 1 },
+        { "name": "izumi", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "そのメッセージを聞いてみよう〜",
+      "members": [
+        { "name": "izumi", "x": -2.25, "y": 4 },
+        { "name": "sakata", "x": -0.75, "y": 4 },
+        { "name": "haga", "x": 0.75, "y": 4 },
+        { "name": "sakurada", "x": 2.25, "y": 4 },
+
+        { "name": "itagaki", "x": -2.25, "y": 3 },
+        { "name": "hirayama", "x": -0.75, "y": 3 },
+        { "name": "sakashita", "x": 0.75, "y": 3 },
+        { "name": "mikamo", "x": 2.25, "y": 3 },
+
+        { "name": "nishida", "x": -2.25, "y": 2 },
+        { "name": "matsuoka", "x": -0.75, "y": 2 },
+        { "name": "ikeda", "x": 0.75, "y": 2 },
+        { "name": "miyamoto", "x": 2.25, "y": 2 },
+
+        { "name": "takeda", "x": -2.25, "y": 1 },
+        { "name": "nishijima", "x": -0.75, "y": 1 },
+        { "name": "matsumoto", "x": 0.75, "y": 1 },
+        { "name": "nakagawa", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "いつの日かきっと ここまで届くはず〜",
+      "members": [
+        { "name": "izumi", "x": -2.25, "y": 4 },
+        { "name": "sakata", "x": -0.75, "y": 4 },
+        { "name": "haga", "x": 0.75, "y": 4 },
+        { "name": "sakurada", "x": 2.25, "y": 4 },
+
+        { "name": "itagaki", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1.5, "y": 3 },
+        { "name": "sakashita", "x": 1.5, "y": 3 },
+        { "name": "mikamo", "x": 3, "y": 3 },
+
+        { "name": "nishida", "x": -3.75, "y": 2 },
+        { "name": "matsuoka", "x": -2.25, "y": 2 },
+        { "name": "ikeda", "x": 2.25, "y": 2 },
+        { "name": "miyamoto", "x": 3.75, "y": 2 },
+
+        { "name": "takeda", "x": -4.5, "y": 1 },
+        { "name": "nishijima", "x": -3, "y": 1 },
+        { "name": "matsumoto", "x": 3, "y": 1 },
+        { "name": "nakagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "果てしない海を渡って来るんだ〜",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "matsumoto", "x": -0.75, "y": 4 },
+        { "name": "nishijima", "x": 0.75, "y": 4 },
+        { "name": "takeda", "x": 2.25, "y": 4 },
+
+        { "name": "miyamoto", "x": -2.25, "y": 3 },
+        { "name": "ikeda", "x": -0.75, "y": 3 },
+        { "name": "matsuoka", "x": 0.75, "y": 3 },
+        { "name": "nishida", "x": 2.25, "y": 3 },
+
+        { "name": "mikamo", "x": -2.25, "y": 2 },
+        { "name": "sakashita", "x": -0.75, "y": 2 },
+        { "name": "hirayama", "x": 0.75, "y": 2 },
+        { "name": "itagaki", "x": 2.25, "y": 2 },
+
+        { "name": "sakurada", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 }
+      ]
+    }
+  ]
+}
