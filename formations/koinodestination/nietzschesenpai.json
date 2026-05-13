@@ -1,0 +1,121 @@
+{
+  "song": "ニーチェ先輩",
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "好きなんです 切ないんです〜",
+      "members": [
+        { "name": "kawakami", "x": 0, "y": 3 },
+
+        { "name": "waka", "x": -2.5, "y": 2 },
+        { "name": "shinzawa", "x": 0, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+
+        { "name": "shiotsuki", "x": -2.5, "y": 1 },
+        { "name": "mizuta", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "ねえ教えてください ニーチェ先輩〜",
+      "members": [
+        { "name": "waka", "x": -4.5, "y": 1 },
+        { "name": "shiotsuki", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": -1.5, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "mizuta", "x": 1.5, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 },
+        { "name": "yuka", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
+        { "name": "mizuta", "x": 4.5, "y": 2 },
+
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "abe", "x": -4, "y": 1 },
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "waka", "x": 2, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 },
+        { "name": "mizuta", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "好きなんです 切ないんです〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "abe", "x": -4, "y": 1 },
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "waka", "x": 2, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 },
+        { "name": "mizuta", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "自分がわかる 鏡 (鏡) 欲しい (欲しい) 〜",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 1 },
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "yuka", "x": -1.5, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "waka", "x": 1.5, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 },
+        { "name": "mizuta", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "だって 好きなんです 切ないんです〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 2 },
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "waka", "x": 2, "y": 2 },
+        { "name": "mizuta", "x": 6, "y": 2 },
+
+        { "name": "abe", "x": -4, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "人間的 そうあまりに (人間的に)〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "abe", "x": -2, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "waka", "x": 4, "y": 1 },
+        { "name": "mizuta", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
