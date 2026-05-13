@@ -1,0 +1,95 @@
+{
+  "song": "Enjoy無礼講！",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "他人のことは 放っておきなさい〜",
+      "members": [
+        { "name": "kinugasa", "x": -3.75, "y": 4 },
+        { "name": "ishiyama", "x": 3.75, "y": 4 },
+
+        { "name": "tanaka", "x": -2.5, "y": 3 },
+        { "name": "yoshimi", "x": 2.5, "y": 3 },
+
+        { "name": "ike", "x": -1.25, "y": 2 },
+        { "name": "takahashi", "x": 1.25, "y": 2 },
+
+        { "name": "tatsumoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Let's enjoy! もっと 楽しまなきゃもったいない〜",
+      "members": [
+        { "name": "ike", "x": -4, "y": 2 },
+        { "name": "takahashi", "x": 0, "y": 2 },
+        { "name": "tatsumoto", "x": 4, "y": 2 },
+
+        { "name": "kinugasa", "x": -6, "y": 1 },
+        { "name": "tanaka", "x": -2, "y": 1 },
+        { "name": "yoshimi", "x": 2, "y": 1 },
+        { "name": "ishiyama", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Let's enjoy！ だって 100歳までのパーティーだ〜",
+      "members": [
+        { "name": "kinugasa", "x": -6, "y": 2 },
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "yoshimi", "x": 2, "y": 2 },
+        { "name": "ishiyama", "x": 6, "y": 2 },
+
+        { "name": "ike", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "さあ 見せてくれ みんなで大きくジャンプしろ〜",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "ike", "x": -3, "y": 1 },
+        { "name": "kinugasa", "x": -1.5, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "ishiyama", "x": 1.5, "y": 1 },
+        { "name": "tatsumoto", "x": 3, "y": 1 },
+        { "name": "yoshimi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "Let's enjoy！ そんなものに何の価値もない〜",
+      "members": [
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "ishiyama", "x": -2, "y": 2 },
+        { "name": "kinugasa", "x": 2, "y": 2 },
+        { "name": "yoshimi", "x": 6, "y": 2 },
+
+        { "name": "tatsumoto", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "ike", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "Let's enjoy！ だって 100歳までのパーティーだ〜",
+      "members": [
+        { "name": "yoshimi", "x": -4.5, "y": 1 },
+        { "name": "kinugasa", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": -1.5, "y": 1 },
+        { "name": "ike", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 1.5, "y": 1 },
+        { "name": "ishiyama", "x": 3, "y": 1 },
+        { "name": "tanaka", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
