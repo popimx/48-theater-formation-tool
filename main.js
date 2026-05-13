@@ -73,15 +73,12 @@ function renderFormation() {
           ...(part.members ?? []).map(m => m.y ?? 1)
         );
 
-        const rows =
-          Math.max(3, Math.min(5, maxY));
+        /* =========================
+           縦幅固定（4列基準）
+        ========================= */
 
         formationArea.style.aspectRatio =
-          rows >= 5
-            ? "16 / 11"
-            : rows === 4
-            ? "16 / 10"
-            : "16 / 8";
+          "16 / 10";
 
         (part.members ?? []).forEach(member => {
 
@@ -106,8 +103,9 @@ function renderFormation() {
           const posX =
             50 + ((member.x ?? 0) * 6);
 
+          /* 4列基準で統一 */
           const posY =
-            100 - ((member.y ?? 0) * 18);
+            100 - ((member.y ?? 0) * 15);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
