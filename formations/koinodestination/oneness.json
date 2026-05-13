@@ -1,0 +1,31 @@
+{
+  "song": "Oneness",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "振り向く日も 笑ってるキミといたい〜",
+      "members": [
+        { "name": "shiotsuki", "x": -2, "y": 4 },
+        { "name": "abe", "x": 0, "y": 4 },
+        { "name": "waka", "x": 2, "y": 4 },
+
+        { "name": "tatsumoto", "x": -6, "y": 3 },
+        { "name": "nishi", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -1, "y": 3 },
+        { "name": "kawakami", "x": 1, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+        { "name": "takahashi", "x": 6, "y": 3 },
+
+        { "name": "ishiyama", "x": -7, "y": 2 },
+        { "name": "kinugasa", "x": -3, "y": 2 },
+        { "name": "yoshimi", "x": 3, "y": 2 },
+        { "name": "tanaka", "x": 7, "y": 2 },
+
+        { "name": "ike", "x": -5, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "mizuta", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
