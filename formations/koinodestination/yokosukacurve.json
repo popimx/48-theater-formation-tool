@@ -1,0 +1,101 @@
+{
+  "song": "横須賀カーブ",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -7, "y": 1 },
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "yoshimi", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 },
+        { "name": "waka", "x": 3, "y": 1 },
+        { "name": "nishi", "x": 5, "y": 1 },
+        { "name": "mizuta", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 3 },
+        { "name": "yoshimi", "x": -0.75, "y": 3 },
+        { "name": "waka", "x": 5.25, "y": 3 },
+
+        { "name": "nishi", "x": -3.75, "y": 2 },
+        { "name": "mizuta", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+
+        { "name": "abe", "x": -2.25, "y": 1 },
+        { "name": "kawakami", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 3 },
+        { "name": "kawakami", "x": -0.75, "y": 3 },
+        { "name": "nishi", "x": 5.25, "y": 3 },
+
+        { "name": "yoshimi", "x": -3.75, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+
+        { "name": "mizuta", "x": -2.25, "y": 1 },
+        { "name": "takahashi", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "腰に回す 私の腕が あなたを引き寄せて〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "yoshimi", "x": -3.75, "y": 2 },
+        { "name": "mizuta", "x": -2.25, "y": 2 },
+        { "name": "kawakami", "x": -0.75, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 2.25, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "nishi", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "私たちのカーブ 減速せずに 走り抜けてゆく〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 3 },
+        { "name": "kawakami", "x": -0.75, "y": 3 },
+        { "name": "nishi", "x": 5.25, "y": 3 },
+
+        { "name": "yoshimi", "x": -3.75, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+
+        { "name": "mizuta", "x": -2.25, "y": 1 },
+        { "name": "waka", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuta", "x": -7, "y": 1 },
+        { "name": "yoshimi", "x": -5, "y": 1 },
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "nishi", "x": 3, "y": 1 },
+        { "name": "takahashi", "x": 5, "y": 1 },
+        { "name": "waka", "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
