@@ -1,4 +1,4 @@
-{
+ {
   "stage": "NMB48「青春！恋のDestination」",
   "stageId": "koinodestination",
 
@@ -101,5 +101,78 @@
     }
   ],
 
-  "songs": []
+  "songs": [
+    {
+      "name": "ごめんね、好きになっちゃって...",
+      "file": "gomenne_sukininachatte.json"
+    },
+    {
+      "name": "スコールの間に",
+      "file": "squallnoaidani.json"
+    },
+    {
+      "name": "夢に色がない理由",
+      "file": "yumeniiroganairiyuu.json"
+    },
+    {
+      "name": "僕らのレガッタ",
+      "file": "bokuranoregatta.json"
+    },
+    {
+      "name": "横須賀カーブ",
+      "file": "yokosukacurve.json"
+    },
+    {
+      "name": "星空のキャラバン",
+      "file": "hoshizoranocaravan.json"
+    },
+    {
+      "name": "くまのぬいぐるみ",
+      "file": "kumanonuigurumi.json"
+    },
+    {
+      "name": "Enjoy無礼講！",
+      "file": "enjoybureikou.json"
+    },
+    {
+      "name": "竹内先輩",
+      "file": "takeuchisenpai.json"
+    },
+    {
+      "name": "サヨナラ、踵を踏む人",
+      "file": "sayonara_kakatoofumuhito.json"
+    },
+    {
+      "name": "ニーチェ先輩",
+      "file": "nietzschesenpai.json"
+    },
+    {
+      "name": "True purpose",
+      "file": "true_purpose.json"
+    },
+    {
+      "name": "恋と愛のその間には",
+      "file": "kotoaitosonoaidaniha.json"
+    },
+    {
+      "name": "努力の雫",
+      "file": "doryokunoshizuku.json"
+    },
+    {
+      "name": "片想いよりも思い出を...",
+      "file": "kataomoiyoriomoidewo.json"
+    },
+    {
+      "name": "彼女になれますか?",
+      "file": "kanojoninaremasuka.json"
+    },
+    {
+      "name": "夏のDestination",
+      "file": "natsunodestination.json"
+    },
+    {
+      "name": "Oneness",
+      "file": "oneness.json"
+    }
+  ]
 }
