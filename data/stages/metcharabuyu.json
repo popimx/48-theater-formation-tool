@@ -1,0 +1,154 @@
+{
+  "stage": "NMB48「情熱！めっちゃ楽舞友」",
+  "stageId": "metcharabuyu",
+
+  "members": [
+    {
+      "name": "池田典愛",
+      "display": "池田",
+      "id": "ikeda",
+      "image": "ikeda_tenna_2025"
+    },
+    {
+      "name": "泉綾乃",
+      "display": "泉",
+      "id": "izumi",
+      "image": "izumi_ayano_2025"
+    },
+    {
+      "name": "板垣心和",
+      "display": "板垣",
+      "id": "itagaki",
+      "image": "itagaki_koyori_2025"
+    },
+    {
+      "name": "坂下真心",
+      "display": "坂下",
+      "id": "sakashita",
+      "image": "sakashita_mako_2025"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2025"
+    },
+    {
+      "name": "桜田彩叶",
+      "display": "桜田",
+      "id": "sakurada",
+      "image": "sakurada_ayaka_2025"
+    },
+    {
+      "name": "竹田京加",
+      "display": "竹田",
+      "id": "takeda",
+      "image": "takeda_kyoka_2025"
+    },
+    {
+      "name": "中川朋香",
+      "display": "中川",
+      "id": "nakagawa",
+      "image": "nakagawa_tomoka_2025"
+    },
+    {
+      "name": "西島梨央",
+      "display": "西島",
+      "id": "nishijima",
+      "image": "nishijima_rio_2025"
+    },
+    {
+      "name": "西田帆花",
+      "display": "西田",
+      "id": "nishida",
+      "image": "nishida_honoka_2025"
+    },
+    {
+      "name": "芳賀礼",
+      "display": "芳賀",
+      "id": "haga",
+      "image": "haga_rei_2025"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2025"
+    },
+    {
+      "name": "松岡さくら",
+      "display": "松岡",
+      "id": "matsuoka",
+      "image": "matsuoka_sakura_2025"
+    },
+    {
+      "name": "松本海日菜",
+      "display": "松本",
+      "id": "matsumoto",
+      "image": "matsumoto_mihina_2025"
+    },
+    {
+      "name": "三鴨くるみ",
+      "display": "三鴨",
+      "id": "mikamo",
+      "image": "mikamo_kurumi_2025"
+    },
+    {
+      "name": "宮本杏海",
+      "display": "宮本",
+      "id": "miyamoto",
+      "image": "miyamoto_ami_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "難波愛",
+      "file": "nanbaai.json"
+    },
+    {
+      "name": "空から愛が降って来る",
+      "file": "sorakaraaigafuttekuru.json"
+    },
+    {
+      "name": "あまのじゃくバッタ",
+      "file": "amanojakubatta.json"
+    },
+    {
+      "name": "めっちゃラブユー",
+      "file": "metcharabuyu.json"
+    },
+    {
+      "name": "Teacher Teacher",
+      "file": "teacher_teacher.json"
+    },
+    {
+      "name": "愛が終わってもSelfish",
+      "file": "aigaowattemoselfish.json"
+    },
+    {
+      "name": "ごめん 愛せないんだ",
+      "file": "gomen_aisenainda.json"
+    },
+    {
+      "name": "妄想マシーン3号機",
+      "file": "mousoumachine3gouki.json"
+    },
+    {
+      "name": "波が伝えるもの",
+      "file": "namigatsutaerumono.json"
+    },
+    {
+      "name": "母校へ帰れ！",
+      "file": "bokouekaere.json"
+    },
+    {
+      "name": "上方ストロングスタイル",
+      "file": "kamigatastrongstyle.json"
+    },
+    {
+      "name": "光と影の日々",
+      "file": "hikaritokagenohibi.json"
+    }
+  ]
+}
