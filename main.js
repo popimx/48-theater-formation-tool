@@ -105,7 +105,7 @@ function renderFormation() {
 
           /* 4列基準で統一 */
           const posY =
-            100 - ((member.y ?? 0) * 15);
+            100 - ((member.y ?? 0) * 18);
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
