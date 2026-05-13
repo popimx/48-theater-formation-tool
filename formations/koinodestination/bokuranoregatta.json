@@ -1,0 +1,94 @@
+{
+  "song": "僕らのレガッタ",
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "胸の奥 苦しくなるような〜",
+      "members": [
+        { "name": "kinugasa", "x": -3, "y": 4 },
+        { "name": "ishiyama", "x": 3, "y": 4 },
+
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "ike", "x": -1, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "思い切り空気を吸い込んで〜",
+      "members": [
+        { "name": "kinugasa", "x": -4, "y": 3 },
+        { "name": "tatsumoto", "x": -2, "y": 3 },
+        { "name": "sakamoto", "x": 2, "y": 3 },
+        { "name": "ishiyama", "x": 4, "y": 3 },
+
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "※ 基本 立ち位置",
+      "members": [
+        { "name": "kinugasa", "x": -3, "y": 4 },
+        { "name": "ishiyama", "x": 3, "y": 4 },
+
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "ike", "x": 1, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "※ 基本 立ち位置",
+      "members": [
+        { "name": "kinugasa", "x": -3, "y": 4 },
+        { "name": "ishiyama", "x": 3, "y": 4 },
+
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "ike", "x": 1, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "生きることはつらい それでも漕ぐしかない〜",
+      "members": [
+        { "name": "kinugasa", "x": -3, "y": 4 },
+        { "name": "ishiyama", "x": 3, "y": 4 },
+
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "ike", "x": 1, "y": 3 },
+        { "name": "sakamoto", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
