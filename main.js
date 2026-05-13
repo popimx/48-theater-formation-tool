@@ -1,4 +1,4 @@
-const stageSelect =
+ const stageSelect =
   document.getElementById("stage-select");
 
 const memberSelect =
@@ -35,10 +35,15 @@ fetch("data/stages.json")
       const option =
         document.createElement("option");
 
-      option.value = stage.stageId;
-      option.textContent = stage.stage;
+      option.value =
+        stage.stageId;
 
-      stageSelect.appendChild(option);
+      option.textContent =
+        stage.stage;
+
+      stageSelect.appendChild(
+        option
+      );
 
     });
 
@@ -71,7 +76,8 @@ function renderFormation() {
         const card =
           document.createElement("div");
 
-        card.className = "part-card";
+        card.className =
+          "part-card";
 
         card.innerHTML = `
           <h2 class="part-title">
@@ -86,14 +92,9 @@ function renderFormation() {
         `;
 
         const formationArea =
-          card.querySelector(".formation-area");
-
-        /* =========================
-           比率固定
-        ========================= */
-
-        formationArea.style.aspectRatio =
-          "16 / 10";
+          card.querySelector(
+            ".formation-area"
+          );
 
         /* =========================
            使用列数取得
@@ -108,36 +109,33 @@ function renderFormation() {
         ].length;
 
         /* =========================
-           上余白カット量
+           フォーメーションエリア高さ
         ========================= */
 
-        let yOffset = 0;
+        /* 1〜3列 */
 
-        /* 1列 */
-        if (uniqueRows === 1) {
+        if (uniqueRows <= 3) {
 
-          yOffset = 18;
-
-        }
-
-        /* 2列 */
-        else if (uniqueRows === 2) {
-
-          yOffset = 18;
-
-        }
-
-        /* 3列 */
-        else if (uniqueRows === 3) {
-
-          yOffset = 18;
+          formationArea.style.aspectRatio =
+            "16 / 6";
 
         }
 
         /* 4列 */
+
         else if (uniqueRows === 4) {
 
-          yOffset = 9;
+          formationArea.style.aspectRatio =
+            "16 / 8";
+
+        }
+
+        /* 5列以上 */
+
+        else {
+
+          formationArea.style.aspectRatio =
+            "16 / 10";
 
         }
 
@@ -148,7 +146,9 @@ function renderFormation() {
         (part.members ?? []).forEach(member => {
 
           const memberDiv =
-            document.createElement("div");
+            document.createElement(
+              "div"
+            );
 
           memberDiv.className =
             "member";
@@ -171,14 +171,17 @@ function renderFormation() {
 
           const posX =
             50 +
-            ((member.x ?? 0)
-              * GRID_X_STEP);
+            (
+              (member.x ?? 0)
+              * GRID_X_STEP
+            );
 
           const posY =
             100 -
-            ((member.y ?? 0)
-              * GRID_Y_STEP) -
-            yOffset;
+            (
+              (member.y ?? 0)
+              * GRID_Y_STEP
+            );
 
           memberDiv.style.left =
             `${posX}%`;
@@ -192,7 +195,8 @@ function renderFormation() {
 
           const memberData =
             currentStage.members.find(
-              m => m.id === memberId
+              m =>
+                m.id === memberId
             );
 
           /* =========================
@@ -204,7 +208,9 @@ function renderFormation() {
             ?? memberId;
 
           const img =
-            document.createElement("img");
+            document.createElement(
+              "img"
+            );
 
           img.src =
             `images/members/${currentStage.stageId}/${imgKey}.PNG`;
@@ -222,7 +228,9 @@ function renderFormation() {
 
           };
 
-          memberDiv.appendChild(img);
+          memberDiv.appendChild(
+            img
+          );
 
           /* =========================
              ラベル
@@ -231,7 +239,9 @@ function renderFormation() {
           if (isActive) {
 
             const label =
-              document.createElement("div");
+              document.createElement(
+                "div"
+              );
 
             label.className =
               "label";
