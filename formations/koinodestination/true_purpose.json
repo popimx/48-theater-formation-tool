@@ -1,0 +1,103 @@
+{
+  "song": "True Purpose",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshimi", "x": -7, "y": 3 },
+        { "name": "nishi", "x": -4.5, "y": 3 },
+        { "name": "ishiyama", "x": -2, "y": 3 },
+        { "name": "ike", "x": 0, "y": 3 },
+        { "name": "kinugasa", "x": 2, "y": 3 },
+        { "name": "tanaka", "x": 4.5, "y": 3 },
+        { "name": "sakamoto", "x": 7, "y": 3 },
+
+        { "name": "tatsumoto", "x": -6, "y": 2 },
+        { "name": "takahashi", "x": -3.5, "y": 2 },
+        { "name": "waka", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "yuka", "x": 3.5, "y": 2 },
+        { "name": "mizuta", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "やがて 醒めるまで 夢か 現 (うつつ) 〜",
+      "members": [
+        { "name": "shiotsuki", "x": -6.5, "y": 2 },
+        { "name": "shinzawa", "x": -4.5, "y": 2 },
+        { "name": "abe", "x": -2.5, "y": 2 },
+        { "name": "mizuta", "x": -0.5, "y": 2 },
+        { "name": "ishiyama", "x": 1.5, "y": 2 },
+        { "name": "kawakami", "x": 3.5, "y": 2 },
+        { "name": "waka", "x": 5.5, "y": 2 },
+        { "name": "yuka", "x": 7.5, "y": 2 },
+
+        { "name": "ike", "x": -7.5, "y": 1 },
+        { "name": "tanaka", "x": -5.5, "y": 1 },
+        { "name": "kinugasa", "x": -3.5, "y": 1 },
+        { "name": "sakamoto", "x": -1.5, "y": 1 },
+        { "name": "yoshimi", "x": 0.5, "y": 1 },
+        { "name": "takahashi", "x": 2.5, "y": 1 },
+        { "name": "nishi", "x": 4.5, "y": 1 },
+        { "name": "tatsumoto", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "浮世離れしてる 眼差しで口説いたら〜",
+      "members": [
+        { "name": "ike", "x": -7.5, "y": 2 },
+        { "name": "tanaka", "x": -5.5, "y": 2 },
+        { "name": "kinugasa", "x": -3.5, "y": 2 },
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "yoshimi", "x": 0.5, "y": 2 },
+        { "name": "takahashi", "x": 2.5, "y": 2 },
+        { "name": "nishi", "x": 4.5, "y": 2 },
+        { "name": "tatsumoto", "x": 6.5, "y": 2 },
+
+        { "name": "shiotsuki", "x": -6.5, "y": 1 },
+        { "name": "shinzawa", "x": -4.5, "y": 1 },
+        { "name": "abe", "x": -2.5, "y": 1 },
+        { "name": "mizuta", "x": -0.5, "y": 1 },
+        { "name": "ishiyama", "x": 1.5, "y": 1 },
+        { "name": "kawakami", "x": 3.5, "y": 1 },
+        { "name": "waka", "x": 5.5, "y": 1 },
+        { "name": "yuka", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今が 旬ならば 花よ 喋よ〜",
+      "members": [
+        { "name": "yoshimi", "x": -7, "y": 3 },
+        { "name": "nishi", "x": -4.5, "y": 3 },
+        { "name": "ishiyama", "x": -2, "y": 3 },
+        { "name": "ike", "x": 0, "y": 3 },
+        { "name": "kinugasa", "x": 2, "y": 3 },
+        { "name": "tanaka", "x": 4.5, "y": 3 },
+        { "name": "sakamoto", "x": 7, "y": 3 },
+
+        { "name": "tatsumoto", "x": -6, "y": 2 },
+        { "name": "takahashi", "x": -3.5, "y": 2 },
+        { "name": "waka", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "yuka", "x": 3.5, "y": 2 },
+        { "name": "mizuta", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
