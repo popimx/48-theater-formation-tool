@@ -17,9 +17,10 @@ let currentStage = null;
    固定グリッド設定
 ========================= */
 
+/* 横間隔 */
 const GRID_X_STEP = 6;
 
-/* 4列時の縦間隔を基準固定 */
+/* 縦間隔（4列時基準で固定） */
 const GRID_Y_STEP = 18;
 
 /* =========================
@@ -102,53 +103,74 @@ function renderFormation() {
            使用列数取得
         ========================= */
 
-        const yList =
-          (part.members ?? []).map(
+        const maxY = Math.max(
+          ...(part.members ?? []).map(
             m => m.y ?? 1
-          );
-
-        const maxY =
-          Math.max(...yList);
+          )
+        );
 
         /* =========================
-           フォーメーションエリア高さ
+           エリア高さ
+        ========================= */
+
+        if (maxY <= 3) {
+
+          formationArea.style.height =
+            "320px";
+
+        }
+
+        else if (maxY === 4) {
+
+          formationArea.style.height =
+            "400px";
+
+        }
+
+        else {
+
+          formationArea.style.height =
+            "480px";
+
+        }
+
+        /* =========================
+           上空白カット量
         ========================= */
 
         /*
           1〜3列
-          → 上の空白をカット
+          → 上2列分だけ空白削除
+
+          4列
+          → 上1列分だけ空白削除
+
+          5列
+          → そのまま
         */
+
+        let cropRows = 0;
 
         if (maxY <= 3) {
 
-          formationArea.style.aspectRatio =
-            "16 / 5.4";
+          cropRows = 2;
 
         }
-
-        /*
-          4列
-          → 5列目相当の空白だけカット
-        */
 
         else if (maxY === 4) {
 
-          formationArea.style.aspectRatio =
-            "16 / 7.2";
+          cropRows = 1;
 
         }
-
-        /*
-          5列
-          → フルサイズ
-        */
 
         else {
 
-          formationArea.style.aspectRatio =
-            "16 / 9";
+          cropRows = 0;
 
         }
+
+        const cropOffset =
+          cropRows * GRID_Y_STEP;
 
         /* =========================
            メンバー描画
@@ -188,8 +210,8 @@ function renderFormation() {
             );
 
           /*
-            4列基準の縦間隔を固定
-            y=1〜5 の感覚は常に同じ
+             縦間隔は完全固定
+             上の空白だけ削除
           */
 
           const posY =
@@ -197,7 +219,8 @@ function renderFormation() {
             (
               (member.y ?? 0)
               * GRID_Y_STEP
-            );
+            ) +
+            cropOffset;
 
           memberDiv.style.left =
             `${posX}%`;
