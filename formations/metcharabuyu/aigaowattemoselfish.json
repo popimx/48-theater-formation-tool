@@ -1,0 +1,182 @@
+{
+  "song": "愛が終わってもSelfish",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -2.5, "y": 3 },
+        { "name": "sakashita", "x": 2.5, "y": 3 },
+
+        { "name": "sakata", "x": -1.5, "y": 2 },
+        { "name": "mikamo", "x": 1.5, "y": 2 },
+
+        { "name": "sakurada", "x": -3.5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "真っ赤なドレスを着ている 今日の私に〜",
+      "members": [
+        { "name": "hirayama", "x": -4, "y": 3 },
+        { "name": "sakashita", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": 2.5, "y": 2 },
+
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "あなたの瞳の中に 悲しいくらい私はいない〜",
+      "members": [
+        { "name": "sakurada", "x": -3, "y": 4 },
+        { "name": "sakashita", "x": 3, "y": 4 },
+
+        { "name": "hirayama", "x": -2, "y": 3 },
+        { "name": "mikamo", "x": 2, "y": 3 },
+
+        { "name": "haga", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "思い出はこの胸の流れ星 ほら... 〜",
+      "members": [
+        { "name": "sakurada", "x": -1.5, "y": 3 },
+        { "name": "sakashita", "x": 1.5, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": 3, "y": 2 },
+
+        { "name": "sakata", "x": -4.5, "y": 1 },
+        { "name": "izumi", "x": 0, "y": 1 },
+        { "name": "haga", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "あんなに見つめ合った日々はどこへ消えてしまったのか〜",
+      "members": [
+        { "name": "izumi", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": 3, "y": 2 },
+
+        { "name": "sakata", "x": -4.5, "y": 1 },
+        { "name": "sakurada", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 },
+        { "name": "haga", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "ここの場所にずっといよう 影を抱いて〜",
+      "members": [
+        { "name": "hirayama", "x": -2, "y": 3 },
+        { "name": "mikamo", "x": 2, "y": 3 },
+
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "sakurada", "x": 1, "y": 2 },
+
+        { "name": "izumi", "x": -3, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "sakashita", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "mikamo", "x": 3, "y": 3 },
+
+        { "name": "sakata", "x": -1.5, "y": 2 },
+        { "name": "sakurada", "x": 1.5, "y": 2 },
+
+        { "name": "izumi", "x": -4.5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "sakashita", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -5.5, "y": 3 },
+        { "name": "itagaki", "x": -2.5, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "ikeda", "x": 2.5, "y": 3 },
+        { "name": "miyamoto", "x": 5.5, "y": 3 },
+
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "心の果てしない大地を歩き続けて〜",
+      "members": [
+        { "name": "nishida", "x": -5.5, "y": 3 },
+        { "name": "itagaki", "x": -2.5, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "ikeda", "x": 2.5, "y": 3 },
+        { "name": "miyamoto", "x": 5.5, "y": 3 },
+
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "あなたを嫌いになれない 涙が透明なのは〜",
+      "members": [
+        { "name": "mikamo", "x": -1.5, "y": 4 },
+        { "name": "matsuoka", "x": 1.5, "y": 4 },
+
+        { "name": "hirayama", "x": -2.5, "y": 3 },
+        { "name": "sakashita", "x": 2.5, "y": 3 },
+
+        { "name": "nishida", "x": -5.5, "y": 2 },
+        { "name": "izumi", "x": -3.5, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 3.5, "y": 2 },
+        { "name": "miyamoto", "x": 5.5, "y": 2 },
+
+        { "name": "itagaki", "x": -4.5, "y": 1 },
+        { "name": "ikeda", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
