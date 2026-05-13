@@ -1,0 +1,110 @@
+{
+  "song": "上方ストロングスタイル",
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "そうよ Laugh！Laugh！Laugh！ 笑っちゃおう〜",
+      "members": [
+        { "name": "nishijima", "x": 0, "y": 4 },
+
+        { "name": "nakagawa", "x": -6, "y": 3 },
+        { "name": "nishida", "x": -3.5, "y": 3 },
+        { "name": "miyamoto", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "matsumoto", "x": 3.5, "y": 3 },
+        { "name": "takeda", "x": 6, "y": 3 },
+
+        { "name": "ikeda", "x": -5, "y": 2 },
+        { "name": "sakashita", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "hirayama", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 5, "y": 2 },
+
+        { "name": "izumi", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 },
+        { "name": "sakurada", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "そうね Hip！Hip！Hip！憂い顔も〜",
+      "members": [
+        { "name": "matsuoka", "x": 0, "y": 4 },
+
+        { "name": "nishida", "x": -5, "y": 3 },
+        { "name": "nishijima", "x": -2, "y": 3 },
+        { "name": "miyamoto", "x": 2, "y": 3 },
+        { "name": "matsumoto", "x": 5, "y": 3 },
+
+        { "name": "nakagawa", "x": -7, "y": 2 },
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 4, "y": 2 },
+        { "name": "takeda", "x": 7, "y": 2 },
+
+        { "name": "ikeda", "x": -5.5, "y": 1 },
+        { "name": "sakashita", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 },
+        { "name": "itagaki", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "そうよ Tough！Tough！Tough！何度でも〜",
+      "members": [
+        { "name": "takeda", "x": -0.5, "y": 4 },
+
+        { "name": "matsumoto", "x": -7, "y": 3 },
+        { "name": "nakagawa", "x": 0.5, "y": 3 },
+        { "name": "nishijima", "x": 7, "y": 3 },
+
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "sakashita", "x": -4, "y": 2 },
+        { "name": "izumi", "x": -2, "y": 2 },
+        { "name": "haga", "x": 2, "y": 2 },
+        { "name": "sakata", "x": 4, "y": 2 },
+        { "name": "hirayama", "x": 6, "y": 2 },
+
+        { "name": "miyamoto", "x": -5, "y": 1 },
+        { "name": "ikeda", "x": -3, "y": 1 },
+        { "name": "itagaki", "x": -1, "y": 1 },
+        { "name": "mikamo", "x": 1, "y": 1 },
+        { "name": "matsuoka", "x": 3, "y": 1 },
+        { "name": "nishida", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -5.5, "y": 5 },
+        { "name": "matsumoto", "x": -2, "y": 5 },
+        { "name": "nishijima", "x": 2, "y": 5 },
+        { "name": "nakagawa", "x": 5.5, "y": 5 },
+
+        { "name": "itagaki", "x": -4, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "ikeda", "x": 4, "y": 4 },
+
+        { "name": "mikamo", "x": -2.5, "y": 3 },
+        { "name": "sakashita", "x": 2.5, "y": 3 },
+
+        { "name": "miyamoto", "x": -6, "y": 2 },
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "sakata", "x": 1, "y": 2 },
+        { "name": "nishida", "x": 6, "y": 2 },
+
+        { "name": "sakurada", "x": -4.5, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
