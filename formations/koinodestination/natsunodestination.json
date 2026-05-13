@@ -1,0 +1,31 @@
+{
+  "song": "夏のDestination",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "君が好きだったスガシカオの「19才」〜",
+      "members": [
+        { "name": "tanaka", "x": -5.5, "y": 4 },
+        { "name": "kinugasa", "x": -2.5, "y": 4 },
+        { "name": "ishiyama", "x": 2.5, "y": 4 },
+        { "name": "nishi", "x": 5.5, "y": 4 },
+
+        { "name": "sakamoto", "x": -4, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "tatsumoto", "x": 1, "y": 3 },
+        { "name": "yoshimi", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -6, "y": 2 },
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "waka", "x": 3, "y": 2 },
+        { "name": "mizuta", "x": 6, "y": 2 },
+
+        { "name": "abe", "x": -4.5, "y": 1 },
+        { "name": "yuka", "x": -1.5, "y": 1 },
+        { "name": "kawakami", "x": 1.5, "y": 1 },
+        { "name": "shiotsuki", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
