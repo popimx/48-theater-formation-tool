@@ -1,0 +1,47 @@
+{
+  "song": "くまのぬいぐるみ",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "そのうち どうにか乗り越えられるわよ〜",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "kinugasa", "x": -3, "y": 1 },
+        { "name": "tatsumoto", "x": -1.5, "y": 1 },
+        { "name": "ike", "x": 0, "y": 1 },
+        { "name": "ishiyama", "x": 1.5, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "yoshimi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "シュビドゥビ ドゥダッタピーヤ〜",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "kinugasa", "x": -3, "y": 1 },
+        { "name": "tatsumoto", "x": -1.5, "y": 1 },
+        { "name": "ike", "x": 0, "y": 1 },
+        { "name": "ishiyama", "x": 1.5, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "yoshimi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "tatsumoto", "x": -3, "y": 1 },
+        { "name": "kinugasa", "x": -1.5, "y": 1 },
+        { "name": "ike", "x": 0, "y": 1 },
+        { "name": "ishiyama", "x": 1.5, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "yoshimi", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
