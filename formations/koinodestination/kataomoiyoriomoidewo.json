@@ -1,0 +1,107 @@
+{
+  "song": "片想いよりも思い出を...",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiyama", "x": -4, "y": 3 },
+        { "name": "nishi", "x": -2, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "kinugasa", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -5, "y": 2 },
+        { "name": "tatsumoto", "x": -3, "y": 2 },
+        { "name": "mizuta", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "ike", "x": 3, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "美しい真実が見えるー",
+      "members": [
+        { "name": "ishiyama", "x": -4.5, "y": 5 },
+        { "name": "nishi", "x": -1.5, "y": 5 },
+        { "name": "tanaka", "x": 1.5, "y": 5 },
+        { "name": "kinugasa", "x": 4.5, "y": 5 },
+
+        { "name": "shinzawa", "x": -3, "y": 4 },
+        { "name": "waka", "x": 0, "y": 4 },
+        { "name": "abe", "x": 3, "y": 4 },
+
+        { "name": "kawakami", "x": -3, "y": 3 },
+        { "name": "yuka", "x": 0, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+
+        { "name": "sakamoto", "x": -3, "y": 2 },
+        { "name": "yoshimi", "x": 0, "y": 2 },
+        { "name": "takahashi", "x": 3, "y": 2 },
+
+        { "name": "tatsumoto", "x": -3, "y": 1 },
+        { "name": "mizuta", "x": 0, "y": 1 },
+        { "name": "ike", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiyama", "x": -4, "y": 3 },
+        { "name": "nishi", "x": -2, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "kinugasa", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -5, "y": 2 },
+        { "name": "tatsumoto", "x": -3, "y": 2 },
+        { "name": "mizuta", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "ike", "x": 3, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiyama", "x": -4, "y": 3 },
+        { "name": "nishi", "x": -2, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "kinugasa", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -5, "y": 2 },
+        { "name": "tatsumoto", "x": -3, "y": 2 },
+        { "name": "mizuta", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "ike", "x": 3, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
