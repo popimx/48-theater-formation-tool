@@ -247,6 +247,30 @@
       ]
     },
 
+        {
+      "title": "1番サビ ⑤",
+      "lyrics": "泣きたいくらい〜",
+      "members": [
+        { "name": "ishiyama", "x": -6.5, "y": 2 },
+        { "name": "nishi", "x": -4.5, "y": 2 },
+        { "name": "yoshimi", "x": -2.5, "y": 2 },
+        { "name": "takahashi", "x": -0.5, "y": 2 },
+        { "name": "tatsumoto", "x": 1.5, "y": 2 },
+        { "name": "sakamoto", "x": 3.5, "y": 2 },
+        { "name": "tanaka", "x": 5.5, "y": 2 },
+        { "name": "kinugasa", "x": 7.5, "y": 2 },
+
+        { "name": "ike", "x": -7.5, "y": 1 },
+        { "name": "waka", "x": -5.5, "y": 1 },
+        { "name": "abe", "x": -3.5, "y": 1 },
+        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "yuka", "x": 0.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "shinzawa", "x": 4.5, "y": 1 },
+        { "name": "mizuta", "x": 6.5, "y": 1 }
+      ]
+    },
+    
     {
       "title": "2番サビ ①",
       "lyrics": "今でも 僕の愛は変わらない (ドゥイ ドゥイ ドゥイ) 〜",
@@ -342,6 +366,30 @@
       ]
     },
 
+        {
+      "title": "2番サビ ⑤",
+      "lyrics": "大好きだった 君が...",
+      "members": [
+        { "name": "ishiyama", "x": -6.5, "y": 2 },
+        { "name": "nishi", "x": -4.5, "y": 2 },
+        { "name": "yoshimi", "x": -2.5, "y": 2 },
+        { "name": "takahashi", "x": -0.5, "y": 2 },
+        { "name": "tatsumoto", "x": 1.5, "y": 2 },
+        { "name": "sakamoto", "x": 3.5, "y": 2 },
+        { "name": "tanaka", "x": 5.5, "y": 2 },
+        { "name": "kinugasa", "x": 7.5, "y": 2 },
+
+        { "name": "ike", "x": -7.5, "y": 1 },
+        { "name": "waka", "x": -5.5, "y": 1 },
+        { "name": "abe", "x": -3.5, "y": 1 },
+        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "yuka", "x": 0.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "shinzawa", "x": 4.5, "y": 1 },
+        { "name": "mizuta", "x": 6.5, "y": 1 }
+      ]
+    },
+    
     {
       "title": "2番サビ後 ①",
       "lyrics": "",
