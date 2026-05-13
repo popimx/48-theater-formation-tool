@@ -108,34 +108,8 @@
     },
 
     {
-      "title": "2番サビ後",
-      "lyrics": "",
-      "members": [
-        { "name": "nakagawa", "x": -2.25, "y": 4 },
-        { "name": "nishijima", "x": -0.75, "y": 4 },
-        { "name": "ikeda", "x": 0.75, "y": 4 },
-        { "name": "takeda", "x": 2.25, "y": 4 },
-
-        { "name": "nishida", "x": -3.75, "y": 3 },
-        { "name": "itagaki", "x": -1.5, "y": 3 },
-        { "name": "sakata", "x": 1.5, "y": 3 },
-        { "name": "matsumoto", "x": 3.75, "y": 3 },
-
-        { "name": "miyamoto", "x": -4.5, "y": 2 },
-        { "name": "sakurada", "x": -3, "y": 2 },
-        { "name": "haga", "x": 3, "y": 2 },
-        { "name": "mikamo", "x": 4.5, "y": 2 },
-
-        { "name": "sakashita", "x": -7.5, "y": 1 },
-        { "name": "hirayama", "x": -6, "y": 1 },
-        { "name": "izumi", "x": 6, "y": 1 },
-        { "name": "matsuoka", "x": 7.5, "y": 1 }
-      ]
-    },
-
-    {
       "title": "ラストサビ",
-      "lyrics": "ごめん 見つめるだけで そばには行けないよ その一線〜",
+      "lyrics": "ごめん 見つめるだけで そばには行けないよ〜",
       "members": [
         { "name": "ikeda", "x": -7, "y": 4 },
         { "name": "takeda", "x": 0, "y": 4 },
