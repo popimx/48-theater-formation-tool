@@ -1,0 +1,31 @@
+{
+  "song": "夢に色がない理由",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "後で直せるように 色がついていないんだ〜",
+      "members": [
+        { "name": "nishi", "x": -3.5, "y": 4 },
+        { "name": "sakamoto", "x": -1, "y": 4 },
+        { "name": "tanaka", "x": 1, "y": 4 },
+        { "name": "kinugasa", "x": 3.5, "y": 4 },
+
+        { "name": "mizuta", "x": -5, "y": 3 },
+        { "name": "ishiyama", "x": -2.5, "y": 3 },
+        { "name": "takahashi", "x": 0, "y": 3 },
+        { "name": "ike", "x": 2.5, "y": 3 },
+        { "name": "yoshimi", "x": 5, "y": 3 },
+
+        { "name": "waka", "x": -4, "y": 2 },
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+        { "name": "tatsumoto", "x": 4, "y": 2 },
+
+        { "name": "yuka", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
