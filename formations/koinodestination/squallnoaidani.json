@@ -3,6 +3,31 @@
 
   "parts": [
     {
+      "title": "1番Bメロ",
+      "lyrics": "近すぎて 見えなかった〜",
+      "members": [
+        { "name": "abe", "x": -3, "y": 3 },
+        { "name": "sakamoto", "x": -1, "y": 3 },
+        { "name": "tatsumoto", "x": 1, "y": 3 },
+        { "name": "waka", "x": 3, "y": 3 },
+
+        { "name": "ike", "x": -6, "y": 2 },
+        { "name": "kinugasa", "x": -4, "y": 2 },
+        { "name": "yoshimi", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
+        { "name": "takahashi", "x": 6, "y": 2 },
+
+        { "name": "mizuta", "x": -5, "y": 1 },
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": -1, "y": 1 },
+        { "name": "yuka", "x": 1, "y": 1 },
+        { "name": "ishiyama", "x": 3, "y": 1 },
+        { "name": "nishi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
       "title": "2番サビ後",
       "lyrics": "空がまた晴れて 虹が架かるように〜",
       "members": [
@@ -30,20 +55,20 @@
       "title": "ラストサビ",
       "lyrics": "",
       "members": [
-        { "name": "sakamoto", "x": -5.25, "y": 4 },
-        { "name": "ishiyama", "x": -3.25, "y": 4 },
-        { "name": "nishi", "x": 3.25, "y": 4 },
-        { "name": "tatsumoto", "x": 5.25, "y": 4 },
+        { "name": "sakamoto", "x": -6, "y": 4 },
+        { "name": "ishiyama", "x": -4, "y": 4 },
+        { "name": "nishi", "x": 4, "y": 4 },
+        { "name": "tatsumoto", "x": 6, "y": 4 },
 
-        { "name": "mizuta", "x": -4.5, "y": 3 },
-        { "name": "tanaka", "x": -2.5, "y": 3 },
-        { "name": "takahashi", "x": 2.5, "y": 3 },
-        { "name": "abe", "x": 4.5, "y": 3 },
+        { "name": "mizuta", "x": -5, "y": 3 },
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+        { "name": "abe", "x": 5, "y": 3 },
 
-        { "name": "kinugasa", "x": -3.75, "y": 2 },
-        { "name": "ike", "x": -1.75, "y": 2 },
-        { "name": "waka", "x": 1.75, "y": 2 },
-        { "name": "shinzawa", "x": 3.75, "y": 2 },
+        { "name": "kinugasa", "x": -4, "y": 2 },
+        { "name": "ike", "x": -2, "y": 2 },
+        { "name": "waka", "x": 2, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
 
         { "name": "yoshimi", "x": -3, "y": 1 },
         { "name": "yuka", "x": -1, "y": 1 },
