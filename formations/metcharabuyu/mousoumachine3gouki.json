@@ -1,0 +1,191 @@
+{
+  "song": "妄想マシーン3号機",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -5.5, "y": 5 },
+        { "name": "nishijima", "x": -2.5, "y": 5 },
+        { "name": "nishida", "x": 2.5, "y": 5 },
+        { "name": "nakagawa", "x": 5.5, "y": 5 },
+
+        { "name": "mikamo", "x": -4, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "sakashita", "x": 1.5, "y": 4 },
+        { "name": "hirayama", "x": 4, "y": 4 },
+
+        { "name": "sakurada", "x": -5, "y": 3 },
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0.5, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "miyamoto", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "この胸の愛の器 一体どれくらい入るんだ？〜",
+      "members": [
+        { "name": "takeda", "x": -5.5, "y": 5 },
+        { "name": "nishijima", "x": -2.5, "y": 5 },
+        { "name": "nishida", "x": 2.5, "y": 5 },
+        { "name": "nakagawa", "x": 5.5, "y": 5 },
+
+        { "name": "mikamo", "x": -4, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "sakashita", "x": 1.5, "y": 4 },
+        { "name": "hirayama", "x": 4, "y": 4 },
+
+        { "name": "sakurada", "x": -5, "y": 3 },
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0.5, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "miyamoto", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -5.5, "y": 5 },
+        { "name": "nishijima", "x": -2.5, "y": 5 },
+        { "name": "nishida", "x": 2.5, "y": 5 },
+        { "name": "nakagawa", "x": 5.5, "y": 5 },
+
+        { "name": "mikamo", "x": -4, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "sakashita", "x": 1.5, "y": 4 },
+        { "name": "hirayama", "x": 4, "y": 4 },
+
+        { "name": "sakurada", "x": -5, "y": 3 },
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0.5, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "miyamoto", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "君一人であふれちゃって もうキャパシティーがない〜",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "matsuoka", "x": -1, "y": 4 },
+        { "name": "takeda", "x": 1, "y": 4 },
+        { "name": "haga", "x": 3, "y": 4 },
+
+        { "name": "nishijima", "x": -4, "y": 3 },
+        { "name": "matsumoto", "x": -2, "y": 3 },
+        { "name": "sakashita", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 2, "y": 3 },
+        { "name": "miyamoto", "x": 4, "y": 3 },
+
+        { "name": "itagaki", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": -1, "y": 2 },
+        { "name": "ikeda", "x": 1, "y": 2 },
+        { "name": "sakata", "x": 3, "y": 2 },
+
+        { "name": "nakagawa", "x": -2, "y": 1 },
+        { "name": "izumi", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "妄想マシーン3号機 また 途中で動かなくなった〜",
+      "members": [
+        { "name": "nakagawa", "x": -5, "y": 4 },
+        { "name": "hirayama", "x": -2, "y": 4 },
+        { "name": "haga", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 5, "y": 4 },
+
+        { "name": "mikamo", "x": -4, "y": 3 },
+        { "name": "matsumoto", "x": 1, "y": 3 },
+        { "name": "sakashita", "x": 4, "y": 3 },
+
+        { "name": "itagaki", "x": -6, "y": 2 },
+        { "name": "nishida", "x": -3, "y": 2 },
+        { "name": "ikeda", "x": 0, "y": 2 },
+        { "name": "sakata", "x": 3, "y": 2 },
+        { "name": "sakurada", "x": 6, "y": 2 },
+
+        { "name": "nishijima", "x": -4.5, "y": 1 },
+        { "name": "izumi", "x": -1.5, "y": 1 },
+        { "name": "matsuoka", "x": 1.5, "y": 1 },
+        { "name": "miyamoto", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "そんなものいらないよ サーモスタット 外してみたけど〜",
+      "members": [
+        { "name": "mikamo", "x": -4, "y": 4 },
+        { "name": "matsumoto", "x": 1, "y": 4 },
+        { "name": "sakashita", "x": 4, "y": 4 },
+
+        { "name": "nakagawa", "x": -5.5, "y": 3 },
+        { "name": "hirayama", "x": -2.5, "y": 3 },
+        { "name": "haga", "x": 2.5, "y": 3 },
+        { "name": "takeda", "x": 5.5, "y": 3 },
+
+        { "name": "nishijima", "x": -4.5, "y": 2 },
+        { "name": "izumi", "x": -1.5, "y": 2 },
+        { "name": "matsuoka", "x": 1.5, "y": 2 },
+        { "name": "miyamoto", "x": 4.5, "y": 2 },
+
+        { "name": "itagaki", "x": -6, "y": 1 },
+        { "name": "nishida", "x": -3, "y": 1 },
+        { "name": "ikeda", "x": 0, "y": 1 },
+        { "name": "sakata", "x": 3, "y": 1 },
+        { "name": "sakurada", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "妄想マシーン3号機 今 スイッチをONにしても〜",
+      "members": [
+        { "name": "nakagawa", "x": -5.5, "y": 5 },
+        { "name": "nishijima", "x": -2.5, "y": 5 },
+        { "name": "nishida", "x": 2.5, "y": 5 },
+        { "name": "takeda", "x": 5.5, "y": 5 },
+
+        { "name": "hirayama", "x": -4, "y": 4 },
+        { "name": "mikamo", "x": -1.5, "y": 4 },
+        { "name": "sakashita", "x": 1.5, "y": 4 },
+        { "name": "matsumoto", "x": 4, "y": 4 },
+
+        { "name": "sakurada", "x": -5, "y": 3 },
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0.5, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "miyamoto", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
