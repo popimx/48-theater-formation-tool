@@ -114,21 +114,32 @@ function renderFormation() {
 
         let topOffset = 0;
 
-        /*
-          1列 → 上2列分カット
-          2列 → 上2列分カット
-          3列 → 上2列分カット
-          4列 → 上1列分カット
-          5列 → そのまま
-        */
+        /* 1〜3列：
+           上の2列分をカット */
 
         if (uniqueRows <= 3) {
 
-          topOffset = 36;
+          topOffset =
+            GRID_Y_STEP * 2;
 
-        } else if (uniqueRows === 4) {
+        }
 
-          topOffset = 18;
+        /* 4列：
+           上の1列分をカット */
+
+        else if (uniqueRows === 4) {
+
+          topOffset =
+            GRID_Y_STEP;
+
+        }
+
+        /* 5列：
+           カットなし */
+
+        else {
+
+          topOffset = 0;
 
         }
 
@@ -169,13 +180,18 @@ function renderFormation() {
               * GRID_X_STEP
             );
 
+          /* =========================
+             上空白だけカット
+             縦間隔は固定
+          ========================= */
+
           const posY =
             100
             - (
               (member.y ?? 0)
               * GRID_Y_STEP
             )
-            + topOffset;
+            - topOffset;
 
           memberDiv.style.left =
             `${posX}%`;
