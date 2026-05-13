@@ -69,6 +69,10 @@ function renderFormation() {
         const formationArea =
           card.querySelector(".formation-area");
 
+        /* =========================
+           最大列数取得
+        ========================= */
+
         const maxY = Math.max(
           ...(part.members ?? []).map(m => m.y ?? 1)
         );
@@ -79,6 +83,42 @@ function renderFormation() {
 
         formationArea.style.aspectRatio =
           "16 / 10";
+
+        /* =========================
+           列数ごとの圧縮設定
+        ========================= */
+
+        let yScale = 18;
+        let baseY = 100;
+
+        /*
+          5列 → 基準
+          4列 → 5列目削除
+          3列 → 4・5列目削除
+          2列 → 4・5列目削除（3列目は残す）
+          1列 → 4・5列目削除（2・3列目は残す）
+        */
+
+        if (maxY === 4) {
+
+          yScale = 22;
+
+        } else if (maxY === 3) {
+
+          yScale = 28;
+
+        } else if (maxY === 2) {
+
+          /* 3列構成扱い */
+          yScale = 28;
+
+        } else if (maxY === 1) {
+
+          /* 3列構成の中央 */
+          yScale = 0;
+          baseY = 44;
+
+        }
 
         (part.members ?? []).forEach(member => {
 
@@ -103,9 +143,18 @@ function renderFormation() {
           const posX =
             50 + ((member.x ?? 0) * 6);
 
-          /* 4列基準で統一 */
-          const posY =
-            100 - ((member.y ?? 0) * 18);
+          let posY;
+
+          if (maxY === 1) {
+
+            posY = baseY;
+
+          } else {
+
+            posY =
+              baseY - ((member.y ?? 0) * yScale);
+
+          }
 
           memberDiv.style.left = `${posX}%`;
           memberDiv.style.top = `${posY}%`;
