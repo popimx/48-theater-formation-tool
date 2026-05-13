@@ -1,0 +1,162 @@
+{
+  "song": "ごめん 愛せないんだ",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -5, "y": 5 },
+        { "name": "nishida", "x": -2.5, "y": 5 },
+        { "name": "ikeda", "x": 0, "y": 5 },
+        { "name": "matsumoto", "x": 2.5, "y": 5 },
+        { "name": "takeda", "x": 5, "y": 5 },
+
+        { "name": "matsuoka", "x": -4, "y": 4 },
+        { "name": "itagaki", "x": -1, "y": 4 },
+        { "name": "nishijima", "x": 1, "y": 4 },
+        { "name": "miyamoto", "x": 4, "y": 4 },
+
+        { "name": "sakata", "x": -2, "y": 3 },
+        { "name": "sakurada", "x": 2, "y": 3 },
+
+        { "name": "mikamo", "x": -3, "y": 2 },
+        { "name": "sakashita", "x": 0, "y": 2 },
+        { "name": "haga", "x": 3, "y": 2 },
+
+        { "name": "izumi", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 4 },
+        { "name": "takeda", "x": 0, "y": 4 },
+        { "name": "ikeda", "x": 7, "y": 4 },
+
+        { "name": "sakata", "x": -6, "y": 3 },
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+        { "name": "nishijima", "x": 6, "y": 3 },
+
+        { "name": "haga", "x": -5, "y": 2 },
+        { "name": "matsuoka", "x": -1, "y": 2 },
+        { "name": "miyamoto", "x": 1, "y": 2 },
+        { "name": "itagaki", "x": 5, "y": 2 },
+
+        { "name": "mikamo", "x": -4, "y": 1 },
+        { "name": "izumi", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 },
+        { "name": "sakurada", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "もっと早く帰ろうとしてしていた〜",
+      "members": [
+        { "name": "takeda", "x": -6, "y": 4 },
+        { "name": "izumi", "x": -3, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 4 },
+        { "name": "nishijima", "x": 3, "y": 4 },
+        { "name": "miyamoto", "x": 6, "y": 4 },
+
+        { "name": "nakagawa", "x": -2, "y": 3 },
+        { "name": "itagaki", "x": 2, "y": 3 },
+
+        { "name": "mikamo", "x": -7, "y": 2 },
+        { "name": "matsumoto", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "matsuoka", "x": 1, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+        { "name": "sakurada", "x": 7, "y": 2 },
+
+        { "name": "haga", "x": -3, "y": 1 },
+        { "name": "nishida", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 4 },
+        { "name": "sakashita", "x": 4, "y": 4 },
+
+        { "name": "mikamo", "x": -6, "y": 3 },
+        { "name": "matsuoka", "x": -2, "y": 3 },
+        { "name": "sakurada", "x": 2, "y": 3 },
+        { "name": "miyamoto", "x": 6, "y": 3 },
+
+        { "name": "sakata", "x": -5, "y": 2 },
+        { "name": "nakagawa", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "nishida", "x": 5, "y": 2 },
+
+        { "name": "matsumoto", "x": -7, "y": 1 },
+        { "name": "takeda", "x": -3, "y": 1 },
+        { "name": "nishijima", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 },
+        { "name": "itagaki", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "nishijima", "x": -0.75, "y": 4 },
+        { "name": "ikeda", "x": 0.75, "y": 4 },
+        { "name": "takeda", "x": 2.25, "y": 4 },
+
+        { "name": "nishida", "x": -3.75, "y": 3 },
+        { "name": "itagaki", "x": -1.5, "y": 3 },
+        { "name": "sakata", "x": 1.5, "y": 3 },
+        { "name": "matsumoto", "x": 3.75, "y": 3 },
+
+        { "name": "miyamoto", "x": -4.5, "y": 2 },
+        { "name": "sakurada", "x": -3, "y": 2 },
+        { "name": "haga", "x": 3, "y": 2 },
+        { "name": "mikamo", "x": 4.5, "y": 2 },
+
+        { "name": "sakashita", "x": -7.5, "y": 1 },
+        { "name": "hirayama", "x": -6, "y": 1 },
+        { "name": "izumi", "x": 6, "y": 1 },
+        { "name": "matsuoka", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "ごめん 見つめるだけで そばには行けないよ その一線〜",
+      "members": [
+        { "name": "ikeda", "x": -7, "y": 4 },
+        { "name": "takeda", "x": 0, "y": 4 },
+        { "name": "nakagawa", "x": 7, "y": 4 },
+
+        { "name": "nishijima", "x": -6, "y": 3 },
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "matsumoto", "x": 3, "y": 3 },
+        { "name": "sakata", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "miyamoto", "x": -1, "y": 2 },
+        { "name": "matsuoka", "x": 1, "y": 2 },
+        { "name": "haga", "x": 5, "y": 2 },
+
+        { "name": "sakurada", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
