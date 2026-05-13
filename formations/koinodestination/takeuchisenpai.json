@@ -1,0 +1,67 @@
+{
+  "song": "竹内先輩",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 3 },
+        { "name": "waka", "x": 3, "y": 3 },
+
+        { "name": "kawakami", "x": -2, "y": 2 },
+        { "name": "yuka", "x": 0, "y": 2 },
+        { "name": "mizuta", "x": 2, "y": 2 },
+
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Love you... 竹内先輩 (Love me!) (Hold me!) 2コ上の先輩 (Kiss me!) 〜",
+      "members": [
+        { "name": "waka", "x": -2.5, "y": 3 },
+        { "name": "mizuta", "x": 0, "y": 3 },
+        { "name": "shinzawa", "x": 2.5, "y": 3 },
+
+        { "name": "shiotsuki", "x": -4.5, "y": 2 },
+        { "name": "kawakami", "x": 4.5, "y": 2 },
+
+        { "name": "abe", "x": -1.5, "y": 1 },
+        { "name": "yuka", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "学校中の 女子に人気よ〜",
+      "members": [
+        { "name": "waka", "x": -2, "y": 2 },
+        { "name": "mizuta", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "yuka", "x": 1, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -2, "y": 2 },
+        { "name": "mizuta", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "yuka", "x": 1, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
