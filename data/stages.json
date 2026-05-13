@@ -152,5 +152,160 @@
         "file": "hikaritokagenohibi.json"
       }
     ]
+  },
+  
+  {
+    "stage": "NMB48「青春！恋のDestination」",
+    "stageId": "koinodestination",
+
+    "members": [
+      {
+        "name": "青原優花",
+        "display": "優花",
+        "id": "yuka",
+        "image": "aobara_yuka_2025"
+      },
+      {
+        "name": "青原和花",
+        "display": "和花",
+        "id": "waka",
+        "image": "aobara_waka_2025"
+      },
+      {
+        "name": "安部若菜",
+        "display": "安部",
+        "id": "abe",
+        "image": "abe_wakana_2025"
+      },
+      {
+        "name": "池帆乃香",
+        "display": "池",
+        "id": "ike",
+        "image": "ike_honoka_2025"
+      },
+      {
+        "name": "石山千尋",
+        "display": "石山",
+        "id": "ishiyama",
+        "image": "ishiyama_chihiro_2025"
+      },
+      {
+        "name": "川上千尋",
+        "display": "川上",
+        "id": "kawakami",
+        "image": "kawakami_chihiro_2025"
+      },
+      {
+        "name": "衣笠彩実",
+        "display": "衣笠",
+        "id": "kinugasa",
+        "image": "kinugasa_ayami_2025"
+      },
+      {
+        "name": "坂本理紗",
+        "display": "坂本",
+        "id": "sakamoto",
+        "image": "sakamoto_risa_2025"
+      },
+      {
+        "name": "塩月希依音",
+        "display": "塩月",
+        "id": "shiotsuki",
+        "image": "nishijima_rio_2025"
+      },
+      {
+        "name": "新澤菜央",
+        "display": "新澤",
+        "id": "shinzawa",
+        "image": "shlnzawa_nao_2025"
+      },
+      {
+        "name": "高橋ことね",
+        "display": "高橋",
+        "id": "takahashi",
+        "image": "takahashi_kotone_2025"
+      },
+      {
+        "name": "龍本弥生",
+        "display": "龍本弥生",
+        "id": "tatsumoto",
+        "image": "tatsumoto_yayoi_2025"
+      },
+      {
+        "name": "田中美空",
+        "display": "田中",
+        "id": "tanaka",
+        "image": "tanaka_misora_2025"
+      },
+      {
+        "name": "西由真",
+        "display": "西",
+        "id": "nishi",
+        "image": "nishi_yuma_2025"
+      },
+      {
+        "name": "水田詩織",
+        "display": "水田",
+        "id": "mizuta",
+        "image": "mizuta_shiori_2025"
+      },
+      {
+        "name": "吉見純音",
+        "display": "吉見",
+        "id": "yoshimi",
+        "image": "yoshimi_ayane_2025"
+      }
+    ],
+
+    "songs": [
+      {
+        "name": "難波愛",
+        "file": "nanbaai.json"
+      },
+      {
+        "name": "空から愛が降って来る",
+        "file": "sorakaraaigafuttekuru.json"
+      },
+      {
+        "name": "あまのじゃくバッタ",
+        "file": "amanojakubatta.json"
+      },
+      {
+        "name": "めっちゃラブユー",
+        "file": "metcharabuyu.json"
+      },
+      {
+        "name": "Teacher Teacher",
+        "file": "teacher_teacher.json"
+      },
+      {
+        "name": "愛が終わってもSelfish",
+        "file": "aigaowattemoselfish.json"
+      },
+      {
+        "name": "ごめん 愛せないんだ",
+        "file": "gomen_aisenainda.json"
+      },
+      {
+        "name": "妄想マシーン3号機",
+        "file": "mousoumachine3gouki.json"
+      },
+      {
+        "name": "波が伝えるもの",
+        "file": "namigatsutaerumono.json"
+      },
+      {
+        "name": "母校へ帰れ！",
+        "file": "bokouekaere.json"
+      },
+      {
+        "name": "上方ストロングスタイル",
+        "file": "kamigatastrongstyle.json"
+      },
+      {
+        "name": "光と影の日々",
+        "file": "hikaritokagenohibi.json"
+      }
+    ]
   }
 ]
