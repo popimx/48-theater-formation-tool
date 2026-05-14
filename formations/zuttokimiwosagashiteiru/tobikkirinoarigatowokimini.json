@@ -12,7 +12,7 @@
         { "name": "aikawa", "x": -5, "y": 2 },
         { "name": "kumazaki", "x": -1.5, "y": 2 },
         { "name": "nomura", "x": 1.5, "y": 2 },
-        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "ito", "x": 5, "y": 2 },
 
         { "name": "iriuchijima", "x": -6.5, "y": 1 },
         { "name": "yamamura", "x": -4, "y": 1 },
@@ -32,7 +32,7 @@
         { "name": "aikawa", "x": -5, "y": 2 },
         { "name": "kumazaki", "x": -1.5, "y": 2 },
         { "name": "nomura", "x": 1.5, "y": 2 },
-        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "ito", "x": 5, "y": 2 },
 
         { "name": "iriuchijima", "x": -6.5, "y": 1 },
         { "name": "yamamura", "x": -4, "y": 1 },
@@ -52,7 +52,7 @@
         { "name": "aikawa", "x": -5, "y": 2 },
         { "name": "kumazaki", "x": -1.5, "y": 2 },
         { "name": "nomura", "x": 1.5, "y": 2 },
-        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "ito", "x": 5, "y": 2 },
 
         { "name": "iriuchijima", "x": -6.5, "y": 1 },
         { "name": "yamamura", "x": -4, "y": 1 },
@@ -72,7 +72,7 @@
         { "name": "aikawa", "x": -5, "y": 2 },
         { "name": "kumazaki", "x": -1.5, "y": 2 },
         { "name": "nomura", "x": 1.5, "y": 2 },
-        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "ito", "x": 5, "y": 2 },
 
         { "name": "iriuchijima", "x": -6.5, "y": 1 },
         { "name": "yamamura", "x": -4, "y": 1 },
