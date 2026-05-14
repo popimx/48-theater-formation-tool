@@ -55,25 +55,23 @@ select {
 
 /* =========================
    フォーメーションエリア
-   ★改善ポイントまとめ
-   - 背景をカードと統一
-   - 5列でも切れないよう余白確保
-   - 中央基準で拡張しやすく
+   ★JSで完全制御する前提
 ========================= */
 
 .formation-area {
   position: relative;
 
   width: 100%;
+
   aspect-ratio: 16 / 9;
 
-  background: #ffffff; /* ←カードと統一 */
+  background: #ffffff;
 
   border-radius: 12px;
 
-  overflow: visible; /* ←5列が切れる原因対策 */
+  overflow: visible;
 
-  padding: 10px 0;
+  padding: 0; /* ★重要：余白原因を完全除去 */
 }
 
 /* =========================
@@ -109,7 +107,7 @@ select {
 }
 
 /* =========================
-   ラベル（数字のみ想定）
+   ラベル
 ========================= */
 
 .label {
@@ -132,3 +130,4 @@ select {
   white-space: nowrap;
 
   color: #333;
+}
