@@ -1,4 +1,4 @@
- const stageSelect =
+const stageSelect =
   document.getElementById("stage-select");
 
 const memberSelect =
@@ -14,7 +14,7 @@ let stagesData = [];
 let currentStage = null;
 
 /* =========================
-   データ読み込み
+   演目一覧読み込み
 ========================= */
 
 fetch("data/stages.json")
@@ -37,7 +37,7 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   描画
+   描画関数
 ========================= */
 
 function renderFormation() {
@@ -73,7 +73,7 @@ function renderFormation() {
           part.members ?? [];
 
         /* =========================
-           最大Yを取得（余白カット用）
+           ★ ここが核心：余白カット
         ========================= */
 
         const maxY = Math.max(
@@ -82,12 +82,11 @@ function renderFormation() {
 
         const BASE_Y = 18;
 
-        /* ★ここが核心：高さを中身に合わせる */
         formationArea.style.height =
           `${(maxY + 1) * BASE_Y}px`;
 
         /* =========================
-           座標固定
+           メンバー描画
         ========================= */
 
         members.forEach(member => {
@@ -106,17 +105,25 @@ function renderFormation() {
             isActive ? "active" : "sub"
           );
 
+          /* =========================
+             座標（完全固定）
+          ========================= */
+
           const posX =
-            50 + (member.x ?? 0) * 6;
+            50 + ((member.x ?? 0) * 6);
 
           const posY =
-            100 - (member.y ?? 0) * 18;
+            100 - ((member.y ?? 0) * 18);
 
           memberDiv.style.left =
             `${posX}%`;
 
           memberDiv.style.top =
             `${posY}%`;
+
+          /* =========================
+             メンバー情報
+          ========================= */
 
           const memberData =
             currentStage.members.find(
@@ -129,7 +136,14 @@ function renderFormation() {
           img.src =
             `images/members/${currentStage.stageId}/${memberData?.image ?? memberId}.PNG`;
 
+          img.alt =
+            memberData?.name ?? memberId;
+
           memberDiv.appendChild(img);
+
+          /* =========================
+             ラベル
+          ========================= */
 
           if (isActive) {
 
@@ -160,7 +174,7 @@ function renderFormation() {
 }
 
 /* =========================
-   イベント
+   演目変更
 ========================= */
 
 stageSelect.addEventListener("change", async () => {
@@ -177,7 +191,9 @@ stageSelect.addEventListener("change", async () => {
   partsContainer.innerHTML = "";
 
   const stageInfo =
-    stagesData.find(s => s.stageId === stageSelect.value);
+    stagesData.find(
+      s => s.stageId === stageSelect.value
+    );
 
   if (!stageInfo) return;
 
@@ -218,6 +234,10 @@ stageSelect.addEventListener("change", async () => {
   renderFormation();
 
 });
+
+/* =========================
+   即時切替
+========================= */
 
 songSelect.addEventListener("change", renderFormation);
 memberSelect.addEventListener("change", renderFormation);
