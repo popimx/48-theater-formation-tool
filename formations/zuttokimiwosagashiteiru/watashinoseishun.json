@@ -2,7 +2,7 @@
   "song": "私の青春",
   "parts": [
     {
-      "title": "イントロ①",
+      "title": "イントロ ①",
       "lyrics": "",
       "members": [
         { "name": "sugimoto", "x": -5, "y": 3 },
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "title": "イントロ②",
+      "title": "イントロ ②",
       "lyrics": "",
       "members": [
         { "name": "aikawa", "x": -2, "y": 3 },
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "1番Aメロ①",
+      "title": "1番Aメロ ①",
       "lyrics": "",
       "members": [
         { "name": "aikawa", "x": -2, "y": 3 },
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "1番Aメロ②",
+      "title": "1番Aメロ ②",
       "lyrics": "",
       "members": [
         { "name": "sugimoto", "x": -4, "y": 4 },
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "title": "ラストサビ①",
+      "title": "ラストサビ ①",
       "lyrics": "",
       "members": [
         { "name": "kumazaki", "x": -4.5, "y": 3 },
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "title": "ラストサビ",
+      "title": "ラストサビ ②",
       "lyrics": "",
       "members": [
         { "name": "kumazaki", "x": -3, "y": 4 },
