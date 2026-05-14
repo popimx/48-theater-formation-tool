@@ -1,0 +1,208 @@
+{
+  "song": "私の青春",
+  "parts": [
+    {
+      "title": "イントロ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sugimoto", "x": -5, "y": 3 },
+        { "name": "kumazaki", "x": -2.5, "y": 3 },
+        { "name": "sakamoto", "x": 2.5, "y": 3 },
+        { "name": "yamamura", "x": 5, "y": 3 },
+
+        { "name": "aikawa", "x": -5, "y": 2 },
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "hara", "x": 2.5, "y": 2 },
+        { "name": "iriuchijima", "x": 5, "y": 2 },
+
+        { "name": "ishiguro", "x": -5, "y": 1 },
+        { "name": "kurashima", "x": -2.5, "y": 1 },
+        { "name": "nomura", "x": 2.5, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": -2, "y": 3 },
+        { "name": "sugimoto", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 2, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "kumazaki", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+
+        { "name": "ishiguro", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": -2, "y": 1 },
+        { "name": "sakamoto", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2, "y": 1 },
+        { "name": "iriuchijima", "x": 4, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロ②",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": -2, "y": 3 },
+        { "name": "sugimoto", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 2, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "kumazaki", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+
+        { "name": "ishiguro", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": -2, "y": 1 },
+        { "name": "sakamoto", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2, "y": 1 },
+        { "name": "iriuchijima", "x": 4, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番Aメロ①",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": -2, "y": 3 },
+        { "name": "sugimoto", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 2, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "kumazaki", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+
+        { "name": "ishiguro", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": -2, "y": 1 },
+        { "name": "sakamoto", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2, "y": 1 },
+        { "name": "iriuchijima", "x": 4, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番Aメロ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sugimoto", "x": -4, "y": 4 },
+        { "name": "sakamoto", "x": 0, "y": 4 },
+        { "name": "yamamura", "x": 4, "y": 4 },
+
+        { "name": "ishiguro", "x": -5, "y": 3 },
+        { "name": "kurashima", "x": -3, "y": 3 },
+        { "name": "aikawa", "x": -1, "y": 3 },
+        { "name": "suzuki", "x": 1, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+        { "name": "iriuchijima", "x": 5, "y": 3 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "nomura", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sugimoto", "x": -5.5, "y": 3 },
+        { "name": "aikawa", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 5.5, "y": 3 },
+
+        { "name": "ishiguro", "x": -4, "y": 2 },
+        { "name": "kumazaki", "x": -1.5, "y": 2 },
+        { "name": "nomura", "x": 1.5, "y": 2 },
+        { "name": "iriuchijima", "x": 4, "y": 2 },
+
+        { "name": "ito", "x": -5, "y": 1 },
+        { "name": "kurashima", "x": -2.5, "y": 1 },
+        { "name": "sakamoto", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2.5, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kumazaki", "x": -4.5, "y": 3 },
+        { "name": "nomura", "x": 0.5, "y": 3 },
+        { "name": "sugimoto", "x": 4.5, "y": 3 },
+
+        { "name": "yamamura", "x": -6.5, "y": 2 },
+        { "name": "aikawa", "x": -3, "y": 2 },
+        { "name": "sakamoto", "x": -0.5, "y": 2 },
+        { "name": "ito", "x": 3, "y": 2 },
+        { "name": "ishiguro", "x": 6.5, "y": 2 },
+
+        { "name": "suzuki", "x": -5, "y": 1 },
+        { "name": "hara", "x": -1.5, "y": 1 },
+        { "name": "kurashima", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kumazaki", "x": -3, "y": 4 },
+        { "name": "nomura", "x": 3, "y": 4 },
+        { "name": "ishiguro", "x": 7, "y": 4 },
+
+        { "name": "yamamura", "x": -6, "y": 3 },
+        { "name": "hara", "x": -2, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "sugimoto", "x": 6, "y": 3 },
+
+        { "name": "suzuki", "x": -5, "y": 2 },
+        { "name": "aikawa", "x": -1, "y": 2 },
+        { "name": "kurashima", "x": 1, "y": 2 },
+        { "name": "iriuchijima", "x": 5, "y": 2 },
+
+        { "name": "sakamoto", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kumazaki", "x": -3, "y": 4 },
+        { "name": "nomura", "x": 3, "y": 4 },
+        { "name": "ishiguro", "x": 7, "y": 4 },
+
+        { "name": "yamamura", "x": -6, "y": 3 },
+        { "name": "hara", "x": -2, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "sugimoto", "x": 6, "y": 3 },
+
+        { "name": "suzuki", "x": -5, "y": 2 },
+        { "name": "aikawa", "x": -1, "y": 2 },
+        { "name": "kurashima", "x": 1, "y": 2 },
+        { "name": "iriuchijima", "x": 5, "y": 2 },
+
+        { "name": "sakamoto", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kumazaki", "x": -3, "y": 4 },
+        { "name": "nomura", "x": 3, "y": 4 },
+        { "name": "ishiguro", "x": 7, "y": 4 },
+
+        { "name": "yamamura", "x": -6, "y": 3 },
+        { "name": "hara", "x": -2, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "sugimoto", "x": 6, "y": 3 },
+
+        { "name": "suzuki", "x": -5, "y": 2 },
+        { "name": "aikawa", "x": -1, "y": 2 },
+        { "name": "kurashima", "x": 1, "y": 2 },
+        { "name": "iriuchijima", "x": 5, "y": 2 },
+
+        { "name": "sakamoto", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
