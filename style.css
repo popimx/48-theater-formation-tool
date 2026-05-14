@@ -1,4 +1,4 @@
- body {
+body {
   font-family: sans-serif;
 
   margin: 0;
@@ -55,24 +55,29 @@ select {
 
 /* =========================
    フォーメーションエリア
+   ★改善ポイントまとめ
+   - 背景をカードと統一
+   - 5列でも切れないよう余白確保
+   - 中央基準で拡張しやすく
 ========================= */
 
 .formation-area {
   position: relative;
 
   width: 100%;
+  aspect-ratio: 16 / 9;
 
-  background: #fff;
+  background: #ffffff; /* ←カードと統一 */
 
   border-radius: 12px;
 
-  overflow: hidden; /* ★余白カットの核心 */
+  overflow: visible; /* ←5列が切れる原因対策 */
 
-  padding: 0;
+  padding: 10px 0;
 }
 
 /* =========================
-   メンバー
+   メンバーアイコン
 ========================= */
 
 .member {
@@ -93,16 +98,18 @@ select {
   object-fit: cover;
 }
 
+/* 非選択メンバー */
 .member.sub {
   opacity: 0.15;
 }
 
+/* 選択メンバー */
 .member.active {
   opacity: 1;
 }
 
 /* =========================
-   ラベル
+   ラベル（数字のみ想定）
 ========================= */
 
 .label {
@@ -114,9 +121,14 @@ select {
 
   transform: translateX(-50%);
 
+  text-align: center;
+
   font-size: 0.6rem;
 
   font-weight: 600;
 
+  line-height: 1.1;
+
+  white-space: nowrap;
+
   color: #333;
-}
