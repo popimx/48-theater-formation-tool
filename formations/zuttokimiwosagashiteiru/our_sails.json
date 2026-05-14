@@ -64,7 +64,7 @@
       ]
     },
     {
-      "title": "1番サビ①",
+      "title": "1番サビ ①",
       "lyrics": "",
       "members": [
         { "name": "yamamura", "x": -4.5, "y": 2 },
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "title": "1番サビ②",
+      "title": "1番サビ ②",
       "lyrics": "",
       "members": [
         { "name": "kurashima", "x": -5.5, "y": 2 },
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "title": "ラストサビ①",
+      "title": "ラストサビ ①",
       "lyrics": "",
       "members": [
         { "name": "sakamoto", "x": -1, "y": 5 },
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "ラストサビ②",
+      "title": "ラストサビ ②",
       "lyrics": "",
       "members": [
         { "name": "sugimoto", "x": -3.5, "y": 3 },
