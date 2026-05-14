@@ -1,0 +1,85 @@
+{
+  "song": "とびっきりのありがとうをキミに",
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3.5, "y": 3 },
+
+        { "name": "aikawa", "x": -5, "y": 2 },
+        { "name": "kumazaki", "x": -1.5, "y": 2 },
+        { "name": "nomura", "x": 1.5, "y": 2 },
+        { "name": "ito", "x": -5, "y": 2 },
+
+        { "name": "iriuchijima", "x": -6.5, "y": 1 },
+        { "name": "yamamura", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": 0, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 },
+        { "name": "sugimoto", "x": 6.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3.5, "y": 3 },
+
+        { "name": "aikawa", "x": -5, "y": 2 },
+        { "name": "kumazaki", "x": -1.5, "y": 2 },
+        { "name": "nomura", "x": 1.5, "y": 2 },
+        { "name": "ito", "x": -5, "y": 2 },
+
+        { "name": "iriuchijima", "x": -6.5, "y": 1 },
+        { "name": "yamamura", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": 0, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 },
+        { "name": "sugimoto", "x": 6.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3.5, "y": 3 },
+
+        { "name": "aikawa", "x": -5, "y": 2 },
+        { "name": "kumazaki", "x": -1.5, "y": 2 },
+        { "name": "nomura", "x": 1.5, "y": 2 },
+        { "name": "ito", "x": -5, "y": 2 },
+
+        { "name": "iriuchijima", "x": -6.5, "y": 1 },
+        { "name": "yamamura", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": 0, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 },
+        { "name": "sugimoto", "x": 6.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3.5, "y": 3 },
+
+        { "name": "aikawa", "x": -5, "y": 2 },
+        { "name": "kumazaki", "x": -1.5, "y": 2 },
+        { "name": "nomura", "x": 1.5, "y": 2 },
+        { "name": "ito", "x": -5, "y": 2 },
+
+        { "name": "iriuchijima", "x": -6.5, "y": 1 },
+        { "name": "yamamura", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": 0, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 },
+        { "name": "sugimoto", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
