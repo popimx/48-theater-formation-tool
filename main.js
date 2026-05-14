@@ -1,4 +1,4 @@
-const stageSelect =
+ const stageSelect =
   document.getElementById("stage-select");
 
 const memberSelect =
@@ -14,7 +14,7 @@ let stagesData = [];
 let currentStage = null;
 
 /* =========================
-   演目一覧読み込み
+   データ読み込み
 ========================= */
 
 fetch("data/stages.json")
@@ -37,7 +37,7 @@ fetch("data/stages.json")
   });
 
 /* =========================
-   描画関数
+   描画
 ========================= */
 
 function renderFormation() {
@@ -73,31 +73,21 @@ function renderFormation() {
           part.members ?? [];
 
         /* =========================
-           列数判定
+           最大Yを取得（余白カット用）
         ========================= */
 
-        const rows = Math.max(
+        const maxY = Math.max(
           ...members.map(m => m.y ?? 0)
         );
 
-        /* =========================
-           ★スケール設計（核心）
-        ========================= */
+        const BASE_Y = 18;
 
-        let scale = 1; // 5列基準
-
-        if (rows >= 5) {
-          scale = 1;     // 5列：基準
-        } else if (rows === 4) {
-          scale = 1.15;  // 4列：少し拡大
-        } else if (rows === 3) {
-          scale = 1.3;   // 3列：中拡大
-        } else {
-          scale = 1.45;  // 1〜2列：最大拡大
-        }
+        /* ★ここが核心：高さを中身に合わせる */
+        formationArea.style.height =
+          `${(maxY + 1) * BASE_Y}px`;
 
         /* =========================
-           メンバー描画
+           座標固定
         ========================= */
 
         members.forEach(member => {
@@ -116,28 +106,17 @@ function renderFormation() {
             isActive ? "active" : "sub"
           );
 
-          /* =========================
-             ★座標（完全固定＋スケールのみ）
-          ========================= */
-
-          const BASE_X = 6;
-          const BASE_Y = 18;
-
           const posX =
-            50 + (member.x ?? 0) * BASE_X * scale;
+            50 + (member.x ?? 0) * 6;
 
           const posY =
-            100 - (member.y ?? 0) * BASE_Y * scale;
+            100 - (member.y ?? 0) * 18;
 
           memberDiv.style.left =
             `${posX}%`;
 
           memberDiv.style.top =
             `${posY}%`;
-
-          /* =========================
-             画像
-          ========================= */
 
           const memberData =
             currentStage.members.find(
@@ -151,10 +130,6 @@ function renderFormation() {
             `images/members/${currentStage.stageId}/${memberData?.image ?? memberId}.PNG`;
 
           memberDiv.appendChild(img);
-
-          /* =========================
-             ラベル
-          ========================= */
 
           if (isActive) {
 
