@@ -14,11 +14,18 @@ let stagesData = [];
 let currentStage = null;
 
 /* =========================
-   固定グリッド設定
+   固定座標設定
 ========================= */
 
-const GRID_X_STEP = 6;
-const GRID_Y_STEP = 18;
+/* 横間隔 */
+const X_STEP = 24;
+
+/* 縦間隔 */
+const Y_STEP = 72;
+
+/* 基準位置 */
+const BASE_X = 160;
+const BASE_Y = 330;
 
 /* =========================
    演目一覧読み込み
@@ -109,37 +116,33 @@ function renderFormation() {
         ].length;
 
         /* =========================
-           上空白カット量
+           フォーメーションエリア高さ
         ========================= */
 
-        let topOffset = 0;
-
-        /* 1〜3列：
-           上の2列分をカット */
+        /* 1〜3列 */
 
         if (uniqueRows <= 3) {
 
-          topOffset =
-            GRID_Y_STEP * 2;
+          formationArea.style.aspectRatio =
+            "16 / 6";
 
         }
 
-        /* 4列：
-           上の1列分をカット */
+        /* 4列 */
 
         else if (uniqueRows === 4) {
 
-          topOffset =
-            GRID_Y_STEP;
+          formationArea.style.aspectRatio =
+            "16 / 8";
 
         }
 
-        /* 5列：
-           カットなし */
+        /* 5列 */
 
         else {
 
-          topOffset = 0;
+          formationArea.style.aspectRatio =
+            "16 / 10";
 
         }
 
@@ -170,34 +173,28 @@ function renderFormation() {
           );
 
           /* =========================
-             座標
+             固定座標
           ========================= */
 
           const posX =
-            50 +
+            BASE_X +
             (
               (member.x ?? 0)
-              * GRID_X_STEP
+              * X_STEP
             );
 
-          /* =========================
-             上空白だけカット
-             縦間隔は固定
-          ========================= */
-
           const posY =
-            100
-            - (
+            BASE_Y -
+            (
               (member.y ?? 0)
-              * GRID_Y_STEP
-            )
-            - topOffset;
+              * Y_STEP
+            );
 
           memberDiv.style.left =
-            `${posX}%`;
+            `${posX}px`;
 
           memberDiv.style.top =
-            `${posY}%`;
+            `${posY}px`;
 
           /* =========================
              メンバー情報
