@@ -14,7 +14,7 @@ let stagesData = [];
 let currentStage = null;
 
 /* =========================
-   固定座標設定
+   固定間隔設定
 ========================= */
 
 /* 横間隔 */
@@ -23,9 +23,9 @@ const X_STEP = 24;
 /* 縦間隔 */
 const Y_STEP = 72;
 
-/* 基準位置 */
-const BASE_X = 160;
-const BASE_Y = 330;
+/* 中心位置（以前と同じ感覚） */
+const CENTER_X = 50;
+const CENTER_Y = 85;
 
 /* =========================
    演目一覧読み込み
@@ -117,9 +117,8 @@ function renderFormation() {
 
         /* =========================
            フォーメーションエリア高さ
+           （余白だけ調整）
         ========================= */
-
-        /* 1〜3列 */
 
         if (uniqueRows <= 3) {
 
@@ -128,16 +127,12 @@ function renderFormation() {
 
         }
 
-        /* 4列 */
-
         else if (uniqueRows === 4) {
 
           formationArea.style.aspectRatio =
             "16 / 8";
 
         }
-
-        /* 5列 */
 
         else {
 
@@ -173,28 +168,28 @@ function renderFormation() {
           );
 
           /* =========================
-             固定座標
+             座標
+             中心位置は従来通り
+             間隔だけpx固定
           ========================= */
 
           const posX =
-            BASE_X +
-            (
+            `calc(${CENTER_X}% + ${
               (member.x ?? 0)
               * X_STEP
-            );
+            }px)`;
 
           const posY =
-            BASE_Y -
-            (
+            `calc(${CENTER_Y}% - ${
               (member.y ?? 0)
               * Y_STEP
-            );
+            }px)`;
 
           memberDiv.style.left =
-            `${posX}px`;
+            posX;
 
           memberDiv.style.top =
-            `${posY}px`;
+            posY;
 
           /* =========================
              メンバー情報
