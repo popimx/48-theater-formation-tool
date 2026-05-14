@@ -46,33 +46,23 @@ select {
 
 /* =========================
    フォーメーションエリア
-   ★列数で高さだけ変える
+   ★完全固定（重要）
+   → JSの座標と100%一致させる
 ========================= */
 
 .formation-area {
   position: relative;
   width: 100%;
 
-  /* 5列基準 */
+  /* ★ここは絶対固定 */
   aspect-ratio: 16 / 10;
 
-  background: #fff;
+  background: #ffffff;
   border-radius: 12px;
 
+  overflow: visible;
+
   padding: 0;
-  overflow: hidden;
-}
-
-/* 4列 = 80%（10 × 0.8 = 8） */
-.formation-area.rows-4 {
-  aspect-ratio: 16 / 8;
-}
-
-/* 3列以下 = 60%（10 × 0.6 = 6） */
-.formation-area.rows-3,
-.formation-area.rows-2,
-.formation-area.rows-1 {
-  aspect-ratio: 16 / 6;
 }
 
 /* =========================
@@ -81,8 +71,10 @@ select {
 
 .member {
   position: absolute;
+
   width: 25px;
   height: 25px;
+
   transform: translate(-50%, -50%);
 }
 
@@ -93,10 +85,12 @@ select {
   object-fit: cover;
 }
 
+/* 非選択 */
 .member.sub {
   opacity: 0.15;
 }
 
+/* 選択 */
 .member.active {
   opacity: 1;
 }
@@ -110,6 +104,7 @@ select {
   top: 28px;
   left: 50%;
   transform: translateX(-50%);
+
   font-size: 0.6rem;
   font-weight: 600;
   white-space: nowrap;
