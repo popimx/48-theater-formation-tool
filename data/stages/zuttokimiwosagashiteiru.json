@@ -112,7 +112,7 @@
     },
     {
       "name": "とびっきりのありがとうをキミに",
-      "file": "tobikkirino.json"
+      "file": "tobikkirinoarigatowokimini.json"
     },
     {
       "name": "光を集めて",
@@ -120,11 +120,11 @@
     },
     {
       "name": "Jump! Jump! jamboree☆S!!!",
-      "file": "jump_jamboree.json"
+      "file": "jump_jump_Jamboree_s.json"
     },
     {
       "name": "楽園じゃない世界で",
-      "file": "rakuennjanai.json"
+      "file": "rakuenjanaisekaide.json"
     }
   ]
 }
