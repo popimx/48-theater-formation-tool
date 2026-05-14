@@ -1,4 +1,4 @@
-body {
+ body {
   font-family: sans-serif;
 
   margin: 0;
@@ -55,7 +55,6 @@ select {
 
 /* =========================
    フォーメーションエリア
-   ★JSで完全制御する前提
 ========================= */
 
 .formation-area {
@@ -63,19 +62,17 @@ select {
 
   width: 100%;
 
-  aspect-ratio: 16 / 9;
-
-  background: #ffffff;
+  background: #fff;
 
   border-radius: 12px;
 
-  overflow: visible;
+  overflow: hidden; /* ★余白カットの核心 */
 
-  padding: 0; /* ★重要：余白原因を完全除去 */
+  padding: 0;
 }
 
 /* =========================
-   メンバーアイコン
+   メンバー
 ========================= */
 
 .member {
@@ -96,12 +93,10 @@ select {
   object-fit: cover;
 }
 
-/* 非選択メンバー */
 .member.sub {
   opacity: 0.15;
 }
 
-/* 選択メンバー */
 .member.active {
   opacity: 1;
 }
@@ -119,15 +114,9 @@ select {
 
   transform: translateX(-50%);
 
-  text-align: center;
-
   font-size: 0.6rem;
 
   font-weight: 600;
-
-  line-height: 1.1;
-
-  white-space: nowrap;
 
   color: #333;
 }
