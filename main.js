@@ -73,17 +73,17 @@ function renderFormation() {
           part.members ?? [];
 
         /* =========================
-           ★ ここが核心：余白カット
+           ★余白カット（ここが核心）
         ========================= */
 
         const maxY = Math.max(
           ...members.map(m => m.y ?? 0)
         );
 
-        const BASE_Y = 18;
+        const CELL_Y = 18;
 
         formationArea.style.height =
-          `${(maxY + 1) * BASE_Y}px`;
+          `${(maxY + 1) * CELL_Y}px`;
 
         /* =========================
            メンバー描画
@@ -106,7 +106,7 @@ function renderFormation() {
           );
 
           /* =========================
-             座標（完全固定）
+             座標（絶対固定）
           ========================= */
 
           const posX =
@@ -122,7 +122,7 @@ function renderFormation() {
             `${posY}%`;
 
           /* =========================
-             メンバー情報
+             画像
           ========================= */
 
           const memberData =
@@ -138,6 +138,13 @@ function renderFormation() {
 
           img.alt =
             memberData?.name ?? memberId;
+
+          img.onerror = () => {
+            console.warn(
+              "画像が見つからない:",
+              img.src
+            );
+          };
 
           memberDiv.appendChild(img);
 
