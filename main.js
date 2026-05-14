@@ -28,11 +28,8 @@ fetch("data/stages.json")
       const option =
         document.createElement("option");
 
-      option.value =
-        stage.stageId;
-
-      option.textContent =
-        stage.stage;
+      option.value = stage.stageId;
+      option.textContent = stage.stage;
 
       stageSelect.appendChild(option);
 
@@ -57,16 +54,12 @@ function renderFormation() {
 
       if (!data.parts) return;
 
-      const focusMember =
-        memberSelect.value;
+      const focusMember = memberSelect.value;
 
       data.parts.forEach(part => {
 
-        const card =
-          document.createElement("div");
-
-        card.className =
-          "part-card";
+        const card = document.createElement("div");
+        card.className = "part-card";
 
         card.innerHTML = `
           <h2 class="part-title">${part.title ?? ""}</h2>
@@ -81,33 +74,29 @@ function renderFormation() {
            列数判定
         ========================= */
 
-        const maxY =
-          Math.max(
-            ...(part.members ?? []).map(m => m.y ?? 1)
-          );
-
-        const rows = maxY;
+        const rows = Math.max(
+          ...(part.members ?? []).map(m => m.y ?? 1)
+        );
 
         /* =========================
-           余白補正（ここが本体）
+           モード決定（見た目だけ）
         ========================= */
 
-        let yOffset = 0;
+        let mode = "mode-5";
 
-        // 1〜2列：かなり詰める
-        if (rows <= 2) {
-          yOffset = 2;
+        if (rows <= 3) {
+          mode = "mode-3";
+        } else if (rows === 4) {
+          mode = "mode-4";
         }
 
-        // 3列：少し詰める
-        else if (rows === 3) {
-          yOffset = 1;
-        }
+        formationArea.classList.remove(
+          "mode-3",
+          "mode-4",
+          "mode-5"
+        );
 
-        // 4列以上：そのまま
-        else {
-          yOffset = 0;
-        }
+        formationArea.classList.add(mode);
 
         /* =========================
            メンバー描画
@@ -120,8 +109,7 @@ function renderFormation() {
 
           memberDiv.className = "member";
 
-          const memberId =
-            member.name;
+          const memberId = member.name;
 
           const isActive =
             memberId === focusMember;
@@ -131,14 +119,14 @@ function renderFormation() {
           );
 
           /* =========================
-             座標（完全固定ベース + 補正）
+             座標（完全固定）
           ========================= */
 
           const posX =
             50 + ((member.x ?? 0) * 6);
 
           const posY =
-            100 - ((member.y + yOffset) * 18);
+            100 - ((member.y ?? 0) * 18);
 
           memberDiv.style.left =
             `${posX}%`;
@@ -147,7 +135,7 @@ function renderFormation() {
             `${posY}%`;
 
           /* =========================
-             メンバーデータ
+             画像
           ========================= */
 
           const memberData =
@@ -178,8 +166,7 @@ function renderFormation() {
             const label =
               document.createElement("div");
 
-            label.className =
-              "label";
+            label.className = "label";
 
             label.textContent =
               Math.abs(member.x ?? 0);
@@ -203,7 +190,7 @@ function renderFormation() {
 }
 
 /* =========================
-   演目変更
+   イベント
 ========================= */
 
 stageSelect.addEventListener("change", async () => {
@@ -263,10 +250,6 @@ stageSelect.addEventListener("change", async () => {
   renderFormation();
 
 });
-
-/* =========================
-   即時更新
-========================= */
 
 songSelect.addEventListener("change", renderFormation);
 memberSelect.addEventListener("change", renderFormation);
