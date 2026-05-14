@@ -1,16 +1,19 @@
-[
+ [
+  {
+    "stage": "SKE48「ずっと君を探している」",
+    "stageId": "zuttokimiwosagashiteiru",
+    "file": "stages/zuttokimiwosagashiteiru.json"
+  },
   {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
     "file": "stages/metcharabuyu.json"
   },
-
   {
     "stage": "NMB48「青春！恋のDestination」",
     "stageId": "koinodestination",
     "file": "stages/koinodestination.json"
   },
-
   {
     "stage": "NMB48「ここにだって天使はいる」",
     "stageId": "kokonidattetenshihairu2026",
