@@ -1,0 +1,173 @@
+{
+  "song": "ずっと君を探している",
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "ずっと君を探している〜",
+      "members": [
+        { "name": "sugimoto", "x": -4, "y": 3 },
+        { "name": "suzuki", "x": -2, "y": 3 },
+        { "name": "ishiguro", "x": 0, "y": 3 },
+        { "name": "iriuchijima", "x": 2, "y": 3 },
+        { "name": "yamamura", "x": 4, "y": 3 },
+
+        { "name": "kurashima", "x": -3, "y": 2 },
+        { "name": "aikawa", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+        { "name": "hara", "x": 3, "y": 2 },
+
+        { "name": "nomura", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ②",
+      "lyrics": "舵を取れ この大海原 挑んでゆけ〜",
+      "members": [
+        { "name": "ishiguro", "x": 0, "y": 5 },
+
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "iriuchijima", "x": 1.5, "y": 4 },
+
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "yamamura", "x": 3, "y": 3 },
+
+        { "name": "aikawa", "x": -4.5, "y": 2 },
+        { "name": "nomura", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4.5, "y": 2 },
+
+        { "name": "kurashima", "x": -6, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hara", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ③",
+      "lyrics": "追い風は 君の背中見てる〜",
+      "members": [
+        { "name": "sugimoto", "x": -4, "y": 5 },
+        { "name": "suzuki", "x": -1.5, "y": 5 },
+        { "name": "iriuchijima", "x": 1.5, "y": 5 },
+        { "name": "yamamura", "x": 4, "y": 5 },
+
+        { "name": "kurashima", "x": -3, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "hara", "x": 3, "y": 4 },
+
+        { "name": "aikawa", "x": -2, "y": 3 },
+        { "name": "sakamoto", "x": 2, "y": 3 },
+
+        { "name": "nomura", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "kumazaki", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ①",
+      "lyrics": "ずっと君を探している〜",
+      "members": [
+        { "name": "ishiguro", "x": 0, "y": 3 },
+
+        { "name": "sugimoto", "x": -7.5, "y": 2 },
+        { "name": "suzuki", "x": -4.5, "y": 2 },
+        { "name": "kurashima", "x": -1.5, "y": 2 },
+        { "name": "hara", "x": 1.5, "y": 2 },
+        { "name": "iriuchijima", "x": 4.5, "y": 2 },
+        { "name": "yamamura", "x": 7.5, "y": 2 },
+
+        { "name": "aikawa", "x": -6, "y": 1 },
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "nomura", "x": 3, "y": 1 },
+        { "name": "sakamoto", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ②",
+      "lyrics": "どこまでも続く広い海だって〜",
+      "members": [
+        { "name": "kumazaki", "x": -1, "y": 3 },
+        { "name": "ishiguro", "x": 1, "y": 3 },
+
+        { "name": "aikawa", "x": -6, "y": 2 },
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "nomura", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 6, "y": 2 },
+
+        { "name": "sugimoto", "x": -7.5, "y": 1 },
+        { "name": "suzuki", "x": -4.5, "y": 1 },
+        { "name": "kurashima", "x": -1.5, "y": 1 },
+        { "name": "hara", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 4.5, "y": 1 },
+        { "name": "yamamura", "x": 7.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ずっと君を探している〜",
+      "members": [
+        { "name": "sugimoto", "x": -4, "y": 3 },
+        { "name": "suzuki", "x": -2, "y": 3 },
+        { "name": "ishiguro", "x": 0, "y": 3 },
+        { "name": "iriuchijima", "x": 2, "y": 3 },
+        { "name": "yamamura", "x": 4, "y": 3 },
+
+        { "name": "kurashima", "x": -3, "y": 2 },
+        { "name": "aikawa", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+        { "name": "hara", "x": 3, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "nomura", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "舵を取れ この大海原 挑んでゆけ〜",
+      "members": [
+        { "name": "ishiguro", "x": 0, "y": 5 },
+
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "iriuchijima", "x": 1.5, "y": 4 },
+
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "yamamura", "x": 3, "y": 3 },
+
+        { "name": "aikawa", "x": -4.5, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4.5, "y": 2 },
+
+        { "name": "kurashima", "x": -6, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hara", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "追い風は 君の背中見てる〜",
+      "members": [
+        { "name": "sugimoto", "x": -4, "y": 5 },
+        { "name": "suzuki", "x": -1.5, "y": 5 },
+        { "name": "iriuchijima", "x": 1.5, "y": 5 },
+        { "name": "yamamura", "x": 4, "y": 5 },
+
+        { "name": "kurashima", "x": -3, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "hara", "x": 3, "y": 4 },
+
+        { "name": "aikawa", "x": -2, "y": 3 },
+        { "name": "sakamoto", "x": 2, "y": 3 },
+
+        { "name": "nomura", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "kumazaki", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
