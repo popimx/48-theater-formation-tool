@@ -69,41 +69,39 @@ function renderFormation() {
         const formationArea =
           card.querySelector(".formation-area");
 
+        const members =
+          part.members ?? [];
+
         /* =========================
            列数判定
         ========================= */
-
-        const members = part.members ?? [];
 
         const rows = Math.max(
           ...members.map(m => m.y ?? 0)
         );
 
         /* =========================
-           ★ここが本質（表示範囲制御）
+           ★サイズ制御（重要）
         ========================= */
 
-        // 「どこまで表示するか」
-        // 5列: 全部
-        // 4列: 下1段カット
-        // 1〜3列: 下2段カット
+        let aspect = 10; // 3列基準（固定）
 
-        let visibleMinY = 0;
+        if (rows >= 5) {
+          aspect = 12;   // 5列：拡張
+        } else if (rows === 4) {
+          aspect = 11;   // 4列：少し拡張
+        } else {
+          aspect = 10;   // 1〜3列：完全固定（ここ重要）
+        }
 
-        if (rows >= 5) visibleMinY = 0;
-        else if (rows === 4) visibleMinY = 1;
-        else visibleMinY = 2;
+        formationArea.style.aspectRatio =
+          `16 / ${aspect}`;
 
         /* =========================
            メンバー描画
         ========================= */
 
         members.forEach(member => {
-
-          const y = member.y ?? 0;
-
-          /* ★ここが重要：表示しないものは描画しない */
-          if (y < visibleMinY) return;
 
           const memberDiv =
             document.createElement("div");
@@ -127,7 +125,7 @@ function renderFormation() {
             50 + (member.x ?? 0) * 6;
 
           const posY =
-            100 - y * 18;
+            100 - (member.y ?? 0) * 18;
 
           memberDiv.style.left =
             `${posX}%`;
