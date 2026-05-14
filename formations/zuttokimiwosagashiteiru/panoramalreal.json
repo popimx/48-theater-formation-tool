@@ -121,7 +121,7 @@
         { "name": "nomura", "x": -4, "y": 1 },
         { "name": "sakamoto", "x": -1, "y": 1 },
         { "name": "kumazaki", "x": 1, "y": 1 },
-        { "name": "ito", "x": -4, "y": 1 }
+        { "name": "ito", "x": 4, "y": 1 }
       ]
     },
     {
