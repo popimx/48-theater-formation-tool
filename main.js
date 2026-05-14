@@ -73,31 +73,37 @@ function renderFormation() {
            列数判定
         ========================= */
 
+        const members = part.members ?? [];
+
         const rows = Math.max(
-          ...(part.members ?? []).map(m => m.y ?? 1)
+          ...members.map(m => m.y ?? 0)
         );
 
         /* =========================
-           ★トリミング量（重要）
+           ★ここが本質（表示範囲制御）
         ========================= */
 
-        let cropY = 0;
+        // 「どこまで表示するか」
+        // 5列: 全部
+        // 4列: 下1段カット
+        // 1〜3列: 下2段カット
 
-        if (rows >= 5) {
-          cropY = 0;          // 5列：そのまま
-        } else if (rows === 4) {
-          cropY = -18;        // 4列：1列分カット
-        } else {
-          cropY = -36;        // 1〜3列：2列分カット
-        }
+        let visibleMinY = 0;
+
+        if (rows >= 5) visibleMinY = 0;
+        else if (rows === 4) visibleMinY = 1;
+        else visibleMinY = 2;
 
         /* =========================
            メンバー描画
         ========================= */
 
-        const focusMember = memberSelect.value;
+        members.forEach(member => {
 
-        (part.members ?? []).forEach(member => {
+          const y = member.y ?? 0;
+
+          /* ★ここが重要：表示しないものは描画しない */
+          if (y < visibleMinY) return;
 
           const memberDiv =
             document.createElement("div");
@@ -114,14 +120,14 @@ function renderFormation() {
           );
 
           /* =========================
-             座標（完全固定＋トリミング）
+             座標（完全固定）
           ========================= */
 
           const posX =
-            50 + ((member.x ?? 0) * 6);
+            50 + (member.x ?? 0) * 6;
 
           const posY =
-            100 - ((member.y ?? 0) * 18) + cropY;
+            100 - y * 18;
 
           memberDiv.style.left =
             `${posX}%`;
@@ -138,17 +144,11 @@ function renderFormation() {
               m => m.id === memberId
             );
 
-          const imgKey =
-            memberData?.image ?? memberId;
-
           const img =
             document.createElement("img");
 
           img.src =
-            `images/members/${currentStage.stageId}/${imgKey}.PNG`;
-
-          img.alt =
-            memberData?.name ?? memberId;
+            `images/members/${currentStage.stageId}/${memberData?.image ?? memberId}.PNG`;
 
           memberDiv.appendChild(img);
 
@@ -202,9 +202,7 @@ stageSelect.addEventListener("change", async () => {
   partsContainer.innerHTML = "";
 
   const stageInfo =
-    stagesData.find(
-      s => s.stageId === stageSelect.value
-    );
+    stagesData.find(s => s.stageId === stageSelect.value);
 
   if (!stageInfo) return;
 
