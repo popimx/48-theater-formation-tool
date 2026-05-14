@@ -1,0 +1,130 @@
+{
+  "stage": "SKE48「ずっと君を探している」",
+  "stageId": "zuttokimiwosagashiteiru",
+
+  "members": [
+    {
+      "name": "相川暖花",
+      "display": "相川",
+      "id": "aikawa",
+      "image": "aikawa_honoka_2025"
+    },
+    {
+      "name": "石黒友月",
+      "display": "石黒",
+      "id": "ishiguro",
+      "image": "ishiguro_yuzuki_2025"
+    },
+    {
+      "name": "伊藤虹々美",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_konomi_2025"
+    },
+    {
+      "name": "入内嶋涼",
+      "display": "入内嶋",
+      "id": "iriuchijima",
+      "image": "iriuchijima_sayaka_2025"
+    },
+    {
+      "name": "熊崎晴香",
+      "display": "熊崎",
+      "id": "kumazaki",
+      "image": "kumazaki_haruka_2025"
+    },
+    {
+      "name": "倉島杏実",
+      "display": "倉島",
+      "id": "kurashima",
+      "image": "kurashima_ami_2025"
+    },
+    {
+      "name": "坂本真凛",
+      "display": "坂本",
+      "id": "sakamoto",
+      "image": "sakamoto_marin_2025"
+    },
+    {
+      "name": "杉本りいな",
+      "display": "杉本",
+      "id": "sugimoto",
+      "image": "sugimoto_riina_2025"
+    },
+    {
+      "name": "鈴木恋奈",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_kokona_2025"
+    },
+    {
+      "name": "野村実代",
+      "display": "野村",
+      "id": "nomura",
+      "image": "nomura_miyo_2025"
+    },
+    {
+      "name": "原優寧",
+      "display": "原",
+      "id": "hara",
+      "image": "hara_yuune_2025"
+    },
+    {
+      "name": "山村さくら",
+      "display": "山村",
+      "id": "yamamura",
+      "image": "yamamura_sakura_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "OUR SAILS",
+      "file": "our_sails.json"
+    },
+    {
+      "name": "ずっと君を探している",
+      "file": "zuttokimiwosagashiteiru.json"
+    },
+    {
+      "name": "きっとよりも",
+      "file": "kittoyorimo.json"
+    },
+    {
+      "name": "だって君のせいだし",
+      "file": "dattekiminoseidashi.json"
+    },
+    {
+      "name": "パノラマリアル",
+      "file": "panoramalreal.json"
+    },
+    {
+      "name": "我儘",
+      "file": "wagamama.json"
+    },
+    {
+      "name": "私の青春",
+      "file": "watashinoseishun.json"
+    },
+    {
+      "name": "Four Leaf Clover",
+      "file": "four_leaf_clover.json"
+    },
+    {
+      "name": "とびっきりのありがとうをキミに",
+      "file": "tobikkirino.json"
+    },
+    {
+      "name": "光を集めて",
+      "file": "hikariwoatsumete.json"
+    },
+    {
+      "name": "Jump! Jump! jamboree☆S!!!",
+      "file": "jump_jamboree.json"
+    },
+    {
+      "name": "楽園じゃない世界で",
+      "file": "rakuennjanai.json"
+    }
+  ]
+}
