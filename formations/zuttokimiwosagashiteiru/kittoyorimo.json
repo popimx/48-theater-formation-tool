@@ -1,0 +1,87 @@
+{
+  "song": "きっとよりも",
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": 0, "y": 4 },
+
+        { "name": "yamamura", "x": -4, "y": 3 },
+        { "name": "hara", "x": -1, "y": 3 },
+        { "name": "suzuki", "x": 1, "y": 3 },
+        { "name": "sugimoto", "x": 4, "y": 3 },
+
+        { "name": "kumazaki", "x": -5, "y": 2 },
+        { "name": "sakamoto", "x": -2, "y": 2 },
+        { "name": "kurashima", "x": 2, "y": 2 },
+        { "name": "ito", "x": 5, "y": 2 },
+
+        { "name": "ishiguro", "x": -3, "y": 1 },
+        { "name": "nomura", "x": 0, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamura", "x": -2, "y": 4 },
+        { "name": "suzuki", "x": 0, "y": 4 },
+        { "name": "sugimoto", "x": 2, "y": 4 },
+
+        { "name": "sakamoto", "x": -3, "y": 3 },
+        { "name": "hara", "x": -1, "y": 3 },
+        { "name": "aikawa", "x": 1, "y": 3 },
+        { "name": "kurashima", "x": 3, "y": 3 },
+
+        { "name": "iriuchijima", "x": -2, "y": 2 },
+        { "name": "nomura", "x": 0, "y": 2 },
+        { "name": "ishiguro", "x": 2, "y": 2 },
+
+        { "name": "kumazaki", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -2.5, "y": 3 },
+        { "name": "suzuki", "x": 0, "y": 3 },
+        { "name": "aikawa", "x": 2.5, "y": 3 },
+
+        { "name": "yamamura", "x": -4.5, "y": 2 },
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "sugimoto", "x": 1.5, "y": 2 },
+        { "name": "kurashima", "x": 4.5, "y": 2 },
+
+        { "name": "iriuchijima", "x": -6, "y": 1 },
+        { "name": "kumazaki", "x": -3, "y": 1 },
+        { "name": "ishiguro", "x": 0, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 },
+        { "name": "nomura", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamura", "x": -4, "y": 3 },
+        { "name": "hara", "x": -2, "y": 3 },
+        { "name": "aikawa", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": 2, "y": 3 },
+        { "name": "sugimoto", "x": 4, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "sakamoto", "x": -1, "y": 2 },
+        { "name": "iriuchijima", "x": 1, "y": 2 },
+        { "name": "kumazaki", "x": 3, "y": 2 },
+
+        { "name": "kurashima", "x": -2, "y": 1 },
+        { "name": "nomura", "x": 0, "y": 1 },
+        { "name": "ishiguro", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
