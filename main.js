@@ -20,14 +20,24 @@ let currentStage = null;
 fetch("data/stages.json")
   .then(r => r.json())
   .then(data => {
+
     stagesData = data;
 
     data.forEach(stage => {
-      const option = document.createElement("option");
-      option.value = stage.stageId;
-      option.textContent = stage.stage;
+
+      const option =
+        document.createElement("option");
+
+      option.value =
+        stage.stageId;
+
+      option.textContent =
+        stage.stage;
+
       stageSelect.appendChild(option);
+
     });
+
   });
 
 /* =========================
@@ -47,12 +57,16 @@ function renderFormation() {
 
       if (!data.parts) return;
 
-      const focusMember = memberSelect.value;
+      const focusMember =
+        memberSelect.value;
 
       data.parts.forEach(part => {
 
-        const card = document.createElement("div");
-        card.className = "part-card";
+        const card =
+          document.createElement("div");
+
+        card.className =
+          "part-card";
 
         card.innerHTML = `
           <h2 class="part-title">${part.title ?? ""}</h2>
@@ -67,31 +81,36 @@ function renderFormation() {
            列数判定
         ========================= */
 
-        const maxY = Math.max(
-          ...(part.members ?? []).map(m => m.y ?? 1)
-        );
+        const maxY =
+          Math.max(
+            ...(part.members ?? []).map(m => m.y ?? 1)
+          );
 
-        const rows = Math.max(1, maxY);
+        const rows = maxY;
 
-        formationArea.classList.remove(
-          "rows-1",
-          "rows-2",
-          "rows-3",
-          "rows-4"
-        );
+        /* =========================
+           余白補正（ここが本体）
+        ========================= */
 
-        if (rows >= 5) {
-          // 5列はデフォルト（何もしない）
+        let yOffset = 0;
+
+        // 1〜2列：かなり詰める
+        if (rows <= 2) {
+          yOffset = 2;
         }
-        else if (rows === 4) {
-          formationArea.classList.add("rows-4");
+
+        // 3列：少し詰める
+        else if (rows === 3) {
+          yOffset = 1;
         }
+
+        // 4列以上：そのまま
         else {
-          formationArea.classList.add("rows-3");
+          yOffset = 0;
         }
 
         /* =========================
-           メンバー描画（完全固定）
+           メンバー描画
         ========================= */
 
         (part.members ?? []).forEach(member => {
@@ -101,7 +120,8 @@ function renderFormation() {
 
           memberDiv.className = "member";
 
-          const memberId = member.name;
+          const memberId =
+            member.name;
 
           const isActive =
             memberId === focusMember;
@@ -110,15 +130,25 @@ function renderFormation() {
             isActive ? "active" : "sub"
           );
 
-          /* ★ここは絶対固定（触らない） */
+          /* =========================
+             座標（完全固定ベース + 補正）
+          ========================= */
+
           const posX =
             50 + ((member.x ?? 0) * 6);
 
           const posY =
-            100 - ((member.y ?? 0) * 18);
+            100 - ((member.y + yOffset) * 18);
 
-          memberDiv.style.left = `${posX}%`;
-          memberDiv.style.top = `${posY}%`;
+          memberDiv.style.left =
+            `${posX}%`;
+
+          memberDiv.style.top =
+            `${posY}%`;
+
+          /* =========================
+             メンバーデータ
+          ========================= */
 
           const memberData =
             currentStage.members.find(
@@ -139,10 +169,21 @@ function renderFormation() {
 
           memberDiv.appendChild(img);
 
+          /* =========================
+             ラベル
+          ========================= */
+
           if (isActive) {
-            const label = document.createElement("div");
-            label.className = "label";
-            label.textContent = Math.abs(member.x ?? 0);
+
+            const label =
+              document.createElement("div");
+
+            label.className =
+              "label";
+
+            label.textContent =
+              Math.abs(member.x ?? 0);
+
             memberDiv.appendChild(label);
           }
 
@@ -158,16 +199,20 @@ function renderFormation() {
     .catch(err => {
       console.error("描画エラー:", err);
     });
+
 }
 
 /* =========================
-   イベント
+   演目変更
 ========================= */
 
 stageSelect.addEventListener("change", async () => {
 
-  memberSelect.innerHTML = '<option value="">メンバーを選択</option>';
-  songSelect.innerHTML = '<option value="">楽曲を選択</option>';
+  memberSelect.innerHTML =
+    '<option value="">メンバーを選択</option>';
+
+  songSelect.innerHTML =
+    '<option value="">楽曲を選択</option>';
 
   memberSelect.disabled = true;
   songSelect.disabled = true;
@@ -175,7 +220,9 @@ stageSelect.addEventListener("change", async () => {
   partsContainer.innerHTML = "";
 
   const stageInfo =
-    stagesData.find(s => s.stageId === stageSelect.value);
+    stagesData.find(
+      s => s.stageId === stageSelect.value
+    );
 
   if (!stageInfo) return;
 
@@ -186,25 +233,40 @@ stageSelect.addEventListener("change", async () => {
     await response.json();
 
   currentStage.members.forEach(member => {
-    const option = document.createElement("option");
+
+    const option =
+      document.createElement("option");
+
     option.value = member.id;
     option.textContent = member.name;
+
     memberSelect.appendChild(option);
+
   });
 
   memberSelect.disabled = false;
 
   currentStage.songs.forEach(song => {
-    const option = document.createElement("option");
+
+    const option =
+      document.createElement("option");
+
     option.value = song.file;
     option.textContent = song.name;
+
     songSelect.appendChild(option);
+
   });
 
   songSelect.disabled = false;
 
   renderFormation();
+
 });
+
+/* =========================
+   即時更新
+========================= */
 
 songSelect.addEventListener("change", renderFormation);
 memberSelect.addEventListener("change", renderFormation);
