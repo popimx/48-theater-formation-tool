@@ -70,15 +70,43 @@ function renderFormation() {
           card.querySelector(".formation-area");
 
         const maxY = Math.max(
-          ...(part.members ?? []).map(m => m.y ?? 1)
+          ...(part.members ?? []).map(
+            m => m.y ?? 1
+          )
         );
 
         /* =========================
-           縦幅固定（4列基準）
+           使用列数
         ========================= */
 
-        formationArea.style.aspectRatio =
-          "16 / 10";
+        const rows =
+          Math.max(1, maxY);
+
+        /* =========================
+           フォーメーションエリア高さ
+           （余白だけ調整）
+        ========================= */
+
+        if (rows <= 3) {
+
+          formationArea.style.aspectRatio =
+            "16 / 6";
+
+        }
+
+        else if (rows === 4) {
+
+          formationArea.style.aspectRatio =
+            "16 / 8";
+
+        }
+
+        else {
+
+          formationArea.style.aspectRatio =
+            "16 / 10";
+
+        }
 
         (part.members ?? []).forEach(member => {
 
@@ -98,12 +126,12 @@ function renderFormation() {
 
           /* =========================
              座標
+             （ここは一切変更しない）
           ========================= */
 
           const posX =
             50 + ((member.x ?? 0) * 6);
 
-          /* 4列基準で統一 */
           const posY =
             100 - ((member.y ?? 0) * 18);
 
@@ -136,10 +164,12 @@ function renderFormation() {
             memberData?.name ?? memberId;
 
           img.onerror = () => {
+
             console.warn(
               "画像が見つからない:",
               img.src
             );
+
           };
 
           memberDiv.appendChild(img);
@@ -175,7 +205,12 @@ function renderFormation() {
 
     })
     .catch(err => {
-      console.error("描画エラー:", err);
+
+      console.error(
+        "描画エラー:",
+        err
+      );
+
     });
 
 }
