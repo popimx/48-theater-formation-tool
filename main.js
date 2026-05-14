@@ -14,20 +14,6 @@ let stagesData = [];
 let currentStage = null;
 
 /* =========================
-   固定間隔設定
-========================= */
-
-/* 横間隔 */
-const X_STEP = 24;
-
-/* 縦間隔 */
-const Y_STEP = 72;
-
-/* 中心位置（以前と同じ感覚） */
-const CENTER_X = 50;
-const CENTER_Y = 85;
-
-/* =========================
    演目一覧読み込み
 ========================= */
 
@@ -39,18 +25,12 @@ fetch("data/stages.json")
 
     data.forEach(stage => {
 
-      const option =
-        document.createElement("option");
+      const option = document.createElement("option");
 
-      option.value =
-        stage.stageId;
+      option.value = stage.stageId;
+      option.textContent = stage.stage;
 
-      option.textContent =
-        stage.stage;
-
-      stageSelect.appendChild(
-        option
-      );
+      stageSelect.appendChild(option);
 
     });
 
@@ -67,129 +47,68 @@ function renderFormation() {
   if (!currentStage) return;
   if (!songSelect.value) return;
 
-  fetch(
-    `formations/${currentStage.stageId}/${songSelect.value}`
-  )
+  fetch(`formations/${currentStage.stageId}/${songSelect.value}`)
     .then(r => r.json())
     .then(data => {
 
       if (!data.parts) return;
 
-      const focusMember =
-        memberSelect.value;
+      const focusMember = memberSelect.value;
 
       data.parts.forEach(part => {
 
-        const card =
-          document.createElement("div");
-
-        card.className =
-          "part-card";
+        const card = document.createElement("div");
+        card.className = "part-card";
 
         card.innerHTML = `
-          <h2 class="part-title">
-            ${part.title ?? ""}
-          </h2>
-
-          <div class="lyrics">
-            ${(part.lyrics ?? "").trim()}
-          </div>
-
+          <h2 class="part-title">${part.title ?? ""}</h2>
+          <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
           <div class="formation-area"></div>
         `;
 
         const formationArea =
-          card.querySelector(
-            ".formation-area"
-          );
+          card.querySelector(".formation-area");
+
+        const maxY = Math.max(
+          ...(part.members ?? []).map(m => m.y ?? 1)
+        );
 
         /* =========================
-           使用列数取得
+           縦幅固定（4列基準）
         ========================= */
 
-        const uniqueRows = [
-          ...new Set(
-            (part.members ?? []).map(
-              m => m.y
-            )
-          )
-        ].length;
-
-        /* =========================
-           フォーメーションエリア高さ
-           （余白だけ調整）
-        ========================= */
-
-        if (uniqueRows <= 3) {
-
-          formationArea.style.aspectRatio =
-            "16 / 6";
-
-        }
-
-        else if (uniqueRows === 4) {
-
-          formationArea.style.aspectRatio =
-            "16 / 8";
-
-        }
-
-        else {
-
-          formationArea.style.aspectRatio =
-            "16 / 10";
-
-        }
-
-        /* =========================
-           メンバー描画
-        ========================= */
+        formationArea.style.aspectRatio =
+          "16 / 10";
 
         (part.members ?? []).forEach(member => {
 
           const memberDiv =
-            document.createElement(
-              "div"
-            );
+            document.createElement("div");
 
-          memberDiv.className =
-            "member";
+          memberDiv.className = "member";
 
-          const memberId =
-            member.name;
+          const memberId = member.name;
 
           const isActive =
             memberId === focusMember;
 
           memberDiv.classList.add(
-            isActive
-              ? "active"
-              : "sub"
+            isActive ? "active" : "sub"
           );
 
           /* =========================
              座標
-             中心位置は従来通り
-             間隔だけpx固定
           ========================= */
 
           const posX =
-            `calc(${CENTER_X}% + ${
-              (member.x ?? 0)
-              * X_STEP
-            }px)`;
+            50 + ((member.x ?? 0) * 6);
 
+          /* 4列基準で統一 */
           const posY =
-            `calc(${CENTER_Y}% - ${
-              (member.y ?? 0)
-              * Y_STEP
-            }px)`;
+            100 - ((member.y ?? 0) * 18);
 
-          memberDiv.style.left =
-            posX;
-
-          memberDiv.style.top =
-            posY;
+          memberDiv.style.left = `${posX}%`;
+          memberDiv.style.top = `${posY}%`;
 
           /* =========================
              メンバー情報
@@ -197,8 +116,7 @@ function renderFormation() {
 
           const memberData =
             currentStage.members.find(
-              m =>
-                m.id === memberId
+              m => m.id === memberId
             );
 
           /* =========================
@@ -206,33 +124,25 @@ function renderFormation() {
           ========================= */
 
           const imgKey =
-            memberData?.image
-            ?? memberId;
+            memberData?.image ?? memberId;
 
           const img =
-            document.createElement(
-              "img"
-            );
+            document.createElement("img");
 
           img.src =
             `images/members/${currentStage.stageId}/${imgKey}.PNG`;
 
           img.alt =
-            memberData?.name
-            ?? memberId;
+            memberData?.name ?? memberId;
 
           img.onerror = () => {
-
             console.warn(
               "画像が見つからない:",
               img.src
             );
-
           };
 
-          memberDiv.appendChild(
-            img
-          );
+          memberDiv.appendChild(img);
 
           /* =========================
              ラベル
@@ -241,44 +151,31 @@ function renderFormation() {
           if (isActive) {
 
             const label =
-              document.createElement(
-                "div"
-              );
+              document.createElement("div");
 
-            label.className =
-              "label";
+            label.className = "label";
+
+            const positionText =
+              Math.abs(member.x ?? 0);
 
             label.textContent =
-              Math.abs(
-                member.x ?? 0
-              );
+              positionText;
 
-            memberDiv.appendChild(
-              label
-            );
+            memberDiv.appendChild(label);
 
           }
 
-          formationArea.appendChild(
-            memberDiv
-          );
+          formationArea.appendChild(memberDiv);
 
         });
 
-        partsContainer.appendChild(
-          card
-        );
+        partsContainer.appendChild(card);
 
       });
 
     })
     .catch(err => {
-
-      console.error(
-        "描画エラー:",
-        err
-      );
-
+      console.error("描画エラー:", err);
     });
 
 }
@@ -297,20 +194,14 @@ stageSelect.addEventListener(
     songSelect.innerHTML =
       '<option value="">楽曲を選択</option>';
 
-    memberSelect.disabled =
-      true;
+    memberSelect.disabled = true;
+    songSelect.disabled = true;
 
-    songSelect.disabled =
-      true;
-
-    partsContainer.innerHTML =
-      "";
+    partsContainer.innerHTML = "";
 
     const stageInfo =
       stagesData.find(
-        s =>
-          s.stageId
-          === stageSelect.value
+        s => s.stageId === stageSelect.value
       );
 
     if (!stageInfo) return;
@@ -320,9 +211,7 @@ stageSelect.addEventListener(
     ========================= */
 
     const response =
-      await fetch(
-        `data/${stageInfo.file}`
-      );
+      await fetch(`data/${stageInfo.file}`);
 
     currentStage =
       await response.json();
@@ -331,57 +220,37 @@ stageSelect.addEventListener(
        メンバー
     ========================= */
 
-    currentStage.members.forEach(
-      member => {
+    currentStage.members.forEach(member => {
 
-        const option =
-          document.createElement(
-            "option"
-          );
+      const option =
+        document.createElement("option");
 
-        option.value =
-          member.id;
+      option.value = member.id;
+      option.textContent = member.name;
 
-        option.textContent =
-          member.name;
+      memberSelect.appendChild(option);
 
-        memberSelect.appendChild(
-          option
-        );
+    });
 
-      }
-    );
-
-    memberSelect.disabled =
-      false;
+    memberSelect.disabled = false;
 
     /* =========================
        楽曲
     ========================= */
 
-    currentStage.songs.forEach(
-      song => {
+    currentStage.songs.forEach(song => {
 
-        const option =
-          document.createElement(
-            "option"
-          );
+      const option =
+        document.createElement("option");
 
-        option.value =
-          song.file;
+      option.value = song.file;
+      option.textContent = song.name;
 
-        option.textContent =
-          song.name;
+      songSelect.appendChild(option);
 
-        songSelect.appendChild(
-          option
-        );
+    });
 
-      }
-    );
-
-    songSelect.disabled =
-      false;
+    songSelect.disabled = false;
 
     renderFormation();
 
