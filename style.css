@@ -46,28 +46,37 @@ select {
 
 /* =========================
    フォーメーションエリア
-   ★ここが修正ポイント
+   ★列数で高さだけ変える
 ========================= */
 
 .formation-area {
   position: relative;
   width: 100%;
 
-  /* ★固定（JSのpx座標と完全一致させる前提） */
+  /* 5列基準 */
   aspect-ratio: 16 / 10;
 
-  background: #ffffff;
+  background: #fff;
   border-radius: 12px;
 
-  /* ★重要：余白の原因なので削除 */
   padding: 0;
-
-  /* ★重要：はみ出しは許可（崩れ防止） */
   overflow: hidden;
 }
 
+/* 4列 = 80%（10 × 0.8 = 8） */
+.formation-area.rows-4 {
+  aspect-ratio: 16 / 8;
+}
+
+/* 3列以下 = 60%（10 × 0.6 = 6） */
+.formation-area.rows-3,
+.formation-area.rows-2,
+.formation-area.rows-1 {
+  aspect-ratio: 16 / 6;
+}
+
 /* =========================
-   メンバーアイコン
+   メンバー
 ========================= */
 
 .member {
