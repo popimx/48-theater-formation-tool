@@ -1,9 +1,7 @@
 body {
   font-family: sans-serif;
-
   margin: 0;
   padding: 16px;
-
   background: #f5f5f5;
 }
 
@@ -18,11 +16,8 @@ header h1 {
 
 select {
   width: 100%;
-
   padding: 8px;
-
   font-size: 1rem;
-
   border-radius: 8px;
   border: 1px solid #ccc;
 }
@@ -32,14 +27,10 @@ select {
 ========================= */
 
 .part-card {
-  background: #ffffff;
-
+  background: #fff;
   border-radius: 12px;
-
   padding: 12px;
-
   margin-top: 18px;
-
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
@@ -55,34 +46,32 @@ select {
 
 /* =========================
    フォーメーションエリア
-   ★改善ポイントまとめ
-   - 背景をカードと統一
-   - 5列でも切れないよう余白確保
-   - 中央基準で拡張しやすく
+   （超重要：ここは固定）
 ========================= */
 
 .formation-area {
   position: relative;
-
   width: 100%;
-  aspect-ratio: 16 / 9;
 
-  background: #ffffff; /* ←カードと統一 */
+  /* ★固定（絶対に変えない） */
+  aspect-ratio: 16 / 10;
 
+  background: #fff;
   border-radius: 12px;
 
-  overflow: visible; /* ←5列が切れる原因対策 */
+  /* ★重要：はみ出し防止（ズレ防止のため必須） */
+  overflow: hidden;
 
-  padding: 10px 0;
+  /* 余計な余白は持たせない */
+  padding: 0;
 }
 
 /* =========================
-   メンバーアイコン
+   メンバー
 ========================= */
 
 .member {
   position: absolute;
-
   width: 25px;
   height: 25px;
 
@@ -92,44 +81,32 @@ select {
 .member img {
   width: 100%;
   height: 100%;
-
   border-radius: 50%;
-
   object-fit: cover;
 }
 
-/* 非選択メンバー */
+/* 非選択 */
 .member.sub {
   opacity: 0.15;
 }
 
-/* 選択メンバー */
+/* 選択 */
 .member.active {
   opacity: 1;
 }
 
 /* =========================
-   ラベル（数字のみ想定）
+   ラベル
 ========================= */
 
 .label {
   position: absolute;
-
   top: 28px;
-
   left: 50%;
-
   transform: translateX(-50%);
 
-  text-align: center;
-
   font-size: 0.6rem;
-
   font-weight: 600;
-
-  line-height: 1.1;
-
   white-space: nowrap;
-
   color: #333;
 }
