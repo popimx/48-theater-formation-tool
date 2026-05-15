@@ -1,0 +1,146 @@
+{
+  "song": "何度も狙え！",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ダイスを転がして いくつが出るかより〜",
+      "members": [
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": -1.5, "y": 1 },
+        { "name": "tanaka", "x": 0, "y": 1 },
+        { "name": "funahashi", "x": 1.5, "y": 1 },
+        { "name": "kuroshima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "スタートラインは 自分で引くんだ〜",
+      "members": [
+        { "name": "kuroshima", "x": -4, "y": 5 },
+        { "name": "takahashi", "x": -2, "y": 4 },
+        { "name": "funahashi", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroshima", "x": -1.5, "y": 2 },
+        { "name": "takahashi", "x": 1.5, "y": 2 },
+
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "funahashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "ダイスを大切に〜",
+      "members": [
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "kuroshima", "x": 1.5, "y": 2 },
+
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "funahashi", "x": 0, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "一回振るよりも〜",
+      "members": [
+        { "name": "sakashita", "x": -1.5, "y": 2 },
+        { "name": "tanaka", "x": 1.5, "y": 2 },
+
+        { "name": "funahashi", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "kuroshima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "カッコをつけてたって 何も手に入らないよ〜",
+      "members": [
+        { "name": "kuroshima", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 0, "y": 3 },
+        { "name": "funahashi", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ④",
+      "lyrics": "成功の秘訣なんて \"がむしゃら\" しかない〜",
+      "members": [
+        { "name": "tanaka", "x": -1.5, "y": 3 },
+        { "name": "sakashita", "x": 1.5, "y": 3 },
+
+        { "name": "kuroshima", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "funahashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -1.5, "y": 3 },
+        { "name": "sakashita", "x": 1.5, "y": 3 },
+
+        { "name": "kuroshima", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": 0, "y": 1 },
+        { "name": "funahashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "1も6もやがて出る 2も3も4も5もね 結果が違っていたら〜",
+      "members": [
+        { "name": "kuroshima", "x": -2, "y": 2 },
+        { "name": "takahashi", "x": 0, "y": 2 },
+        { "name": "funahashi", "x": 2, "y": 2 },
+
+        { "name": "tanaka", "x": -1, "y": 1 },
+        { "name": "sakashita", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroshima", "x": -3, "y": 2 },
+        { "name": "takahashi", "x": 0, "y": 2 },
+        { "name": "funahashi", "x": 3, "y": 2 },
+
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -1.5, "y": 2 },
+        { "name": "sakashita", "x": 1.5, "y": 2 },
+
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "kuroshima", "x": 0, "y": 1 },
+        { "name": "funahashi", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
