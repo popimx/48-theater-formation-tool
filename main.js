@@ -25,7 +25,8 @@ fetch("data/stages.json")
 
     data.forEach(stage => {
 
-      const option = document.createElement("option");
+      const option =
+        document.createElement("option");
 
       option.value = stage.stageId;
       option.textContent = stage.stage;
@@ -48,33 +49,83 @@ function renderFormation() {
   if (!songSelect.value) return;
 
   fetch(`formations/${currentStage.stageId}/${songSelect.value}`)
-    .then(r => r.json())
+    .then(async r => {
+
+      if (!r.ok) {
+        throw new Error("not found");
+      }
+
+      return r.json();
+
+    })
     .then(data => {
 
-      if (!data.parts) return;
+      /* =========================
+         歌割りメモ
+      ========================= */
 
-      const focusMember = memberSelect.value;
+      if (data.memo?.length) {
+
+        const memo =
+          document.createElement("div");
+
+        memo.className = "song-memo";
+
+        memo.innerHTML =
+          data.memo.join("<br>");
+
+        partsContainer.appendChild(memo);
+
+      }
+
+      /* =========================
+         フォーメーション未作成
+      ========================= */
+
+      if (!data.parts?.length) {
+
+        const empty =
+          document.createElement("div");
+
+        empty.className =
+          "no-formation";
+
+        empty.textContent =
+          "このフォーメーションはまだ作成されていません。";
+
+        partsContainer.appendChild(empty);
+
+        return;
+
+      }
+
+      const focusMember =
+        memberSelect.value;
 
       data.parts.forEach(part => {
 
-        const card = document.createElement("div");
+        const card =
+          document.createElement("div");
+
         card.className = "part-card";
 
         card.innerHTML = `
-          <h2 class="part-title">${part.title ?? ""}</h2>
-          <div class="lyrics">${(part.lyrics ?? "").trim()}</div>
+          <h2 class="part-title">
+            ${part.title ?? ""}
+          </h2>
+
+          <div class="lyrics">
+            ${(part.lyrics ?? "").trim()}
+          </div>
+
           <div class="formation-area"></div>
         `;
 
         const formationArea =
           card.querySelector(".formation-area");
 
-        const maxY = Math.max(
-          ...(part.members ?? []).map(m => m.y ?? 1)
-        );
-
         /* =========================
-           縦幅固定（4列基準）
+           縦幅固定
         ========================= */
 
         formationArea.style.aspectRatio =
@@ -87,7 +138,8 @@ function renderFormation() {
 
           memberDiv.className = "member";
 
-          const memberId = member.name;
+          const memberId =
+            member.name;
 
           const isActive =
             memberId === focusMember;
@@ -103,12 +155,14 @@ function renderFormation() {
           const posX =
             50 + ((member.x ?? 0) * 6);
 
-          /* 4列基準で統一 */
           const posY =
             100 - ((member.y ?? 0) * 18);
 
-          memberDiv.style.left = `${posX}%`;
-          memberDiv.style.top = `${posY}%`;
+          memberDiv.style.left =
+            `${posX}%`;
+
+          memberDiv.style.top =
+            `${posY}%`;
 
           /* =========================
              メンバー情報
@@ -136,10 +190,12 @@ function renderFormation() {
             memberData?.name ?? memberId;
 
           img.onerror = () => {
+
             console.warn(
               "画像が見つからない:",
               img.src
             );
+
           };
 
           memberDiv.appendChild(img);
@@ -165,7 +221,9 @@ function renderFormation() {
 
           }
 
-          formationArea.appendChild(memberDiv);
+          formationArea.appendChild(
+            memberDiv
+          );
 
         });
 
@@ -175,7 +233,23 @@ function renderFormation() {
 
     })
     .catch(err => {
-      console.error("描画エラー:", err);
+
+      console.error(
+        "描画エラー:",
+        err
+      );
+
+      const empty =
+        document.createElement("div");
+
+      empty.className =
+        "no-formation";
+
+      empty.textContent =
+        "このフォーメーションはまだ作成されていません。";
+
+      partsContainer.appendChild(empty);
+
     });
 
 }
@@ -211,7 +285,9 @@ stageSelect.addEventListener(
     ========================= */
 
     const response =
-      await fetch(`data/${stageInfo.file}`);
+      await fetch(
+        `data/${stageInfo.file}`
+      );
 
     currentStage =
       await response.json();
@@ -220,17 +296,24 @@ stageSelect.addEventListener(
        メンバー
     ========================= */
 
-    currentStage.members.forEach(member => {
+    currentStage.members.forEach(
+      member => {
 
-      const option =
-        document.createElement("option");
+        const option =
+          document.createElement("option");
 
-      option.value = member.id;
-      option.textContent = member.name;
+        option.value =
+          member.id;
 
-      memberSelect.appendChild(option);
+        option.textContent =
+          member.name;
 
-    });
+        memberSelect.appendChild(
+          option
+        );
+
+      }
+    );
 
     memberSelect.disabled = false;
 
@@ -238,17 +321,24 @@ stageSelect.addEventListener(
        楽曲
     ========================= */
 
-    currentStage.songs.forEach(song => {
+    currentStage.songs.forEach(
+      song => {
 
-      const option =
-        document.createElement("option");
+        const option =
+          document.createElement("option");
 
-      option.value = song.file;
-      option.textContent = song.name;
+        option.value =
+          song.file;
 
-      songSelect.appendChild(option);
+        option.textContent =
+          song.name;
 
-    });
+        songSelect.appendChild(
+          option
+        );
+
+      }
+    );
 
     songSelect.disabled = false;
 
