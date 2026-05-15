@@ -1,0 +1,259 @@
+{
+  "song": "脇役・学生Z",
+
+  "memo": [
+    "① 瓶野、芳賀/泉、塩月",
+    "② 上西、山本望/小嶋、安部桜田、川上新澤出口",
+    "ラストサビ前 芳賀瓶野、坂田/泉、上西塩月"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "jonishi", "x": -5, "y": 3 },
+        { "name": "kojima", "x": -2, "y": 3 },
+        { "name": "haga", "x": 2, "y": 3 },
+        { "name": "sakurada", "x": 5, "y": 3 },
+
+        { "name": "deguchi", "x": -6, "y": 2 },
+        { "name": "izumi", "x": -3, "y": 2 },
+        { "name": "abe", "x": 0, "y": 2 },
+        { "name": "kawakami", "x": 3, "y": 2 },
+        { "name": "sakata", "x": 6, "y": 2 },
+
+        { "name": "kameno", "x": -4, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "yamamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ちょっと持ってかれた気がする寿命〜",
+      "members": [
+        { "name": "kojima", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 2, "y": 3 },
+
+        { "name": "sakurada", "x": -5, "y": 2 },
+        { "name": "jonishi", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 0, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+        { "name": "kawakami", "x": 5, "y": 2 },
+
+        { "name": "haga", "x": -6, "y": 1 },
+        { "name": "sakata", "x": -4, "y": 1 },
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 },
+        { "name": "deguchi", "x": 4, "y": 1 },
+        { "name": "izumi", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "前世今世右往左往 まわり巡って〜",
+      "members": [
+        { "name": "kojima", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
+
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "kameno", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+        { "name": "deguchi", "x": 6, "y": 2 },
+
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "sakata", "x": 1, "y": 1 },
+        { "name": "yamamoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "どっちにしたって期待せずにイラレナイ！〜",
+      "members": [
+        { "name": "kojima", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
+
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "sakata", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+        { "name": "deguchi", "x": 6, "y": 2 },
+
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 },
+        { "name": "yamamoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "abe", "x": -2, "y": 3 },
+        { "name": "kawakami", "x": 2, "y": 3 },
+        { "name": "sakurada", "x": 4, "y": 3 },
+
+        { "name": "haga", "x": -6, "y": 2 },
+        { "name": "yamamoto", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 0, "y": 2 },
+        { "name": "deguchi", "x": 3, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "izumi", "x": -5, "y": 1 },
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "sakata", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "君のトナリは僕の席！〜",
+      "members": [
+        { "name": "izumi", "x": -5.5, "y": 4 },
+        { "name": "haga", "x": -3, "y": 4 },
+        { "name": "deguchi", "x": -3, "y": 4 },
+        { "name": "kameno", "x": 5.5, "y": 4 },
+
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "shiotsuki", "x": 1.5, "y": 3 },
+        { "name": "sakata", "x": 4, "y": 3 },
+
+        { "name": "abe", "x": -2.5, "y": 2 },
+        { "name": "kojima", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "意外な「サンキュ♪」が頭に鳴り響いて〜",
+      "members": [
+        { "name": "yamamoto", "x": -5, "y": 3 },
+        { "name": "shiotsuki", "x": -2, "y": 3 },
+        { "name": "izumi", "x": 2, "y": 3 },
+        { "name": "kojima", "x": 5, "y": 3 },
+
+        { "name": "abe", "x": -4, "y": 2 },
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "deguchi", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 4, "y": 2 },
+
+        { "name": "jonishi", "x": -6, "y": 1 },
+        { "name": "haga", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 3, "y": 1 },
+        { "name": "sakata", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "恍々惚々 なんたって回避は不可能〜",
+      "members": [
+        { "name": "yamamoto", "x": -3, "y": 4 },
+        { "name": "izumi", "x": 3, "y": 4 },
+
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "shiotsuki", "x": -1, "y": 3 },
+        { "name": "kawakami", "x": 1, "y": 3 },
+        { "name": "kojima", "x": 4, "y": 3 },
+
+        { "name": "haga", "x": -5, "y": 2 },
+        { "name": "shinzawa", "x": -2, "y": 2 },
+        { "name": "deguchi", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2, "y": 2 },
+        { "name": "kameno", "x": 5, "y": 2 },
+
+        { "name": "jonishi", "x": -6, "y": 1 },
+        { "name": "sakata", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -2, "y": 4 },
+        { "name": "izumi", "x": 2, "y": 4 },
+
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "shiotsuki", "x": -1, "y": 3 },
+        { "name": "kawakami", "x": 1, "y": 3 },
+        { "name": "kojima", "x": 4, "y": 3 },
+
+        { "name": "haga", "x": -6, "y": 2 },
+        { "name": "shinzawa", "x": -3, "y": 2 },
+        { "name": "deguchi", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "sakata", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "前世今世右往左往 まわり巡って〜",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
+
+        { "name": "abe", "x": -2, "y": 3 },
+        { "name": "yamamoto", "x": 2, "y": 3 },
+
+        { "name": "deguchi", "x": -6, "y": 2 },
+        { "name": "haga", "x": -3, "y": 2 },
+        { "name": "jonishi", "x": 0, "y": 2 },
+        { "name": "kameno", "x": 3, "y": 2 },
+        { "name": "sakurada", "x": 6, "y": 2 },
+
+        { "name": "sakata", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 },
+        { "name": "kojima", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -5, "y": 3 },
+        { "name": "yamamoto", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "sakurada", "x": 5, "y": 3 },
+
+        { "name": "izumi", "x": -6, "y": 2 },
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "sakata", "x": 0, "y": 2 },
+        { "name": "jonishi", "x": 3, "y": 2 },
+        { "name": "deguchi", "x": 6, "y": 2 },
+
+        { "name": "kameno", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
