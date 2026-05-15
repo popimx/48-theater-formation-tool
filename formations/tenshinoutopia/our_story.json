@@ -1,0 +1,117 @@
+{
+  "song": "OUR STORY",
+
+  "memo": [
+    "イントロ 塩月",
+    "① 坂田、小嶋、川上上西、泉安部山本望",
+    "瓶野新澤芳賀",
+    "② 桜田出口、小嶋上西、山本望安部川上",
+    "芳賀新澤泉瓶野、塩月/坂田",
+    "ラストサビ 塩月、坂田、上西/小嶋"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ ①",
+      "lyrics": "羽ばたこう 僕らのこの大空に〜",
+      "members": [
+        { "name": "haga", "x": -5.5, "y": 4 },
+        { "name": "sakurada", "x": -3, "y": 4 },
+        { "name": "deguchi", "x": 3, "y": 4 },
+        { "name": "kamino", "x": 5.5, "y": 4 },
+
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "yamamoto", "x": -1.5, "y": 3 },
+        { "name": "abe", "x": 1.5, "y": 3 },
+        { "name": "izumi", "x": 4, "y": 3 },
+
+        { "name": "jonishi", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 0, "y": 2 },
+        { "name": "kojima", "x": 2.5, "y": 2 },
+
+        { "name": "shiotsuki", "x": -1, "y": 1 },
+        { "name": "sakata", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "ああー",
+      "members": [
+        { "name": "haga", "x": -7.5, "y": 1 },
+        { "name": "shinzawa", "x": -6.25, "y": 1 },
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": -1.25, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 1.25, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "sakata", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5, "y": 1 },
+        { "name": "izumi", "x": 6.25, "y": 1 },
+        { "name": "kamino", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -7.5, "y": 1 },
+        { "name": "shinzawa", "x": -6.25, "y": 1 },
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": -1.25, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 1.25, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "sakata", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5, "y": 1 },
+        { "name": "izumi", "x": 6.25, "y": 1 },
+        { "name": "kamino", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "僕らは行く 僕らは笑う〜",
+      "members": [
+        { "name": "haga", "x": -7.5, "y": 1 },
+        { "name": "shinzawa", "x": -6.25, "y": 1 },
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": -1.25, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 1.25, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "sakata", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5, "y": 1 },
+        { "name": "izumi", "x": 6.25, "y": 1 },
+        { "name": "kamino", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -7.5, "y": 1 },
+        { "name": "shinzawa", "x": -6.25, "y": 1 },
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": -1.25, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 1.25, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "sakata", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5, "y": 1 },
+        { "name": "izumi", "x": 6.25, "y": 1 },
+        { "name": "kamino", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
