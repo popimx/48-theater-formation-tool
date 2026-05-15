@@ -1,0 +1,161 @@
+{
+  "song": "初めての星",
+
+  "memo": [
+    "① 坂田、芳賀/青原優、桜田坂下、龍本三鴨",
+    "芳賀坂田青原優、龍本三鴨/桜田坂下",
+    "② 青原優、芳賀桜田、坂下三鴨、龍本坂田",
+    "桜田坂下三鴨龍本、芳賀青原優坂田",
+    "②サビ後 青原優坂田芳賀、桜田坂下三鴨龍本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -6, "y": 3 },
+        { "name": "mikamo", "x": -4, "y": 3 },
+        { "name": "haga", "x": -2, "y": 3 },
+        { "name": "sakata", "x": 0, "y": 3 },
+        { "name": "yuka", "x": 2, "y": 3 },
+        { "name": "sakurada", "x": 4, "y": 3 },
+        { "name": "sakashita", "x": 6, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -6, "y": 3 },
+        { "name": "mikamo", "x": -4, "y": 3 },
+        { "name": "haga", "x": -2, "y": 3 },
+        { "name": "sakata", "x": 0, "y": 3 },
+        { "name": "yuka", "x": 2, "y": 3 },
+        { "name": "sakurada", "x": 4, "y": 3 },
+        { "name": "sakashita", "x": 6, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -6, "y": 2 },
+        { "name": "mikamo", "x": -2, "y": 2 },
+        { "name": "sakurada", "x": 2, "y": 2 },
+        { "name": "sakashita", "x": 6, "y": 2 },
+
+        { "name": "haga", "x": -4, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "汗をそう どれくらい流したでしょう？〜",
+      "members": [
+        { "name": "haga", "x": -4, "y": 3 },
+        { "name": "sakata", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": 0, "y": 2 },
+
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "その場所から広がる 未来の青写真〜",
+      "members": [
+        { "name": "yuka", "x": -4, "y": 3 },
+        { "name": "haga", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": 0, "y": 2 },
+
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -4, "y": 3 },
+        { "name": "haga", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": 0, "y": 2 },
+
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "やりたいこと さあ やってみてごらんよ〜",
+      "members": [
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "sakashita", "x": -2, "y": 2 },
+        { "name": "mikamo", "x": 2, "y": 2 },
+        { "name": "tatsumoto", "x": 6, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "厚い雲に覆われてたり 雨が降ってて隠れていた〜",
+      "members": [
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "sakurada", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
