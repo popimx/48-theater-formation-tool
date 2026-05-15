@@ -31,7 +31,6 @@
         { "name": "haga", "x": 6, "y": 1 }
       ]
     },
-
     {
       "title": "1番サビ ①",
       "lyrics": "サヨナラなんて言わないで せめて〜",
@@ -53,7 +52,6 @@
         { "name": "haga", "x": 5, "y": 1 }
       ]
     },
-
     {
       "title": "1番サビ ②",
       "lyrics": "たとえ遠く離れたって どこにいたって繋がってる〜",
@@ -75,7 +73,27 @@
         { "name": "jonishi", "x": 5, "y": 1 }
       ]
     },
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -5, "y": 3 },
+        { "name": "sakata", "x": -2, "y": 3 },
+        { "name": "shiotsuki", "x": 2, "y": 3 },
+        { "name": "jonishi", "x": 5, "y": 3 },
 
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+        { "name": "haga", "x": 6, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "deguchi", "x": 1, "y": 1 },
+        { "name": "kojima", "x": 4, "y": 1 }
+      ]
+    },
     {
       "title": "2番サビ",
       "lyrics": "",
@@ -98,10 +116,9 @@
         { "name": "kojima", "x": 5, "y": 1 }
       ]
     },
-
     {
       "title": "ラストサビ前",
-      "lyrics": "口先ばかりの 約束なんて  曖昧なものは 信じてないよ〜",
+      "lyrics": "口先ばかりの 約束なんて 曖昧なものは 信じてないよ〜",
       "members": [
         { "name": "sakurada", "x": -3, "y": 3 },
         { "name": "deguchi", "x": -1, "y": 3 },
@@ -120,7 +137,6 @@
         { "name": "jonishi", "x": 3, "y": 1 }
       ]
     },
-
     {
       "title": "ラストサビ ①",
       "lyrics": "サヨナラなんて言わないで せめて〜",
@@ -142,7 +158,6 @@
         { "name": "haga", "x": 5, "y": 1 }
       ]
     },
-
     {
       "title": "ラストサビ ②",
       "lyrics": "たとえ遠く離れたって どこにいたって繋がってる〜",
@@ -162,6 +177,27 @@
         { "name": "sakata", "x": -2, "y": 1 },
         { "name": "shiotsuki", "x": 2, "y": 1 },
         { "name": "jonishi", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -5, "y": 3 },
+        { "name": "sakata", "x": -2, "y": 3 },
+        { "name": "shiotsuki", "x": 2, "y": 3 },
+        { "name": "jonishi", "x": 5, "y": 3 },
+
+        { "name": "sakurada", "x": -6, "y": 2 },
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+        { "name": "haga", "x": 6, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "deguchi", "x": 1, "y": 1 },
+        { "name": "kojima", "x": 4, "y": 1 }
       ]
     }
   ]
