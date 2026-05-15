@@ -1,0 +1,69 @@
+{
+  "song": "カトレアの花を見る度に思い出す",
+
+  "memo": [
+    "① 青原優坂田、桜田芳賀、三鴨龍本坂下",
+    "田中青原和松岡、高橋池舟橋、福野板垣黒島",
+    "② 三鴨龍本坂下、田中松岡青原和、高橋池舟橋",
+    "福野板垣黒島、青原優坂田、桜田/芳賀",
+    "龍本三鴨坂下",
+    "②サビ後 青原優坂田、芳賀/桜田 (三鴨坂下龍本)",
+    "田中青原和松岡、高橋池舟橋 (福野板垣黒島)",
+    "坂田桜田芳賀青原優"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "オブラート包んだ 苦い粉薬〜",
+      "members": [
+        { "name": "takahashi", "x": -4.5, "y": 5 },
+        { "name": "matsuoka", "x": 0, "y": 5 },
+        { "name": "kuroshima", "x": 4.5, "y": 5 },
+
+        { "name": "fukuno", "x": -6.5, "y": 4 },
+        { "name": "yukino", "x": -2.5, "y": 4 },
+        { "name": "waka", "x": 2.5, "y": 4 },
+        { "name": "funahashi", "x": 6.5, "y": 4 },
+
+        { "name": "itagaki", "x": -5, "y": 3 },
+        { "name": "tatsumoto", "x": -1, "y": 3 },
+        { "name": "sakashita", "x": 1, "y": 3 },
+        { "name": "ike", "x": 5, "y": 3 },
+
+        { "name": "sakurada", "x": -3.5, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "haga", "x": 3.5, "y": 2 },
+
+        { "name": "sakata", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "itagaki", "x": -2.25, "y": 4 },
+        { "name": "kuroshima", "x": -0.75, "y": 4 },
+        { "name": "mikamo", "x": 0.75, "y": 4 },
+        { "name": "sakashita", "x": 2.25, "y": 4 },
+
+        { "name": "matsuoka", "x": -2.25, "y": 3 },
+        { "name": "fukuno", "x": -0.75, "y": 3 },
+        { "name": "tatsumoto", "x": 0.75, "y": 3 },
+        { "name": "takahashi", "x": 2.25, "y": 3 },
+
+        { "name": "ike", "x": -2.25, "y": 2 },
+        { "name": "funahashi", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 0.75, "y": 2 },
+        { "name": "waka", "x": 2.25, "y": 2 },
+
+        { "name": "sakata", "x": -2.25, "y": 1 },
+        { "name": "sakurada", "x": -0.75, "y": 1 },
+        { "name": "haga", "x": 0.75, "y": 1 },
+        { "name": "yuka", "x": 2.25, "y": 1 }
+      ]
+    }
+  ]
+}
