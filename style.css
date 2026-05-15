@@ -1,30 +1,62 @@
 body {
-  font-family: sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 
   margin: 0;
   padding: 16px;
 
-  background: #f5f5f5;
+  background-color: #f9f9f9;
+  color: #222;
+
+  max-width: 390px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header h1 {
-  text-align: center;
   font-size: 1.4rem;
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
+/* =========================
+   フォーム
+========================= */
+
 .form-group {
-  margin-bottom: 14px;
+  margin-bottom: 12px;
+}
+
+.form-group label {
+  display: block;
+
+  margin-bottom: 4px;
+
+  font-weight: bold;
+  font-size: 1rem;
+
+  color: #333;
 }
 
 select {
-  width: 100%;
+  display: block;
 
-  padding: 8px;
+  width: 100%;
 
   font-size: 1rem;
 
-  border-radius: 8px;
+  padding: 6px 10px;
+
+  margin: 0;
+
+  border-radius: 6px;
   border: 1px solid #ccc;
+
+  box-sizing: border-box;
+
+  background-color: #fff;
+
+  color: #222;
 }
 
 /* =========================
@@ -32,59 +64,66 @@ select {
 ========================= */
 
 .part-card {
-  background: #ffffff;
+  background: #fff;
 
-  border-radius: 12px;
+  border-radius: 6px;
 
-  padding: 12px;
+  padding: 10px;
 
-  margin-top: 18px;
+  margin-top: 12px;
 
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .part-title {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
+
+  font-weight: bold;
+
+  color: #333;
+
   margin-bottom: 8px;
 }
 
 .lyrics {
-  line-height: 1.6;
-  margin-bottom: 12px;
+  line-height: 1.5;
+
+  margin-bottom: 10px;
+
+  font-size: 0.95rem;
+
+  color: #444;
 }
 
 /* =========================
    フォーメーションエリア
-   ★改善ポイントまとめ
-   - 背景をカードと統一
-   - 5列でも切れないよう余白確保
-   - 中央基準で拡張しやすく
 ========================= */
 
 .formation-area {
   position: relative;
 
   width: 100%;
+
   aspect-ratio: 16 / 9;
 
-  background: #ffffff; /* ←カードと統一 */
+  background: #fff;
 
-  border-radius: 12px;
+  border-radius: 6px;
 
-  overflow: visible; /* ←5列が切れる原因対策 */
+  overflow: visible;
 
-  padding: 10px 0;
+  border: 1px solid #e5e5e5;
 }
 
 /* =========================
-   メンバーアイコン
+   メンバー
 ========================= */
 
 .member {
   position: absolute;
 
-  width: 25px;
-  height: 25px;
+  width: 26px;
+  height: 26px;
 
   transform: translate(-50%, -50%);
 }
@@ -96,26 +135,30 @@ select {
   border-radius: 50%;
 
   object-fit: cover;
+
+  border: 1px solid rgba(0,0,0,0.08);
 }
 
 /* 非選択メンバー */
+
 .member.sub {
   opacity: 0.15;
 }
 
 /* 選択メンバー */
+
 .member.active {
   opacity: 1;
 }
 
 /* =========================
-   ラベル（数字のみ想定）
+   ラベル
 ========================= */
 
 .label {
   position: absolute;
 
-  top: 28px;
+  top: 30px;
 
   left: 50%;
 
@@ -132,3 +175,4 @@ select {
   white-space: nowrap;
 
   color: #333;
+}
