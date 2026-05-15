@@ -14,7 +14,7 @@
       "lyrics": "",
       "members": [
         { "name": "izumi", "x": -7.5, "y": 1 },
-        { "name": "kamino", "x": -6.25, "y": 1 },
+        { "name": "kameno", "x": -6.25, "y": 1 },
         { "name": "sakata", "x": -5, "y": 1 },
         { "name": "sakurada", "x": -3.75, "y": 1 },
         { "name": "jonishi", "x": -2.5, "y": 1 },
@@ -47,7 +47,7 @@
 
         { "name": "haga", "x": -3, "y": 1 },
         { "name": "izumi", "x": -1, "y": 1 },
-        { "name": "kamino", "x": 1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 },
         { "name": "sakurada", "x": 3, "y": 1 }
       ]
     },
@@ -70,7 +70,7 @@
 
         { "name": "haga", "x": -3, "y": 1 },
         { "name": "izumi", "x": -1, "y": 1 },
-        { "name": "kamino", "x": 1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 },
         { "name": "sakurada", "x": 3, "y": 1 }
       ]
     }
