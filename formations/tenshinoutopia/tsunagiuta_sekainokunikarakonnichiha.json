@@ -1,0 +1,207 @@
+{
+  "song": "繋ぎ歌～世界の国からこんにちは〜",
+
+  "memo": [
+    "イントロ 小嶋、山本望",
+    "① 上西、川上、塩月/坂田",
+    "①サビ後 新澤泉安部、出口瓶野/芳賀桜田",
+    "② 安部、泉、新澤、瓶野、出口、桜田/芳賀",
+    "②サビ 坂田塩月山本望、川上小嶋上西"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "shiotsuki", "x": -6, "y": 2 },
+        { "name": "kawakami", "x": -4, "y": 2 },
+        { "name": "kojima", "x": -2, "y": 2 },
+        { "name": "sakurada", "x": 0, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "jonishi", "x": 4, "y": 2 },
+        { "name": "sakata", "x": 6, "y": 2 },
+
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 },
+        { "name": "abe", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "deguchi", "x": -5, "y": 2 },
+        { "name": "kameno", "x": -3, "y": 2 },
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+        { "name": "haga", "x": 3, "y": 2 },
+        { "name": "abe", "x": 5, "y": 2 },
+
+        { "name": "shiotsuki", "x": -6, "y": 1 },
+        { "name": "kawakami", "x": -4, "y": 1 },
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "sakurada", "x": 0, "y": 1 },
+        { "name": "yamamoto", "x": 2, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 },
+        { "name": "sakata", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番Aメロ",
+      "lyrics": "靴紐固く結んだら 手を取り合って〜",
+      "members": [
+        { "name": "yamamoto", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": -1, "y": 3 },
+        { "name": "izumi", "x": 1, "y": 3 },
+        { "name": "kojima", "x": 2, "y": 3 },
+
+        { "name": "deguchi", "x": -4, "y": 2 },
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "sakata", "x": 3, "y": 2 },
+        { "name": "abe", "x": 4, "y": 2 },
+
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 },
+        { "name": "haga", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ①",
+      "lyrics": "追いかけていこう 晴れわたる空を〜",
+      "members": [
+        { "name": "shiotsuki", "x": -6, "y": 4 },
+        { "name": "sakata", "x": 6, "y": 4 },
+
+        { "name": "deguchi", "x": -5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "haga", "x": 3, "y": 3 },
+        { "name": "sakurada", "x": 5, "y": 3 },
+
+        { "name": "jonishi", "x": -4, "y": 2 },
+        { "name": "shinzawa", "x": -2, "y": 2 },
+        { "name": "izumi", "x": 0, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+        { "name": "kawakami", "x": 4, "y": 2 },
+
+        { "name": "yamamoto", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ②",
+      "lyrics": "繋いでく声 明日に届け 僕らは今日も生きていくんだ〜",
+      "members": [
+        { "name": "izumi", "x": 0, "y": 4 },
+
+        { "name": "shiotsuki", "x": -6, "y": 3 },
+        { "name": "jonishi", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "kawakami", "x": 4, "y": 3 },
+        { "name": "sakata", "x": 6, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": 0, "y": 4 },
+
+        { "name": "shiotsuki", "x": -6, "y": 3 },
+        { "name": "jonishi", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "kawakami", "x": 4, "y": 3 },
+        { "name": "sakata", "x": 6, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ①",
+      "lyrics": "迎えにいこうよ 僕らの未来を〜",
+      "members": [
+        { "name": "sakurada", "x": -4, "y": 4 },
+        { "name": "izumi", "x": 0, "y": 4 },
+        { "name": "haga", "x": 4, "y": 4 },
+
+        { "name": "deguchi", "x": -6, "y": 3 },
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "kameno", "x": 6, "y": 3 },
+
+        { "name": "kawakami", "x": -5, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "jonishi", "x": 3, "y": 2 },
+
+        { "name": "sakata", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "yamamoto", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ②",
+      "lyrics": "転んだっていいよ その手を掴むから〜",
+      "members": [
+        { "name": "sakurada", "x": -4, "y": 4 },
+        { "name": "izumi", "x": 0, "y": 4 },
+        { "name": "haga", "x": 4, "y": 4 },
+
+        { "name": "deguchi", "x": -6, "y": 3 },
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "kameno", "x": 6, "y": 3 },
+
+        { "name": "sakata", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "yamamoto", "x": 5, "y": 2 },
+
+        { "name": "kawakami", "x": -5, "y": 1 },
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ③",
+      "lyrics": "繋いでく歌 明日もどうか この空に響き渡るように〜",
+      "members": [
+        { "name": "sakurada", "x": -5, "y": 4 },
+        { "name": "kameno", "x": 5, "y": 4 },
+
+        { "name": "deguchi", "x": -6, "y": 3 },
+        { "name": "shinzawa", "x": -3, "y": 3 },
+        { "name": "haga", "x": 3, "y": 3 },
+        { "name": "yamamoto", "x": 6, "y": 3 },
+
+        { "name": "kawakami", "x": -4, "y": 2 },
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+        { "name": "jonishi", "x": 4, "y": 2 },
+
+        { "name": "sakata", "x": -2, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
