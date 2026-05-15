@@ -1,5 +1,5 @@
 {
-  "song": "脇役・学生Z",
+  "song": "全部抱きしめろ！",
 
   "memo": [
     "① 川上、上西安部小嶋、泉/山本望、塩月",
@@ -181,6 +181,90 @@
         { "name": "yamamoto", "x": 1.25, "y": 1 },
         { "name": "shiotsuki", "x": 3.75, "y": 1 },
         { "name": "izumi", "x": 6.25, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "2番サビ ②",
+      "lyrics": "明日の自分はきっとやれるさ 誰も見たことない景色見に行こう！〜",
+      "members": [
+        { "name": "sakurada", "x": -6.25, "y": 2 },
+        { "name": "abe", "x": -3.75, "y": 2 },
+        { "name": "haga", "x": -1.25, "y": 2 },
+        { "name": "yamamoto", "x": 1.25, "y": 2 },
+        { "name": "shiotsuki", "x": 3.75, "y": 2 },
+        { "name": "izumi", "x": 6.25, "y": 2 },
+
+        { "name": "kojima", "x": -7.5, "y": 1 },
+        { "name": "shinzawa", "x": -5, "y": 1 },
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "deguchi", "x": 2.5, "y": 1 },
+        { "name": "kameno", "x": 5, "y": 1 },
+        { "name": "jonishi", "x": 7.5, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "2番サビ ③",
+      "lyrics": "明日も大好き！明日も大好き！応援するよ！僕と君なら！〜",
+      "members": [
+        { "name": "yamamoto", "x": -6.25, "y": 2 },
+        { "name": "shiotsuki", "x": -3.75, "y": 2 },
+        { "name": "izumi", "x": -1.25, "y": 2 },
+        { "name": "sakurada", "x": 1.25, "y": 2 },
+        { "name": "abe", "x": 3.75, "y": 2 },
+        { "name": "haga", "x": 6.25, "y": 2 },
+
+        { "name": "kawakami", "x": -7.5, "y": 1 },
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2.5, "y": 1 },
+        { "name": "shinzawa", "x": 5, "y": 1 },
+        { "name": "sakata", "x": 7.5, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -6.25, "y": 2 },
+        { "name": "shiotsuki", "x": -3.75, "y": 2 },
+        { "name": "izumi", "x": -1.25, "y": 2 },
+        { "name": "sakurada", "x": 1.25, "y": 2 },
+        { "name": "abe", "x": 3.75, "y": 2 },
+        { "name": "haga", "x": 6.25, "y": 2 },
+
+        { "name": "kawakami", "x": -7.5, "y": 1 },
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -2.5, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2.5, "y": 1 },
+        { "name": "shinzawa", "x": 5, "y": 1 },
+        { "name": "sakata", "x": 7.5, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakata", "x": -6.25, "y": 2 },
+        { "name": "yamamoto", "x": -3.75, "y": 2 },
+        { "name": "deguchi", "x": -1.25, "y": 2 },
+        { "name": "shiotsuki", "x": 1.25, "y": 2 },
+        { "name": "kojima", "x": 3.75, "y": 2 },
+        { "name": "kameno", "x": 6.25, "y": 2 },
+
+        { "name": "shinzawa", "x": -7.5, "y": 1 },
+        { "name": "haga", "x": -5, "y": 1 },
+        { "name": "abe", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 2.5, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 },
+        { "name": "sakurada", "x": 7.5, "y": 1 }
       ]
     }
   ]
