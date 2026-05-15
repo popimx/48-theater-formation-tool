@@ -22,7 +22,7 @@
         { "name": "abe", "x": 1, "y": 4 },
         { "name": "deguchi", "x": 4.5, "y": 4 },
 
-        { "name": "kamino", "x": -5.5, "y": 3 },
+        { "name": "kameno", "x": -5.5, "y": 3 },
         { "name": "shiotsuki", "x": -2.5, "y": 3 },
         { "name": "sakata", "x": 2.5, "y": 3 },
         { "name": "izumi", "x": 5.5, "y": 3 },
@@ -40,7 +40,7 @@
       "title": "ラストサビ ①",
       "lyrics": "太陽 ギラギラ燦々と眩しい日だって〜",
       "members": [
-        { "name": "kamino", "x": -7.5, "y": 4 },
+        { "name": "kameno", "x": -7.5, "y": 4 },
         { "name": "sakurada", "x": -6.25, "y": 4 },
         { "name": "kawakami", "x": -5, "y": 4 },
         { "name": "sakata", "x": -3.75, "y": 4 },
@@ -65,7 +65,7 @@
         { "name": "abe", "x": 1, "y": 4 },
         { "name": "deguchi", "x": 4.5, "y": 4 },
 
-        { "name": "kamino", "x": -5.5, "y": 3 },
+        { "name": "kameno", "x": -5.5, "y": 3 },
         { "name": "sakata", "x": -2.5, "y": 3 },
         { "name": "shiotsuki", "x": 2.5, "y": 3 },
         { "name": "izumi", "x": 5.5, "y": 3 },
