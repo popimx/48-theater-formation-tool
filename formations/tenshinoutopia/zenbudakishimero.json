@@ -30,7 +30,7 @@
     },
 
     {
-      "title": "1番Aメロ①",
+      "title": "1番Aメロ ①",
       "lyrics": "どこかの誰かさん 少しだけ話を聞いておくれ〜",
       "members": [
         { "name": "jonishi", "x": -5, "y": 4 },
@@ -53,7 +53,7 @@
     },
 
     {
-      "title": "1番Aメロ②",
+      "title": "1番Aメロ ②",
       "lyrics": "愛も恋も夢も ああ あれもこれも大失敗だ〜",
       "members": [
         { "name": "kameno", "x": -6, "y": 4 },
@@ -76,7 +76,7 @@
     },
 
     {
-      "title": "1番Aメロ③",
+      "title": "1番Aメロ ③",
       "lyrics": "だけどなんなのだろう 漲るこの力の源〜",
       "members": [
         { "name": "deguchi", "x": -4.5, "y": 4 },
@@ -99,7 +99,7 @@
     },
 
     {
-      "title": "1番サビ①",
+      "title": "1番サビ ①",
       "lyrics": "今日も生きてます！今日も生きてます！今日も息してます！それだけでいい！〜",
       "members": [
         { "name": "izumi", "x": -6.25, "y": 2 },
@@ -120,7 +120,7 @@
     },
 
     {
-      "title": "1番サビ②",
+      "title": "1番サビ ②",
       "lyrics": "今日も大好き！今日も大好き！なんにもいらない！どうぞお構いなく！〜",
       "members": [
         { "name": "jonishi", "x": -7.5, "y": 2 },
@@ -164,7 +164,7 @@
     },
 
     {
-      "title": "2番サビ①",
+      "title": "2番サビ ①",
       "lyrics": "明日も生きます！明日も生きます！明日を信じて！それだけでいい！〜",
       "members": [
         { "name": "kojima", "x": -7.5, "y": 2 },
@@ -181,27 +181,6 @@
         { "name": "yamamoto", "x": 1.25, "y": 1 },
         { "name": "shiotsuki", "x": 3.75, "y": 1 },
         { "name": "izumi", "x": 6.25, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "ラストサビ",
-      "lyrics": "",
-      "members": [
-        { "name": "shinzawa", "x": -7.5, "y": 2 },
-        { "name": "haga", "x": -5, "y": 2 },
-        { "name": "abe", "x": -2.5, "y": 2 },
-        { "name": "kawakami", "x": 0, "y": 2 },
-        { "name": "jonishi", "x": 2.5, "y": 2 },
-        { "name": "izumi", "x": 5, "y": 2 },
-        { "name": "sakurada", "x": 7.5, "y": 2 },
-
-        { "name": "kameno", "x": -6.25, "y": 1 },
-        { "name": "shiotsuki", "x": -3.75, "y": 1 },
-        { "name": "yamamoto", "x": -1.25, "y": 1 },
-        { "name": "kojima", "x": 1.25, "y": 1 },
-        { "name": "deguchi", "x": 3.75, "y": 1 },
-        { "name": "sakata", "x": 6.25, "y": 1 }
       ]
     }
   ]
