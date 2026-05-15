@@ -1,0 +1,69 @@
+{
+  "song": "不毛の土地を満開に...",
+
+  "memo": [
+    "① 青原優/坂田、桜田/三鴨、田中/芳賀",
+    "青原和/龍本、福野池/松岡板垣",
+    "黒島高橋/坂下舟橋",
+    "② 池/松岡、福野/板垣、舟橋/坂下",
+    "黒島/高橋、青原優桜田/三鴨坂田",
+    "青原和田中芳賀龍本",
+    "ラストサビ前 青原優桜田/三鴨坂田",
+    "青原和田中芳賀龍本、福野池/松岡板垣",
+    "舟橋黒島/高橋坂下"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": -1.5, "y": 4 },
+        { "name": "tanaka", "x": 1.5, "y": 4 },
+        { "name": "haga", "x": 4.5, "y": 4 },
+
+        { "name": "fukuno", "x": -6, "y": 3 },
+        { "name": "wakahana", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "tatsumoto", "x": 3, "y": 3 },
+        { "name": "sakashita", "x": 6, "y": 3 },
+
+        { "name": "ike", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "funahashi", "x": 4, "y": 2 },
+
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": -1.5, "y": 4 },
+        { "name": "tanaka", "x": 1.5, "y": 4 },
+        { "name": "haga", "x": 4.5, "y": 4 },
+
+        { "name": "fukuno", "x": -6, "y": 3 },
+        { "name": "wakahana", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "tatsumoto", "x": 3, "y": 3 },
+        { "name": "sakashita", "x": 6, "y": 3 },
+
+        { "name": "ike", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "funahashi", "x": 4, "y": 2 },
+
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
