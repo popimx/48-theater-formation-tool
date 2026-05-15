@@ -32,10 +32,10 @@
       "members": [
         { "name": "kojima", "x": 0, "y": 3 },
 
-        { "name": "kawakami", "x": 1.25, "y": 2 },
+        { "name": "kawakami", "x": -1.25, "y": 2 },
         { "name": "jonishi", "x": 1.25, "y": 2 },
 
-        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "abe", "x": -2.5, "y": 1 },
         { "name": "yamamoto", "x": 2.5, "y": 1 }
       ]
     },
