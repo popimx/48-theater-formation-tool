@@ -1,0 +1,121 @@
+{
+  "song": "僕らはまだ",
+
+  "memo": [
+    "イントロ 芳賀",
+    "① 小嶋、川上",
+    "①サビ 上西塩月坂田",
+    "② 上西、塩月",
+    "②サビ 坂田",
+    "ラストサビ前 小嶋、芳賀、塩月、坂田、川上、上西",
+    "小嶋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": 0, "y": 3 },
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+        { "name": "sakata", "x": -4, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": 0, "y": 3 },
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+        { "name": "sakata", "x": -4, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "それでもここにいることが 何よりも答えだろう〜",
+      "members": [
+        { "name": "sakata", "x": 0, "y": 3 },
+        { "name": "kojima", "x": -2.5, "y": 2 },
+        { "name": "shiotsuki", "x": 2.5, "y": 2 },
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "haga", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "並んで背中を合わせれば〜",
+      "members": [
+        { "name": "kojima", "x": -5, "y": 1 },
+        { "name": "jonishi", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 },
+        { "name": "sakata", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -5, "y": 1 },
+        { "name": "jonishi", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 },
+        { "name": "sakata", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "僕らまだ終わらない 止まりはしない〜",
+      "members": [
+        { "name": "sakata", "x": -7.5, "y": 1 },
+        { "name": "kojima", "x": -4.5, "y": 1 },
+        { "name": "kawakami", "x": -1.5, "y": 1 },
+        { "name": "jonishi", "x": 1.5, "y": 1 },
+        { "name": "haga", "x": 4.5, "y": 1 },
+        { "name": "shiotsuki", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "きっと大きな希望は僕らのものだ〜",
+      "members": [
+        { "name": "kojima", "x": -2.25, "y": 2 },
+        { "name": "jonishi", "x": 0.75, "y": 2 },
+        { "name": "shiotsuki", "x": 3.75, "y": 2 },
+
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+        { "name": "haga", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -2.25, "y": 2 },
+        { "name": "jonishi", "x": 0.75, "y": 2 },
+        { "name": "shiotsuki", "x": 3.75, "y": 2 },
+
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+        { "name": "haga", "x": 2.25, "y": 1 }
+      ]
+    }
+  ]
+}
