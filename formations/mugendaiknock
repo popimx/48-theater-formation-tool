@@ -1,0 +1,65 @@
+{
+  "song": "がっつきガールズ",
+
+  "memo": [
+    "① 三鴨岡腰竹田、赤松桜井中川",
+    "石山高橋こ村井田中谷口、和田高橋樹木根内田宮原",
+    "② 高橋樹石山竹田赤松内田、木根田中岡腰高橋こ谷口",
+    "村井三鴨宮原、中川桜井和田",
+    "ラストサビ前 竹田岡腰三鴨、中川桜井赤松",
+    "谷口村井石山/高橋こ田中、高橋樹内田/宮原木根和田"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ほとんどの連中が 白けているけど...",
+      "members": [
+        { "name": "nakagawa", "x": -2, "y": 4 },
+        { "name": "wada", "x": 2, "y": 4 },
+
+        { "name": "murai", "x": -4, "y": 3 },
+        { "name": "mikamo", "x": -2, "y": 3 },
+        { "name": "miyahara", "x": 2, "y": 3 },
+        { "name": "sakurai", "x": 4, "y": 3 },
+
+        { "name": "kine", "x": -4, "y": 2 },
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "okagoshi", "x": 0, "y": 2 },
+        { "name": "kotone", "x": 2, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+
+        { "name": "juna", "x": -4, "y": 1 },
+        { "name": "ishiyama", "x": -2, "y": 1 },
+        { "name": "takeda", "x": 0, "y": 1 },
+        { "name": "akamatsu", "x": 2, "y": 1 },
+        { "name": "uchida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "がっついてごめん 競い合って成長するんだ〜",
+      "members": [
+        { "name": "okagoshi", "x": -7, "y": 3 },
+        { "name": "nakagawa", "x": -5, "y": 3 },
+        { "name": "mikamo", "x": -2.5, "y": 3 },
+        { "name": "sakurai", "x": 0, "y": 3 },
+        { "name": "takeda", "x": 2.5, "y": 3 },
+        { "name": "ishiyama", "x": 5, "y": 3 },
+        { "name": "uchida", "x": 7, "y": 3 },
+
+        { "name": "kine", "x": -6, "y": 2 },
+        { "name": "kotone", "x": -4, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+        { "name": "taniguchi", "x": 6, "y": 2 },
+
+        { "name": "juna", "x": -3, "y": 1 },
+        { "name": "akamatsu", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0, "y": 1 },
+        { "name": "miyahara", "x": 1.5, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
