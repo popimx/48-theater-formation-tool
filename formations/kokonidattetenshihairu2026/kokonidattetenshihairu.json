@@ -1,0 +1,117 @@
+{
+  "song": "ここにだって天使はいる",
+
+  "memo": [
+    "① 青原優坂下龍本芳賀、高橋三鴨桜田坂田",
+    "池田中雪/松岡青原和、福野板垣/黒島舟橋",
+    "② 池田中雪/松岡青原和、福野黒島板垣舟橋",
+    "青原優坂下龍本芳賀、高橋三鴨桜田坂田",
+    "②サビ後 青原優坂下/龍本芳賀、高橋三鴨/桜田坂田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -7.5, "y": 3 },
+        { "name": "fukuno", "x": -1.5, "y": 3 },
+        { "name": "funahashi", "x": 1.5, "y": 3 },
+        { "name": "waka", "x": 7.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6, "y": 2 },
+        { "name": "sakurada", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": 0, "y": 2 },
+        { "name": "sakashita", "x": 3, "y": 2 },
+        { "name": "haga", "x": 6, "y": 2 },
+
+        { "name": "mikamo", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 2, "y": 1 },
+        { "name": "tatsumoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -7.5, "y": 3 },
+        { "name": "fukuno", "x": -1.5, "y": 3 },
+        { "name": "funahashi", "x": 1.5, "y": 3 },
+        { "name": "waka", "x": 7.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6, "y": 2 },
+        { "name": "mikamo", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+        { "name": "sakata", "x": 6, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "tatsumoto", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -7.5, "y": 3 },
+        { "name": "fukuno", "x": -1.5, "y": 3 },
+        { "name": "funahashi", "x": 1.5, "y": 3 },
+        { "name": "waka", "x": 7.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6, "y": 2 },
+        { "name": "mikamo", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+        { "name": "sakata", "x": 6, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "tatsumoto", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kuroshima", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -7.5, "y": 3 },
+        { "name": "fukuno", "x": -1.5, "y": 3 },
+        { "name": "funahashi", "x": 1.5, "y": 3 },
+        { "name": "waka", "x": 7.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6, "y": 2 },
+        { "name": "mikamo", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+        { "name": "sakata", "x": 6, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "tatsumoto", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
