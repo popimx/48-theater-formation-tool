@@ -1,5 +1,16 @@
 {
   "song": "私の青春",
+
+  "memo": [
+    "イントロ 坂本",
+    "① 倉島坂本原、伊藤熊崎野村、石黒相川鈴木",
+    "杉本/入内嶋山村",
+    "② 杉本入内嶋山村、石黒相川鈴木、伊藤熊崎野村",
+    "原坂本倉島",
+    "ラストサビ前 原坂本倉島、野村熊崎伊藤",
+    "鈴木相川/石黒、山村/入内嶋杉本"
+  ],
+
   "parts": [
     {
       "title": "イントロ ①",
@@ -143,48 +154,6 @@
     },
     {
       "title": "ラストサビ ②",
-      "lyrics": "",
-      "members": [
-        { "name": "kumazaki", "x": -3, "y": 4 },
-        { "name": "nomura", "x": 3, "y": 4 },
-        { "name": "ishiguro", "x": 7, "y": 4 },
-
-        { "name": "yamamura", "x": -6, "y": 3 },
-        { "name": "hara", "x": -2, "y": 3 },
-        { "name": "ito", "x": 2, "y": 3 },
-        { "name": "sugimoto", "x": 6, "y": 3 },
-
-        { "name": "suzuki", "x": -5, "y": 2 },
-        { "name": "aikawa", "x": -1, "y": 2 },
-        { "name": "kurashima", "x": 1, "y": 2 },
-        { "name": "iriuchijima", "x": 5, "y": 2 },
-
-        { "name": "sakamoto", "x": 0, "y": 1 }
-      ]
-    },
-    {
-      "title": "ラストサビ後",
-      "lyrics": "",
-      "members": [
-        { "name": "kumazaki", "x": -3, "y": 4 },
-        { "name": "nomura", "x": 3, "y": 4 },
-        { "name": "ishiguro", "x": 7, "y": 4 },
-
-        { "name": "yamamura", "x": -6, "y": 3 },
-        { "name": "hara", "x": -2, "y": 3 },
-        { "name": "ito", "x": 2, "y": 3 },
-        { "name": "sugimoto", "x": 6, "y": 3 },
-
-        { "name": "suzuki", "x": -5, "y": 2 },
-        { "name": "aikawa", "x": -1, "y": 2 },
-        { "name": "kurashima", "x": 1, "y": 2 },
-        { "name": "iriuchijima", "x": 5, "y": 2 },
-
-        { "name": "sakamoto", "x": 0, "y": 1 }
-      ]
-    },
-    {
-      "title": "ラスト",
       "lyrics": "",
       "members": [
         { "name": "kumazaki", "x": -3, "y": 4 },
