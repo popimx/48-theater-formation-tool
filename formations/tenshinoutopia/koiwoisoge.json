@@ -1,0 +1,77 @@
+{
+  "song": "恋を急げ",
+
+  "memo": [
+    "① 桜田/新澤、芳賀出口瓶野、塩月上西 (坂田/小嶋)",
+    "川上山本望、安部泉"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "近頃 全然 ドキドキしてないよ〜",
+      "members": [
+        { "name": "abe", "x": -5.5, "y": 4 },
+        { "name": "shiotsuki", "x": -1, "y": 4 },
+        { "name": "jonishi", "x": 1, "y": 4 },
+        { "name": "izumi", "x": 5.5, "y": 4 },
+
+        { "name": "kawakami", "x": -7, "y": 3 },
+        { "name": "sakata", "x": -4, "y": 3 },
+        { "name": "kojima", "x": 4, "y": 3 },
+        { "name": "yamamoto", "x": 7, "y": 3 },
+
+        { "name": "haga", "x": -2.5, "y": 2 },
+        { "name": "deguchi", "x": 0, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
+
+        { "name": "sakurada", "x": -1.5, "y": 1 },
+        { "name": "shinzawa", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -4, "y": 3 },
+        { "name": "sakurada", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 2, "y": 3 },
+        { "name": "kameno", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": -6, "y": 2 },
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": -1, "y": 2 },
+        { "name": "deguchi", "x": 1, "y": 2 },
+        { "name": "jonishi", "x": 3, "y": 2 },
+        { "name": "kojima", "x": 6, "y": 2 },
+
+        { "name": "abe", "x": -5, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -4, "y": 3 },
+        { "name": "sakurada", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 2, "y": 3 },
+        { "name": "kameno", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": -6, "y": 2 },
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": -1, "y": 2 },
+        { "name": "deguchi", "x": 1, "y": 2 },
+        { "name": "jonishi", "x": 3, "y": 2 },
+        { "name": "kojima", "x": 6, "y": 2 },
+
+        { "name": "abe", "x": -5, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
