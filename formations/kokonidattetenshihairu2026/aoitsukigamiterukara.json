@@ -1,0 +1,64 @@
+{
+  "song": "青い月が見てるから",
+
+  "memo": [
+    "① 桜田坂田青原優芳賀、龍本坂下/三鴨青原和",
+    "池田中/板垣松岡、福野舟橋/黒島高橋",
+    "② 高橋黒島舟橋福野、板垣松岡/池田中",
+    "三鴨青原和/龍本坂下、青原優芳賀/桜田坂田",
+    "③ 芳賀青原優坂田桜田、三鴨青原和龍本坂下",
+    "板垣松岡/高橋黒島/舟橋福野/池田中",
+    "芳賀青原優坂田桜田、三鴨青原和龍本坂下",
+    "板垣松岡池田中、高橋黒島舟橋福野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "funahashi", "x": -7.5, "y": 2 },
+        { "name": "ike", "x": -5.5, "y": 2 },
+        { "name": "sakurada", "x": -3.5, "y": 2 },
+        { "name": "sakata", "x": -1.5, "y": 2 },
+        { "name": "mikamo", "x": 0.5, "y": 2 },
+        { "name": "waka", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 4.5, "y": 2 },
+        { "name": "takahashi", "x": 6.5, "y": 2 },
+
+        { "name": "fukuno", "x": -6.5, "y": 1 },
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "tatsumoto", "x": -2.5, "y": 1 },
+        { "name": "sakashita", "x": -0.5, "y": 1 },
+        { "name": "yuka", "x": 1.5, "y": 1 },
+        { "name": "haga", "x": 3.5, "y": 1 },
+        { "name": "matsuoka", "x": 5.5, "y": 1 },
+        { "name": "kuroshima", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "ダーリン ダーリン ギュッと抱いて 波の音をBGMに...",
+      "members": [
+        { "name": "takahashi", "x": -7.5, "y": 2 },
+        { "name": "funahashi", "x": -5.5, "y": 2 },
+        { "name": "mikamo", "x": -3.5, "y": 2 },
+        { "name": "haga", "x": -1.5, "y": 2 },
+        { "name": "sakata", "x": 0.5, "y": 2 },
+        { "name": "tatsumoto", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 4.5, "y": 2 },
+        { "name": "ike", "x": 6.5, "y": 2 },
+
+        { "name": "kuroshima", "x": -6.5, "y": 1 },
+        { "name": "fukuno", "x": -4.5, "y": 1 },
+        { "name": "waka", "x": -2.5, "y": 1 },
+        { "name": "yuka", "x": -0.5, "y": 1 },
+        { "name": "sakurada", "x": 1.5, "y": 1 },
+        { "name": "sakashita", "x": 3.5, "y": 1 },
+        { "name": "matsuoka", "x": 5.5, "y": 1 },
+        { "name": "tanaka", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
