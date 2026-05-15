@@ -1,0 +1,138 @@
+{
+  "song": "情熱ハイウェイ",
+
+  "memo": [
+    "① 龍本坂田青原優青原和、田中芳賀桜田池",
+    "高橋三鴨坂下板垣、舟橋福野/松岡黒島",
+    "② 福野舟橋松岡黒島、高橋三鴨/板垣坂下",
+    "田中芳賀桜田池、龍本坂田青原優青原和",
+    "②サビ後 田中芳賀桜田池、高橋三鴨坂下板垣",
+    "福野舟橋松岡黒島、龍本坂田青原優青原和"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuno", "x": -5.5, "y": 3 },
+        { "name": "funahashi", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "kuroshima", "x": 5.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6.5, "y": 2 },
+        { "name": "mikamo", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+        { "name": "ike", "x": 6.5, "y": 2 },
+
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "haga", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2.5, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "愛してるって 口にするより〜",
+      "members": [
+        { "name": "fukuno", "x": -5.25, "y": 2 },
+        { "name": "funahashi", "x": -3.75, "y": 2 },
+        { "name": "tatsumoto", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": -0.75, "y": 2 },
+        { "name": "yuka", "x": 0.75, "y": 2 },
+        { "name": "waka", "x": 2.25, "y": 2 },
+        { "name": "matsuoka", "x": 3.75, "y": 2 },
+        { "name": "kuroshima", "x": 5.25, "y": 2 },
+
+        { "name": "takahashi", "x": -5.25, "y": 1 },
+        { "name": "mikamo", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "sakurada", "x": 0.75, "y": 1 },
+        { "name": "ike", "x": 2.25, "y": 1 },
+        { "name": "sakashita", "x": 3.75, "y": 1 },
+        { "name": "itagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuno", "x": -5.5, "y": 3 },
+        { "name": "funahashi", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "kuroshima", "x": 5.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6.5, "y": 2 },
+        { "name": "mikamo", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+        { "name": "ike", "x": 6.5, "y": 2 },
+
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "haga", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2.5, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuno", "x": -5.5, "y": 3 },
+        { "name": "funahashi", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "kuroshima", "x": 5.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6.5, "y": 2 },
+        { "name": "mikamo", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+        { "name": "ike", "x": 6.5, "y": 2 },
+
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "haga", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2.5, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuno", "x": -5.5, "y": 3 },
+        { "name": "funahashi", "x": -3, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+        { "name": "kuroshima", "x": 5.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6.5, "y": 2 },
+        { "name": "mikamo", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+        { "name": "ike", "x": 6.5, "y": 2 },
+
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "haga", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2.5, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
