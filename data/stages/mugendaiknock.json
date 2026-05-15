@@ -1,0 +1,158 @@
+{
+  "stage": "NMB48「無限大ノック」",
+  "stageId": "mugendaiknock",
+
+  "members": [
+    {
+      "name": "石山千尋",
+      "display": "石山",
+      "id": "ishiyama",
+      "image": "ishiyama_chihiro_2025"
+    },
+    {
+      "name": "高橋ことね",
+      "display": "ことね",
+      "id": "kotone",
+      "image": "takahashi_kotone_2025"
+    },
+    {
+      "name": "竹田京加",
+      "display": "竹田",
+      "id": "takeda",
+      "image": "takeda_kyoka_2025"
+    },
+    {
+      "name": "中川朋香",
+      "display": "中川",
+      "id": "nakagawa",
+      "image": "nakagawa_tomoka_2025"
+    },
+    {
+      "name": "三鴨くるみ",
+      "display": "三鴨",
+      "id": "mikamo",
+      "image": "mikamo_kurumi_2025"
+    },
+    {
+      "name": "内田愛彩",
+      "display": "内田",
+      "id": "uchida",
+      "image": "uchida_aisha_2025"
+    },
+    {
+      "name": "木根彩呂花",
+      "display": "木根",
+      "id": "kine",
+      "image": "kine_iroha_2025"
+    },
+    {
+      "name": "宮原心音",
+      "display": "宮原",
+      "id": "miyahara",
+      "image": "miyahara_konon_2025"
+    },
+    {
+      "name": "村井悠莉",
+      "display": "村井",
+      "id": "murai",
+      "image": "murai_yuuri_2025"
+    },
+    {
+      "name": "赤松昊",
+      "display": "赤松",
+      "id": "akamatsu",
+      "image": "akamatsu_sora_2025"
+    },
+    {
+      "name": "岡腰星来",
+      "display": "岡腰",
+      "id": "okagoshi",
+      "image": "okagoshi_seira_2025"
+    },
+    {
+      "name": "桜井ひまり",
+      "display": "桜井",
+      "id": "sakurai",
+      "image": "sakurai_himari_2025"
+    },
+    {
+      "name": "高橋樹奈",
+      "display": "樹奈",
+      "id": "juna",
+      "image": "takahashi_juna_2025"
+    },
+    {
+      "name": "田中れい",
+      "display": "田中",
+      "id": "tanaka",
+      "image": "tanaka_rei_2025"
+    },
+    {
+      "name": "谷口詩乃",
+      "display": "谷口",
+      "id": "taniguchi",
+      "image": "taniguchi_shino_2025"
+    },
+    {
+      "name": "和田承子",
+      "display": "和田",
+      "id": "wada",
+      "image": "wada_kotone_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "がっつきガールズ",
+      "file": "gattsuki_girls.json"
+    },
+    {
+      "name": "春一番が吹く頃",
+      "file": "haruichibangafukukoro.json"
+    },
+    {
+      "name": "スワンボート",
+      "file": "swanboat.json"
+    },
+    {
+      "name": "高嶺の林檎",
+      "file": "takanenoringo.json"
+    },
+    {
+      "name": "虹の作り方",
+      "file": "nijiwotsukurikata.json"
+    },
+    {
+      "name": "制服が邪魔をする",
+      "file": "seifokugajamawosuru.json"
+    },
+    {
+      "name": "プロムの恋人",
+      "file": "promnokoibito.json"
+    },
+    {
+      "name": "ダンシングハイ",
+      "file": "dancinghigh.json"
+    },
+    {
+      "name": "無限大ノック",
+      "file": "mugendaiknock.json"
+    },
+    {
+      "name": "NMB48",
+      "file": "nmb48.json"
+    },
+    {
+      "name": "風車",
+      "file": "kazaguruma.json"
+    },
+    {
+      "name": "オーマイガー！",
+      "file": "ohmygosh.json"
+    },
+    {
+      "name": "ドリアン少年",
+      "file": "durianshonen.json"
+    }
+  ]
+}
