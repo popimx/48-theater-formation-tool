@@ -126,7 +126,7 @@
       "members": [
         { "name": "izumi", "x": -5.5, "y": 4 },
         { "name": "haga", "x": -3, "y": 4 },
-        { "name": "deguchi", "x": -3, "y": 4 },
+        { "name": "deguchi", "x": 3, "y": 4 },
         { "name": "kameno", "x": 5.5, "y": 4 },
 
         { "name": "shinzawa", "x": -4, "y": 3 },
