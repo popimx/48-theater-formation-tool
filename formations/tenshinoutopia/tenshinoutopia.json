@@ -168,7 +168,30 @@
         { "name": "kawakami", "x": 2.5, "y": 1 }
       ]
     },
+    
+    {
+      "title": "2番サビ後",
+      "lyrics": "もう一度 何度でも〜",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 4 },
+        { "name": "shiotsuki", "x": 2, "y": 4 },
 
+        { "name": "yamamoto", "x": -3, "y": 3 }
+        { "name": "sakata", "x": 3, "y": 3 },
+        
+        { "name": "haga", "x": -4, "y": 2 },
+        { "name": "abe", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+        { "name": "Kawakami", "x": 4, "y": 2 },
+        
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "kojima", "x": -2.5, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 2.5, "y": 1 },
+        { "name": "deguchi", "x": 5, "y": 1 }
+      ]
+    },
+    
     {
       "title": "ラストサビ",
       "lyrics": "迷ってきっと輝いて〜",
