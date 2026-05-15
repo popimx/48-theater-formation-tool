@@ -18,7 +18,7 @@
         { "name": "haga", "x": -5.5, "y": 4 },
         { "name": "sakurada", "x": -3, "y": 4 },
         { "name": "deguchi", "x": 3, "y": 4 },
-        { "name": "kamino", "x": 5.5, "y": 4 },
+        { "name": "kameno", "x": 5.5, "y": 4 },
 
         { "name": "shinzawa", "x": -4, "y": 3 },
         { "name": "yamamoto", "x": -1.5, "y": 3 },
@@ -50,7 +50,7 @@
         { "name": "sakata", "x": 3.75, "y": 1 },
         { "name": "deguchi", "x": 5, "y": 1 },
         { "name": "izumi", "x": 6.25, "y": 1 },
-        { "name": "kamino", "x": 7.5, "y": 1 }
+        { "name": "kameno", "x": 7.5, "y": 1 }
       ]
     },
 
@@ -70,7 +70,7 @@
         { "name": "sakata", "x": 3.75, "y": 1 },
         { "name": "deguchi", "x": 5, "y": 1 },
         { "name": "izumi", "x": 6.25, "y": 1 },
-        { "name": "kamino", "x": 7.5, "y": 1 }
+        { "name": "kameno", "x": 7.5, "y": 1 }
       ]
     },
 
@@ -78,39 +78,39 @@
       "title": "ラストサビ後",
       "lyrics": "僕らは行く 僕らは笑う〜",
       "members": [
-        { "name": "haga", "x": -7.5, "y": 1 },
-        { "name": "shinzawa", "x": -6.25, "y": 1 },
-        { "name": "sakurada", "x": -5, "y": 1 },
-        { "name": "shiotsuki", "x": -3.75, "y": 1 },
-        { "name": "yamamoto", "x": -2.5, "y": 1 },
-        { "name": "jonishi", "x": -1.25, "y": 1 },
-        { "name": "kojima", "x": 0, "y": 1 },
-        { "name": "kawakami", "x": 1.25, "y": 1 },
-        { "name": "abe", "x": 2.5, "y": 1 },
-        { "name": "sakata", "x": 3.75, "y": 1 },
-        { "name": "deguchi", "x": 5, "y": 1 },
-        { "name": "izumi", "x": 6.25, "y": 1 },
-        { "name": "kamino", "x": 7.5, "y": 1 }
+        { "name": "izumi", "x": -7.5, "y": 1 },
+        { "name": "kameno", "x": -6.25, "y": 1 },
+        { "name": "sakata", "x": -5, "y": 1 },
+        { "name": "sakurada", "x": -3.75, "y": 1 },
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "deguchi", "x": -1.25, "y": 1 },
+        { "name": "shiotsuki", "x": 0, "y": 1 },
+        { "name": "abe", "x": 1.25, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "haga", "x": 3.75, "y": 1 },
+        { "name": "kojima", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 6.25, "y": 1 },
+        { "name": "yamamoto", "x": 7.5, "y": 1 }
       ]
     },
-
+    
     {
       "title": "ラスト",
       "lyrics": "",
       "members": [
-        { "name": "haga", "x": -7.5, "y": 1 },
-        { "name": "shinzawa", "x": -6.25, "y": 1 },
-        { "name": "sakurada", "x": -5, "y": 1 },
-        { "name": "shiotsuki", "x": -3.75, "y": 1 },
-        { "name": "yamamoto", "x": -2.5, "y": 1 },
-        { "name": "jonishi", "x": -1.25, "y": 1 },
-        { "name": "kojima", "x": 0, "y": 1 },
-        { "name": "kawakami", "x": 1.25, "y": 1 },
-        { "name": "abe", "x": 2.5, "y": 1 },
-        { "name": "sakata", "x": 3.75, "y": 1 },
-        { "name": "deguchi", "x": 5, "y": 1 },
-        { "name": "izumi", "x": 6.25, "y": 1 },
-        { "name": "kamino", "x": 7.5, "y": 1 }
+        { "name": "izumi", "x": -7.5, "y": 1 },
+        { "name": "kameno", "x": -6.25, "y": 1 },
+        { "name": "sakata", "x": -5, "y": 1 },
+        { "name": "sakurada", "x": -3.75, "y": 1 },
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "deguchi", "x": -1.25, "y": 1 },
+        { "name": "shiotsuki", "x": 0, "y": 1 },
+        { "name": "abe", "x": 1.25, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "haga", "x": 3.75, "y": 1 },
+        { "name": "kojima", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 6.25, "y": 1 },
+        { "name": "yamamoto", "x": 7.5, "y": 1 }
       ]
     }
   ]
