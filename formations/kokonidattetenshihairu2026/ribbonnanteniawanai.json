@@ -1,0 +1,62 @@
+{
+  "song": "リボンなんて似合わない",
+
+  "memo": [
+    "① 高橋桜田青原優池、田中龍本坂下黒島",
+    "坂田福野三鴨松岡、舟橋芳賀板垣青原和",
+    "② 福野三鴨坂田松岡、舟橋青原和芳賀板垣",
+    "青原優桜田池高橋、龍本黒島田中坂下"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "funahashi", "x": -2, "y": 3 },
+        { "name": "fukuno", "x": 0, "y": 3 },
+        { "name": "kuroshima", "x": 2, "y": 3 },
+
+        { "name": "takahashi", "x": -5, "y": 2 },
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "tanaka", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "itagaki", "x": 3, "y": 2 },
+        { "name": "matsuoka", "x": 5, "y": 2 },
+
+        { "name": "tatsumoto", "x": -6, "y": 1 },
+        { "name": "sakurada", "x": -4, "y": 1 },
+        { "name": "haga", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 4, "y": 1 },
+        { "name": "sakashita", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuno", "x": -5, "y": 3 },
+        { "name": "matsuoka", "x": -3, "y": 3 },
+        { "name": "ike", "x": -1, "y": 3 },
+        { "name": "takahashi", "x": 1, "y": 3 },
+        { "name": "kuroshima", "x": 3, "y": 3 },
+
+        { "name": "funahashi", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -2, "y": 2 },
+        { "name": "sakata", "x": 0, "y": 2 },
+        { "name": "sakashita", "x": 2, "y": 2 },
+        { "name": "itagaki", "x": 4, "y": 2 },
+
+        { "name": "waka", "x": -5, "y": 1 },
+        { "name": "mikamo", "x": -3, "y": 1 },
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "sakurada", "x": 1, "y": 1 },
+        { "name": "tanaka", "x": 3, "y": 1 },
+        { "name": "haga", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
