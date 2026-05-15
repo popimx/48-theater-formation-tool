@@ -16,7 +16,7 @@
       "title": "イントロ",
       "lyrics": "",
       "members": [
-        { "name": "kamino", "x": -6, "y": 1 },
+        { "name": "kameno", "x": -6, "y": 1 },
         { "name": "haga", "x": -4, "y": 1 },
         { "name": "shiotsuki", "x": -2, "y": 1 },
         { "name": "shinzawa", "x": 0, "y": 1 },
@@ -44,7 +44,7 @@
       "title": "1番サビ ①",
       "lyrics": "トップノートが愛デンティティ 私の絶対領域〜",
       "members": [
-        { "name": "kamino", "x": -3.5, "y": 3 },
+        { "name": "kameno", "x": -3.5, "y": 3 },
         { "name": "shinzawa", "x": -1, "y": 3 },
         { "name": "sakurada", "x": 1, "y": 3 },
         { "name": "deguchi", "x": 3.5, "y": 3 },
@@ -68,7 +68,7 @@
       "members": [
         { "name": "haga", "x": -7.5, "y": 1 },
         { "name": "kawakami", "x": -6.25, "y": 1 },
-        { "name": "kamino", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -5, "y": 1 },
         { "name": "izumi", "x": -3.75, "y": 1 },
         { "name": "shiotsuki", "x": -2.5, "y": 1 },
         { "name": "shinzawa", "x": -1.25, "y": 1 },
@@ -89,7 +89,7 @@
         { "name": "kojima", "x": -5, "y": 3 },
         { "name": "shinzawa", "x": -3, "y": 3 },
         { "name": "sakurada", "x": -1, "y": 3 },
-        { "name": "kamino", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 1, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
         { "name": "deguchi", "x": 5, "y": 3 },
 
@@ -119,7 +119,7 @@
         { "name": "abe", "x": 2.5, "y": 2 },
         { "name": "shiotsuki", "x": 5, "y": 2 },
 
-        { "name": "kamino", "x": -4, "y": 1 },
+        { "name": "kameno", "x": -4, "y": 1 },
         { "name": "yamamoto", "x": -1.5, "y": 1 },
         { "name": "haga", "x": 1.5, "y": 1 },
         { "name": "izumi", "x": 4, "y": 1 }
@@ -131,7 +131,7 @@
       "lyrics": "気まぐれがいい感じ 焦っちゃだめよダーリン？〜",
       "members": [
         { "name": "sakata", "x": -7.5, "y": 1 },
-        { "name": "kamino", "x": -6.25, "y": 1 },
+        { "name": "kameno", "x": -6.25, "y": 1 },
         { "name": "jonishi", "x": -5, "y": 1 },
         { "name": "shinzawa", "x": -3.75, "y": 1 },
         { "name": "yamamoto", "x": -2.5, "y": 1 },
@@ -150,7 +150,7 @@
       "title": "ラストサビ ①",
       "lyrics": "トップノートが愛デンティティ 私の絶対領域〜",
       "members": [
-        { "name": "kamino", "x": -3.5, "y": 3 },
+        { "name": "kameno", "x": -3.5, "y": 3 },
         { "name": "shinzawa", "x": -1, "y": 3 },
         { "name": "sakurada", "x": 1, "y": 3 },
         { "name": "deguchi", "x": 3.5, "y": 3 },
@@ -174,7 +174,7 @@
       "members": [
         { "name": "haga", "x": -7.5, "y": 1 },
         { "name": "kawakami", "x": -6.25, "y": 1 },
-        { "name": "kamino", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -5, "y": 1 },
         { "name": "izumi", "x": -3.75, "y": 1 },
         { "name": "shiotsuki", "x": -2.5, "y": 1 },
         { "name": "shinzawa", "x": -1.25, "y": 1 },
