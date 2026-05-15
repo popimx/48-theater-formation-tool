@@ -15,11 +15,11 @@
       "members": [
         { "name": "sakashita", "x": -3.5, "y": 4 },
         { "name": "mikamo", "x": -0.5, "y": 4 },
-        { "name": "kuros hima", "x": 2.75, "y": 4 },
+        { "name": "kuroshima", "x": 2.75, "y": 4 },
         { "name": "funahashi", "x": 5.75, "y": 4 },
 
         { "name": "haga", "x": -4.25, "y": 3 },
-        { "name": "wakahana", "x": -1.25, "y": 3 },
+        { "name": "waka", "x": -1.25, "y": 3 },
         { "name": "itagaki", "x": 2, "y": 3 },
         { "name": "sakurada", "x": 5, "y": 3 },
 
@@ -43,7 +43,7 @@
         { "name": "sakurada", "x": 1.5, "y": 4 },
 
         { "name": "fukuno", "x": -2.25, "y": 3 },
-        { "name": "kuros hima", "x": 2.25, "y": 3 },
+        { "name": "kuroshima", "x": 2.25, "y": 3 },
 
         { "name": "matsuoka", "x": -6, "y": 2 },
         { "name": "ike", "x": -4.5, "y": 2 },
@@ -55,7 +55,7 @@
         { "name": "itagaki", "x": 6, "y": 2 },
 
         { "name": "haga", "x": -5.25, "y": 1 },
-        { "name": "wakahana", "x": -3.75, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
         { "name": "sakata", "x": 3.75, "y": 1 },
         { "name": "tatsumoto", "x": 5.25, "y": 1 }
       ]
@@ -65,7 +65,7 @@
       "title": "ラストサビ",
       "lyrics": "0時過ぎの人生相談  言い出せない この胸のもやもや〜",
       "members": [
-        { "name": "wakahana", "x": -5.5, "y": 3 },
+        { "name": "waka", "x": -5.5, "y": 3 },
         { "name": "matsuoka", "x": -3, "y": 3 },
         { "name": "ike", "x": 0, "y": 3 },
         { "name": "funahashi", "x": 3, "y": 3 },
@@ -76,7 +76,7 @@
         { "name": "mikamo", "x": -1.5, "y": 2 },
         { "name": "tanaka", "x": 1.5, "y": 2 },
         { "name": "sakurada", "x": 4, "y": 2 },
-        { "name": "kuros hima", "x": 6.5, "y": 2 },
+        { "name": "kuroshima", "x": 6.5, "y": 2 },
 
         { "name": "haga", "x": -5, "y": 1 },
         { "name": "sakashita", "x": -2.5, "y": 1 },
