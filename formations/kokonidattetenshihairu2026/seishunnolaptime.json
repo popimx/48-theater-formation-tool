@@ -1,0 +1,118 @@
+{
+  "song": "青春のラップタイム",
+
+  "memo": [
+    "① 坂田、青原優坂田芳賀、桜田/三鴨",
+    "坂下青原和龍本、黒島板垣池田中/舟橋松岡福野高橋",
+    "② 三鴨坂田青原和桜田、松岡田中青原優舟橋",
+    "芳賀板垣高橋黒島、坂下龍本/福野池",
+    "坂田三鴨桜田青原和、坂下龍本/福野池",
+    "板垣芳賀/黒島高橋、青原優舟橋/松岡田中"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakashita", "x": -5, "y": 4 },
+        { "name": "wakahana", "x": 0, "y": 4 },
+        { "name": "tatsumoto", "x": 5, "y": 4 },
+
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "kuroshima", "x": -3, "y": 3 },
+        { "name": "mikamo", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "takahashi", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -7, "y": 2 },
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "funahashi", "x": 4, "y": 2 },
+        { "name": "fukuno", "x": 7, "y": 2 },
+
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "君との約束を 忘れたわけじゃなく〜",
+      "members": [
+        { "name": "sakashita", "x": -5, "y": 4 },
+        { "name": "wakahana", "x": 0, "y": 4 },
+        { "name": "tatsumoto", "x": 5, "y": 4 },
+
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "kuroshima", "x": -3, "y": 3 },
+        { "name": "mikamo", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "takahashi", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -7, "y": 2 },
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "funahashi", "x": 4, "y": 2 },
+        { "name": "fukuno", "x": 7, "y": 2 },
+
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "青春のラップタイム 競うみたいに〜",
+      "members": [
+        { "name": "ike", "x": -6, "y": 4 },
+        { "name": "kuroshima", "x": -3, "y": 4 },
+        { "name": "matsuoka", "x": 0, "y": 4 },
+        { "name": "fukuno", "x": 3, "y": 4 },
+        { "name": "takahashi", "x": 6, "y": 4 },
+
+        { "name": "sakashita", "x": -7, "y": 3 },
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "tatsumoto", "x": 4, "y": 3 },
+        { "name": "funahashi", "x": 7, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakurada", "x": -1.25, "y": 2 },
+        { "name": "mikamo", "x": 1.25, "y": 2 },
+        { "name": "wakahana", "x": 5, "y": 2 },
+
+        { "name": "yuka", "x": -2.5, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "こんなに急いでいるのは 好きだから〜",
+      "members": [
+        { "name": "itagaki", "x": -7.5, "y": 4 },
+        { "name": "tanaka", "x": -2.5, "y": 4 },
+        { "name": "kuroshima", "x": 0, "y": 4 },
+        { "name": "sakashita", "x": 2.5, "y": 4 },
+        { "name": "takahashi", "x": 7.5, "y": 4 },
+
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "matsuoka", "x": -4, "y": 3 },
+        { "name": "funahashi", "x": 4, "y": 3 },
+        { "name": "fukuno", "x": 6, "y": 3 },
+
+        { "name": "tatsumoto", "x": -1.5, "y": 2 },
+        { "name": "wakahana", "x": 1.5, "y": 2 },
+
+        { "name": "mikamo", "x": -5, "y": 1 },
+        { "name": "haga", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 },
+        { "name": "sakurada", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
