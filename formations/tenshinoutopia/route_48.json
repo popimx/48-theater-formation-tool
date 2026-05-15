@@ -1,0 +1,82 @@
+{
+  "song": "ROUTE 48",
+
+  "memo": [
+    "① 上西、上西芳賀、川上小嶋山本望、新澤安部",
+    "桜田出口芳賀、塩月/坂田",
+    "①サビ 上西芳賀、塩月/坂田",
+    "② 小嶋山本望新澤、上西桜田、出口/芳賀",
+    "山本望小嶋塩月、坂田泉川上",
+    "②サビ 上西/桜田、出口安部芳賀",
+    "ラストサビ前 上西芳賀、坂田/塩月",
+    "新澤小嶋山本望、瓶野川上泉"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "太陽 ギラギラ燦々と眩しい日だって〜",
+      "members": [
+        { "name": "sakurada", "x": -4.5, "y": 4 },
+        { "name": "shinzawa", "x": -1, "y": 4 },
+        { "name": "abe", "x": 1, "y": 4 },
+        { "name": "deguchi", "x": 4.5, "y": 4 },
+
+        { "name": "kamino", "x": -5.5, "y": 3 },
+        { "name": "shiotsuki", "x": -2.5, "y": 3 },
+        { "name": "sakata", "x": 2.5, "y": 3 },
+        { "name": "izumi", "x": 5.5, "y": 3 },
+
+        { "name": "kawakami", "x": -3.5, "y": 2 },
+        { "name": "kojima", "x": 0, "y": 2 },
+        { "name": "yamamoto", "x": 3.5, "y": 2 },
+
+        { "name": "jonishi", "x": -1.5, "y": 1 },
+        { "name": "haga", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "太陽 ギラギラ燦々と眩しい日だって〜",
+      "members": [
+        { "name": "kamino", "x": -7.5, "y": 4 },
+        { "name": "sakurada", "x": -6.25, "y": 4 },
+        { "name": "kawakami", "x": -5, "y": 4 },
+        { "name": "sakata", "x": -3.75, "y": 4 },
+        { "name": "shinzawa", "x": -2.5, "y": 4 },
+        { "name": "kojima", "x": -1.25, "y": 4 },
+        { "name": "jonishi", "x": 0, "y": 4 },
+        { "name": "abe", "x": 1.25, "y": 4 },
+        { "name": "shiotsuki", "x": 2.5, "y": 4 },
+        { "name": "haga", "x": 3.75, "y": 4 },
+        { "name": "yamamoto", "x": 5, "y": 4 },
+        { "name": "deguchi", "x": 6.25, "y": 4 },
+        { "name": "izumi", "x": 7.5, "y": 4 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "明日を信じて それぞれの運命（ルート）を走るんだ〜",
+      "members": [
+        { "name": "sakurada", "x": -4.5, "y": 4 },
+        { "name": "shinzawa", "x": -1, "y": 4 },
+        { "name": "abe", "x": 1, "y": 4 },
+        { "name": "deguchi", "x": 4.5, "y": 4 },
+
+        { "name": "kamino", "x": -5.5, "y": 3 },
+        { "name": "sakata", "x": -2.5, "y": 3 },
+        { "name": "shiotsuki", "x": 2.5, "y": 3 },
+        { "name": "izumi", "x": 5.5, "y": 3 },
+
+        { "name": "kawakami", "x": -3.5, "y": 2 },
+        { "name": "kojima", "x": 0, "y": 2 },
+        { "name": "yamamoto", "x": 3.5, "y": 2 },
+
+        { "name": "jonishi", "x": -1.5, "y": 1 },
+        { "name": "haga", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
