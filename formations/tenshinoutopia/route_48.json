@@ -40,19 +40,19 @@
       "title": "ラストサビ ①",
       "lyrics": "太陽 ギラギラ燦々と眩しい日だって〜",
       "members": [
-        { "name": "kameno", "x": -7.5, "y": 4 },
-        { "name": "sakurada", "x": -6.25, "y": 4 },
-        { "name": "kawakami", "x": -5, "y": 4 },
-        { "name": "sakata", "x": -3.75, "y": 4 },
-        { "name": "shinzawa", "x": -2.5, "y": 4 },
-        { "name": "kojima", "x": -1.25, "y": 4 },
-        { "name": "jonishi", "x": 0, "y": 4 },
-        { "name": "abe", "x": 1.25, "y": 4 },
-        { "name": "shiotsuki", "x": 2.5, "y": 4 },
-        { "name": "haga", "x": 3.75, "y": 4 },
-        { "name": "yamamoto", "x": 5, "y": 4 },
-        { "name": "deguchi", "x": 6.25, "y": 4 },
-        { "name": "izumi", "x": 7.5, "y": 4 }
+        { "name": "kameno", "x": -7.5, "y": 1 },
+        { "name": "sakurada", "x": -6.25, "y": 1 },
+        { "name": "kawakami", "x": -5, "y": 1 },
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -2.5, "y": 1 },
+        { "name": "kojima", "x": -1.25, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "abe", "x": 1.25, "y": 1 },
+        { "name": "shiotsuki", "x": 2.5, "y": 1 },
+        { "name": "haga", "x": 3.75, "y": 1 },
+        { "name": "yamamoto", "x": 5, "y": 1 },
+        { "name": "deguchi", "x": 6.25, "y": 1 },
+        { "name": "izumi", "x": 7.5, "y": 1 }
       ]
     },
 
