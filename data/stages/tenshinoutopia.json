@@ -1,0 +1,144 @@
+{
+  "stage": "NMB48「天使のユートピア」",
+  "stageId": "tenshinoutopia",
+
+  "members": [
+    {
+      "name": "安部若菜",
+      "display": "安部",
+      "id": "abe",
+      "image": "abe_wakana_2024"
+    },
+    {
+      "name": "泉綾乃",
+      "display": "泉",
+      "id": "izumi",
+      "image": "izumi_ayano_2024"
+    },
+    {
+      "name": "瓶野神音",
+      "display": "瓶野",
+      "id": "kameno",
+      "image": "kameno_zion_2024"
+    },
+    {
+      "name": "川上千尋",
+      "display": "川上",
+      "id": "kawakami",
+      "image": "kawakami_chihiro_2024"
+    },
+    {
+      "name": "小嶋花梨",
+      "display": "小嶋",
+      "id": "kojima",
+      "image": "kojima_karin_2024"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2024"
+    },
+    {
+      "name": "桜田彩叶",
+      "display": "桜田",
+      "id": "sakurada",
+      "image": "sakurada_ayaka_2024"
+    },
+    {
+      "name": "塩月希依音",
+      "display": "塩月",
+      "id": "shiotsuki",
+      "image": "shiotsuki_keito_2024"
+    },
+    {
+      "name": "上西怜",
+      "display": "上西",
+      "id": "jonishi",
+      "image": "jonishi_rei_2024"
+    },
+    {
+      "name": "新澤菜央",
+      "display": "新澤",
+      "id": "shinzawa",
+      "image": "shinzawa_nao_2024"
+    },
+    {
+      "name": "出口結菜",
+      "display": "出口",
+      "id": "deguchi",
+      "image": "deguchi_yuina_2024"
+    },
+    {
+      "name": "芳賀礼",
+      "display": "芳賀",
+      "id": "haga",
+      "image": "haga_rei_2024"
+    },
+    {
+      "name": "山本望叶",
+      "display": "山本",
+      "id": "yamamoto",
+      "image": "yamamoto_mikana_2024"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "OUR STORY",
+      "file": "our_story.json"
+    },
+    {
+      "name": "青い春よ",
+      "file": "aoiharuyo.json"
+    },
+    {
+      "name": "愛デンティティ",
+      "file": "identity.json"
+    },
+    {
+      "name": "ROUTE 48",
+      "file": "route_48.json"
+    },
+    {
+      "name": "僕らはまだ",
+      "file": "bokurahamada.json"
+    },
+    {
+      "name": "脇役・学生Z",
+      "file": "wakiyaku_gakuseiz.json"
+    },
+    {
+      "name": "天使のユートピア",
+      "file": "tenshinoutopia.json"
+    },
+    {
+      "name": "全部抱きしめろ！",
+      "file": "zenbudakishimero.json"
+    },
+    {
+      "name": "HOME～ずっと友達～",
+      "file": "home_zuttotomodachi.json"
+    },
+    {
+      "name": "繋ぎ歌～世界の国からこんにちは〜",
+      "file": "tsunagiuta_sekainokunikarakonnichiha.json"
+    },
+    {
+      "name": "恋を急げ",
+      "file": "koiwoisoge.json"
+    },
+    {
+      "name": "僕だけのSecret time",
+      "file": "bokudakeno_secrettime.json"
+    },
+    {
+      "name": "僕以外の誰か",
+      "file": "bokuigainodareka.json"
+    },
+    {
+      "name": "永遠のメロディー",
+      "file": "eiennomelody.json"
+    }
+  ]
+}
