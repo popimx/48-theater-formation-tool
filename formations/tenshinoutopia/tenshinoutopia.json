@@ -13,10 +13,11 @@
       "title": "イントロ",
       "lyrics": "",
       "members": [
-        { "name": "kameno", "x": -6, "y": 4 },
+        { "name": "kameno", "x": -6, "y": 5 },
+        { "name": "shinzawa", "x": 6, "y": 5 },
+
         { "name": "haga", "x": -4, "y": 4 },
         { "name": "sakurada", "x": 4, "y": 4 },
-        { "name": "shinzawa", "x": 6, "y": 4 },
 
         { "name": "izumi", "x": -5, "y": 3 },
         { "name": "shiotsuki", "x": -2, "y": 3 },
