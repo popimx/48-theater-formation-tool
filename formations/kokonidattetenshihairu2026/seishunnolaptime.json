@@ -16,7 +16,7 @@
       "lyrics": "",
       "members": [
         { "name": "sakashita", "x": -5, "y": 4 },
-        { "name": "wakahana", "x": 0, "y": 4 },
+        { "name": "waka", "x": 0, "y": 4 },
         { "name": "tatsumoto", "x": 5, "y": 4 },
 
         { "name": "ike", "x": -6, "y": 3 },
@@ -42,7 +42,7 @@
       "lyrics": "君との約束を 忘れたわけじゃなく〜",
       "members": [
         { "name": "sakashita", "x": -5, "y": 4 },
-        { "name": "wakahana", "x": 0, "y": 4 },
+        { "name": "waka", "x": 0, "y": 4 },
         { "name": "tatsumoto", "x": 5, "y": 4 },
 
         { "name": "ike", "x": -6, "y": 3 },
@@ -81,7 +81,7 @@
         { "name": "itagaki", "x": -5, "y": 2 },
         { "name": "sakurada", "x": -1.25, "y": 2 },
         { "name": "mikamo", "x": 1.25, "y": 2 },
-        { "name": "wakahana", "x": 5, "y": 2 },
+        { "name": "waka", "x": 5, "y": 2 },
 
         { "name": "yuka", "x": -2.5, "y": 1 },
         { "name": "sakata", "x": 0, "y": 1 },
@@ -105,7 +105,7 @@
         { "name": "fukuno", "x": 6, "y": 3 },
 
         { "name": "tatsumoto", "x": -1.5, "y": 2 },
-        { "name": "wakahana", "x": 1.5, "y": 2 },
+        { "name": "waka", "x": 1.5, "y": 2 },
 
         { "name": "mikamo", "x": -5, "y": 1 },
         { "name": "haga", "x": -3, "y": 1 },
