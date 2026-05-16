@@ -1,0 +1,414 @@
+{
+  "song": "ダンシングハイ",
+
+  "memo": [
+    "① 三鴨/中川、岡腰/竹田",
+    "ことね田中村井和田石山、樹奈内田宮原谷口木根",
+    "② 宮原岡腰石山、三鴨桜井ことね",
+    "中川田中 (木根赤松)、中川田中",
+    "村井竹田/樹奈和田 (谷口/内田)"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "タリラリラン タリラリラリラン タリラリラン タリラリラリラリラリ〜",
+      "members": [
+        { "name": "juna", "x": -7.5, "y": 2 },
+        { "name": "uchida", "x": -5.5, "y": 2 },
+        { "name": "miyahara", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "murai", "x": 0.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "kotone", "x": -6.5, "y": 1 },
+        { "name": "akamatsu", "x": -4.5, "y": 1 },
+        { "name": "okagoshi", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": -0.5, "y": 1 },
+        { "name": "nakagawa", "x": 1.5, "y": 1 },
+        { "name": "takeda", "x": 3.5, "y": 1 },
+        { "name": "sakurai", "x": 5.5, "y": 1 },
+        { "name": "ishiyama", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "タリラリラン〜",
+      "members": [
+        { "name": "kotone", "x": -6.5, "y": 2 },
+        { "name": "akamatsu", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "takeda", "x": 3.5, "y": 2 },
+        { "name": "sakurai", "x": 5.5, "y": 2 },
+        { "name": "ishiyama", "x": 7.5, "y": 2 },
+
+        { "name": "juna", "x": -7.5, "y": 1 },
+        { "name": "uchida", "x": -5.5, "y": 1 },
+        { "name": "miyahara", "x": -3.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 },
+        { "name": "kine", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "タリラリラリラン〜",
+      "members": [
+        { "name": "juna", "x": -7.5, "y": 2 },
+        { "name": "uchida", "x": -5.5, "y": 2 },
+        { "name": "miyahara", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "murai", "x": 0.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "kotone", "x": -6.5, "y": 1 },
+        { "name": "akamatsu", "x": -4.5, "y": 1 },
+        { "name": "okagoshi", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": -0.5, "y": 1 },
+        { "name": "nakagawa", "x": 1.5, "y": 1 },
+        { "name": "takeda", "x": 3.5, "y": 1 },
+        { "name": "sakurai", "x": 5.5, "y": 1 },
+        { "name": "ishiyama", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ④",
+      "lyrics": "タリラリラン〜",
+      "members": [
+        { "name": "kotone", "x": -6.5, "y": 2 },
+        { "name": "akamatsu", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "takeda", "x": 3.5, "y": 2 },
+        { "name": "sakurai", "x": 5.5, "y": 2 },
+        { "name": "ishiyama", "x": 7.5, "y": 2 },
+
+        { "name": "juna", "x": -7.5, "y": 1 },
+        { "name": "uchida", "x": -5.5, "y": 1 },
+        { "name": "miyahara", "x": -3.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 },
+        { "name": "kine", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "LOVE 言葉なら知ってる〜",
+      "members": [
+        { "name": "juna", "x": -7, "y": 4 },
+        { "name": "uchida", "x": -4, "y": 4 },
+        { "name": "miyahara", "x": -1, "y": 4 },
+        { "name": "wada", "x": 1, "y": 4 },
+        { "name": "taniguchi", "x": 4, "y": 4 },
+        { "name": "kine", "x": 7, "y": 4 },
+
+        { "name": "kotone", "x": -6, "y": 3 },
+        { "name": "tanaka", "x": -2, "y": 3 },
+        { "name": "murai", "x": 2, "y": 3 },
+        { "name": "ishiyama", "x": 6, "y": 3 },
+
+        { "name": "akamatsu", "x": -5, "y": 2 },
+        { "name": "okagoshi", "x": -3, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+        { "name": "sakurai", "x": 5, "y": 2 },
+
+        { "name": "mikamo", "x": -4, "y": 1 },
+        { "name": "nakagawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "ダンシングハイ (ハイ) ハイ (ハイ) ハイになって なんか 急にいい気持ち〜",
+      "members": [
+        { "name": "juna", "x": -6, "y": 5 },
+        { "name": "uchida", "x": -3.5, "y": 5 },
+        { "name": "miyahara", "x": -1, "y": 5 },
+        { "name": "wada", "x": 1, "y": 5 },
+        { "name": "taniguchi", "x": 3.5, "y": 5 },
+        { "name": "kine", "x": 6, "y": 5 },
+
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kotone", "x": -2, "y": 4 },
+        { "name": "ishiyama", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4.5, "y": 4 },
+
+        { "name": "akamatsu", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 0, "y": 3 },
+        { "name": "sakurai", "x": 3, "y": 3 },
+
+        { "name": "okagoshi", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "バーニングハイ (ハイ) ハイ (ハイ) ハイになって 全部 燃え尽きてしまえ〜",
+      "members": [
+        { "name": "sakurai", "x": -3.5, "y": 5 },
+        { "name": "ishiyama", "x": 3.5, "y": 5 },
+
+        { "name": "mikamo", "x": -7.5, "y": 4 },
+        { "name": "kotone", "x": -2.5, "y": 4 },
+        { "name": "akamatsu", "x": 2.5, "y": 4 },
+        { "name": "okagoshi", "x": 7.5, "y": 4 },
+
+        { "name": "takeda", "x": -6.5, "y": 3 },
+        { "name": "miyahara", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "nakagawa", "x": 6.5, "y": 3 },
+
+        { "name": "kine", "x": -5.5, "y": 2 },
+        { "name": "tanaka", "x": -0.5, "y": 2 },
+        { "name": "juna", "x": 5.5, "y": 2 },
+
+        { "name": "taniguchi", "x": -4.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "uchida", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ダンシングハイ (ハイ) ハイ (ハイ) ハイになって なんか 急にいい気持ち〜",
+      "members": [
+        { "name": "juna", "x": -6, "y": 5 },
+        { "name": "uchida", "x": -3.5, "y": 5 },
+        { "name": "miyahara", "x": -1, "y": 5 },
+        { "name": "wada", "x": 1, "y": 5 },
+        { "name": "taniguchi", "x": 3.5, "y": 5 },
+        { "name": "kine", "x": 6, "y": 5 },
+
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kotone", "x": -2, "y": 4 },
+        { "name": "ishiyama", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4.5, "y": 4 },
+
+        { "name": "akamatsu", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 0, "y": 3 },
+        { "name": "sakurai", "x": 3, "y": 3 },
+
+        { "name": "okagoshi", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "朝まで踊って 踊って 踊り明かして〜",
+      "members": [
+        { "name": "juna", "x": -7.5, "y": 2 },
+        { "name": "uchida", "x": -5.5, "y": 2 },
+        { "name": "miyahara", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "murai", "x": 0.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "kotone", "x": -6.5, "y": 1 },
+        { "name": "akamatsu", "x": -4.5, "y": 1 },
+        { "name": "okagoshi", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": -0.5, "y": 1 },
+        { "name": "nakagawa", "x": 1.5, "y": 1 },
+        { "name": "takeda", "x": 3.5, "y": 1 },
+        { "name": "sakurai", "x": 5.5, "y": 1 },
+        { "name": "ishiyama", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "頭が 頭が 真っ白〜",
+      "members": [
+        { "name": "kotone", "x": -6.5, "y": 2 },
+        { "name": "akamatsu", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "takeda", "x": 3.5, "y": 2 },
+        { "name": "sakurai", "x": 5.5, "y": 2 },
+        { "name": "ishiyama", "x": 7.5, "y": 2 },
+
+        { "name": "juna", "x": -7.5, "y": 1 },
+        { "name": "uchida", "x": -5.5, "y": 1 },
+        { "name": "miyahara", "x": -3.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 },
+        { "name": "kine", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "夢を見てるように このまま逝っちゃってガールズ〜",
+      "members": [
+        { "name": "juna", "x": -6, "y": 5 },
+        { "name": "uchida", "x": -3.5, "y": 5 },
+        { "name": "miyahara", "x": -1, "y": 5 },
+        { "name": "wada", "x": 1, "y": 5 },
+        { "name": "taniguchi", "x": 3.5, "y": 5 },
+        { "name": "kine", "x": 6, "y": 5 },
+
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kotone", "x": -2, "y": 4 },
+        { "name": "ishiyama", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4.5, "y": 4 },
+
+        { "name": "akamatsu", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 0, "y": 3 },
+        { "name": "sakurai", "x": 3, "y": 3 },
+
+        { "name": "okagoshi", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "タリラリラン タリラリラリラン タリラリラン〜",
+      "members": [
+        { "name": "juna", "x": -6, "y": 5 },
+        { "name": "uchida", "x": -3.5, "y": 5 },
+        { "name": "miyahara", "x": -1, "y": 5 },
+        { "name": "wada", "x": 1, "y": 5 },
+        { "name": "taniguchi", "x": 3.5, "y": 5 },
+        { "name": "kine", "x": 6, "y": 5 },
+
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "kotone", "x": -2, "y": 4 },
+        { "name": "ishiyama", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4.5, "y": 4 },
+
+        { "name": "akamatsu", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 0, "y": 3 },
+        { "name": "sakurai", "x": 3, "y": 3 },
+
+        { "name": "okagoshi", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "タリラリラリラリラリ〜",
+      "members": [
+        { "name": "juna", "x": -7.5, "y": 2 },
+        { "name": "uchida", "x": -5.5, "y": 2 },
+        { "name": "miyahara", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "murai", "x": 0.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "kotone", "x": -6.5, "y": 1 },
+        { "name": "akamatsu", "x": -4.5, "y": 1 },
+        { "name": "okagoshi", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": -0.5, "y": 1 },
+        { "name": "nakagawa", "x": 1.5, "y": 1 },
+        { "name": "takeda", "x": 3.5, "y": 1 },
+        { "name": "sakurai", "x": 5.5, "y": 1 },
+        { "name": "ishiyama", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ③",
+      "lyrics": "タリラリラン〜",
+      "members": [
+        { "name": "kotone", "x": -6.5, "y": 2 },
+        { "name": "akamatsu", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "takeda", "x": 3.5, "y": 2 },
+        { "name": "sakurai", "x": 5.5, "y": 2 },
+        { "name": "ishiyama", "x": 7.5, "y": 2 },
+
+        { "name": "juna", "x": -7.5, "y": 1 },
+        { "name": "uchida", "x": -5.5, "y": 1 },
+        { "name": "miyahara", "x": -3.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 },
+        { "name": "kine", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ④",
+      "lyrics": "タリラリラリラン〜",
+      "members": [
+        { "name": "juna", "x": -7.5, "y": 2 },
+        { "name": "uchida", "x": -5.5, "y": 2 },
+        { "name": "miyahara", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "murai", "x": 0.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "kotone", "x": -6.5, "y": 1 },
+        { "name": "akamatsu", "x": -4.5, "y": 1 },
+        { "name": "okagoshi", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": -0.5, "y": 1 },
+        { "name": "nakagawa", "x": 1.5, "y": 1 },
+        { "name": "takeda", "x": 3.5, "y": 1 },
+        { "name": "sakurai", "x": 5.5, "y": 1 },
+        { "name": "ishiyama", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ⑤",
+      "lyrics": "タリラリラン〜",
+      "members": [
+        { "name": "kotone", "x": -6.5, "y": 2 },
+        { "name": "akamatsu", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "takeda", "x": 3.5, "y": 2 },
+        { "name": "sakurai", "x": 5.5, "y": 2 },
+        { "name": "ishiyama", "x": 7.5, "y": 2 },
+
+        { "name": "juna", "x": -7.5, "y": 1 },
+        { "name": "uchida", "x": -5.5, "y": 1 },
+        { "name": "miyahara", "x": -3.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "murai", "x": 0.5, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 },
+        { "name": "kine", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
