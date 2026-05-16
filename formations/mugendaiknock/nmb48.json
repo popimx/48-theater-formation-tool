@@ -1,0 +1,149 @@
+{
+  "song": "NMB48",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "akamatsu", "x": -7.5, "y": 2 },
+        { "name": "taniguchi", "x": -5.5, "y": 2 },
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "kotone", "x": -1.5, "y": 2 },
+        { "name": "miyahara", "x": 0.5, "y": 2 },
+        { "name": "tanaka", "x": 2.5, "y": 2 },
+        { "name": "kine", "x": 4.5, "y": 2 },
+        { "name": "juna", "x": 6.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -6.5, "y": 1 },
+        { "name": "sakurai", "x": -4.5, "y": 1 },
+        { "name": "uchida", "x": -2.5, "y": 1 },
+        { "name": "okagoshi", "x": -0.5, "y": 1 },
+        { "name": "takeda", "x": 1.5, "y": 1 },
+        { "name": "ishiyama", "x": 3.5, "y": 1 },
+        { "name": "murai", "x": 5.5, "y": 1 },
+        { "name": "mikamo", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -6.5, "y": 2 },
+        { "name": "sakurai", "x": -4.5, "y": 2 },
+        { "name": "uchida", "x": -2.5, "y": 2 },
+        { "name": "okagoshi", "x": -0.5, "y": 2 },
+        { "name": "takeda", "x": 1.5, "y": 2 },
+        { "name": "ishiyama", "x": 3.5, "y": 2 },
+        { "name": "murai", "x": 5.5, "y": 2 },
+        { "name": "mikamo", "x": 7.5, "y": 2 },
+
+        { "name": "akamatsu", "x": -7.5, "y": 1 },
+        { "name": "taniguchi", "x": -5.5, "y": 1 },
+        { "name": "wada", "x": -3.5, "y": 1 },
+        { "name": "kotone", "x": -1.5, "y": 1 },
+        { "name": "miyahara", "x": 0.5, "y": 1 },
+        { "name": "tanaka", "x": 2.5, "y": 1 },
+        { "name": "kine", "x": 4.5, "y": 1 },
+        { "name": "juna", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -6.5, "y": 2 },
+        { "name": "sakurai", "x": -4.5, "y": 2 },
+        { "name": "uchida", "x": -2.5, "y": 2 },
+        { "name": "okagoshi", "x": -0.5, "y": 2 },
+        { "name": "takeda", "x": 1.5, "y": 2 },
+        { "name": "ishiyama", "x": 3.5, "y": 2 },
+        { "name": "murai", "x": 5.5, "y": 2 },
+        { "name": "mikamo", "x": 7.5, "y": 2 },
+
+        { "name": "akamatsu", "x": -7.5, "y": 1 },
+        { "name": "taniguchi", "x": -5.5, "y": 1 },
+        { "name": "wada", "x": -3.5, "y": 1 },
+        { "name": "kotone", "x": -1.5, "y": 1 },
+        { "name": "miyahara", "x": 0.5, "y": 1 },
+        { "name": "tanaka", "x": 2.5, "y": 1 },
+        { "name": "kine", "x": 4.5, "y": 1 },
+        { "name": "juna", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "ほな 難波48  一度観たら やめられへん  また 明日 観に来るやろ? 必ず〜",
+      "members": [
+        { "name": "nakagawa", "x": -6.5, "y": 2 },
+        { "name": "sakurai", "x": -4.5, "y": 2 },
+        { "name": "uchida", "x": -2.5, "y": 2 },
+        { "name": "okagoshi", "x": -0.5, "y": 2 },
+        { "name": "takeda", "x": 1.5, "y": 2 },
+        { "name": "ishiyama", "x": 3.5, "y": 2 },
+        { "name": "murai", "x": 5.5, "y": 2 },
+        { "name": "mikamo", "x": 7.5, "y": 2 },
+
+        { "name": "akamatsu", "x": -7.5, "y": 1 },
+        { "name": "taniguchi", "x": -5.5, "y": 1 },
+        { "name": "wada", "x": -3.5, "y": 1 },
+        { "name": "kotone", "x": -1.5, "y": 1 },
+        { "name": "miyahara", "x": 0.5, "y": 1 },
+        { "name": "tanaka", "x": 2.5, "y": 1 },
+        { "name": "kine", "x": 4.5, "y": 1 },
+        { "name": "juna", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "そや、うちら 難波48  一度観たら やめられへん  うちの名前を 絶対に覚えて〜",
+      "members": [
+        { "name": "akamatsu", "x": -7.5, "y": 2 },
+        { "name": "taniguchi", "x": -5.5, "y": 2 },
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "kotone", "x": -1.5, "y": 2 },
+        { "name": "miyahara", "x": 0.5, "y": 2 },
+        { "name": "tanaka", "x": 2.5, "y": 2 },
+        { "name": "kine", "x": 4.5, "y": 2 },
+        { "name": "juna", "x": 6.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -6.5, "y": 1 },
+        { "name": "sakurai", "x": -4.5, "y": 1 },
+        { "name": "uchida", "x": -2.5, "y": 1 },
+        { "name": "okagoshi", "x": -0.5, "y": 1 },
+        { "name": "takeda", "x": 1.5, "y": 1 },
+        { "name": "ishiyama", "x": 3.5, "y": 1 },
+        { "name": "murai", "x": 5.5, "y": 1 },
+        { "name": "mikamo", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "ほな 難波48  うちのとこに 会いに来て  誰よりも好きになって頼むわ〜",
+      "members": [
+        { "name": "wada", "x": -7.5, "y": 2 },
+        { "name": "taniguchi", "x": -5.5, "y": 2 },
+        { "name": "kotone", "x": -3.5, "y": 2 },
+        { "name": "sakurai", "x": -1.5, "y": 2 },
+        { "name": "mikamo", "x": 0.5, "y": 2 },
+        { "name": "akamatsu", "x": 2.5, "y": 2 },
+        { "name": "tanaka", "x": 4.5, "y": 2 },
+        { "name": "kine", "x": 6.5, "y": 2 },
+
+        { "name": "uchida", "x": -6.5, "y": 1 },
+        { "name": "murai", "x": -4.5, "y": 1 },
+        { "name": "nakagawa", "x": -2.5, "y": 1 },
+        { "name": "okagoshi", "x": -0.5, "y": 1 },
+        { "name": "takeda", "x": 1.5, "y": 1 },
+        { "name": "ishiyama", "x": 3.5, "y": 1 },
+        { "name": "miyahara", "x": 5.5, "y": 1 },
+        { "name": "juna", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
