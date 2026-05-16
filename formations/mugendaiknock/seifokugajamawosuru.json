@@ -1,0 +1,69 @@
+{
+  "song": "制服が邪魔をする",
+
+  "memo": [
+    "イントロ 岡腰、三鴨、竹田",
+    "① 岡腰、三鴨、竹田桜井、竹田、岡腰、桜井",
+    "竹田三鴨",
+    "①サビ 竹田、岡腰、三鴨桜井",
+    "①サビ後 桜井、ことね、石山、赤松",
+    "② 赤松中川、ことね/石山、中川赤松",
+    "三鴨、岡腰、竹田/桜井",
+    "②サビ 桜井、竹田、岡腰三鴨",
+    "②サビ後 中川",
+    "ラストサビ 桜井岡腰、三鴨/竹田、中川/赤松",
+    "ことね石山、竹田、岡腰、竹田、岡腰、桜井/三鴨"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "誰か (誰か) 見てても 関係ないわよ キスしなさい〜",
+      "members": [
+        { "name": "ishiyama", "x": -4, "y": 2 },
+        { "name": "akamatsu", "x": -2, "y": 2 },
+        { "name": "nakagawa", "x": 2, "y": 2 },
+        { "name": "kotone", "x": 4, "y": 2 },
+
+        { "name": "takeda", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": -1, "y": 1 },
+        { "name": "sakurai", "x": 1, "y": 1 },
+        { "name": "okagoshi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "制服を脱ぎ捨てて もっと 不埒な遊びをしたいの〜",
+      "members": [
+        { "name": "kotone", "x": -6, "y": 3 },
+        { "name": "nakagawa", "x": -4, "y": 3 },
+        { "name": "akamatsu", "x": 4, "y": 3 },
+        { "name": "ishiyama", "x": 6, "y": 3 },
+
+        { "name": "okagoshi", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+
+        { "name": "takeda", "x": -3, "y": 1 },
+        { "name": "sakurai", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "制服が邪魔をする もっと 自由に愛したいの〜",
+      "members": [
+        { "name": "nakagawa", "x": -4, "y": 3 },
+        { "name": "kotone", "x": -1, "y": 3 },
+        { "name": "akamatsu", "x": 4, "y": 3 },
+
+        { "name": "sakurai", "x": -2, "y": 2 },
+        { "name": "ishiyama", "x": 2, "y": 2 },
+
+        { "name": "mikamo", "x": -3, "y": 1 },
+        { "name": "okagoshi", "x": 0, "y": 1 },
+        { "name": "takeda", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
