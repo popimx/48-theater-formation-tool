@@ -1,0 +1,109 @@
+{
+  "song": "無限大ノック",
+
+  "memo": [
+    "① 竹田岡腰三鴨桜井、石山中川赤松ことね",
+    "谷口村井田中宮原、樹奈内田木根和田",
+    "② 石山赤松中川ことね、谷口村井田中宮原",
+    "樹奈内田木根和田、竹田岡腰/三鴨桜井"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "無限大ノックしろ  希望のそのドアを… 〜",
+      "members": [
+        { "name": "juna", "x": -4, "y": 3 },
+        { "name": "uchida", "x": -2, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "kine", "x": 2, "y": 3 },
+        { "name": "miyahara", "x": 4, "y": 3 },
+
+        { "name": "taniguchi", "x": -5, "y": 2 },
+        { "name": "murai", "x": -3, "y": 2 },
+        { "name": "ishiyama", "x": -1, "y": 2 },
+        { "name": "akamatsu", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 3, "y": 2 },
+        { "name": "kotone", "x": 5, "y": 2 },
+
+        { "name": "sakurai", "x": -4, "y": 1 },
+        { "name": "mikamo", "x": -2, "y": 1 },
+        { "name": "okagoshi", "x": 0, "y": 1 },
+        { "name": "takeda", "x": 2, "y": 1 },
+        { "name": "nakagawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "さあ 何回でもノックしろ  うるさいくらい〜",
+      "members": [
+        { "name": "juna", "x": -6.5, "y": 2 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "uchida", "x": -2.5, "y": 2 },
+        { "name": "murai", "x": -0.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+        { "name": "tanaka", "x": 3.5, "y": 2 },
+        { "name": "kine", "x": 5.5, "y": 2 },
+        { "name": "miyahara", "x": 7.5, "y": 2 },
+
+        { "name": "sakurai", "x": -7.5, "y": 1 },
+        { "name": "mikamo", "x": -5.5, "y": 1 },
+        { "name": "ishiyama", "x": -3.5, "y": 1 },
+        { "name": "okagoshi", "x": -1.5, "y": 1 },
+        { "name": "takeda", "x": 0.5, "y": 1 },
+        { "name": "akamatsu", "x": 2.5, "y": 1 },
+        { "name": "nakagawa", "x": 4.5, "y": 1 },
+        { "name": "kotone", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "さあ 図々しくノックしろ  迷惑でもいい〜",
+      "members": [
+        { "name": "ishiyama", "x": -6.5, "y": 2 },
+        { "name": "takeda", "x": -4.5, "y": 2 },
+        { "name": "akamatsu", "x": -2.5, "y": 2 },
+        { "name": "okagoshi", "x": -0.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "mikamo", "x": 3.5, "y": 2 },
+        { "name": "kotone", "x": 5.5, "y": 2 },
+        { "name": "sakurai", "x": 7.5, "y": 2 },
+
+        { "name": "taniguchi", "x": -7.5, "y": 1 },
+        { "name": "juna", "x": -5.5, "y": 1 },
+        { "name": "murai", "x": -3.5, "y": 1 },
+        { "name": "uchida", "x": -1.5, "y": 1 },
+        { "name": "tanaka", "x": 0.5, "y": 1 },
+        { "name": "kine", "x": 2.5, "y": 1 },
+        { "name": "miyahara", "x": 4.5, "y": 1 },
+        { "name": "wada", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "さあ 何回でもノックしろ  うるさいくらい〜",
+      "members": [
+        { "name": "taniguchi", "x": -6.5, "y": 2 },
+        { "name": "juna", "x": -4.5, "y": 2 },
+        { "name": "murai", "x": -2.5, "y": 2 },
+        { "name": "uchida", "x": -0.5, "y": 2 },
+        { "name": "tanaka", "x": 1.5, "y": 2 },
+        { "name": "kine", "x": 3.5, "y": 2 },
+        { "name": "miyahara", "x": 5.5, "y": 2 },
+        { "name": "wada", "x": 7.5, "y": 2 },
+
+        { "name": "ishiyama", "x": -7.5, "y": 1 },
+        { "name": "takeda", "x": -5.5, "y": 1 },
+        { "name": "akamatsu", "x": -3.5, "y": 1 },
+        { "name": "okagoshi", "x": -1.5, "y": 1 },
+        { "name": "nakagawa", "x": 0.5, "y": 1 },
+        { "name": "mikamo", "x": 2.5, "y": 1 },
+        { "name": "kotone", "x": 4.5, "y": 1 },
+        { "name": "sakurai", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
