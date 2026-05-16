@@ -1,0 +1,248 @@
+{
+  "song": "スワンボート",
+
+  "memo": [
+    "① 竹田/桜井 (岡腰/赤松)、三鴨/田中 (中川/石山)",
+    "ことね/宮原 (村井/和田)、木根/高橋樹奈(谷口/内田)",
+    "竹田岡腰赤松桜井、三鴨中川/石山田中",
+    "② 岡腰/赤松 (桜井竹田)、中川/石山 (三鴨/田中)",
+    "村井和田 (ことね/宮原)、谷口内田 (木根樹奈)",
+    "村井和田ことね宮原木根、樹奈谷口内田",
+    "岡腰竹田桜井赤松"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "スワンボート (スワンボート) 湖のその上(スイ～スイ～) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "ishiyama", "x": 2.25, "y": 4 },
+
+        { "name": "wada", "x": -5.25, "y": 3 },
+        { "name": "miyahara", "x": -3.75, "y": 3 },
+        { "name": "mikamo", "x": -0.75, "y": 3 },
+        { "name": "tanaka", "x": 0.75, "y": 3 },
+        { "name": "kine", "x": 3.75, "y": 3 },
+        { "name": "taniguchi", "x": 5.25, "y": 3 },
+
+        { "name": "murai", "x": -6, "y": 2 },
+        { "name": "kotone", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -3, "y": 2 },
+        { "name": "akamatsu", "x": 3, "y": 2 },
+        { "name": "juna", "x": 4.5, "y": 2 },
+        { "name": "uchida", "x": 6, "y": 2 },
+
+        { "name": "takeda", "x": -1.5, "y": 1 },
+        { "name": "sakurai", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "スワンボート (スワンボート) 少し疲れたけど (Go Go) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -6, "y": 4 },
+        { "name": "mikamo", "x": -2.5, "y": 4 },
+        { "name": "tanaka", "x": 2.5, "y": 4 },
+        { "name": "ishiyama", "x": 6, "y": 4 },
+
+        { "name": "murai", "x": -4.5, "y": 3 },
+        { "name": "miyahara", "x": -1, "y": 3 },
+        { "name": "kine", "x": 1, "y": 3 },
+        { "name": "uchida", "x": 4.5, "y": 3 },
+
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "kotone", "x": -2, "y": 2 },
+        { "name": "juna", "x": 2, "y": 2 },
+        { "name": "taniguchi", "x": 3.5, "y": 2 },
+
+        { "name": "okagoshi", "x": -6.5, "y": 1 },
+        { "name": "takeda", "x": -5, "y": 1 },
+        { "name": "sakurai", "x": 5, "y": 1 },
+        { "name": "akamatsu", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "天国まで 漕ぎ続けて〜",
+      "members": [
+        { "name": "murai", "x": -5.5, "y": 3 },
+        { "name": "kotone", "x": -3.5, "y": 3 },
+        { "name": "miyahara", "x": -1.5, "y": 3 },
+        { "name": "kine", "x": 1.5, "y": 3 },
+        { "name": "juna", "x": 3.5, "y": 3 },
+        { "name": "uchida", "x": 5.5, "y": 3 },
+
+        { "name": "wada", "x": -4.25, "y": 2 },
+        { "name": "mikamo", "x": -2.25, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "taniguchi", "x": 4.25, "y": 2 },
+
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "okagoshi", "x": -3, "y": 1 },
+        { "name": "takeda", "x": -1, "y": 1 },
+        { "name": "sakurai", "x": 1, "y": 1 },
+        { "name": "akamatsu", "x": 3, "y": 1 },
+        { "name": "ishiyama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "スワンボート (スワンボート) スピードはゆっくり (さざなみ) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -6, "y": 4 },
+        { "name": "mikamo", "x": -2.5, "y": 4 },
+        { "name": "tanaka", "x": 2.5, "y": 4 },
+        { "name": "ishiyama", "x": 6, "y": 4 },
+
+        { "name": "murai", "x": -4.5, "y": 3 },
+        { "name": "miyahara", "x": -1, "y": 3 },
+        { "name": "kine", "x": 1, "y": 3 },
+        { "name": "uchida", "x": 4.5, "y": 3 },
+
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "kotone", "x": -2, "y": 2 },
+        { "name": "juna", "x": 2, "y": 2 },
+        { "name": "taniguchi", "x": 3.5, "y": 2 },
+
+        { "name": "okagoshi", "x": -6.5, "y": 1 },
+        { "name": "takeda", "x": -5, "y": 1 },
+        { "name": "sakurai", "x": 5, "y": 1 },
+        { "name": "akamatsu", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "スワンボート (スワンボート) どっちがペダル漕ぐ？ (スパート) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "ishiyama", "x": 2.25, "y": 4 },
+
+        { "name": "wada", "x": -5.25, "y": 3 },
+        { "name": "miyahara", "x": -3.75, "y": 3 },
+        { "name": "mikamo", "x": -0.75, "y": 3 },
+        { "name": "tanaka", "x": 0.75, "y": 3 },
+        { "name": "kine", "x": 3.75, "y": 3 },
+        { "name": "taniguchi", "x": 5.25, "y": 3 },
+
+        { "name": "murai", "x": -6, "y": 2 },
+        { "name": "kotone", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -3, "y": 2 },
+        { "name": "akamatsu", "x": 3, "y": 2 },
+        { "name": "juna", "x": 4.5, "y": 2 },
+        { "name": "uchida", "x": 6, "y": 2 },
+
+        { "name": "takeda", "x": -1.5, "y": 1 },
+        { "name": "sakurai", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "アヒルボート (漕ぎ 漕ぎ) 太陽の真下で (ジリジリ) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "ishiyama", "x": 2.25, "y": 4 },
+
+        { "name": "wada", "x": -5.25, "y": 3 },
+        { "name": "miyahara", "x": -3.75, "y": 3 },
+        { "name": "mikamo", "x": -0.75, "y": 3 },
+        { "name": "tanaka", "x": 0.75, "y": 3 },
+        { "name": "kine", "x": 3.75, "y": 3 },
+        { "name": "taniguchi", "x": 5.25, "y": 3 },
+
+        { "name": "murai", "x": -6, "y": 2 },
+        { "name": "kotone", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -3, "y": 2 },
+        { "name": "akamatsu", "x": 3, "y": 2 },
+        { "name": "juna", "x": 4.5, "y": 2 },
+        { "name": "uchida", "x": 6, "y": 2 },
+
+        { "name": "takeda", "x": -1.5, "y": 1 },
+        { "name": "sakurai", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "アヒルボート (アヒルボート) どっちへ向かおうか？(一緒に) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -6, "y": 4 },
+        { "name": "mikamo", "x": -2.5, "y": 4 },
+        { "name": "tanaka", "x": 2.5, "y": 4 },
+        { "name": "ishiyama", "x": 6, "y": 4 },
+
+        { "name": "murai", "x": -4.5, "y": 3 },
+        { "name": "miyahara", "x": -1, "y": 3 },
+        { "name": "kine", "x": 1, "y": 3 },
+        { "name": "uchida", "x": 4.5, "y": 3 },
+
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "kotone", "x": -2, "y": 2 },
+        { "name": "juna", "x": 2, "y": 2 },
+        { "name": "taniguchi", "x": 3.5, "y": 2 },
+
+        { "name": "okagoshi", "x": -6.5, "y": 1 },
+        { "name": "takeda", "x": -5, "y": 1 },
+        { "name": "sakurai", "x": 5, "y": 1 },
+        { "name": "akamatsu", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -6.25, "y": 4 },
+        { "name": "kotone", "x": -4, "y": 4 },
+        { "name": "miyahara", "x": -1.75, "y": 4 },
+        { "name": "kine", "x": 1.75, "y": 4 },
+        { "name": "juna", "x": 4, "y": 4 },
+        { "name": "taniguchi", "x": 6.25, "y": 4 },
+
+        { "name": "murai", "x": -5.5, "y": 3 },
+        { "name": "nakagawa", "x": -2.5, "y": 3 },
+        { "name": "ishiyama", "x": 2.5, "y": 3 },
+        { "name": "uchida", "x": 5.5, "y": 3 },
+
+        { "name": "okagoshi", "x": -4.75, "y": 2 },
+        { "name": "mikamo", "x": -3.25, "y": 2 },
+        { "name": "tanaka", "x": 3.25, "y": 2 },
+        { "name": "akamatsu", "x": 4.75, "y": 2 },
+
+        { "name": "takeda", "x": -4, "y": 1 },
+        { "name": "sakurai", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "スワンボート (スワンボート) どっちがペダル漕ぐ？ (スパート) 〜",
+      "members": [
+        { "name": "nakagawa", "x": -2.25, "y": 4 },
+        { "name": "ishiyama", "x": 2.25, "y": 4 },
+
+        { "name": "wada", "x": -5.25, "y": 3 },
+        { "name": "miyahara", "x": -3.75, "y": 3 },
+        { "name": "mikamo", "x": -0.75, "y": 3 },
+        { "name": "tanaka", "x": 0.75, "y": 3 },
+        { "name": "kine", "x": 3.75, "y": 3 },
+        { "name": "taniguchi", "x": 5.25, "y": 3 },
+
+        { "name": "murai", "x": -6, "y": 2 },
+        { "name": "kotone", "x": -4.5, "y": 2 },
+        { "name": "okagoshi", "x": -3, "y": 2 },
+        { "name": "akamatsu", "x": 3, "y": 2 },
+        { "name": "juna", "x": 4.5, "y": 2 },
+        { "name": "uchida", "x": 6, "y": 2 },
+
+        { "name": "takeda", "x": -1.5, "y": 1 },
+        { "name": "sakurai", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
