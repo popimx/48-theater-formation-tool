@@ -1,0 +1,118 @@
+{
+  "song": "プロムの恋人",
+
+  "memo": [
+    "① 三鴨、竹田中川赤松、村井岡腰、宮原石山ことね",
+    "谷口田中桜井、三鴨 (竹田中川赤松/村井岡腰)",
+    "② 竹田赤松三鴨、中川岡腰村井、宮原石山ことね",
+    "谷口田中桜井、竹田赤松三鴨",
+    "中川岡腰村井 (宮原石山ことね) (谷口/田中桜井)"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "sakurai", "x": -1, "y": 3 },
+        { "name": "miyahara", "x": 4, "y": 3 },
+
+        { "name": "taniguchi", "x": -5, "y": 2 },
+        { "name": "nakagawa", "x": -2, "y": 2 },
+        { "name": "ishiyama", "x": 2, "y": 2 },
+        { "name": "kotone", "x": 5, "y": 2 },
+
+        { "name": "takeda", "x": -6, "y": 1 },
+        { "name": "akamatsu", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "murai", "x": 3, "y": 1 },
+        { "name": "okagoshi", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "僕は最低の男かもしれない そばの誰かを傷つけて〜",
+      "members": [
+        { "name": "takeda", "x": -5, "y": 3 },
+        { "name": "nakagawa", "x": -2, "y": 3 },
+        { "name": "murai", "x": 2, "y": 3 },
+        { "name": "okagoshi", "x": 5, "y": 3 },
+
+        { "name": "taniguchi", "x": -6, "y": 2 },
+        { "name": "sakurai", "x": -3, "y": 2 },
+        { "name": "miyahara", "x": 3, "y": 2 },
+        { "name": "kotone", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "akamatsu", "x": -1, "y": 1 },
+        { "name": "mikamo", "x": 1, "y": 1 },
+        { "name": "ishiyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "僕は愛し合う資格なんてない 誰もしあわせにできない〜",
+      "members": [
+        { "name": "takeda", "x": -5, "y": 3 },
+        { "name": "nakagawa", "x": -2, "y": 3 },
+        { "name": "murai", "x": 2, "y": 3 },
+        { "name": "okagoshi", "x": 5, "y": 3 },
+
+        { "name": "taniguchi", "x": -6, "y": 2 },
+        { "name": "sakurai", "x": -3, "y": 2 },
+        { "name": "miyahara", "x": 3, "y": 2 },
+        { "name": "kotone", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "mikamo", "x": -1, "y": 1 },
+        { "name": "akamatsu", "x": 1, "y": 1 },
+        { "name": "ishiyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -6, "y": 3 },
+        { "name": "miyahara", "x": -4, "y": 3 },
+        { "name": "kotone", "x": -2, "y": 3 },
+        { "name": "taniguchi", "x": 2, "y": 3 },
+        { "name": "sakurai", "x": 4, "y": 3 },
+        { "name": "ishiyama", "x": 6, "y": 3 },
+
+        { "name": "nakagawa", "x": -5, "y": 2 },
+        { "name": "murai", "x": -3, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+        { "name": "okagoshi", "x": 5, "y": 2 },
+
+        { "name": "mikamo", "x": -4, "y": 1 },
+        { "name": "akamatsu", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "こんな僕を愛してくれる人がいた〜",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 3 },
+        { "name": "nakagawa", "x": -2, "y": 3 },
+        { "name": "takeda", "x": 2, "y": 3 },
+        { "name": "okagoshi", "x": 5, "y": 3 },
+
+        { "name": "miyahara", "x": -6, "y": 2 },
+        { "name": "taniguchi", "x": -3, "y": 2 },
+        { "name": "murai", "x": 3, "y": 2 },
+        { "name": "ishiyama", "x": 6, "y": 2 },
+
+        { "name": "sakurai", "x": -4, "y": 1 },
+        { "name": "mikamo", "x": -1, "y": 1 },
+        { "name": "akamatsu", "x": 1, "y": 1 },
+        { "name": "kotone", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
