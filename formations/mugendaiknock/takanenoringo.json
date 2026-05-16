@@ -1,0 +1,148 @@
+{
+  "song": "高嶺の林檎",
+
+  "memo": [
+    "① 竹田/岡腰/三鴨、中川赤松桜井、石山/ことね",
+    "田中/村井/谷口、和田宮原木根内田樹奈",
+    "岡腰 (石山/ことね)、竹田/岡腰/三鴨",
+    "② 石山田中村井谷口ことね、宮原和田木根樹奈内田",
+    "竹田三鴨岡腰、中川赤松桜井",
+    "石山高橋こ (竹田三鴨岡腰)、田中村井谷口"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "手の届く 枝になった林檎は〜",
+      "members": [
+        { "name": "kotone", "x": 4.5, "y": 5 },
+
+        { "name": "wada", "x": -4.5, "y": 4 },
+        { "name": "ishiyama", "x": -1.5, "y": 4 },
+        { "name": "kine", "x": 1.5, "y": 4 },
+        { "name": "juna", "x": 4.5, "y": 4 },
+
+        { "name": "miyahara", "x": -4.5, "y": 3 },
+        { "name": "murai", "x": -1.5, "y": 3 },
+        { "name": "taniguchi", "x": 1.5, "y": 3 },
+        { "name": "uchida", "x": 4.5, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "nakagawa", "x": -1.5, "y": 2 },
+        { "name": "akamatsu", "x": 1.5, "y": 2 },
+        { "name": "sakurai", "x": 4.5, "y": 2 },
+
+        { "name": "takeda", "x": -3, "y": 1 },
+        { "name": "okagoshi", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "みんなが あきらめてるような 高い木の上〜",
+      "members": [
+        { "name": "ishiyama", "x": -5, "y": 5 },
+        { "name": "kotone", "x": 5, "y": 5 },
+
+        { "name": "wada", "x": -6, "y": 4 },
+        { "name": "takeda", "x": -3.5, "y": 4 },
+        { "name": "okagoshi", "x": 0, "y": 4 },
+        { "name": "mikamo", "x": 3.5, "y": 4 },
+        { "name": "juna", "x": 6, "y": 4 },
+
+        { "name": "miyahara", "x": -4.5, "y": 3 },
+        { "name": "murai", "x": -2, "y": 3 },
+        { "name": "kine", "x": 2, "y": 3 },
+        { "name": "uchida", "x": 4.5, "y": 3 },
+
+        { "name": "tanaka", "x": -3, "y": 2 },
+        { "name": "akamatsu", "x": 0, "y": 2 },
+        { "name": "taniguchi", "x": 3, "y": 2 },
+
+        { "name": "nakagawa", "x": -1.5, "y": 1 },
+        { "name": "sakurai", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "結果を出せないこととは チャレンジするより〜",
+      "members": [
+        { "name": "nakagawa", "x": -5, "y": 5 },
+        { "name": "akamatsu", "x": 5, "y": 5 },
+
+        { "name": "tanaka", "x": -6, "y": 4 },
+        { "name": "takeda", "x": -3.5, "y": 4 },
+        { "name": "okagoshi", "x": 0, "y": 4 },
+        { "name": "mikamo", "x": 3.5, "y": 4 },
+        { "name": "sakurai", "x": 6, "y": 4 },
+
+        { "name": "murai", "x": -4.5, "y": 3 },
+        { "name": "ishiyama", "x": -2, "y": 3 },
+        { "name": "kotone", "x": 2, "y": 3 },
+        { "name": "taniguchi", "x": 4.5, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "kine", "x": 0, "y": 2 },
+        { "name": "juna", "x": 3, "y": 2 },
+
+        { "name": "miyahara", "x": -1.5, "y": 1 },
+        { "name": "uchida", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "miyahara", "x": -5.25, "y": 4 },
+        { "name": "ishiyama", "x": -2.25, "y": 4 },
+        { "name": "kotone", "x": 2.25, "y": 4 },
+        { "name": "uchida", "x": 5.25, "y": 4 },
+
+        { "name": "tanaka", "x": -6, "y": 3 },
+        { "name": "wada", "x": -3.75, "y": 3 },
+        { "name": "murai", "x": 0, "y": 3 },
+        { "name": "juna", "x": 3.75, "y": 3 },
+        { "name": "taniguchi", "x": 6, "y": 3 },
+
+        { "name": "takeda", "x": -4.5, "y": 2 },
+        { "name": "kine", "x": -1.5, "y": 2 },
+        { "name": "akamatsu", "x": 1.5, "y": 2 },
+        { "name": "sakurai", "x": 4.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -3, "y": 1 },
+        { "name": "okagoshi", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "miyahara", "x": -5.25, "y": 5 },
+        { "name": "uchida", "x": 5.25, "y": 5 },
+
+        { "name": "tanaka", "x": -6, "y": 4 },
+        { "name": "wada", "x": -3.75, "y": 4 },
+        { "name": "juna", "x": 3.75, "y": 4 },
+        { "name": "taniguchi", "x": 6, "y": 4 },
+
+        { "name": "takeda", "x": -4.5, "y": 3 },
+        { "name": "ishiyama", "x": -2.25, "y": 3 },
+        { "name": "kotone", "x": 2.25, "y": 3 },
+        { "name": "sakurai", "x": 4.5, "y": 3 },
+
+        { "name": "nakagawa", "x": -3, "y": 2 },
+        { "name": "kine", "x": -0.75, "y": 2 },
+        { "name": "murai", "x": 0.75, "y": 2 },
+        { "name": "akamatsu", "x": 3, "y": 2 },
+
+        { "name": "okagoshi", "x": -1.5, "y": 1 },
+        { "name": "mikamo", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
