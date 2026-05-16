@@ -1,0 +1,139 @@
+{
+  "song": "オーマイガー！",
+
+  "memo": [
+    "① 桜井岡腰、ことね赤松石山、中川竹田樹奈",
+    "内田三鴨木根田中、和田谷口宮原村井",
+    "ラストサビ 赤松桜井岡腰竹田 (宮原樹奈村井)",
+    "和田ことね中川石山田中"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -4, "y": 4 },
+        { "name": "taniguchi", "x": -2, "y": 4 },
+        { "name": "takeda", "x": 0, "y": 4 },
+        { "name": "miyahara", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4, "y": 4 },
+
+        { "name": "uchida", "x": -5, "y": 3 },
+        { "name": "mikamo", "x": -3, "y": 3 },
+        { "name": "nakagawa", "x": -1, "y": 3 },
+        { "name": "juna", "x": 1, "y": 3 },
+        { "name": "kine", "x": 3, "y": 3 },
+        { "name": "tanaka", "x": 5, "y": 3 },
+
+        { "name": "kotone", "x": -2, "y": 2 },
+        { "name": "akamatsu", "x": 0, "y": 2 },
+        { "name": "ishiyama", "x": 2, "y": 2 },
+
+        { "name": "sakurai", "x": -1, "y": 1 },
+        { "name": "okagoshi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "uchida", "x": -6, "y": 3 },
+        { "name": "kine", "x": -4, "y": 3 },
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "nakagawa", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "miyahara", "x": 4, "y": 3 },
+        { "name": "murai", "x": 6, "y": 3 },
+
+        { "name": "mikamo", "x": -5, "y": 2 },
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "kotone", "x": -1, "y": 2 },
+        { "name": "ishiyama", "x": 1, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+        { "name": "juna", "x": 5, "y": 2 },
+
+        { "name": "akamatsu", "x": -2, "y": 1 },
+        { "name": "sakurai", "x": 0, "y": 1 },
+        { "name": "okagoshi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "uchida", "x": -6, "y": 3 },
+        { "name": "kine", "x": -4, "y": 3 },
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "nakagawa", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "miyahara", "x": 4, "y": 3 },
+        { "name": "murai", "x": 6, "y": 3 },
+
+        { "name": "mikamo", "x": -5, "y": 2 },
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "kotone", "x": -1, "y": 2 },
+        { "name": "ishiyama", "x": 1, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+        { "name": "juna", "x": 5, "y": 2 },
+
+        { "name": "akamatsu", "x": -2, "y": 1 },
+        { "name": "sakurai", "x": 0, "y": 1 },
+        { "name": "okagoshi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "uchida", "x": -6, "y": 3 },
+        { "name": "kine", "x": -4, "y": 3 },
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "nakagawa", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "miyahara", "x": 4, "y": 3 },
+        { "name": "murai", "x": 6, "y": 3 },
+
+        { "name": "mikamo", "x": -5, "y": 2 },
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "kotone", "x": -1, "y": 2 },
+        { "name": "ishiyama", "x": 1, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+        { "name": "juna", "x": 5, "y": 2 },
+
+        { "name": "akamatsu", "x": -2, "y": 1 },
+        { "name": "sakurai", "x": 0, "y": 1 },
+        { "name": "okagoshi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -4, "y": 4 },
+        { "name": "taniguchi", "x": -2, "y": 4 },
+        { "name": "takeda", "x": 0, "y": 4 },
+        { "name": "miyahara", "x": 2, "y": 4 },
+        { "name": "murai", "x": 4, "y": 4 },
+
+        { "name": "uchida", "x": -5, "y": 3 },
+        { "name": "mikamo", "x": -3, "y": 3 },
+        { "name": "nakagawa", "x": -1, "y": 3 },
+        { "name": "juna", "x": 1, "y": 3 },
+        { "name": "kine", "x": 3, "y": 3 },
+        { "name": "tanaka", "x": 5, "y": 3 },
+
+        { "name": "kotone", "x": -2, "y": 2 },
+        { "name": "akamatsu", "x": 0, "y": 2 },
+        { "name": "ishiyama", "x": 2, "y": 2 },
+
+        { "name": "sakurai", "x": -1, "y": 1 },
+        { "name": "okagoshi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
