@@ -322,30 +322,5 @@
       { "name": "taniguchi", "x": 5.5, "y": 1 }
     ]
   },
-
-  {
-    "title": "ラスト",
-    "lyrics": "",
-    "members": [
-      { "name": "nakagawa", "x": -2.25, "y": 3 },
-      { "name": "ishiyama", "x": 2.25, "y": 3 },
-
-      { "name": "wada", "x": -5.25, "y": 2 },
-      { "name": "miyahara", "x": -3.75, "y": 2 },
-      { "name": "mikamo", "x": -0.75, "y": 2 },
-      { "name": "tanaka", "x": 0.75, "y": 2 },
-      { "name": "kine", "x": 3.75, "y": 2 },
-      { "name": "taniguchi", "x": 5.25, "y": 2 },
-
-      { "name": "murai", "x": -6, "y": 1 },
-      { "name": "kotone", "x": -4.5, "y": 1 },
-      { "name": "okagoshi", "x": -3, "y": 1 },
-      { "name": "takeda", "x": -1.5, "y": 1 },
-      { "name": "sakurai", "x": 1.5, "y": 1 },
-      { "name": "akamatsu", "x": 3, "y": 1 },
-      { "name": "juna", "x": 4.5, "y": 1 },
-      { "name": "uchida", "x": 6, "y": 1 }
-    ]
-  }
   ]
 }
