@@ -1,0 +1,118 @@
+{
+  "stage": "NMB48「なんばらえてぃー」",
+  "stageId": "nanbaraety",
+
+  "members": [
+    {
+      "name": "李始燕",
+      "display": "李",
+      "id": "siyeon",
+      "image": "lee_siyeon_2022"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2022"
+    },
+    {
+      "name": "佐月愛果",
+      "display": "佐月",
+      "id": "satsuki",
+      "image": "satsuki_aika_2022"
+    },
+    {
+      "name": "塩月希依音",
+      "display": "塩月",
+      "id": "shiotsuki",
+      "image": "shiotsuki_keito_2022"
+    },
+    {
+      "name": "新澤菜央",
+      "display": "新澤",
+      "id": "shinzawa",
+      "image": "shinzawa_nao_2022"
+    },
+    {
+      "name": "隅野和奏",
+      "display": "隅野",
+      "id": "sumino",
+      "image": "sumino_wakana_2022"
+    },
+    {
+      "name": "出口結菜",
+      "display": "出口",
+      "id": "deguchi",
+      "image": "deguchi_yuina_2022"
+    },
+    {
+      "name": "原かれん",
+      "display": "原",
+      "id": "hara",
+      "image": "hara_karen_2022"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2022"
+    },
+    {
+      "name": "前田令子",
+      "display": "前田",
+      "id": "maeda",
+      "image": "maeda_reiko_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "Be happy",
+      "file": "be_happy.json"
+    },
+    {
+      "name": "ジャンジャン",
+      "file": "janjan.json"
+    },
+    {
+      "name": "ウッホウッホホ",
+      "file": "uhhohhoho.json"
+    },
+    {
+      "name": "Good Timing",
+      "file": "good_timing.json"
+    },
+    {
+      "name": "女子高生はやめられない",
+      "file": "jyoshikouseiwayamerarenai.json"
+    },
+    {
+      "name": "小池",
+      "file": "koike.json"
+    },
+    {
+      "name": "青春念仏",
+      "file": "seishunnembutsu.json"
+    },
+    {
+      "name": "僕だけのSecret time",
+      "file": "bokudakenosecrettime.json"
+    },
+    {
+      "name": "ホンマにサンキュー",
+      "file": "honmanithankyou.json"
+    },
+    {
+      "name": "なんでやねん、アイドル",
+      "file": "nandeyanen_idol.json"
+    },
+    {
+      "name": "北川謙二",
+      "file": "kitagawakenji.json"
+    },
+    {
+      "name": "ワロタピーポー",
+      "file": "warotapeople.json"
+    }
+  ]
+}
