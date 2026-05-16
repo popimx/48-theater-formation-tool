@@ -1,0 +1,116 @@
+{
+  "song": "風車",
+
+  "memo": [
+    "① ことね竹田三鴨、中川/石山、岡腰内田村井",
+    "宮原桜井田中赤松、樹奈和田木根谷口",
+    "② 中川/石山、内田岡腰村井、桜井田中赤松宮原",
+    "和田木根谷口樹奈、三鴨/竹田/ことね",
+    "ラストサビ後 竹田、三鴨、ことね、石山中川",
+    "岡腰内田村井、田中桜井赤松宮原、谷口和田木根樹奈"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "風車  くるくる回る くるくる回る 花びらのように〜",
+      "members": [
+        { "name": "juna", "x": -5, "y": 3 },
+        { "name": "wada", "x": -2.5, "y": 3 },
+        { "name": "sakurai", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2.5, "y": 3 },
+        { "name": "murai", "x": 5, "y": 3 },
+
+        { "name": "taniguchi", "x": -6.5, "y": 2 },
+        { "name": "nakagawa", "x": -4, "y": 2 },
+        { "name": "miyahara", "x": -1.5, "y": 2 },
+        { "name": "akamatsu", "x": 1.5, "y": 2 },
+        { "name": "ishiyama", "x": 4, "y": 2 },
+        { "name": "okagoshi", "x": 6.5, "y": 2 },
+
+        { "name": "kine", "x": -7.5, "y": 1 },
+        { "name": "kotone", "x": -3, "y": 1 },
+        { "name": "takeda", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 },
+        { "name": "uchida", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "信号が赤になり 仕方なく立ち止まる〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 5 },
+        { "name": "taniguchi", "x": -2, "y": 5 },
+        { "name": "juna", "x": 0, "y": 5 },
+        { "name": "akamatsu", "x": 2, "y": 5 },
+        { "name": "tanaka", "x": 4, "y": 5 },
+
+        { "name": "kine", "x": -3, "y": 4 },
+        { "name": "sakurai", "x": -1, "y": 4 },
+        { "name": "murai", "x": 1, "y": 4 },
+        { "name": "uchida", "x": 3, "y": 4 },
+
+        { "name": "nakagawa", "x": -7, "y": 3 },
+        { "name": "ishiyama", "x": 7, "y": 3 },
+
+        { "name": "miyahara", "x": -6, "y": 2 },
+        { "name": "okagoshi", "x": 6, "y": 2 },
+
+        { "name": "kotone", "x": -1.5, "y": 1 },
+        { "name": "takeda", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "風車  少年時代 少年時代 何回も作った〜",
+      "members": [
+        { "name": "juna", "x": -5, "y": 3 },
+        { "name": "wada", "x": -2.5, "y": 3 },
+        { "name": "sakurai", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 2.5, "y": 3 },
+        { "name": "murai", "x": 5, "y": 3 },
+
+        { "name": "taniguchi", "x": -6.5, "y": 2 },
+        { "name": "nakagawa", "x": -4, "y": 2 },
+        { "name": "miyahara", "x": -1.5, "y": 2 },
+        { "name": "akamatsu", "x": 1.5, "y": 2 },
+        { "name": "ishiyama", "x": 4, "y": 2 },
+        { "name": "okagoshi", "x": 6.5, "y": 2 },
+
+        { "name": "kine", "x": -7.5, "y": 1 },
+        { "name": "kotone", "x": -3, "y": 1 },
+        { "name": "takeda", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 },
+        { "name": "uchida", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "風車  くるくる回る くるくる回る 花びらのように〜",
+      "members": [
+        { "name": "uchida", "x": -7.5, "y": 3 },
+        { "name": "mikamo", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 0, "y": 3 },
+        { "name": "kotone", "x": 3, "y": 3 },
+        { "name": "kine", "x": 7.5, "y": 3 },
+
+        { "name": "okagoshi", "x": -6.5, "y": 2 },
+        { "name": "ishiyama", "x": -4, "y": 2 },
+        { "name": "akamatsu", "x": -1.5, "y": 2 },
+        { "name": "miyahara", "x": 1.5, "y": 2 },
+        { "name": "nakagawa", "x": 4, "y": 2 },
+        { "name": "taniguchi", "x": 6.5, "y": 2 },
+
+        { "name": "murai", "x": -5, "y": 1 },
+        { "name": "tanaka", "x": -2.5, "y": 1 },
+        { "name": "sakurai", "x": 0, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "juna", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
