@@ -1,4 +1,4 @@
-[
+ [
   {
     "stage": "SKE48「ずっと君を探している」",
     "stageId": "zuttokimiwosagashiteiru",
@@ -18,6 +18,11 @@
     "stage": "NMB48「天使のユートピア」",
     "stageId": "tenshinoutopia",
     "file": "stages/tenshinoutopia.json"
+  },
+  {
+    "stage": "NMB48「なんばらえてぃー」",
+    "stageId": "nambalaety",
+    "file": "stages/nambalaety.json"
   },
   {
     "stage": "NMB48「ここにだって天使はいる」",
