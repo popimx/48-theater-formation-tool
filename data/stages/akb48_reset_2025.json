@@ -1,0 +1,102 @@
+{
+  "stage": "AKB48「RESET」",
+  "stageId": "akb48_reset_2025",
+
+  "members": [
+    {
+      "name": "岩立沙穂",
+      "display": "岩立",
+      "id": "iwatate",
+      "image": "iwatate_saho_2025"
+    },
+    {
+      "name": "大盛真歩",
+      "display": "大盛",
+      "id": "omori",
+      "image": "omori_maho_2025"
+    },
+    {
+      "name": "坂川陽香",
+      "display": "坂川",
+      "id": "sakagawa",
+      "image": "sakagawa_hiyuka_2025"
+    },
+    {
+      "name": "田口愛佳",
+      "display": "田口",
+      "id": "taguchi",
+      "image": "taguchi_manaka_2025"
+    },
+    {
+      "name": "徳永羚海",
+      "display": "徳永",
+      "id": "tokunaga",
+      "image": "tokunaga_remi_2025"
+    },
+    {
+      "name": "長友彩海",
+      "display": "長友",
+      "id": "nagatomo",
+      "image": "nagatomo_ayami_2025"
+    },
+    {
+      "name": "正鋳真優",
+      "display": "正鋳",
+      "id": "masai",
+      "image": "masai_mayuu_2025"
+    },
+    {
+      "name": "武藤小麟",
+      "display": "武藤",
+      "id": "muto",
+      "image": "muto_orin_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "RESET",
+      "file": "reset.json"
+    },
+    {
+      "name": "洗濯物たち",
+      "file": "sentakumonotachi.json"
+    },
+    {
+      "name": "彼女になれますか？",
+      "file": "kanojoninaremasuka.json"
+    },
+    {
+      "name": "ウッホウッホホ",
+      "file": "uhhohhoho.json"
+    },
+    {
+      "name": "毒蜘蛛",
+      "file": "dokugumo.json"
+    },
+    {
+      "name": "オケラ",
+      "file": "okera.json"
+    },
+    {
+      "name": "ホワイトデーには...",
+      "file": "whitedayniwa.json"
+    },
+    {
+      "name": "ジグソーパズル48",
+      "file": "jigsawpuzzle48.json"
+    },
+    {
+      "name": "星空のミステイク",
+      "file": "hoshizoranomistake.json"
+    },
+    {
+      "name": "夢の鐘",
+      "file": "yumenokane.json"
+    },
+    {
+      "name": "引っ越しました",
+      "file": "hikkoshimashita.json"
+    }
+  ]
+}
