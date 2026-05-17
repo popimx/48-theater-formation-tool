@@ -1,0 +1,144 @@
+{
+  "song": "ウッホウッホホ",
+
+  "memo": [
+    "イントロ 田口岩立大盛長友、徳永坂川/武藤正鋳",
+    "② 田口徳永坂川正鋳、武藤長友大盛岩立"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "大変なのは 君だけじゃない〜",
+      "members": [
+        { "name": "taguchi", "x": -2.5, "y": 3 },
+        { "name": "sakagawa", "x": 2.5, "y": 3 },
+
+        { "name": "tokunaga", "x": -4, "y": 2 },
+        { "name": "muto", "x": -1.5, "y": 2 },
+        { "name": "omori", "x": 1.5, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "nagatomo", "x": -3, "y": 1 },
+        { "name": "iwatate", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "生きてりゃ 角も立つだろう〜",
+      "members": [
+        { "name": "taguchi", "x": -2.5, "y": 4 },
+        { "name": "sakagawa", "x": 2.5, "y": 4 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 3 },
+        { "name": "masai", "x": 2.5, "y": 3 },
+
+        { "name": "muto", "x": -2.5, "y": 2 },
+        { "name": "omori", "x": 2.5, "y": 2 },
+
+        { "name": "nagatomo", "x": -2.5, "y": 1 },
+        { "name": "iwatate", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ③",
+      "lyrics": "さあ 頭を空っぽにしちゃおうぜ〜",
+      "members": [
+        { "name": "taguchi", "x": -2.5, "y": 3 },
+        { "name": "sakagawa", "x": 2.5, "y": 3 },
+
+        { "name": "tokunaga", "x": -4, "y": 2 },
+        { "name": "muto", "x": -1.5, "y": 2 },
+        { "name": "omori", "x": 1.5, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "nagatomo", "x": -3, "y": 1 },
+        { "name": "iwatate", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -5.25, "y": 4 },
+        { "name": "masai", "x": 5.25, "y": 4 },
+
+        { "name": "nagatomo", "x": -3.5, "y": 3 },
+        { "name": "iwatate", "x": 3.75, "y": 3 },
+
+        { "name": "taguchi", "x": -2.25, "y": 2 },
+        { "name": "sakagawa", "x": 2.25, "y": 2 },
+
+        { "name": "muto", "x": -0.75, "y": 1 },
+        { "name": "omori", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "ウッホ ウッホ ウッホ このエネルギーを〜",
+      "members": [
+        { "name": "nagatomo", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "omori", "x": 1, "y": 2 },
+        { "name": "iwatate", "x": 3, "y": 2 },
+
+        { "name": "tokunaga", "x": -4, "y": 1 },
+        { "name": "taguchi", "x": -2, "y": 1 },
+        { "name": "sakagawa", "x": 2, "y": 1 },
+        { "name": "masai", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "ウッホ ウッホ ウッホ 力に変えて〜",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "sakagawa", "x": 2, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "nagatomo", "x": -3, "y": 1 },
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "iwatate", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "ウッホ ウッホ ウッホ 火の玉みたいに〜",
+      "members": [
+        { "name": "tokunaga", "x": -3, "y": 2 },
+        { "name": "taguchi", "x": -1, "y": 2 },
+        { "name": "sakagawa", "x": 1, "y": 2 },
+        { "name": "masai", "x": 3, "y": 2 },
+
+        { "name": "nagatomo", "x": -4, "y": 1 },
+        { "name": "muto", "x": -2, "y": 1 },
+        { "name": "omori", "x": 2, "y": 1 },
+        { "name": "iwatate", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ④",
+      "lyrics": "ウッホ ウッホ ウッホ ひとつになれ！〜",
+      "members": [
+        { "name": "nagatomo", "x": -4, "y": 2 },
+        { "name": "muto", "x": -2, "y": 2 },
+        { "name": "omori", "x": 2, "y": 2 },
+        { "name": "iwatate", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "sakagawa", "x": 1, "y": 1 },
+        { "name": "masai", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
