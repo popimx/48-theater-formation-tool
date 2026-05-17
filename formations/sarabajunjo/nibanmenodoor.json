@@ -1,0 +1,113 @@
+{
+  "song": "2番目のドア",
+
+  "memo": [
+    "① 坂下芳賀桜田三鴨、青原優高橋青原和池",
+    "龍本板垣/坂本吉見、西田松岡/渋谷竹田",
+    "② 龍本板垣坂本吉見、西田松岡渋谷竹田",
+    "青原優高橋坂下芳賀/桜田三鴨青原和池"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "彼女のその背中を追いかければいいと〜",
+      "members": [
+        { "name": "tatsumoto", "x": -6, "y": 3 },
+        { "name": "nishida", "x": -4, "y": 3 },
+        { "name": "matsuoka", "x": -2, "y": 3 },
+        { "name": "shibutani", "x": 2, "y": 3 },
+        { "name": "takeda", "x": 4, "y": 3 },
+        { "name": "yoshimi", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakashita", "x": -3, "y": 2 },
+        { "name": "haga", "x": -1, "y": 2 },
+        { "name": "sakurada", "x": 1, "y": 2 },
+        { "name": "mikamo", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 5, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "waka", "x": 2, "y": 1 },
+        { "name": "ike", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "新しいドアを開けよう 不安もあるけど〜",
+      "members": [
+        { "name": "tatsumoto", "x": -5.5, "y": 4 },
+        { "name": "itagaki", "x": -3.5, "y": 4 },
+        { "name": "sakamoto", "x": 3.5, "y": 4 },
+        { "name": "yoshimi", "x": 5.5, "y": 4 },
+
+        { "name": "nishida", "x": -6.5, "y": 3 },
+        { "name": "matsuoka", "x": -4.5, "y": 3 },
+        { "name": "shibutani", "x": 4.5, "y": 3 },
+        { "name": "takeda", "x": 6.5, "y": 3 },
+
+        { "name": "sakashita", "x": -3, "y": 2 },
+        { "name": "haga", "x": -1, "y": 2 },
+        { "name": "sakurada", "x": 1, "y": 2 },
+        { "name": "mikamo", "x": 3, "y": 2 },
+
+        { "name": "yuka", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "waka", "x": 2, "y": 1 },
+        { "name": "ike", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "挑戦のドアを開けよう 勇気を絞って〜",
+      "members": [
+        { "name": "sakashita", "x": -5.5, "y": 4 },
+        { "name": "haga", "x": -3.5, "y": 4 },
+        { "name": "sakurada", "x": 3.5, "y": 4 },
+        { "name": "mikamo", "x": 5.5, "y": 4 },
+
+        { "name": "yuka", "x": -6.5, "y": 3 },
+        { "name": "takahashi", "x": -4.5, "y": 3 },
+        { "name": "waka", "x": 4.5, "y": 3 },
+        { "name": "ike", "x": 6.5, "y": 3 },
+
+        { "name": "tatsumoto", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+        { "name": "yoshimi", "x": 3, "y": 2 },
+
+        { "name": "nishida", "x": -4, "y": 1 },
+        { "name": "matsuoka", "x": -2, "y": 1 },
+        { "name": "shibutani", "x": 2, "y": 1 },
+        { "name": "takeda", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "新しいドアを開けよう 不安もあるけど〜",
+      "members": [
+        { "name": "nishida", "x": -7.5, "y": 2 },
+        { "name": "tatsumoto", "x": -5.5, "y": 2 },
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "sakashita", "x": -1.5, "y": 2 },
+        { "name": "sakurada", "x": 0.5, "y": 2 },
+        { "name": "waka", "x": 2.5, "y": 2 },
+        { "name": "sakamoto", "x": 4.5, "y": 2 },
+        { "name": "shibutani", "x": 6.5, "y": 2 },
+
+        { "name": "matsuoka", "x": -6.5, "y": 1 },
+        { "name": "itagaki", "x": -4.5, "y": 1 },
+        { "name": "takahashi", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": -0.5, "y": 1 },
+        { "name": "mikamo", "x": 1.5, "y": 1 },
+        { "name": "ike", "x": 3.5, "y": 1 },
+        { "name": "yoshimi", "x": 5.5, "y": 1 },
+        { "name": "takeda", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
