@@ -1,0 +1,104 @@
+{
+  "song": "彼女になれますか？",
+
+  "memo": [
+    "① 徳永長友、坂川/武藤、岩立田口、大盛正鋳",
+    "② 大盛正鋳、岩立長友田口、徳永坂川武藤",
+    "②サビ後 坂川徳永長友武藤、岩立田口/大盛正鋳"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "私は あなたの彼女になれますか？  図々しい質問ですが 聞かせて欲しい〜",
+      "members": [
+        { "name": "iwatate", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "omori", "x": 2, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "sakagawa", "x": -3, "y": 1 },
+        { "name": "tokunaga", "x": -1, "y": 1 },
+        { "name": "nagatomo", "x": 1, "y": 1 },
+        { "name": "muto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "あなたに お弁当作っていいですか？ 早起きして作っていいか 答えて欲しい〜",
+      "members": [
+        { "name": "iwatate", "x": -5.5, "y": 4 },
+        { "name": "masai", "x": 5.5, "y": 4 },
+
+        { "name": "taguchi", "x": -4, "y": 3 },
+        { "name": "omori", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "nagatomo", "x": 2.5, "y": 2 },
+
+        { "name": "sakagawa", "x": -1, "y": 1 },
+        { "name": "muto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "嫌なら嫌と (嫌なら嫌と) はっきりと首を振ってください〜",
+      "members": [
+        { "name": "taguchi", "x": -2, "y": 3 },
+        { "name": "omori", "x": 2, "y": 3 },
+
+        { "name": "iwatate", "x": -3.5, "y": 2 },
+        { "name": "tokunaga", "x": -1, "y": 2 },
+        { "name": "nagatomo", "x": 1, "y": 2 },
+        { "name": "masai", "x": 3.5, "y": 2 },
+
+        { "name": "sakagawa", "x": -2.5, "y": 1 },
+        { "name": "muto", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "私は あなたの彼女になれますか？  図々しい質問ですが 聞かせて欲しい〜",
+      "members": [
+        { "name": "iwatate", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "omori", "x": 2, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "sakagawa", "x": -3, "y": 1 },
+        { "name": "tokunaga", "x": -1, "y": 1 },
+        { "name": "nagatomo", "x": 1, "y": 1 },
+        { "name": "muto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "iwatate", "x": -5.25, "y": 1 },
+        { "name": "sakagawa", "x": -3.75, "y": 1 },
+        { "name": "taguchi", "x": -2.25, "y": 1 },
+        { "name": "tokunaga", "x": -0.75, "y": 1 },
+        { "name": "nagatomo", "x": 0.75, "y": 1 },
+        { "name": "omori", "x": 2.25, "y": 1 },
+        { "name": "muto", "x": 3.75, "y": 1 },
+        { "name": "masai", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
