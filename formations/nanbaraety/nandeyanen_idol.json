@@ -1,0 +1,101 @@
+{
+  "song": "なんでやねん、アイドル",
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ネエちゃん アイドルしてまっか？ ぼちぼち はあ〜",
+      "members": [
+        { "name": "satsuki", "x": -4, "y": 3 },
+        { "name": "sakata", "x": -1.5, "y": 3 },
+        { "name": "shinzawa", "x": 1.5, "y": 3 },
+        { "name": "siyeon", "x": 4, "y": 3 },
+
+        { "name": "shiotsuki", "x": -5, "y": 2 },
+        { "name": "maeda", "x": -2.5, "y": 2 },
+        { "name": "hirayama", "x": 2.5, "y": 2 },
+        { "name": "deguchi", "x": 5, "y": 2 },
+
+        { "name": "hara", "x": -1, "y": 1 },
+        { "name": "sumino", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiotsuki", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -5.25, "y": 1 },
+        { "name": "maeda", "x": -3.75, "y": 1 },
+        { "name": "sakata", "x": -2.25, "y": 1 },
+        { "name": "hara", "x": -0.75, "y": 1 },
+
+        { "name": "sumino", "x": 0.75, "y": 1 },
+        { "name": "shinzawa", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 },
+        { "name": "deguchi", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ネエちゃん アイドルしてまっか？ そやなあ はあ〜",
+      "members": [
+        { "name": "satsuki", "x": -2, "y": 4 },
+        { "name": "siyeon", "x": 2, "y": 4 },
+
+        { "name": "sakata", "x": -3, "y": 3 },
+        { "name": "shinzawa", "x": 3, "y": 3 },
+
+        { "name": "shiotsuki", "x": -4, "y": 2 },
+        { "name": "deguchi", "x": 4, "y": 2 },
+
+        { "name": "maeda", "x": -5, "y": 1 },
+        { "name": "sumino", "x": -1, "y": 1 },
+        { "name": "hara", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 5 },
+        { "name": "satsuki", "x": 5, "y": 5 },
+
+        { "name": "shinzawa", "x": -4, "y": 4 },
+        { "name": "sakata", "x": 4, "y": 4 },
+
+        { "name": "deguchi", "x": -3, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "maeda", "x": 2, "y": 2 },
+
+        { "name": "sumino", "x": -1, "y": 1 },
+        { "name": "hara", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "おばちゃんも見ててや おっちゃんも見ててや〜",
+      "members": [
+        { "name": "siyeon", "x": -6.75, "y": 1 },
+        { "name": "shinzawa", "x": -5.25, "y": 1 },
+        { "name": "deguchi", "x": -3.75, "y": 1 },
+        { "name": "hirayama", "x": -2.25, "y": 1 },
+        { "name": "hara", "x": -0.75, "y": 1 },
+
+        { "name": "sumino", "x": 0.75, "y": 1 },
+        { "name": "maeda", "x": 2.25, "y": 1 },
+        { "name": "shiotsuki", "x": 3.75, "y": 1 },
+        { "name": "sakata", "x": 5.25, "y": 1 },
+        { "name": "satsuki", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
