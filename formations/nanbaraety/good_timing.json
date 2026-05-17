@@ -1,0 +1,175 @@
+{
+  "song": "Good Timing",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "siyeon", "x": 1, "y": 2 },
+
+        { "name": "hara", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "siyeon", "x": 1, "y": 2 },
+
+        { "name": "hara", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "あっと言う間に月日は流れる〜",
+      "members": [
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "siyeon", "x": 1, "y": 2 },
+
+        { "name": "hara", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "運はいつだって 巡り巡るもの〜",
+      "members": [
+        { "name": "siyeon", "x": -1, "y": 2 },
+        { "name": "satsuki", "x": 1, "y": 2 },
+
+        { "name": "shinzawa", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -3, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "hara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -3, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "hara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ちょっといい気になってたあの頃〜",
+      "members": [
+        { "name": "siyeon", "x": -1, "y": 2 },
+        { "name": "satsuki", "x": 1, "y": 2 },
+
+        { "name": "shinzawa", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "hara", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "ファンのみなさんが推してくれるんだ〜",
+      "members": [
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "siyeon", "x": 1, "y": 2 },
+
+        { "name": "hara", "x": -2, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -1.5, "y": 2 },
+        { "name": "siyeon", "x": 1.5, "y": 2 },
+
+        { "name": "hara", "x": -3, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "ここで頑張らなきゃ すべてが水の泡〜",
+      "members": [
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "hara", "x": 0, "y": 2 },
+        { "name": "siyeon", "x": 2, "y": 2 },
+
+        { "name": "deguchi", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "タイミング 逃すなよ タイミング 今でしょう〜",
+      "members": [
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "hara", "x": 0, "y": 2 },
+        { "name": "siyeon", "x": 2, "y": 2 },
+
+        { "name": "deguchi", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "タイミング 逃すなよ タイミング 今しかない〜",
+      "members": [
+        { "name": "deguchi", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "hara", "x": 0, "y": 1 },
+        { "name": "siyeon", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "キャスティング されたくて キャスティング この場所で〜",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 1 },
+        { "name": "shinzawa", "x": -3, "y": 1 },
+        { "name": "deguchi", "x": 0, "y": 1 },
+        { "name": "hara", "x": 3, "y": 1 },
+        { "name": "siyeon", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
