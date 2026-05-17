@@ -1,0 +1,146 @@
+{
+  "stage": "NMB48「さらば純情」",
+  "stageId": "sarabajunjo",
+
+  "members": [
+    {
+      "name": "青原優花",
+      "display": "優花",
+      "id": "yuka",
+      "image": "aobara_yuka_2024"
+    },
+    {
+      "name": "青原和花",
+      "display": "和花",
+      "id": "waka",
+      "image": "aobara_waka_2024"
+    },
+    {
+      "name": "池帆乃香",
+      "display": "池",
+      "id": "ike_honoka",
+      "image": "ike_honoka_2025"
+    },
+    {
+      "name": "板垣心和",
+      "display": "板垣",
+      "id": "itagaki_kokona",
+      "image": "itagaki_kokona_2025"
+    },
+    {
+      "name": "坂下真心",
+      "display": "坂下",
+      "id": "sakashita_mako",
+      "image": "sakashita_mako_2025"
+    },
+    {
+      "name": "坂本理紗",
+      "display": "坂本",
+      "id": "sakamoto_risa",
+      "image": "sakamoto_risa_2025"
+    },
+    {
+      "name": "桜田彩叶",
+      "display": "桜田",
+      "id": "sakurada_ayaka",
+      "image": "sakurada_ayaka_2025"
+    },
+    {
+      "name": "渋谷紗雪",
+      "display": "渋谷",
+      "id": "shibuya_sayuki",
+      "image": "shibuya_sayuki_2025"
+    },
+    {
+      "name": "龍本弥生",
+      "display": "龍本",
+      "id": "tatsumoto_yayoi",
+      "image": "tatsumoto_yayoi_2025"
+    },
+    {
+      "name": "西田帆花",
+      "display": "西田",
+      "id": "nishida_honoka",
+      "image": "nishida_honoka_2025"
+    },
+    {
+      "name": "芳賀礼",
+      "display": "芳賀",
+      "id": "haga_rei",
+      "image": "haga_rei_2025"
+    },
+    {
+      "name": "松岡さくら",
+      "display": "松岡",
+      "id": "matsuoka_sakura",
+      "image": "matsuoka_sakura_2025"
+    },
+    {
+      "name": "吉見純音",
+      "display": "吉見",
+      "id": "yoshimi_ayane",
+      "image": "yoshimi_ayane_2025"
+    },
+    {
+      "name": "高橋ことね",
+      "display": "高橋",
+      "id": "takahashi_kotone",
+      "image": "takahashi_kotone_2025"
+    },
+    {
+      "name": "竹田京加",
+      "display": "竹田",
+      "id": "takeda_kyoka",
+      "image": "takeda_kyoka_2025"
+    },
+    {
+      "name": "三鴨くるみ",
+      "display": "三鴨",
+      "id": "mikamo_kurumi",
+      "image": "mikamo_kurumi_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "場当たりGO！",
+      "file": "baatarigo.json"
+    },
+    {
+      "name": "スターになんてなりたくない",
+      "file": "starninantenaritakunai.json"
+    },
+    {
+      "name": "孤独ギター",
+      "file": "kodokuguitar.json"
+    },
+    {
+      "name": "本当の自分の境界線",
+      "file": "hontounojibunnokyoukaisen.json"
+    },
+    {
+      "name": "さらば純情",
+      "file": "sarabajunjo.json"
+    },
+    {
+      "name": "僕以外の誰か",
+      "file": "bokuigainodareka.json"
+    },
+    {
+      "name": "欲望者",
+      "file": "yokubousha.json"
+    },
+    {
+      "name": "なぜ 僕は立ち上がるのか？",
+      "file": "nazebokuhatachiagarunoka.json"
+    },
+    {
+      "name": "Now",
+      "file": "now.json"
+    },
+    {
+      "name": "2番目のドア",
+      "file": "nibanmenodoor.json"
+    }
+  ]
+}
