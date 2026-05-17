@@ -1,0 +1,390 @@
+{
+  "song": "孤独ギター",
+
+  "memo": [
+    "① 三鴨/坂下、青原優芳賀、高橋桜田松岡",
+    "渋谷青原和板垣西田、池龍本坂本/吉見竹田",
+    "② 青原優三鴨芳賀坂下、高橋桜田松岡",
+    "青原和渋谷西田板垣、池龍本坂本吉見竹田",
+    "青原優三鴨/芳賀坂下"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -1, "y": 5 },
+        { "name": "itagaki", "x": 1, "y": 5 },
+
+        { "name": "tatsumoto", "x": -4.5, "y": 4 },
+        { "name": "sakamoto", "x": -2, "y": 4 },
+        { "name": "takahashi", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 2, "y": 4 },
+        { "name": "yoshimi", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "yuka", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "takeda", "x": 3.5, "y": 3 },
+
+        { "name": "shibutani", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "いくつの悔しさを乗り越えれば 大切なものを掴めるのか〜",
+      "members": [
+        { "name": "waka", "x": -1, "y": 5 },
+        { "name": "itagaki", "x": 1, "y": 5 },
+
+        { "name": "tatsumoto", "x": -4.5, "y": 4 },
+        { "name": "sakamoto", "x": -2, "y": 4 },
+        { "name": "takahashi", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 2, "y": 4 },
+        { "name": "yoshimi", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "yuka", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "takeda", "x": 3.5, "y": 3 },
+
+        { "name": "shibutani", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "孤独ギター 弾こうぜ！ 想いの全て かき鳴らせ！〜",
+      "members": [
+        { "name": "tatsumoto", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 3, "y": 5 },
+
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+
+        { "name": "yuka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "愛のコードを抑えて 感情 むき出しにしろよ〜",
+      "members": [
+        { "name": "tatsumoto", "x": -4.5, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 4.5, "y": 5 },
+
+        { "name": "ike", "x": -6.5, "y": 4 },
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "nishida", "x": 3, "y": 4 },
+        { "name": "takeda", "x": 6.5, "y": 4 },
+
+        { "name": "waka", "x": -5, "y": 3 },
+        { "name": "takahashi", "x": -1.5, "y": 3 },
+        { "name": "matsuoka", "x": 1.5, "y": 3 },
+        { "name": "itagaki", "x": 5, "y": 3 },
+
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3.5, "y": 2 },
+
+        { "name": "mikamo", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 3, "y": 5 },
+
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+
+        { "name": "yuka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "今も僕は胸の奥で 震えてる〜",
+      "members": [
+        { "name": "shibutani", "x": -2.5, "y": 4 },
+        { "name": "sakamoto", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 2.5, "y": 4 },
+
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 4, "y": 3 },
+        { "name": "takeda", "x": 6, "y": 3 },
+
+        { "name": "waka", "x": -5, "y": 2 },
+        { "name": "yuka", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "sakashita", "x": 3, "y": 2 },
+        { "name": "itagaki", "x": 5, "y": 2 },
+
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "sakurada", "x": 0, "y": 1 },
+        { "name": "matsuoka", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "冬のギター 弾こうぜ！ 冷たいピックで かき鳴らせ！〜",
+      "members": [
+        { "name": "tatsumoto", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 3, "y": 5 },
+
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+
+        { "name": "yuka", "x": -2.5, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "haga", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "僕が作ったメロディー 本当の自由を歌おう〜",
+      "members": [
+        { "name": "tatsumoto", "x": -4.5, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 4.5, "y": 5 },
+
+        { "name": "ike", "x": -6.5, "y": 4 },
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "nishida", "x": 3, "y": 4 },
+        { "name": "takeda", "x": 6.5, "y": 4 },
+
+        { "name": "waka", "x": -5, "y": 3 },
+        { "name": "takahashi", "x": -1.5, "y": 3 },
+        { "name": "matsuoka", "x": 1.5, "y": 3 },
+        { "name": "itagaki", "x": 5, "y": 3 },
+
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3.5, "y": 2 },
+
+        { "name": "haga", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -4.5, "y": 5 },
+        { "name": "mikamo", "x": -1.5, "y": 5 },
+        { "name": "sakashita", "x": 1.5, "y": 5 },
+        { "name": "haga", "x": 4.5, "y": 5 },
+
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "sakamoto", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 3, "y": 4 },
+
+        { "name": "tatsumoto", "x": -3, "y": 3 },
+        { "name": "itagaki", "x": 0, "y": 3 },
+        { "name": "yoshimi", "x": 3, "y": 3 },
+
+        { "name": "takahashi", "x": -3, "y": 2 },
+        { "name": "waka", "x": 0, "y": 2 },
+        { "name": "matsuoka", "x": 3, "y": 2 },
+
+        { "name": "ike", "x": -3, "y": 1 },
+        { "name": "sakurada", "x": 0, "y": 1 },
+        { "name": "takeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "目指してる場所 妥協せず歩いていく〜",
+      "members": [
+        { "name": "shibutani", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "nishida", "x": 3, "y": 5 },
+
+        { "name": "tatsumoto", "x": -3, "y": 4 },
+        { "name": "itagaki", "x": 0, "y": 4 },
+        { "name": "yoshimi", "x": 3, "y": 4 },
+
+        { "name": "takahashi", "x": -3, "y": 3 },
+        { "name": "waka", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "sakurada", "x": 0, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+
+        { "name": "yuka", "x": -4.5, "y": 1 },
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 },
+        { "name": "haga", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "誰も聞いていなくても〜",
+      "members": [
+        { "name": "tatsumoto", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 3, "y": 5 },
+
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+
+        { "name": "yuka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "愛のコードを抑えて 感情 むき出しにしろよ〜",
+      "members": [
+        { "name": "tatsumoto", "x": -4.5, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 4.5, "y": 5 },
+
+        { "name": "ike", "x": -6.5, "y": 4 },
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "nishida", "x": 3, "y": 4 },
+        { "name": "takeda", "x": 6.5, "y": 4 },
+
+        { "name": "waka", "x": -5, "y": 3 },
+        { "name": "takahashi", "x": -1.5, "y": 3 },
+        { "name": "matsuoka", "x": 1.5, "y": 3 },
+        { "name": "itagaki", "x": 5, "y": 3 },
+
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3.5, "y": 2 },
+
+        { "name": "mikamo", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -4.5, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 4.5, "y": 5 },
+
+        { "name": "ike", "x": -6.5, "y": 4 },
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "nishida", "x": 3, "y": 4 },
+        { "name": "takeda", "x": 6.5, "y": 4 },
+
+        { "name": "waka", "x": -5, "y": 3 },
+        { "name": "takahashi", "x": -1.5, "y": 3 },
+        { "name": "matsuoka", "x": 1.5, "y": 3 },
+        { "name": "itagaki", "x": 5, "y": 3 },
+
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 3.5, "y": 2 },
+
+        { "name": "mikamo", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "tatsumoto", "x": -3, "y": 5 },
+        { "name": "sakamoto", "x": 0, "y": 5 },
+        { "name": "yoshimi", "x": 3, "y": 5 },
+
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nishida", "x": 2, "y": 4 },
+        { "name": "takeda", "x": 4.5, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "takahashi", "x": -1, "y": 3 },
+        { "name": "matsuoka", "x": 1, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+
+        { "name": "yuka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
