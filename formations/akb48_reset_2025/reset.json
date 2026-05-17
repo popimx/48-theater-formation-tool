@@ -1,0 +1,156 @@
+{
+  "song": "RESET",
+
+  "memo": [
+    "① 大盛、徳永田口、武藤/長友、坂川正鋳岩立",
+    "② 武藤、大盛/田口、徳永正鋳、岩立坂川長友"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -3.5, "y": 3 },
+        { "name": "taguchi", "x": 0.5, "y": 3 },
+        { "name": "iwatate", "x": 3.5, "y": 3 },
+
+        { "name": "muto", "x": -2.5, "y": 2 },
+        { "name": "omori", "x": -0.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "tokunaga", "x": -1.5, "y": 1 },
+        { "name": "nagatomo", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "muto", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": -2.25, "y": 1 },
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "taguchi", "x": 0.75, "y": 1 },
+        { "name": "nagatomo", "x": 2.25, "y": 1 },
+        { "name": "masai", "x": 3.75, "y": 1 },
+        { "name": "iwatate", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "",
+      "members": [
+        { "name": "masai", "x": 4, "y": 3 },
+
+        { "name": "sakagawa", "x": -5, "y": 2 },
+        { "name": "muto", "x": -3, "y": 2 },
+        { "name": "tokunaga", "x": -1, "y": 2 },
+        { "name": "taguchi", "x": 1, "y": 2 },
+        { "name": "nagatomo", "x": 3, "y": 2 },
+        { "name": "iwatate", "x": 5, "y": 2 },
+
+        { "name": "omori", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "風を入れろ！ チームよ、目を覚ませ！〜",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 2 },
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "iwatate", "x": 2, "y": 2 },
+        { "name": "taguchi", "x": 4, "y": 2 },
+
+        { "name": "muto", "x": -3, "y": 1 },
+        { "name": "omori", "x": -1, "y": 1 },
+        { "name": "masai", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "さあ ここで 言いたいことを言え！〜",
+      "members": [
+        { "name": "tokunaga", "x": -0.5, "y": 3 },
+        { "name": "masai", "x": 0.5, "y": 3 },
+
+        { "name": "muto", "x": -4, "y": 2 },
+        { "name": "iwatate", "x": -3, "y": 2 },
+        { "name": "sakagawa", "x": 3, "y": 2 },
+        { "name": "nagatomo", "x": 4, "y": 2 },
+
+        { "name": "omori", "x": -1, "y": 1 },
+        { "name": "taguchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "築き上げた 歴史なんか 振り返る暇はない〜",
+      "members": [
+        { "name": "omori", "x": -1, "y": 3 },
+        { "name": "taguchi", "x": 1, "y": 3 },
+
+        { "name": "muto", "x": -4, "y": 2 },
+        { "name": "iwatate", "x": -3, "y": 2 },
+        { "name": "sakagawa", "x": 3, "y": 2 },
+        { "name": "nagatomo", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -0.5, "y": 1 },
+        { "name": "masai", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "気合い入れろ！ チームよ 汗をかけ！〜",
+      "members": [
+        { "name": "muto", "x": -4, "y": 2 },
+        { "name": "omori", "x": -2, "y": 2 },
+        { "name": "taguchi", "x": 2, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "iwatate", "x": -3, "y": 1 },
+        { "name": "tokunaga", "x": -1, "y": 1 },
+        { "name": "sakagawa", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "風を入れろ！ チームよ 勝負だぜ！〜",
+      "members": [
+        { "name": "iwatate", "x": -5.25, "y": 1 },
+        { "name": "muto", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": -2.25, "y": 1 },
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "taguchi", "x": 0.75, "y": 1 },
+        { "name": "sakagawa", "x": 2.25, "y": 1 },
+        { "name": "masai", "x": 3.75, "y": 1 },
+        { "name": "nagatomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "iwatate", "x": -3.5, "y": 2 },
+        { "name": "taguchi", "x": -1.5, "y": 2 },
+        { "name": "masai", "x": 0.5, "y": 2 },
+        { "name": "tokunaga", "x": 2.5, "y": 2 },
+
+        { "name": "sakagawa", "x": -2.5, "y": 1 },
+        { "name": "muto", "x": -0.5, "y": 1 },
+        { "name": "omori", "x": 1.5, "y": 1 },
+        { "name": "nagatomo", "x": 3.5, "y": 1 }
+      ]
+    }
+  ]
+}
