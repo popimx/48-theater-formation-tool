@@ -1,0 +1,120 @@
+{
+  "song": "スターになんてなりたくない",
+
+  "memo": [
+    "① 芳賀桜田三鴨、板垣坂下青原和、高橋坂本龍本",
+    "渋谷青原優池吉見、松岡西田竹田",
+    "② 池坂本高橋龍本青原優、松岡渋谷吉見竹田西田",
+    "芳賀桜田三鴨、板垣坂下青原和、芳賀桜田三鴨",
+    "ラストサビ前 芳賀桜田三鴨、板垣坂下青原和",
+    "高橋坂本/龍本、松岡池渋谷吉見竹田青原優西田"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "スターにずっと なりたかったのに… 〜",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 4 },
+        { "name": "shibutani", "x": -2.5, "y": 4 },
+        { "name": "yoshimi", "x": 0, "y": 4 },
+        { "name": "takeda", "x": 2.5, "y": 4 },
+        { "name": "nishida", "x": 5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": -1, "y": 3 },
+        { "name": "tatsumoto", "x": 1, "y": 3 },
+        { "name": "yuka", "x": 3.5, "y": 3 },
+
+        { "name": "takahashi", "x": -4.5, "y": 2 },
+        { "name": "haga", "x": -2, "y": 2 },
+        { "name": "sakashita", "x": 0, "y": 2 },
+        { "name": "sakurada", "x": 2, "y": 2 },
+        { "name": "mikamo", "x": 4.5, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "waka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "スターになんて なりたくないのよ〜",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 4 },
+        { "name": "shibutani", "x": -2.5, "y": 4 },
+        { "name": "yoshimi", "x": 0, "y": 4 },
+        { "name": "takeda", "x": 2.5, "y": 4 },
+        { "name": "nishida", "x": 5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "sakamoto", "x": -1, "y": 3 },
+        { "name": "tatsumoto", "x": 1, "y": 3 },
+        { "name": "yuka", "x": 3.5, "y": 3 },
+
+        { "name": "takahashi", "x": -4.5, "y": 2 },
+        { "name": "itagaki", "x": -2, "y": 2 },
+        { "name": "sakurada", "x": 0, "y": 2 },
+        { "name": "sakashita", "x": 2, "y": 2 },
+        { "name": "waka", "x": 4.5, "y": 2 },
+
+        { "name": "haga", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -1, "y": 5 },
+        { "name": "itagaki", "x": 1, "y": 5 },
+
+        { "name": "tatsumoto", "x": -4.5, "y": 4 },
+        { "name": "sakamoto", "x": -2, "y": 4 },
+        { "name": "takahashi", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 2, "y": 4 },
+        { "name": "yoshimi", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "yuka", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "takeda", "x": 3.5, "y": 3 },
+
+        { "name": "shibutani", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -1, "y": 5 },
+        { "name": "itagaki", "x": 1, "y": 5 },
+
+        { "name": "tatsumoto", "x": -4.5, "y": 4 },
+        { "name": "sakamoto", "x": -2, "y": 4 },
+        { "name": "takahashi", "x": 0, "y": 4 },
+        { "name": "matsuoka", "x": 2, "y": 4 },
+        { "name": "yoshimi", "x": 4.5, "y": 4 },
+
+        { "name": "ike", "x": -3.5, "y": 3 },
+        { "name": "yuka", "x": -1, "y": 3 },
+        { "name": "sakurada", "x": 1, "y": 3 },
+        { "name": "takeda", "x": 3.5, "y": 3 },
+
+        { "name": "shibutani", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2.5, "y": 2 },
+
+        { "name": "mikamo", "x": -1.5, "y": 1 },
+        { "name": "sakashita", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
