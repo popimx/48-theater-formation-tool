@@ -1,0 +1,303 @@
+{
+  "song": "ウッホウッホホ",
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakata", "x": -4, "y": 3 },
+        { "name": "sumino", "x": 4, "y": 3 },
+
+        { "name": "hara", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "satsuki", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3, "y": 1 },
+        { "name": "maeda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 },
+        { "name": "deguchi", "x": 3, "y": 1 },
+        { "name": "siyeon", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "嫌なことは 腹の底から 風船の中に吐き出そう〜",
+      "members": [
+        { "name": "sakata", "x": -2.25, "y": 2 },
+        { "name": "hara", "x": -0.75, "y": 2 },
+        { "name": "shinzawa", "x": 0.75, "y": 2 },
+        { "name": "sumino", "x": 2.25, "y": 2 },
+
+        { "name": "satsuki", "x": -6.75, "y": 1 },
+        { "name": "shiotsuki", "x": -5.25, "y": 1 },
+        { "name": "maeda", "x": -3.75, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5.25, "y": 1 },
+        { "name": "siyeon", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "凹んでるのは 君だけじゃない〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3.5, "y": 3 },
+        { "name": "sakata", "x": -2.5, "y": 3 },
+        { "name": "sumino", "x": 2.5, "y": 3 },
+        { "name": "shinzawa", "x": 3.5, "y": 3 },
+
+        { "name": "hara", "x": -0.5, "y": 2 },
+        { "name": "shinzawa", "x": 0.5, "y": 2 },
+
+        { "name": "satsuki", "x": -6.5, "y": 1 },
+        { "name": "maeda", "x": -5.5, "y": 1 },
+        { "name": "hirayama", "x": 5.5, "y": 1 },
+        { "name": "siyeon", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 2 },
+        { "name": "shiotsuki", "x": -3.75, "y": 2 },
+        { "name": "hara", "x": -0.75, "y": 2 },
+        { "name": "sumino", "x": 2.25, "y": 2 },
+        { "name": "hirayama", "x": 5.25, "y": 2 },
+
+        { "name": "maeda", "x": -5.25, "y": 1 },
+        { "name": "sakata", "x": -2.25, "y": 1 },
+        { "name": "shinzawa", "x": 0.75, "y": 1 },
+        { "name": "deguchi", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 2 },
+        { "name": "shiotsuki", "x": -3.75, "y": 2 },
+        { "name": "hara", "x": -0.75, "y": 2 },
+        { "name": "sumino", "x": 2.25, "y": 2 },
+        { "name": "hirayama", "x": 5.25, "y": 2 },
+
+        { "name": "maeda", "x": -5.25, "y": 1 },
+        { "name": "sakata", "x": -2.25, "y": 1 },
+        { "name": "shinzawa", "x": 0.75, "y": 1 },
+        { "name": "deguchi", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "誰かと誰か 喧嘩していたら〜",
+      "members": [
+        { "name": "shiotsuki", "x": -2.25, "y": 3 },
+        { "name": "maeda", "x": -0.75, "y": 3 },
+        { "name": "hirayama", "x": 0.75, "y": 3 },
+        { "name": "deguchi", "x": 2.25, "y": 3 },
+
+        { "name": "sakata", "x": -6.75, "y": 1 },
+        { "name": "hara", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "siyeon", "x": 3.75, "y": 1 },
+        { "name": "shinzawa", "x": 5.25, "y": 1 },
+        { "name": "sumino", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "どんな どんな こんがらがっても〜",
+      "members": [
+        { "name": "sakata", "x": -6.75, "y": 3 },
+        { "name": "hara", "x": -5.25, "y": 3 },
+        { "name": "satsuki", "x": -3.75, "y": 3 },
+        { "name": "siyeon", "x": 3.75, "y": 3 },
+        { "name": "shinzawa", "x": 5.25, "y": 3 },
+        { "name": "sumino", "x": 6.75, "y": 3 },
+
+        { "name": "shiotsuki", "x": -2.25, "y": 1 },
+        { "name": "maeda", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 0.75, "y": 1 },
+        { "name": "deguchi", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "さあ 頭を空っぽにしちゃおうぜ〜",
+      "members": [
+        { "name": "maeda", "x": -0.75, "y": 5 },
+        { "name": "deguchi", "x": 0.75, "y": 5 },
+
+        { "name": "shiotsuki", "x": -2.25, "y": 4 },
+        { "name": "hirayama", "x": 2.25, "y": 4 },
+
+        { "name": "satsuki", "x": -3.75, "y": 3 },
+        { "name": "siyeon", "x": 3.75, "y": 3 },
+
+        { "name": "hara", "x": -5.25, "y": 2 },
+        { "name": "shinzawa", "x": 5.25, "y": 2 },
+
+        { "name": "sakata", "x": -6.75, "y": 1 },
+        { "name": "sumino", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakata", "x": -6.75, "y": 5 },
+        { "name": "sumino", "x": 6.75, "y": 5 },
+
+        { "name": "hara", "x": -5.25, "y": 4 },
+        { "name": "shinzawa", "x": 5.25, "y": 4 },
+
+        { "name": "satsuki", "x": -3.75, "y": 3 },
+        { "name": "siyeon", "x": 3.75, "y": 3 },
+
+        { "name": "shiotsuki", "x": -2.25, "y": 2 },
+        { "name": "hirayama", "x": 2.25, "y": 2 },
+
+        { "name": "maeda", "x": -0.75, "y": 1 },
+        { "name": "deguchi", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "ウッホ ウッホ ウッホ このエネルギーを〜",
+      "members": [
+        { "name": "sakata", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "maeda", "x": -0.75, "y": 2 },
+        { "name": "hirayama", "x": 2.25, "y": 2 },
+        { "name": "shinzawa", "x": 5.25, "y": 2 },
+
+        { "name": "hara", "x": -5.25, "y": 1 },
+        { "name": "shiotsuki", "x": -2.25, "y": 1 },
+        { "name": "deguchi", "x": 0.75, "y": 1 },
+        { "name": "siyeon", "x": 3.75, "y": 1 },
+        { "name": "sumino", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "ウッホ ウッホ ウッホ 力に変えて〜",
+      "members": [
+        { "name": "hara", "x": -5.25, "y": 2 },
+        { "name": "shiotsuki", "x": -2.25, "y": 2 },
+        { "name": "deguchi", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+        { "name": "sumino", "x": 6.75, "y": 2 },
+
+        { "name": "sakata", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "maeda", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "shinzawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "ウッホ ウッホ ウッホ 火の玉みたいに〜",
+      "members": [
+        { "name": "shiotsuki", "x": -5.25, "y": 2 },
+        { "name": "maeda", "x": -2.25, "y": 2 },
+        { "name": "siyeon", "x": 0.75, "y": 2 },
+        { "name": "sumino", "x": 3.75, "y": 2 },
+        { "name": "shinzawa", "x": 6.75, "y": 2 },
+
+        { "name": "hara", "x": -6.75, "y": 1 },
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -0.75, "y": 1 },
+        { "name": "deguchi", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ④",
+      "lyrics": "ウッホ ウッホ ウッホ ひとつになれ！〜",
+      "members": [
+        { "name": "hara", "x": -6.75, "y": 2 },
+        { "name": "sakata", "x": -3.75, "y": 2 },
+        { "name": "satsuki", "x": -0.75, "y": 2 },
+        { "name": "deguchi", "x": 2.25, "y": 2 },
+        { "name": "hirayama", "x": 5.25, "y": 2 },
+        
+        { "name": "shiotsuki", "x": -5.25, "y": 1 },
+        { "name": "maeda", "x": -2.25, "y": 1 },
+        { "name": "siyeon", "x": 0.75, "y": 1 },
+        { "name": "sumino", "x": 3.75, "y": 1 },
+        { "name": "shinzawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "deguchi", "x": 0, "y": 4 },
+
+        { "name": "hara", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": -1, "y": 3 },
+        { "name": "siyeon", "x": 1, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "shiotsuki", "x": -2, "y": 2 },
+        { "name": "sakata", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "maeda", "x": -1, "y": 1 },
+        { "name": "sumino", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiotsuki", "x": -5.25, "y": 2 },
+        { "name": "maeda", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "hara", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "deguchi", "x": -0.75, "y": 1 },
+        { "name": "sumino", "x": 2.25, "y": 1 },
+        { "name": "shinzawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "deguchi", "x": -0.75, "y": 2 },
+        { "name": "sumino", "x": 2.25, "y": 2 },
+        { "name": "shinzawa", "x": 5.25, "y": 2 },
+        
+        { "name": "shiotsuki", "x": -5.25, "y": 1 },
+        { "name": "maeda", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "siyeon", "x": 3.75, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
