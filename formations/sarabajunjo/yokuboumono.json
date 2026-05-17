@@ -1,0 +1,140 @@
+{
+  "song": "欲望者",
+
+  "memo": [
+    "イントロ 坂下",
+    "① 坂下、芳賀、高橋三鴨/桜田青原和",
+    "池坂本/板垣青原優、吉見松岡竹田/西田渋谷龍本",
+    "② 高橋三鴨青原和桜田、芳賀坂下"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -6, "y": 3 },
+        { "name": "matsuoka", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+        { "name": "nishida", "x": 6, "y": 3 },
+
+        { "name": "sakamoto", "x": -7, "y": 2 },
+        { "name": "ike", "x": -5, "y": 2 },
+        { "name": "takahashi", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "yuka", "x": 3, "y": 2 },
+        { "name": "itagaki", "x": 5, "y": 2 },
+        { "name": "tatsumoto", "x": 7, "y": 2 },
+
+        { "name": "haga", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "itagaki", "x": -6, "y": 4 },
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "tatsumoto", "x": 3, "y": 4 },
+        { "name": "ike", "x": 6, "y": 4 },
+
+        { "name": "shibutani", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -5, "y": 2 },
+        { "name": "nishida", "x": -1, "y": 2 },
+        { "name": "takeda", "x": 1, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -7, "y": 1 },
+        { "name": "sakurada", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "itagaki", "x": -6, "y": 4 },
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "tatsumoto", "x": 3, "y": 4 },
+        { "name": "ike", "x": 6, "y": 4 },
+
+        { "name": "shibutani", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -5, "y": 2 },
+        { "name": "nishida", "x": -1, "y": 2 },
+        { "name": "takeda", "x": 1, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -7, "y": 1 },
+        { "name": "sakurada", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "人はみな手を伸ばし 際限なく求めようとする性だ〜",
+      "members": [
+        { "name": "itagaki", "x": -6, "y": 4 },
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "tatsumoto", "x": 3, "y": 4 },
+        { "name": "ike", "x": 6, "y": 4 },
+
+        { "name": "shibutani", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 4, "y": 3 },
+
+        { "name": "yuka", "x": -5, "y": 2 },
+        { "name": "nishida", "x": -1, "y": 2 },
+        { "name": "takeda", "x": 1, "y": 2 },
+        { "name": "takahashi", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -7, "y": 1 },
+        { "name": "sakurada", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "永遠に満たされない欲望〜",
+      "members": [
+        { "name": "takeda", "x": -6, "y": 3 },
+        { "name": "matsuoka", "x": -4, "y": 3 },
+        { "name": "yoshimi", "x": 0, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+        { "name": "nishida", "x": 6, "y": 3 },
+
+        { "name": "sakamoto", "x": -7, "y": 2 },
+        { "name": "ike", "x": -5, "y": 2 },
+        { "name": "takahashi", "x": -3, "y": 2 },
+        { "name": "mikamo", "x": -1, "y": 2 },
+        { "name": "waka", "x": 1, "y": 2 },
+        { "name": "yuka", "x": 3, "y": 2 },
+        { "name": "itagaki", "x": 5, "y": 2 },
+        { "name": "tatsumoto", "x": 7, "y": 2 },
+
+        { "name": "haga", "x": -2, "y": 1 },
+        { "name": "sakashita", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
