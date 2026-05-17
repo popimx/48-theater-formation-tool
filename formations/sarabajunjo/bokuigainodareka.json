@@ -1,0 +1,145 @@
+{
+  "song": "僕以外の誰か",
+
+  "memo": [
+    "① 青原和、青原優三鴨坂下、板垣/芳賀",
+    "渋谷桜田/西田坂本、高橋龍本、竹田/池",
+    "吉見/松岡、(龍本)",
+    "② 三鴨、青原和、青原優坂下、板垣芳賀",
+    "竹田池、桜田/西田、渋谷/坂本、(吉見)",
+    "②サビ後 青原和、青原優三鴨坂下、青原和"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshimi", "x": -3, "y": 5 },
+        { "name": "takahashi", "x": -1, "y": 5 },
+        { "name": "tatsumoto", "x": 1, "y": 5 },
+        { "name": "matsuoka", "x": 3, "y": 5 },
+
+        { "name": "takeda", "x": -4.5, "y": 4 },
+        { "name": "yuka", "x": -2, "y": 4 },
+        { "name": "sakashita", "x": 2, "y": 4 },
+        { "name": "ike", "x": 4.5, "y": 4 },
+
+        { "name": "itagaki", "x": -3.5, "y": 3 },
+        { "name": "waka", "x": 0, "y": 3 },
+        { "name": "haga", "x": 3.5, "y": 3 },
+
+        { "name": "shibutani", "x": -2.5, "y": 2 },
+        { "name": "sakamoto", "x": 2.5, "y": 2 },
+
+        { "name": "sakurada", "x": -1.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "僕以外 ふさわしいやつがいるー",
+      "members": [
+        { "name": "itagaki", "x": -3, "y": 5 },
+        { "name": "waka", "x": 0, "y": 5 },
+        { "name": "haga", "x": 3, "y": 5 },
+
+        { "name": "yuka", "x": -1.5, "y": 4 },
+        { "name": "sakashita", "x": 1.5, "y": 4 },
+
+        { "name": "mikamo", "x": 0, "y": 3 },
+
+        { "name": "shibutani", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -2, "y": 2 },
+        { "name": "nishida", "x": 2, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "takeda", "x": -5, "y": 1 },
+        { "name": "yoshimi", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": -1, "y": 1 },
+        { "name": "tatsumoto", "x": 1, "y": 1 },
+        { "name": "matsuoka", "x": 3, "y": 1 },
+        { "name": "ike", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "百年 (百年) 千年 (千年) 永遠は終わらない真実〜",
+      "members": [
+        { "name": "takahashi", "x": -5, "y": 4 },
+        { "name": "yoshimi", "x": -3, "y": 4 },
+        { "name": "takeda", "x": -1, "y": 4 },
+        { "name": "ike", "x": 1, "y": 4 },
+        { "name": "matsuoka", "x": 3, "y": 4 },
+        { "name": "tatsumoto", "x": 5, "y": 4 },
+
+        { "name": "shibutani", "x": -4.25, "y": 3 },
+        { "name": "sakurada", "x": -2.25, "y": 3 },
+        { "name": "mikamo", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 2.25, "y": 3 },
+        { "name": "sakamoto", "x": 4.25, "y": 3 },
+
+        { "name": "itagaki", "x": -3.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "sakashita", "x": 1.5, "y": 2 },
+        { "name": "haga", "x": 3.5, "y": 2 },
+
+        { "name": "waka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -5, "y": 4 },
+        { "name": "yoshimi", "x": -3, "y": 4 },
+        { "name": "takeda", "x": -1, "y": 4 },
+        { "name": "ike", "x": 1, "y": 4 },
+        { "name": "matsuoka", "x": 3, "y": 4 },
+        { "name": "tatsumoto", "x": 5, "y": 4 },
+
+        { "name": "shibutani", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -2, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -4, "y": 1 },
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "waka", "x": 0, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "なぜ そんなに切なく目を伏せて〜",
+      "members": [
+        { "name": "yoshimi", "x": -4, "y": 4 },
+        { "name": "matsuoka", "x": 4, "y": 4 },
+
+        { "name": "takahashi", "x": -4, "y": 3 },
+        { "name": "takeda", "x": -2, "y": 3 },
+        { "name": "ike", "x": 2, "y": 3 },
+        { "name": "tatsumoto", "x": 4, "y": 3 },
+
+        { "name": "shibutani", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -2, "y": 2 },
+        { "name": "waka", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -4, "y": 1 },
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "sakashita", "x": 2, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
