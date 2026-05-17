@@ -1,0 +1,150 @@
+{
+  "song": "さらば純情",
+
+  "memo": [
+    "イントロ 坂下芳賀桜田池、三鴨青原和青原優高橋",
+    "龍本板垣/坂本吉見、竹田渋谷/松岡西田",
+    "① 坂下芳賀桜田池、三鴨青原和青原優高橋",
+    "龍本板垣/坂本吉見、竹田渋谷松岡西田",
+    "② 龍本竹田芳賀青原優、三鴨桜田松岡吉見",
+    "板垣坂下渋谷高橋、池青原和坂本西田",
+    "②サビ後 坂下芳賀桜田池、三鴨青原和/青原優高橋",
+    "龍本板垣/坂本吉見、竹田渋谷松岡西田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "純情よ さらば 昨日までの自分〜",
+      "members": [
+        { "name": "takeda", "x": -4.5, "y": 5 },
+        { "name": "shibutani", "x": -2.5, "y": 5 },
+        { "name": "matsuoka", "x": 2.5, "y": 5 },
+        { "name": "nishida", "x": 4.5, "y": 5 },
+
+        { "name": "tatsumoto", "x": -5.75, "y": 4 },
+        { "name": "yoshimi", "x": 5.75, "y": 4 },
+
+        { "name": "mikamo", "x": -3.75, "y": 3 },
+        { "name": "waka", "x": -1.75, "y": 3 },
+        { "name": "yuka", "x": 1.75, "y": 3 },
+        { "name": "takahashi", "x": 3.75, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakamoto", "x": 5, "y": 2 },
+
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "sakurada", "x": 1, "y": 1 },
+        { "name": "ike", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -4.5, "y": 5 },
+        { "name": "shibutani", "x": -2.5, "y": 5 },
+        { "name": "matsuoka", "x": 2.5, "y": 5 },
+        { "name": "nishida", "x": 4.5, "y": 5 },
+
+        { "name": "tatsumoto", "x": -5.75, "y": 4 },
+        { "name": "yoshimi", "x": 5.75, "y": 4 },
+
+        { "name": "mikamo", "x": -3.75, "y": 3 },
+        { "name": "waka", "x": -1.75, "y": 3 },
+        { "name": "yuka", "x": 1.75, "y": 3 },
+        { "name": "takahashi", "x": 3.75, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakamoto", "x": 5, "y": 2 },
+
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "sakurada", "x": 1, "y": 1 },
+        { "name": "ike", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "傷つかずに生きていくなんて 無理だー",
+      "members": [
+        { "name": "waka", "x": -3, "y": 4 },
+        { "name": "ike", "x": -1.5, "y": 4 },
+        { "name": "nishida", "x": 1.5, "y": 4 },
+        { "name": "sakamoto", "x": 3, "y": 4 },
+
+        { "name": "itagaki", "x": -2.25, "y": 3 },
+        { "name": "sakashita", "x": -0.75, "y": 3 },
+        { "name": "shibutani", "x": 0.75, "y": 3 },
+        { "name": "takahashi", "x": 2.25, "y": 3 },
+
+        { "name": "mikamo", "x": -6, "y": 2 },
+        { "name": "matsuoka", "x": -4.5, "y": 2 },
+        { "name": "takeda", "x": 4.5, "y": 2 },
+        { "name": "yuka", "x": 6, "y": 2 },
+
+        { "name": "sakurada", "x": -5.25, "y": 1 },
+        { "name": "yoshimi", "x": -3.75, "y": 1 },
+        { "name": "tatsumoto", "x": 3.75, "y": 1 },
+        { "name": "haga", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "幸せの意味を 理解できたよ〜",
+      "members": [
+        { "name": "takeda", "x": -4.5, "y": 5 },
+        { "name": "shibutani", "x": -2.5, "y": 5 },
+        { "name": "matsuoka", "x": 2.5, "y": 5 },
+        { "name": "nishida", "x": 4.5, "y": 5 },
+
+        { "name": "tatsumoto", "x": -5.75, "y": 4 },
+        { "name": "yoshimi", "x": 5.75, "y": 4 },
+
+        { "name": "mikamo", "x": -3.75, "y": 3 },
+        { "name": "waka", "x": -1.75, "y": 3 },
+        { "name": "yuka", "x": 1.75, "y": 3 },
+        { "name": "takahashi", "x": 3.75, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakamoto", "x": 5, "y": 2 },
+
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "sakurada", "x": 1, "y": 1 },
+        { "name": "ike", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "駅のベンチ座って 下校時刻 待っていたけど〜",
+      "members": [
+        { "name": "takeda", "x": -4.5, "y": 5 },
+        { "name": "shibutani", "x": -2.5, "y": 5 },
+        { "name": "matsuoka", "x": 2.5, "y": 5 },
+        { "name": "nishida", "x": 4.5, "y": 5 },
+
+        { "name": "tatsumoto", "x": -5.75, "y": 4 },
+        { "name": "yoshimi", "x": 5.75, "y": 4 },
+
+        { "name": "mikamo", "x": -3.75, "y": 3 },
+        { "name": "waka", "x": -1.75, "y": 3 },
+        { "name": "yuka", "x": 1.75, "y": 3 },
+        { "name": "takahashi", "x": 3.75, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "sakamoto", "x": 5, "y": 2 },
+
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "sakurada", "x": 1, "y": 1 },
+        { "name": "ike", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
