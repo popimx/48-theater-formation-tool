@@ -1,4 +1,4 @@
- [
+[
   {
     "stage": "SKE48「ずっと君を探している」",
     "stageId": "zuttokimiwosagashiteiru",
@@ -23,6 +23,11 @@
     "stage": "NMB48「なんばらえてぃー」",
     "stageId": "nanbaraety",
     "file": "stages/nanbaraety.json"
+  },
+  {
+    "stage": "NMB48「さらば純情」",
+    "stageId": "sarabajunjo",
+    "file": "stages/sarabajunjo.json"
   },
   {
     "stage": "NMB48「ここにだって天使はいる」",
