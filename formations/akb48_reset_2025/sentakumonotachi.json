@@ -1,0 +1,126 @@
+{
+  "song": "洗濯物たち",
+
+  "memo": [
+    "① 田口/大盛、岩立/正鋳、徳永/長友、坂川/武藤",
+    "② 徳永/長友、坂川/武藤、田口大盛、岩立/正鋳"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "両手 伸ばして  腰を伸ばして〜",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "muto", "x": 4, "y": 3 },
+
+        { "name": "iwatate", "x": -5, "y": 2 },
+        { "name": "taguchi", "x": -3, "y": 2 },
+        { "name": "omori", "x": 3, "y": 2 },
+        { "name": "masai", "x": 5, "y": 2 },
+
+        { "name": "tokunaga", "x": -2, "y": 1 },
+        { "name": "nagatomo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -3, "y": 3 },
+        { "name": "muto", "x": 3, "y": 3 },
+
+        { "name": "iwatate", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -1, "y": 2 },
+        { "name": "omori", "x": 1, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -2, "y": 1 },
+        { "name": "nagatomo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -3, "y": 3 },
+        { "name": "muto", "x": 3, "y": 3 },
+
+        { "name": "iwatate", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -1, "y": 2 },
+        { "name": "omori", "x": 1, "y": 2 },
+        { "name": "masai", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -2, "y": 1 },
+        { "name": "nagatomo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "iwatate", "x": -1, "y": 3 },
+        { "name": "masai", "x": 1, "y": 3 },
+
+        { "name": "sakagawa", "x": -3, "y": 2 },
+        { "name": "muto", "x": 3, "y": 2 },
+
+        { "name": "tokunaga", "x": -4.5, "y": 1 },
+        { "name": "taguchi", "x": -1.5, "y": 1 },
+        { "name": "omori", "x": 1.5, "y": 1 },
+        { "name": "nagatomo", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 2 },
+        { "name": "iwatate", "x": -2, "y": 2 },
+        { "name": "masai", "x": 2, "y": 2 },
+        { "name": "muto", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 2 },
+        { "name": "iwatate", "x": -2, "y": 2 },
+        { "name": "masai", "x": 2, "y": 2 },
+        { "name": "muto", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 2 },
+        { "name": "iwatate", "x": -2, "y": 2 },
+        { "name": "masai", "x": 2, "y": 2 },
+        { "name": "muto", "x": 4, "y": 2 },
+
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "nagatomo", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
