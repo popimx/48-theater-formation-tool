@@ -1,0 +1,117 @@
+{
+  "song": "場当たりGO！",
+
+  "memo": [
+    "① 坂下桜田芳賀三鴨、池青原和高橋青原優",
+    "吉見坂本板垣龍本、竹田渋谷/松岡西田",
+    "② 龍本板垣坂本吉見、竹田松岡渋谷西田",
+    "坂下桜田芳賀三鴨、池高橋青原和青原優",
+    "②サビ後 坂下三鴨桜田芳賀、池高橋青原和青原優",
+    "龍本板垣吉見坂本、竹田松岡/渋谷西田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "海沿いの道にしよう！風も暖かくなっただろう〜",
+      "members": [
+        { "name": "shibutani", "x": -5.5, "y": 4 },
+        { "name": "yoshimi", "x": -1.5, "y": 4 },
+        { "name": "tatsumoto", "x": 1.5, "y": 4 },
+        { "name": "matsuoka", "x": 5.5, "y": 4 },
+
+        { "name": "takeda", "x": -6.5, "y": 3 },
+        { "name": "sakamoto", "x": -3.5, "y": 3 },
+        { "name": "itagaki", "x": 3.5, "y": 3 },
+        { "name": "nishida", "x": 6.5, "y": 3 },
+
+        { "name": "ike", "x": -7.5, "y": 2 },
+        { "name": "waka", "x": -2.5, "y": 2 },
+        { "name": "takahashi", "x": 2.5, "y": 2 },
+        { "name": "yuka", "x": 7.5, "y": 2 },
+
+        { "name": "sakashita", "x": -4.5, "y": 1 },
+        { "name": "sakurada", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 },
+        { "name": "mikamo", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -6, "y": 3 },
+        { "name": "sakashita", "x": -3, "y": 3 },
+        { "name": "sakurada", "x": 0, "y": 3 },
+        { "name": "haga", "x": 3, "y": 3 },
+        { "name": "waka", "x": 6, "y": 3 },
+
+        { "name": "ike", "x": -7.5, "y": 2 },
+        { "name": "takeda", "x": -4.5, "y": 2 },
+        { "name": "matsuoka", "x": -1.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "nishida", "x": 4.5, "y": 2 },
+        { "name": "yuka", "x": 7.5, "y": 2 },
+
+        { "name": "tatsumoto", "x": -6, "y": 1 },
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "sakamoto", "x": 3, "y": 1 },
+        { "name": "yoshimi", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -8, "y": 4 },
+        { "name": "takeda", "x": -5, "y": 4 },
+        { "name": "waka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 5, "y": 4 },
+        { "name": "shibutani", "x": 8, "y": 4 },
+
+        { "name": "tatsumoto", "x": -6, "y": 3 },
+        { "name": "ike", "x": -3, "y": 3 },
+        { "name": "yuka", "x": 3, "y": 3 },
+        { "name": "sakamoto", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -4, "y": 2 },
+        { "name": "takahashi", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "yoshimi", "x": 4, "y": 2 },
+
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -8, "y": 4 },
+        { "name": "shibutani", "x": -5, "y": 4 },
+        { "name": "yuka", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 5, "y": 4 },
+        { "name": "tatsumoto", "x": 8, "y": 4 },
+
+        { "name": "yoshimi", "x": -6, "y": 3 },
+        { "name": "ike", "x": -3, "y": 3 },
+        { "name": "waka", "x": 3, "y": 3 },
+        { "name": "sakamoto", "x": 6, "y": 3 },
+
+        { "name": "itagaki", "x": -4, "y": 2 },
+        { "name": "takahashi", "x": -1, "y": 2 },
+        { "name": "mikamo", "x": 1, "y": 2 },
+        { "name": "takeda", "x": 4, "y": 2 },
+
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "sakurada", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
