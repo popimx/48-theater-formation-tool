@@ -1,0 +1,91 @@
+{
+  "song": "Now",
+
+  "memo": [
+    "① 青原和坂下桜田芳賀、坂本高橋三鴨池",
+    "龍本板垣青原優竹田、西田松岡吉見渋谷",
+    "高橋坂本池三鴨、龍本板垣/青原優竹田",
+    "② 池三鴨竹田青原優、板垣龍本高橋坂本",
+    "桜田芳賀渋谷吉見、松岡西田坂下青原和",
+    "②サビ後 芳賀桜田坂下青原和、高橋坂本/池三鴨",
+    "竹田青原優板垣龍本、西田松岡吉見渋谷"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "itagaki", "x": -7.5, "y": 3 },
+        { "name": "tatsumoto", "x": -5.5, "y": 3 },
+        { "name": "matsuoka", "x": -3.5, "y": 3 },
+        { "name": "nishida", "x": -1.5, "y": 3 },
+        { "name": "yoshimi", "x": 1.5, "y": 3 },
+        { "name": "shibutani", "x": 3.5, "y": 3 },
+        { "name": "takeda", "x": 5.5, "y": 3 },
+        { "name": "yuka", "x": 7.5, "y": 3 },
+
+        { "name": "takahashi", "x": -6.5, "y": 2 },
+        { "name": "haga", "x": -2.5, "y": 2 },
+        { "name": "waka", "x": 2.5, "y": 2 },
+        { "name": "mikamo", "x": 6.5, "y": 2 },
+
+        { "name": "sakamoto", "x": -4, "y": 1 },
+        { "name": "sakurada", "x": -1, "y": 1 },
+        { "name": "sakashita", "x": 1, "y": 1 },
+        { "name": "ike", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "風の向きは一瞬で変わる 大切なのはなにを信じるのか？〜",
+      "members": [
+        { "name": "matsuoka", "x": -6, "y": 4 },
+        { "name": "ike", "x": -3, "y": 4 },
+        { "name": "sakamoto", "x": 3, "y": 4 },
+        { "name": "yoshimi", "x": 6, "y": 4 },
+
+        { "name": "nishida", "x": -4.5, "y": 3 },
+        { "name": "takeda", "x": -1.5, "y": 3 },
+        { "name": "tatsumoto", "x": 1.5, "y": 3 },
+        { "name": "shibutani", "x": 4.5, "y": 3 },
+
+        { "name": "yuka", "x": -5.5, "y": 2 },
+        { "name": "haga", "x": -2.5, "y": 2 },
+        { "name": "waka", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 5.5, "y": 2 },
+
+        { "name": "takahashi", "x": -4, "y": 1 },
+        { "name": "sakurada", "x": -1, "y": 1 },
+        { "name": "sakashita", "x": 1, "y": 1 },
+        { "name": "mikamo", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "Now ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -4, "y": 3 },
+        { "name": "takeda", "x": -2, "y": 3 },
+        { "name": "tatsumoto", "x": 2, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+
+        { "name": "matsuoka", "x": -5, "y": 2 },
+        { "name": "ike", "x": -3, "y": 2 },
+        { "name": "sakurada", "x": -1, "y": 2 },
+        { "name": "sakashita", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 3, "y": 2 },
+        { "name": "yoshimi", "x": 5, "y": 2 },
+
+        { "name": "yuka", "x": -6, "y": 1 },
+        { "name": "takahashi", "x": -4, "y": 1 },
+        { "name": "haga", "x": -2, "y": 1 },
+        { "name": "waka", "x": 2, "y": 1 },
+        { "name": "mikamo", "x": 4, "y": 1 },
+        { "name": "itagaki", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
