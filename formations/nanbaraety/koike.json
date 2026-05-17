@@ -127,7 +127,7 @@
       "title": "2番Aメロ",
       "lyrics": "",
       "members": [
-        { "name": "maeda", "x": 5, "y": 3 },
+        { "name": "maeda", "x": -5, "y": 3 },
         { "name": "deguchi", "x": 0.5, "y": 3 },
         { "name": "shinzawa", "x": 6, "y": 3 },
 
