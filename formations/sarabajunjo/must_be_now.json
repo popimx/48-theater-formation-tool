@@ -1,0 +1,208 @@
+{
+  "song": "Must be now",
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "閉ざされてた闇の中で 探すものは光じゃない〜",
+      "members": [
+        { "name": "nishida", "x": -3.75, "y": 2 },
+        { "name": "matsuoka", "x": -1.25, "y": 2 },
+        { "name": "tatsumoto", "x": 1.25, "y": 2 },
+        { "name": "takeda", "x": 3.75, "y": 2 },
+
+        { "name": "sakamoto", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "拒絶された妥協の壁 瞳を閉じれば見えて来るよ〜",
+      "members": [
+        { "name": "nishida", "x": -3.75, "y": 2 },
+        { "name": "sakamoto", "x": -1.25, "y": 2 },
+        { "name": "itagaki", "x": 1.25, "y": 2 },
+        { "name": "takeda", "x": 3.75, "y": 2 },
+
+        { "name": "matsuoka", "x": -2.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 3, "y": 3 },
+
+        { "name": "matsuoka", "x": -4.5, "y": 2 },
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "itagaki", "x": 1.5, "y": 2 },
+        { "name": "tatsumoto", "x": 4.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "(Must be now) 行かなきゃ！(Must be now) 今すぐ… 〜",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 3, "y": 3 },
+
+        { "name": "matsuoka", "x": -4.5, "y": 2 },
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "itagaki", "x": 1.5, "y": 2 },
+        { "name": "tatsumoto", "x": 4.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "(Must be now) あの場所へ Yeah！〜",
+      "members": [
+        { "name": "sakamoto", "x": -1.5, "y": 3 },
+        { "name": "itagaki", "x": 1.5, "y": 3 },
+
+        { "name": "nishida", "x": -3, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+
+        { "name": "matsuoka", "x": -4.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "(Just do it) 外に出るんだ Must be now〜",
+      "members": [
+        { "name": "nishida", "x": -2, "y": 3 },
+        { "name": "takeda", "x": 2, "y": 3 },
+
+        { "name": "sakamoto", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+
+        { "name": "matsuoka", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "生きる意味を 知った時に この絶望 抜け出せる〜",
+      "members": [
+        { "name": "matsuoka", "x": -2, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2, "y": 2 },
+
+        { "name": "sakamoto", "x": -3, "y": 1 },
+        { "name": "itagaki", "x": -1, "y": 1 },
+        { "name": "tatsumoto", "x": 1, "y": 1 },
+        { "name": "takeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "あきらめることは いつだってできるさ〜",
+      "members": [
+        { "name": "matsuoka", "x": -2, "y": 2 },
+        { "name": "mikamo", "x": 0, "y": 2 },
+        { "name": "nishida", "x": 2, "y": 2 },
+
+        { "name": "sakamoto", "x": -3, "y": 1 },
+        { "name": "itagaki", "x": -1, "y": 1 },
+        { "name": "tatsumoto", "x": 1, "y": 1 },
+        { "name": "takeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "(Must be now) やらなきゃ！ (Must be now) 何かを… 〜",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "takeda", "x": 3, "y": 3 },
+
+        { "name": "matsuoka", "x": -4.5, "y": 2 },
+        { "name": "sakamoto", "x": -1.5, "y": 2 },
+        { "name": "itagaki", "x": 1.5, "y": 2 },
+        { "name": "tatsumoto", "x": 4.5, "y": 2 },
+
+        { "name": "mikamo", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "(Must be now) 始めろよ Yeah！〜",
+      "members": [
+        { "name": "sakamoto", "x": -1.5, "y": 3 },
+        { "name": "itagaki", "x": 1.5, "y": 3 },
+
+        { "name": "nishida", "x": -3, "y": 2 },
+        { "name": "takeda", "x": 3, "y": 2 },
+
+        { "name": "matsuoka", "x": -4.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "(Just do it) 手に入れるため Must be now〜",
+      "members": [
+        { "name": "nishida", "x": -2, "y": 3 },
+        { "name": "takeda", "x": 2, "y": 3 },
+
+        { "name": "sakamoto", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+
+        { "name": "matsuoka", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "(Need to go) 行かなきゃ！ (Need to go) 信じた〜",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 2 },
+        { "name": "nishida", "x": -2, "y": 2 },
+        { "name": "takeda", "x": 2, "y": 2 },
+        { "name": "tatsumoto", "x": 5, "y": 2 },
+
+        { "name": "itagaki", "x": -3.5, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "sakamoto", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "光が見えた Must be now〜",
+      "members": [
+        { "name": "nishida", "x": -2, "y": 3 },
+        { "name": "takeda", "x": 2, "y": 3 },
+
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+
+        { "name": "matsuoka", "x": -3, "y": 1 },
+        { "name": "mikamo", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
