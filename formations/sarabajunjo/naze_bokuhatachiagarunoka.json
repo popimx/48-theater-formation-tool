@@ -1,0 +1,136 @@
+{
+  "song": "なぜ、僕は立ち上がるのか？",
+
+  "memo": [
+    "① 芳賀、坂下/三鴨、桜田坂本板垣、高橋龍本",
+    "青原和吉見、松岡/渋谷、竹田青原優池西田",
+    "② 龍本/高橋、青原和/吉見、松岡/渋谷",
+    "西田池/青原優竹田、坂下芳賀三鴨、坂本板垣桜田",
+    "ラストサビ 坂下芳賀三鴨、桜田坂本板垣",
+    "龍本青原和吉見高橋、西田池松岡/渋谷青原優竹田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeda", "x": -4, "y": 3 },
+        { "name": "yuka", "x": -2, "y": 3 },
+        { "name": "shibutani", "x": 0, "y": 3 },
+        { "name": "ike", "x": 2, "y": 3 },
+        { "name": "nishida", "x": 4, "y": 3 },
+
+        { "name": "matsuoka", "x": -5, "y": 2 },
+        { "name": "waka", "x": -3, "y": 2 },
+        { "name": "tatsumoto", "x": -1, "y": 2 },
+        { "name": "sakamoto", "x": 1, "y": 2 },
+        { "name": "takahashi", "x": 3, "y": 2 },
+        { "name": "yoshimi", "x": 5, "y": 2 },
+
+        { "name": "sakurada", "x": -4, "y": 1 },
+        { "name": "sakashita", "x": -2, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 2, "y": 1 },
+        { "name": "itagaki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "たとえ傷ついたって それが生きるということなんだ〜",
+      "members": [
+        { "name": "nishida", "x": -5, "y": 3 },
+        { "name": "ike", "x": -3, "y": 3 },
+        { "name": "shibutani", "x": 1, "y": 3 },
+        { "name": "yuka", "x": 3, "y": 3 },
+        { "name": "takeda", "x": 5, "y": 3 },
+
+        { "name": "matsuoka", "x": -6, "y": 2 },
+        { "name": "waka", "x": -4, "y": 2 },
+        { "name": "tatsumoto", "x": -2, "y": 2 },
+        { "name": "sakamoto", "x": 2, "y": 2 },
+        { "name": "takahashi", "x": 4, "y": 2 },
+        { "name": "yoshimi", "x": 6, "y": 2 },
+
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "sakashita", "x": -3, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "mikamo", "x": 3, "y": 1 },
+        { "name": "itagaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "誰に止められたって〜",
+      "members": [
+        { "name": "waka", "x": -7.5, "y": 2 },
+        { "name": "tatsumoto", "x": -5.5, "y": 2 },
+        { "name": "sakurada", "x": -3.5, "y": 2 },
+        { "name": "sakashita", "x": -1.5, "y": 2 },
+        { "name": "yoshimi", "x": 0.5, "y": 2 },
+        { "name": "mikamo", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 4.5, "y": 2 },
+        { "name": "sakamoto", "x": 6.5, "y": 2 },
+
+        { "name": "nishida", "x": -6.5, "y": 1 },
+        { "name": "ike", "x": -4.5, "y": 1 },
+        { "name": "matsuoka", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": -0.5, "y": 1 },
+        { "name": "shibutani", "x": 1.5, "y": 1 },
+        { "name": "yuka", "x": 3.5, "y": 1 },
+        { "name": "takeda", "x": 5.5, "y": 1 },
+        { "name": "takahashi", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "自分で決めた道を進もう このまま〜",
+      "members": [
+        { "name": "nishida", "x": -6.5, "y": 2 },
+        { "name": "ike", "x": -4.5, "y": 2 },
+        { "name": "matsuoka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": -0.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "yuka", "x": 3.5, "y": 2 },
+        { "name": "takeda", "x": 5.5, "y": 2 },
+        { "name": "takahashi", "x": 7.5, "y": 2 },
+
+        { "name": "waka", "x": -7.5, "y": 1 },
+        { "name": "tatsumoto", "x": -5.5, "y": 1 },
+        { "name": "sakurada", "x": -3.5, "y": 1 },
+        { "name": "sakashita", "x": -1.5, "y": 1 },
+        { "name": "yoshimi", "x": 0.5, "y": 1 },
+        { "name": "mikamo", "x": 2.5, "y": 1 },
+        { "name": "itagaki", "x": 4.5, "y": 1 },
+        { "name": "sakamoto", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "僕は立ち上がる〜",
+      "members": [
+        { "name": "waka", "x": -7.5, "y": 2 },
+        { "name": "tatsumoto", "x": -5.5, "y": 2 },
+        { "name": "sakurada", "x": -3.5, "y": 2 },
+        { "name": "sakashita", "x": -1.5, "y": 2 },
+        { "name": "yoshimi", "x": 0.5, "y": 2 },
+        { "name": "mikamo", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 4.5, "y": 2 },
+        { "name": "sakamoto", "x": 6.5, "y": 2 },
+
+        { "name": "nishida", "x": -6.5, "y": 1 },
+        { "name": "ike", "x": -4.5, "y": 1 },
+        { "name": "matsuoka", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": -0.5, "y": 1 },
+        { "name": "shibutani", "x": 1.5, "y": 1 },
+        { "name": "yuka", "x": 3.5, "y": 1 },
+        { "name": "takeda", "x": 5.5, "y": 1 },
+        { "name": "takahashi", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
