@@ -237,7 +237,7 @@
         { "name": "deguchi", "x": -6.75, "y": 1 },
         { "name": "hirayama", "x": -5.25, "y": 1 },
         { "name": "maeda", "x": -3.75, "y": 1 },
-        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "shiotsuki", "x": 3.75, "y": 1 },
         { "name": "sumino", "x": 5.25, "y": 1 },
         { "name": "shinzawa", "x": 6.75, "y": 1 }
       ]
