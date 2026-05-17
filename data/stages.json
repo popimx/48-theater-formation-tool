@@ -1,5 +1,10 @@
 [
   {
+    "stage": "AKB48「RESET」",
+    "stageId": "akb48_reset_2025",
+    "file": "stages/akb48_reset_2025.json"
+  },
+  {
     "stage": "SKE48「ずっと君を探している」",
     "stageId": "zuttokimiwosagashiteiru",
     "file": "stages/zuttokimiwosagashiteiru.json"
