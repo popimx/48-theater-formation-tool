@@ -1,0 +1,103 @@
+{
+  "song": "7時12分の初恋",
+
+  "memo": [
+    "① 佐藤、橋本、佐藤、橋本佐藤",
+    "② 佐藤橋本、布袋正鋳山﨑、佐藤、橋本佐藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -3, "y": 5 },
+
+        { "name": "hashimoto", "x": -1.5, "y": 4 },
+
+        { "name": "yamazaki", "x": 0, "y": 3 },
+
+        { "name": "masai", "x": 1.5, "y": 2 },
+
+        { "name": "hotei", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -2.5, "y": 3 },
+        { "name": "yamazaki", "x": -1.25, "y": 3 },
+        { "name": "hotei", "x": 0, "y": 3 },
+        { "name": "masai", "x": 1.25, "y": 3 },
+        { "name": "hashimoto", "x": 2.5, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -2.5, "y": 1 },
+        { "name": "hashimoto", "x": -1.25, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "masai", "x": 1.25, "y": 1 },
+        { "name": "yamazaki", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -2, "y": 3 },
+        { "name": "yamazaki", "x": 2, "y": 3 },
+
+        { "name": "hashimoto", "x": -1, "y": 2 },
+        { "name": "masai", "x": 1, "y": 2 },
+
+        { "name": "sato", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "7時12分の 初恋は〜",
+      "members": [
+        { "name": "hashimoto", "x": -1.25, "y": 3 },
+        { "name": "masai", "x": 1.25, "y": 3 },
+
+        { "name": "hotei", "x": -2.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "yamazaki", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "7時12分の 2両目で〜",
+      "members": [
+        { "name": "hotei", "x": -3, "y": 1 },
+        { "name": "hashimoto", "x": -1.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "masai", "x": 1.5, "y": 1 },
+        { "name": "yamazaki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hashimoto", "x": -1, "y": 3 },
+        { "name": "masai", "x": 1, "y": 3 },
+
+        { "name": "hotei", "x": -2, "y": 2 },
+        { "name": "yamazaki", "x": 2, "y": 2 },
+
+        { "name": "sato", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
