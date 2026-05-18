@@ -13,16 +13,16 @@
       "title": "1番Aメロ",
       "lyrics": "めっちゃ好きじゃ じっとしてちゃ 淋しくなっちゃちゃう〜",
       "members": [
-        { "name": "maruyama", "x": -2, "y": 1 },
-        { "name": "okumoto", "x": 2, "y": 1 },
+        { "name": "maruyama", "x": -2, "y": 3 },
+        { "name": "okumoto", "x": 2, "y": 3 },
 
-        { "name": "shiratori", "x": -3.5, "y": 0 },
-        { "name": "oga", "x": 3.5, "y": 0 },
+        { "name": "shiratori", "x": -3.5, "y": 2 },
+        { "name": "oga", "x": 3.5, "y": 2 },
 
-        { "name": "hanada", "x": -5, "y": -1 },
-        { "name": "kondo", "x": -1, "y": -1 },
-        { "name": "kawamura", "x": 1, "y": -1 },
-        { "name": "ito", "x": 5, "y": -1 }
+        { "name": "hanada", "x": -5, "y": 1 },
+        { "name": "kondo", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 },
+        { "name": "ito", "x": 5, "y": 1 }
       ]
     },
 
@@ -64,16 +64,16 @@
       "title": "2番サビ後 ①",
       "lyrics": "",
       "members": [
-        { "name": "hanada", "x": -2, "y": 0 },
-        { "name": "maruyama", "x": -1, "y": 0 },
+        { "name": "hanada", "x": -2, "y": 3 },
+        { "name": "maruyama", "x": -1, "y": 3 },
 
-        { "name": "okumoto", "x": 1, "y": 0 },
-        { "name": "shiratori", "x": 2, "y": 0 },
+        { "name": "okumoto", "x": 1, "y": 2 },
+        { "name": "shiratori", "x": 2, "y": 2 },
 
-        { "name": "oga", "x": -5, "y": -1 },
-        { "name": "kondo", "x": -4, "y": -1 },
-        { "name": "kawamura", "x": 4, "y": -1 },
-        { "name": "ito", "x": 5, "y": -1 }
+        { "name": "oga", "x": -5, "y": 1 },
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 },
+        { "name": "ito", "x": 5, "y": 1 }
       ]
     },
 
@@ -81,16 +81,16 @@
       "title": "2番サビ後 ②",
       "lyrics": "",
       "members": [
-        { "name": "maruyama", "x": -2, "y": 0 },
-        { "name": "oga", "x": -1, "y": 0 },
+        { "name": "maruyama", "x": -2, "y": 3 },
+        { "name": "oga", "x": -1, "y": 3 },
 
-        { "name": "shiratori", "x": 1, "y": 0 },
-        { "name": "okumoto", "x": 2, "y": 0 },
+        { "name": "shiratori", "x": 1, "y": 2 },
+        { "name": "okumoto", "x": 2, "y": 2 },
 
-        { "name": "kondo", "x": -5, "y": -1 },
-        { "name": "oga", "x": -4, "y": -1 },
-        { "name": "ito", "x": 4, "y": -1 },
-        { "name": "kawamura", "x": 5, "y": -1 }
+        { "name": "kondo", "x": -5, "y": 1 },
+        { "name": "oga", "x": -4, "y": 1 },
+        { "name": "ito", "x": 4, "y": 1 },
+        { "name": "kawamura", "x": 5, "y": 1 }
       ]
     },
 
@@ -146,11 +146,11 @@
       "title": "ラストサビ後",
       "lyrics": "",
       "members": [
-        { "name": "hanada", "x": -2, "y": 0 },
-        { "name": "shiratori", "x": 2, "y": 0 },
+        { "name": "hanada", "x": -2, "y": 2 },
+        { "name": "shiratori", "x": 2, "y": 2 },
 
-        { "name": "kondo", "x": -1, "y": -1 },
-        { "name": "kawamura", "x": 1, "y": -1 }
+        { "name": "kondo", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 }
       ]
     },
 
@@ -158,11 +158,11 @@
       "title": "ラスト",
       "lyrics": "",
       "members": [
-        { "name": "hanada", "x": -2, "y": 0 },
-        { "name": "shiratori", "x": 2, "y": 0 },
+        { "name": "hanada", "x": -2, "y": 2 },
+        { "name": "shiratori", "x": 2, "y": 2 },
 
-        { "name": "kondo", "x": -1, "y": -1 },
-        { "name": "kawamura", "x": 1, "y": -1 }
+        { "name": "kondo", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 }
       ]
     }
   ]
