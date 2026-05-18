@@ -10,22 +10,6 @@
 
   "parts": [
     {
-      "title": "1番サビ",
-      "lyrics": "",
-      "members": [
-        { "name": "hashimoto", "x": -3.75, "y": 2 },
-        { "name": "sato", "x": -0.75, "y": 2 },
-        { "name": "mizushima", "x": 0.75, "y": 2 },
-        { "name": "hirata", "x": 3.75, "y": 2 },
-
-        { "name": "yamazaki", "x": -5.25, "y": 1 },
-        { "name": "hotei", "x": -2.25, "y": 1 },
-        { "name": "masai", "x": 2.25, "y": 1 },
-        { "name": "hatakeyama", "x": 5.25, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番サビ",
       "lyrics": "",
       "members": [
