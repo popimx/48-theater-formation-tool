@@ -15,13 +15,13 @@
       "members": [
         { "name": "okumoto", "x": -3.5, "y": 2 },
         { "name": "kondo", "x": -1.5, "y": 2 },
-        { "name": "kawamura", "x": -0.5, "y": 2 },
+        { "name": "kawamura", "x": 0.5, "y": 2 },
         { "name": "oga", "x": 2.5, "y": 2 },
 
         { "name": "maruyama", "x": -2.5, "y": 1 },
         { "name": "hanada", "x": -0.5, "y": 1 },
-        { "name": "shiratori", "x": -1.5, "y": 1 },
-        { "name": "ito", "x": -3.5, "y": 1 }
+        { "name": "shiratori", "x": 1.5, "y": 1 },
+        { "name": "ito", "x": 3.5, "y": 1 }
       ]
     },
 
