@@ -12,10 +12,10 @@
       "title": "イントロサビ",
       "lyrics": "",
       "members": [
-        { "name": "yamazaki", "x": -1.5, "y": 3 },
-        { "name": "hotei", "x": -0.5, "y": 3 },
-        { "name": "masai", "x": 0.5, "y": 3 },
-        { "name": "mizushima", "x": 1.5, "y": 3 }
+        { "name": "yamazaki", "x": -1.5, "y": 1 },
+        { "name": "hotei", "x": -0.5, "y": 1 },
+        { "name": "masai", "x": 0.5, "y": 1 },
+        { "name": "mizushima", "x": 1.5, "y": 1 }
       ]
     },
 
