@@ -1,0 +1,78 @@
+{
+  "song": "BINGO!",
+
+  "memo": [
+    "① 佐藤橋本、布袋/正鋳、水島山﨑/平田畠山",
+    "② 水島/畠山、山﨑/平田、佐藤布袋正鋳橋本",
+    "ラストサビ 山﨑/平田、布袋、正鋳、佐藤橋本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "mizushima", "x": -3, "y": 3 },
+        { "name": "hatakeyama", "x": 3, "y": 3 },
+
+        { "name": "yamazaki", "x": -4, "y": 2 },
+        { "name": "hotei", "x": -1, "y": 2 },
+        { "name": "masai", "x": 1, "y": 2 },
+        { "name": "hirata", "x": 4, "y": 2 },
+
+        { "name": "sato", "x": -2, "y": 1 },
+        { "name": "hashimoto", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -1.5, "y": 3 },
+        { "name": "masai", "x": 1.5, "y": 3 },
+
+        { "name": "yamazaki", "x": -2.5, "y": 2 },
+        { "name": "hirata", "x": 2.5, "y": 2 },
+
+        { "name": "mizushima", "x": -3.5, "y": 1 },
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "hashimoto", "x": 0.5, "y": 1 },
+        { "name": "hatakeyama", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "誰にも何も 知らされずに... 〜",
+      "members": [
+        { "name": "mizushima", "x": -1, "y": 3 },
+        { "name": "hatakeyama", "x": 1, "y": 3 },
+
+        { "name": "hotei", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "sato", "x": -4, "y": 1 },
+        { "name": "yamazaki", "x": -0.5, "y": 1 },
+        { "name": "hirata", "x": 0.5, "y": 1 },
+        { "name": "hashimoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hashimoto", "x": -3.5, "y": 2 },
+        { "name": "hatakeyama", "x": -1.5, "y": 2 },
+        { "name": "yamazaki", "x": 0.5, "y": 2 },
+        { "name": "hotei", "x": 2.5, "y": 2 },
+
+        { "name": "masai", "x": -2.5, "y": 1 },
+        { "name": "hirata", "x": -0.5, "y": 1 },
+        { "name": "mizushima", "x": 1.5, "y": 1 },
+        { "name": "sato", "x": 3.5, "y": 1 }
+      ]
+    }
+  ]
+}
