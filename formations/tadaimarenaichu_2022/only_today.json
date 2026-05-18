@@ -1,0 +1,27 @@
+{
+  "song": "Only today",
+
+  "memo": [
+    "① 佐藤/水島、正鋳布袋、山﨑畠山",
+    "② 橋本平田、橋本正鋳、布袋平田",
+    "②サビ後 佐藤橋本山﨑平田、布袋畠山正鋳水島"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamazaki", "x": -3, "y": 2 },
+        { "name": "hashimoto", "x": -1, "y": 2 },
+        { "name": "masai", "x": 1, "y": 2 },
+        { "name": "hatakeyama", "x": 3, "y": 2 },
+
+        { "name": "sato", "x": -4, "y": 1 },
+        { "name": "hotei", "x": -2, "y": 1 },
+        { "name": "hirata", "x": 2, "y": 1 },
+        { "name": "mizushima", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
