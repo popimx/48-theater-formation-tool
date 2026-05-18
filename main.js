@@ -102,6 +102,16 @@ function renderFormation() {
       const focusMember =
         memberSelect.value;
 
+      /* =========================
+         X間隔設定
+         AKB48だけ広くする
+      ========================= */
+
+      const xSpacing =
+        currentStage.stage.includes("AKB48")
+          ? 7.5
+          : 6;
+
       data.parts.forEach(part => {
 
         const card =
@@ -153,7 +163,7 @@ function renderFormation() {
           ========================= */
 
           const posX =
-            50 + ((member.x ?? 0) * 6);
+            50 + ((member.x ?? 0) * xSpacing);
 
           const posY =
             100 - ((member.y ?? 0) * 18);
@@ -291,6 +301,13 @@ stageSelect.addEventListener(
 
     currentStage =
       await response.json();
+
+    /* =========================
+       stage名も保持
+    ========================= */
+
+    currentStage.stage =
+      stageInfo.stage;
 
     /* =========================
        メンバー
