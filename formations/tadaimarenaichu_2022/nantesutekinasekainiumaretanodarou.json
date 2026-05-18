@@ -1,0 +1,122 @@
+{
+  "song": "なんて素敵な世界に生まれたのだろう",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirata", "x": -3.75, "y": 3 },
+        { "name": "yamazaki", "x": 2.25, "y": 3 },
+
+        { "name": "masai", "x": -5.25, "y": 2 },
+        { "name": "hatakeyama", "x": 0.75, "y": 2 },
+        { "name": "hotei", "x": 5.25, "y": 2 },
+
+        { "name": "hashimoto", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "mizushima", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirata", "x": -3.75, "y": 3 },
+        { "name": "yamazaki", "x": 2.25, "y": 3 },
+
+        { "name": "masai", "x": -5.25, "y": 2 },
+        { "name": "hatakeyama", "x": -0.75, "y": 2 },
+        { "name": "hotei", "x": 5.25, "y": 2 },
+
+        { "name": "hashimoto", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 },
+        { "name": "mizushima", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirata", "x": -3.75, "y": 3 },
+        { "name": "yamazaki", "x": 2.25, "y": 3 },
+
+        { "name": "masai", "x": -5.25, "y": 2 },
+        { "name": "hatakeyama", "x": -0.75, "y": 2 },
+        { "name": "hotei", "x": 5.25, "y": 2 },
+
+        { "name": "hashimoto", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 },
+        { "name": "mizushima", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "この一瞬に新しい命が 空の下で産声を上げる〜",
+      "members": [
+        { "name": "masai", "x": -2.5, "y": 3 },
+        { "name": "yamazaki", "x": -1.5, "y": 3 },
+        { "name": "hotei", "x": 3.5, "y": 3 },
+        { "name": "hatakeyama", "x": 4.5, "y": 3 },
+
+        { "name": "hirata", "x": -4.5, "y": 1 },
+        { "name": "sato", "x": -3.5, "y": 1 },
+        { "name": "hashimoto", "x": 1.5, "y": 1 },
+        { "name": "mizushima", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirata", "x": -4, "y": 2 },
+        { "name": "masai", "x": -2, "y": 2 },
+        { "name": "hashimoto", "x": 2, "y": 2 },
+        { "name": "hatakeyama", "x": 4, "y": 2 },
+
+        { "name": "yamazaki", "x": -3, "y": 1 },
+        { "name": "sato", "x": -1, "y": 1 },
+        { "name": "mizushima", "x": 1, "y": 1 },
+        { "name": "hotei", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "masai", "x": -5.25, "y": 1 },
+        { "name": "hatakeyama", "x": -3.75, "y": 1 },
+        { "name": "yamazaki", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "mizushima", "x": 0.75, "y": 1 },
+        { "name": "hotei", "x": 2.25, "y": 1 },
+        { "name": "hashimoto", "x": 3.75, "y": 1 },
+        { "name": "hirata", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "masai", "x": -5.25, "y": 3 },
+        { "name": "sato", "x": -0.75, "y": 3 },
+        { "name": "hashimoto", "x": 3.75, "y": 3 },
+
+        { "name": "hatakeyama", "x": -3.75, "y": 2 },
+        { "name": "mizushima", "x": 0.75, "y": 2 },
+        { "name": "hirata", "x": 5.25, "y": 2 },
+
+        { "name": "yamazaki", "x": -2.25, "y": 1 },
+        { "name": "hotei", "x": 2.25, "y": 1 }
+      ]
+    }
+  ]
+}
