@@ -1,0 +1,169 @@
+{
+  "song": "マンゴーNo.2",
+
+  "memo": [
+    "① 近藤川村、花田白鳥、丸山奥本、大賀伊藤",
+    "近藤川村、花田白鳥",
+    "② 大賀/伊藤、丸山奥本、花田白鳥、近藤川村",
+    "大賀伊藤、丸山奥本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "めっちゃ好きじゃ じっとしてちゃ 淋しくなっちゃちゃう〜",
+      "members": [
+        { "name": "maruyama", "x": -2, "y": 1 },
+        { "name": "okumoto", "x": 2, "y": 1 },
+
+        { "name": "shiratori", "x": -3.5, "y": 0 },
+        { "name": "oga", "x": 3.5, "y": 0 },
+
+        { "name": "hanada", "x": -5, "y": -1 },
+        { "name": "kondo", "x": -1, "y": -1 },
+        { "name": "kawamura", "x": 1, "y": -1 },
+        { "name": "ito", "x": 5, "y": -1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ito", "x": -4, "y": 3 },
+        { "name": "maruyama", "x": 4, "y": 3 },
+
+        { "name": "oga", "x": -5.5, "y": 2 },
+        { "name": "kondo", "x": -1, "y": 2 },
+        { "name": "kawamura", "x": 1, "y": 2 },
+        { "name": "okumoto", "x": 5.5, "y": 2 },
+
+        { "name": "hanada", "x": -2.5, "y": 1 },
+        { "name": "shiratori", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -4, "y": 3 },
+        { "name": "shiratori", "x": 4, "y": 3 },
+
+        { "name": "oga", "x": -5.5, "y": 2 },
+        { "name": "maruyama", "x": -1, "y": 2 },
+        { "name": "okumoto", "x": 1, "y": 2 },
+        { "name": "ito", "x": 5.5, "y": 2 },
+
+        { "name": "kondo", "x": -2.5, "y": 1 },
+        { "name": "kawamura", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -2, "y": 0 },
+        { "name": "maruyama", "x": -1, "y": 0 },
+
+        { "name": "okumoto", "x": 1, "y": 0 },
+        { "name": "shiratori", "x": 2, "y": 0 },
+
+        { "name": "oga", "x": -5, "y": -1 },
+        { "name": "kondo", "x": -4, "y": -1 },
+        { "name": "kawamura", "x": 4, "y": -1 },
+        { "name": "ito", "x": 5, "y": -1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "maruyama", "x": -2, "y": 0 },
+        { "name": "oga", "x": -1, "y": 0 },
+
+        { "name": "shiratori", "x": 1, "y": 0 },
+        { "name": "okumoto", "x": 2, "y": 0 },
+
+        { "name": "kondo", "x": -5, "y": -1 },
+        { "name": "oga", "x": -4, "y": -1 },
+        { "name": "ito", "x": 4, "y": -1 },
+        { "name": "kawamura", "x": 5, "y": -1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "kondo", "x": -1, "y": 2 },
+        { "name": "kawamura", "x": 1, "y": 2 },
+
+        { "name": "hanada", "x": -3, "y": 1 },
+        { "name": "shiratori", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ④",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -3, "y": 3 },
+        { "name": "shiratori", "x": 3, "y": 3 },
+
+        { "name": "kondo", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "マンゴー・マンボー No.2で行こう 甘い 甘い フルーツのリズム〜",
+      "members": [
+        { "name": "hanada", "x": -2, "y": 2 },
+        { "name": "shiratori", "x": 2, "y": 2 },
+
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "マンゴー・マンボー No.2で行こう 早く 早く 大人になりたい〜",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 2 },
+        { "name": "kawamura", "x": 4, "y": 2 },
+
+        { "name": "hanada", "x": -2, "y": 1 },
+        { "name": "shiratori", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -2, "y": 0 },
+        { "name": "shiratori", "x": 2, "y": 0 },
+
+        { "name": "kondo", "x": -1, "y": -1 },
+        { "name": "kawamura", "x": 1, "y": -1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -2, "y": 0 },
+        { "name": "shiratori", "x": 2, "y": 0 },
+
+        { "name": "kondo", "x": -1, "y": -1 },
+        { "name": "kawamura", "x": 1, "y": -1 }
+      ]
+    }
+  ]
+}
