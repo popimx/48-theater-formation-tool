@@ -1,0 +1,88 @@
+{
+  "song": "ダルイカンジ",
+
+  "memo": [
+    "① 平田橋本、山﨑/水島、畠山正鋳、布袋/佐藤",
+    "② 正鋳畠山、布袋佐藤、山﨑水島、平田橋本",
+    "ラスト 山﨑平田、橋本水島、布袋畠山正鋳佐藤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirata", "x": -1, "y": 3 },
+        { "name": "hashimoto", "x": 1, "y": 3 },
+
+        { "name": "yamazaki", "x": -3, "y": 2 },
+        { "name": "mizushima", "x": 3, "y": 2 },
+
+        { "name": "hatakeyama", "x": -5, "y": 1 },
+        { "name": "masai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "ナンダカ ダルイカンジ 呼吸をするのも面倒〜",
+      "members": [
+        { "name": "hirata", "x": -1, "y": 3 },
+        { "name": "hashimoto", "x": 1, "y": 3 },
+
+        { "name": "yamazaki", "x": -3, "y": 2 },
+        { "name": "mizushima", "x": 3, "y": 2 },
+
+        { "name": "hatakeyama", "x": -5, "y": 1 },
+        { "name": "masai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "何をしてたっていいんじゃない？〜",
+      "members": [
+        { "name": "hatakeyama", "x": -3.5, "y": 2 },
+        { "name": "yamazaki", "x": -2.5, "y": 2 },
+        { "name": "hotei", "x": -1.5, "y": 2 },
+        { "name": "hirata", "x": -0.5, "y": 2 },
+        { "name": "hashimoto", "x": 0.5, "y": 2 },
+        { "name": "sato", "x": 1.5, "y": 2 },
+        { "name": "mizushima", "x": 2.5, "y": 2 },
+        { "name": "masai", "x": 3.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "遠くに行ってもいいんじゃない？〜",
+      "members": [
+        { "name": "hotei", "x": -3.5, "y": 2 },
+        { "name": "hatakeyama", "x": -1.5, "y": 2 },
+        { "name": "masai", "x": 0.5, "y": 2 },
+        { "name": "sato", "x": 2.5, "y": 2 },
+
+        { "name": "yamazaki", "x": -2.5, "y": 1 },
+        { "name": "hirata", "x": -0.5, "y": 1 },
+        { "name": "hashimoto", "x": 1.5, "y": 1 },
+        { "name": "mizushima", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "ママ 近頃 独身中〜",
+      "members": [
+        { "name": "hotei", "x": -2, "y": 2 },
+        { "name": "hatakeyama", "x": -1, "y": 2 },
+        { "name": "masai", "x": 1, "y": 2 },
+        { "name": "sato", "x": 2, "y": 2 },
+
+        { "name": "yamazaki", "x": -4, "y": 1 },
+        { "name": "hirata", "x": -3, "y": 1 },
+        { "name": "hashimoto", "x": 3, "y": 1 },
+        { "name": "mizushima", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
