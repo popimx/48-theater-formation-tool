@@ -1,0 +1,119 @@
+{
+  "song": "Mr.Kissman",
+
+  "memo": [
+    "① 正鋳(布袋)、正鋳/布袋、山﨑(水島)、山﨑水島",
+    "平田(畠山)、平田畠山、佐藤(橋本)、佐藤橋本",
+    "② 山﨑(水島)、山﨑水島、平田(畠山)、平田/畠山",
+    "佐藤(橋本)、橋本佐藤、平田(畠山)、平田畠山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -1.5, "y": 2 },
+        { "name": "mizushima", "x": -0.5, "y": 2 },
+        { "name": "hatakeyama", "x": 0.5, "y": 2 },
+        { "name": "hashimoto", "x": 1.5, "y": 2 },
+
+        { "name": "sato", "x": -1.5, "y": 1 },
+        { "name": "hirata", "x": -0.5, "y": 1 },
+        { "name": "yamazaki", "x": 0.5, "y": 1 },
+        { "name": "masai", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "男 (男) たちに (たちに) 釣られてしまいそうで釣られない〜",
+      "members": [
+        { "name": "hotei", "x": -1.5, "y": 3 },
+        { "name": "masai", "x": 1.5, "y": 3 },
+
+        { "name": "yamazaki", "x": -3.5, "y": 2 },
+        { "name": "hirata", "x": -2.5, "y": 2 },
+        { "name": "hatakeyama", "x": 2.5, "y": 2 },
+        { "name": "mizushima", "x": 3.5, "y": 2 },
+
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "hashimoto", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -1.5, "y": 3 },
+        { "name": "masai", "x": 1.5, "y": 3 },
+
+        { "name": "yamazaki", "x": -3.5, "y": 2 },
+        { "name": "hirata", "x": -2.5, "y": 2 },
+        { "name": "hatakeyama", "x": 2.5, "y": 2 },
+        { "name": "mizushima", "x": 3.5, "y": 2 },
+
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "hashimoto", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hotei", "x": -1.5, "y": 3 },
+        { "name": "masai", "x": 1.5, "y": 3 },
+
+        { "name": "yamazaki", "x": -3.5, "y": 2 },
+        { "name": "hirata", "x": -2.5, "y": 2 },
+        { "name": "hatakeyama", "x": 2.5, "y": 2 },
+        { "name": "mizushima", "x": 3.5, "y": 2 },
+
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "hashimoto", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "嘘は (嘘は) 甘く (甘く) 揺れる腰が溶ける〜",
+      "members": [
+        { "name": "hirata", "x": -1.5, "y": 3 },
+        { "name": "hatakeyama", "x": 1.5, "y": 3 },
+
+        { "name": "sato", "x": -2.5, "y": 2 },
+        { "name": "hashimoto", "x": 2.5, "y": 2 },
+
+        { "name": "hotei", "x": -3.5, "y": 1 },
+        { "name": "yamazaki", "x": -0.5, "y": 1 },
+        { "name": "mizushima", "x": 0.5, "y": 1 },
+        { "name": "masai", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "馴れ馴れしい プレイボーイ〜",
+      "members": [
+        { "name": "hirata", "x": -1.5, "y": 2 },
+        { "name": "hatakeyama", "x": 0.5, "y": 2 },
+
+        { "name": "hashimoto", "x": -0.5, "y": 1 },
+        { "name": "sato", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hatakeyama", "x": -1.5, "y": 1 },
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "hirata", "x": 0.5, "y": 1 },
+        { "name": "hashimoto", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
