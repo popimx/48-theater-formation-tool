@@ -1,0 +1,106 @@
+{
+  "stage": "AKB48「ただいま 恋愛中」",
+  "stageId": "tadaimarenaichu_2022",
+
+  "members": [
+    {
+      "name": "佐藤綺星",
+      "display": "佐藤",
+      "id": "sato",
+      "image": "sato_airi_2022"
+    },
+    {
+      "name": "橋本恵理子",
+      "display": "橋本",
+      "id": "hashimoto",
+      "image": "hashimoto_eriko_2022"
+    },
+    {
+      "name": "畠山希美",
+      "display": "畠山",
+      "id": "hatakeyama",
+      "image": "hatakeyama_nozomi_2022"
+    },
+    {
+      "name": "平田侑希",
+      "display": "平田",
+      "id": "hirata",
+      "image": "hirata_yuki_2022"
+    },
+    {
+      "name": "布袋百椛",
+      "display": "布袋",
+      "id": "hotei",
+      "image": "hotei_moka_2022"
+    },
+    {
+      "name": "正鋳真優",
+      "display": "正鋳",
+      "id": "masai",
+      "image": "masai_mayuu_2022"
+    },
+    {
+      "name": "水島美結",
+      "display": "水島",
+      "id": "mizushima",
+      "image": "mizushima_miyuu_2022"
+    },
+    {
+      "name": "山﨑空",
+      "display": "山﨑",
+      "id": "yamazaki",
+      "image": "yamazaki_sora_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "ただいま 恋愛中",
+      "file": "tadaimarenaichu.json"
+    },
+    {
+      "name": "くまのぬいぐるみ",
+      "file": "kumanonuigurumi.json"
+    },
+    {
+      "name": "Only today",
+      "file": "only_today.json"
+    },
+    {
+      "name": "7時12分の初恋",
+      "file": "7ji12funnohatsukoi.json"
+    },
+    {
+      "name": "ダルイカンジ",
+      "file": "daruikanji.json"
+    },
+    {
+      "name": "Mr.Kissman",
+      "file": "mr_kissman.json"
+    },
+    {
+      "name": "君が教えてくれた",
+      "file": "kimigaoshietekureta.json"
+    },
+    {
+      "name": "BINGO!",
+      "file": "bingo.json"
+    },
+    {
+      "name": "軽蔑していた愛情",
+      "file": "keibetsushiteitaaijo.json"
+    },
+    {
+      "name": "LOVE CHASE",
+      "file": "love_chase.json"
+    },
+    {
+      "name": "制服が邪魔をする",
+      "file": "seifukugajamawosuru.json"
+    },
+    {
+      "name": "なんて素敵な世界に生まれたのだろう",
+      "file": "nantesutekinasekainiumaretanodarou.json"
+    }
+  ]
+}
