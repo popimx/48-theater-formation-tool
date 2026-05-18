@@ -1,0 +1,145 @@
+{
+  "song": "オケラ",
+
+  "memo": [
+    "① 武藤、大盛、正鋳、田口",
+    "② 坂川長友、岩立、徳永/正鋳",
+    "ラストサビ前 大盛、武藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "muto", "x": -3.5, "y": 3 },
+        { "name": "nagatomo", "x": -2.5, "y": 3 },
+        { "name": "iwatate", "x": 0.5, "y": 3 },
+        { "name": "masai", "x": 1.5, "y": 3 },
+
+        { "name": "omori", "x": -1.5, "y": 1 },
+        { "name": "sakagawa", "x": -0.5, "y": 1 },
+        { "name": "tokunaga", "x": 2.5, "y": 1 },
+        { "name": "taguchi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "彼がいるの 中で待ってるわ〜",
+      "members": [
+        { "name": "nagatomo", "x": -5.5, "y": 3 },
+        { "name": "tokunaga", "x": -4.5, "y": 3 },
+        { "name": "omori", "x": -0.5, "y": 3 },
+        { "name": "muto", "x": 0.5, "y": 3 },
+        { "name": "sakagawa", "x": 4.5, "y": 3 },
+        { "name": "iwatate", "x": 5.5, "y": 3 },
+
+        { "name": "masai", "x": -1.5, "y": 1 },
+        { "name": "taguchi", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nagatomo", "x": -4, "y": 3 },
+        { "name": "tokunaga", "x": -1.5, "y": 3 },
+        { "name": "sakagawa", "x": 1.5, "y": 3 },
+        { "name": "iwatate", "x": 4, "y": 3 },
+
+        { "name": "masai", "x": -2.5, "y": 2 },
+        { "name": "taguchi", "x": 2.5, "y": 2 },
+
+        { "name": "omori", "x": -1, "y": 1 },
+        { "name": "muto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "taguchi", "x": -1.5, "y": 3 },
+        { "name": "iwatate", "x": 1.5, "y": 3 },
+        { "name": "nagatomo", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "taguchi", "x": -1.5, "y": 3 },
+        { "name": "iwatate", "x": 1.5, "y": 3 },
+        { "name": "nagatomo", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "taguchi", "x": -1.5, "y": 3 },
+        { "name": "iwatate", "x": 1.5, "y": 3 },
+        { "name": "nagatomo", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "taguchi", "x": -1.5, "y": 3 },
+        { "name": "iwatate", "x": 1.5, "y": 3 },
+        { "name": "nagatomo", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 3 },
+        { "name": "taguchi", "x": -1.5, "y": 3 },
+        { "name": "iwatate", "x": 1.5, "y": 3 },
+        { "name": "nagatomo", "x": 4, "y": 3 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 2 },
+        { "name": "masai", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
