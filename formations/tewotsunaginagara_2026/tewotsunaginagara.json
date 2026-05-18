@@ -1,0 +1,121 @@
+{
+  "song": "手をつなぎながら",
+
+  "memo": [
+    "① 伊藤/奥本、丸山大賀、花田白鳥、近藤/川村",
+    "② 近藤川村、白鳥花田、丸山大賀、伊藤奥本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "maruyama", "x": -3, "y": 1 },
+        { "name": "oga", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 },
+        { "name": "okumoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "hanada", "x": -4, "y": 3 },
+        { "name": "okumoto", "x": 4, "y": 3 },
+        { "name": "kawamura", "x": 5, "y": 3 },
+
+        { "name": "shiratori", "x": -2, "y": 2 },
+        { "name": "maruyama", "x": -1, "y": 2 },
+
+        { "name": "oga", "x": 1, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ひまわりの花が風に揺れる頃〜",
+      "members": [
+        { "name": "ito", "x": -3, "y": 3 },
+        { "name": "maruyama", "x": -0.5, "y": 3 },
+        { "name": "oga", "x": 0.5, "y": 3 },
+        { "name": "okumoto", "x": 3, "y": 3 },
+
+        { "name": "shiratori", "x": -2, "y": 2 },
+        { "name": "hanada", "x": 2, "y": 2 },
+
+        { "name": "kondo", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "テストに落ちこぼれそうで 凹み〜",
+      "members": [
+        { "name": "hanada", "x": -3, "y": 3 },
+        { "name": "shiratori", "x": -0.5, "y": 3 },
+        { "name": "kawamura", "x": 0.5, "y": 3 },
+        { "name": "kondo", "x": 3, "y": 3 },
+
+        { "name": "ito", "x": -2, "y": 2 },
+        { "name": "okumoto", "x": 2, "y": 2 },
+
+        { "name": "maruyama", "x": -1, "y": 1 },
+        { "name": "oga", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "心のロッカー片付け〜",
+      "members": [
+        { "name": "hanada", "x": -3, "y": 3 },
+        { "name": "shiratori", "x": -0.5, "y": 3 },
+        { "name": "kawamura", "x": 0.5, "y": 3 },
+        { "name": "kondo", "x": 3, "y": 3 },
+
+        { "name": "maruyama", "x": -2, "y": 2 },
+        { "name": "oga", "x": 2, "y": 2 },
+
+        { "name": "ito", "x": -1, "y": 1 },
+        { "name": "okumoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ito", "x": -2, "y": 3 },
+        { "name": "shiratori", "x": -1, "y": 3 },
+        { "name": "oga", "x": 3, "y": 3 },
+        { "name": "kondo", "x": 4, "y": 3 },
+
+        { "name": "hanada", "x": -4, "y": 1 },
+        { "name": "maruyama", "x": -3, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 },
+        { "name": "okumoto", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "maruyama", "x": -3.5, "y": 3 },
+        { "name": "hanada", "x": -2.5, "y": 3 },
+        { "name": "ito", "x": -1.5, "y": 3 },
+        { "name": "okumoto", "x": -0.5, "y": 3 },
+
+        { "name": "shiratori", "x": 0.5, "y": 3 },
+        { "name": "oga", "x": 1.5, "y": 3 },
+        { "name": "kondo", "x": 2.5, "y": 3 },
+        { "name": "kawamura", "x": 3.5, "y": 3 }
+      ]
+    }
+  ]
+}
