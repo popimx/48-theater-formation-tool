@@ -96,9 +96,9 @@
       "lyrics": "夢の鐘を打ち続けろ！廃墟の上〜",
       "members": [
         { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "taguchi", "x": -3.75, "y": 1 },
         { "name": "masai", "x": -2.25, "y": 1 },
         { "name": "tokunaga", "x": -0.75, "y": 1 },
-        { "name": "taguchi", "x": 3.75, "y": 1 },
         { "name": "nagatomo", "x": 0.75, "y": 1 },
         { "name": "omori", "x": 2.25, "y": 1 },
         { "name": "muto", "x": 3.75, "y": 1 },
