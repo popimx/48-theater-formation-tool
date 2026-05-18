@@ -1,0 +1,40 @@
+{
+  "song": "引っ越しました",
+
+  "memo": [
+    "① 正鋳、大盛、岩立、田口/坂川",
+    "② 武藤、徳永/田口、長友、坂川/岩立"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -5.25, "y": 1 },
+        { "name": "sakagawa", "x": -3.75, "y": 1 },
+        { "name": "nagatomo", "x": -2.25, "y": 1 },
+        { "name": "muto", "x": -0.75, "y": 1 },
+        { "name": "omori", "x": 0.75, "y": 1 },
+        { "name": "taguchi", "x": 2.25, "y": 1 },
+        { "name": "iwatate", "x": 3.75, "y": 1 },
+        { "name": "masai", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -5.25, "y": 1 },
+        { "name": "sakagawa", "x": -3.75, "y": 1 },
+        { "name": "nagatomo", "x": -2.25, "y": 1 },
+        { "name": "muto", "x": -0.75, "y": 1 },
+        { "name": "omori", "x": 0.75, "y": 1 },
+        { "name": "taguchi", "x": 2.25, "y": 1 },
+        { "name": "iwatate", "x": 3.75, "y": 1 },
+        { "name": "masai", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
