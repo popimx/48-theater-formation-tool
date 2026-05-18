@@ -1,0 +1,28 @@
+{
+  "song": "LOVE CHASE",
+
+  "memo": [
+    "① 佐藤畠山正鋳水島、山﨑橋本平田布袋",
+    "佐藤畠山水島正鋳",
+    "② 布袋平田橋本山﨑、水島正鋳/佐藤畠山",
+    "布袋平田橋本山﨑"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "mizushima", "x": -3, "y": 2 },
+        { "name": "masai", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "hatakeyama", "x": 3, "y": 2 },
+
+        { "name": "hotei", "x": -2, "y": 1 },
+        { "name": "hirata", "x": 0, "y": 1 },
+        { "name": "hashimoto", "x": 2, "y": 1 },
+        { "name": "yamazaki", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
