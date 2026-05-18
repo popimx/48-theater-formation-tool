@@ -1,0 +1,127 @@
+{
+  "song": "ただいま 恋愛中",
+
+  "memo": [
+    "イントロ 水島佐藤、畠山/橋本、平田山﨑、布袋正鋳",
+    "① 水島佐藤、畠山/橋本、水島佐藤、畠山/橋本",
+    "② 平田山﨑、布袋/正鋳、平田山﨑、布袋/正鋳"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "愛し合える確率 天文学的だね〜",
+      "members": [
+        { "name": "hotei", "x": -4, "y": 3 },
+        { "name": "masai", "x": -2, "y": 3 },
+        { "name": "hirata", "x": 2, "y": 3 },
+        { "name": "yamazaki", "x": 4, "y": 3 },
+
+        { "name": "hatakeyama", "x": -3, "y": 2 },
+        { "name": "mizushima", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "hashimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Uh-huh uh-huh どこにいても Uh-huh uh-huh 何をしても Uh-huh すぐに思ってしまうのよ〜",
+      "members": [
+        { "name": "hatakeyama", "x": -3, "y": 3 },
+        { "name": "mizushima", "x": -1, "y": 3 },
+        { "name": "sato", "x": 1, "y": 3 },
+        { "name": "hashimoto", "x": 3, "y": 3 },
+
+        { "name": "hotei", "x": -4, "y": 2 },
+        { "name": "masai", "x": -2, "y": 2 },
+        { "name": "hirata", "x": 2, "y": 2 },
+        { "name": "yamazaki", "x": 4, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Uh-huh uh-huh どこにいても Uh-huh uh-huh 何をしても ただいま 恋愛中〜",
+      "members": [
+        { "name": "hotei", "x": -4, "y": 3 },
+        { "name": "masai", "x": -2, "y": 3 },
+        { "name": "hirata", "x": 2, "y": 3 },
+        { "name": "yamazaki", "x": 4, "y": 3 },
+
+        { "name": "hatakeyama", "x": -3, "y": 2 },
+        { "name": "mizushima", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "hashimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "Uh-huh uh-huh 四六時中 Uh-huh uh-huh 一年中 Uh-huh ずっと 会いたくなるのよ〜",
+      "members": [
+        { "name": "hatakeyama", "x": -4, "y": 3 },
+        { "name": "mizushima", "x": -2, "y": 3 },
+        { "name": "sato", "x": 2, "y": 3 },
+        { "name": "hashimoto", "x": 4, "y": 3 },
+
+        { "name": "hirata", "x": -1, "y": 2 },
+        { "name": "yamazaki", "x": 1, "y": 2 },
+
+        { "name": "hotei", "x": -3, "y": 1 },
+        { "name": "masai", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "Uh-huh uh-huh どこにいても Uh-huh uh-huh 何をしても あなたに首ったけ〜",
+      "members": [
+        { "name": "hotei", "x": -3.75, "y": 3 },
+        { "name": "hirata", "x": -1.5, "y": 3 },
+        { "name": "yamazaki", "x": 1.5, "y": 3 },
+        { "name": "masai", "x": 3.75, "y": 3 },
+
+        { "name": "hatakeyama", "x": -2.25, "y": 2 },
+        { "name": "hashimoto", "x": 2.25, "y": 2 },
+
+        { "name": "mizushima", "x": -0.75, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "Uh-huh uh-huh どこにいても Uh-huh uh-huh 何をしても Uh-huh すぐに思ってしまうのよ〜",
+      "members": [
+        { "name": "hirata", "x": -3, "y": 3 },
+        { "name": "hatakeyama", "x": 0, "y": 3 },
+        { "name": "yamazaki", "x": 3, "y": 3 },
+
+        { "name": "hotei", "x": -1, "y": 2 },
+        { "name": "masai", "x": 1, "y": 2 },
+
+        { "name": "mizushima", "x": -2, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "hashimoto", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "Uh-huh uh-huh 四六時中 Uh-huh uh-huh 一年中 Uh-huh ずっと会いたくなるのよ〜",
+      "members": [
+        { "name": "hirata", "x": -4.5, "y": 3 },
+        { "name": "hatakeyama", "x": 0, "y": 3 },
+        { "name": "yamazaki", "x": 4.5, "y": 3 },
+
+        { "name": "hotei", "x": -1.5, "y": 2 },
+        { "name": "masai", "x": 1.5, "y": 2 },
+
+        { "name": "mizushima", "x": -3, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "hashimoto", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
