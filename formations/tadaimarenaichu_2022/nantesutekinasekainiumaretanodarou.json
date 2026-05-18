@@ -12,11 +12,11 @@
         { "name": "yamazaki", "x": 2.25, "y": 3 },
 
         { "name": "masai", "x": -5.25, "y": 2 },
-        { "name": "hatakeyama", "x": 0.75, "y": 2 },
+        { "name": "hatakeyama", "x": -0.75, "y": 2 },
         { "name": "hotei", "x": 5.25, "y": 2 },
 
         { "name": "hashimoto", "x": -2.25, "y": 1 },
-        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 },
         { "name": "mizushima", "x": 3.75, "y": 1 }
       ]
     },
