@@ -1,0 +1,129 @@
+{
+  "song": "僕らの風",
+
+  "memo": [
+    "① 白鳥花田/伊藤丸山、奥本川村/近藤大賀",
+    "花田伊藤、白鳥/丸山、奥本川村近藤大賀",
+    "② 近藤奥本大賀川村、花田/伊藤、白鳥丸山",
+    "奥本/大賀、近藤/川村、伊藤花田白鳥丸山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "okumoto", "x": -3.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "kawamura", "x": -0.5, "y": 2 },
+        { "name": "oga", "x": 2.5, "y": 2 },
+
+        { "name": "maruyama", "x": -2.5, "y": 1 },
+        { "name": "hanada", "x": -0.5, "y": 1 },
+        { "name": "shiratori", "x": -1.5, "y": 1 },
+        { "name": "ito", "x": -3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kawamura", "x": -1, "y": 3 },
+        { "name": "kondo", "x": 1, "y": 3 },
+
+        { "name": "okumoto", "x": -3, "y": 2 },
+        { "name": "oga", "x": 3, "y": 2 },
+
+        { "name": "shiratori", "x": -4, "y": 1 },
+        { "name": "hanada", "x": -2, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 },
+        { "name": "maruyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "okumoto", "x": -3.75, "y": 3 },
+        { "name": "kawamura", "x": 0, "y": 3 },
+        { "name": "oga", "x": 3.75, "y": 3 },
+
+        { "name": "shiratori", "x": -1.25, "y": 2 },
+        { "name": "kondo", "x": 1.25, "y": 2 },
+
+        { "name": "ito", "x": -2.5, "y": 1 },
+        { "name": "hanada", "x": 0, "y": 1 },
+        { "name": "maruyama", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "揺れる木漏れ日の中 花を見つけようか？〜",
+      "members": [
+        { "name": "shiratori", "x": -4, "y": 2 },
+        { "name": "ito", "x": -2, "y": 2 },
+        { "name": "hanada", "x": 2, "y": 2 },
+        { "name": "maruyama", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -3, "y": 1 },
+        { "name": "okumoto", "x": -1, "y": 1 },
+        { "name": "oga", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "okumoto", "x": -3.75, "y": 3 },
+        { "name": "kawamura", "x": 0, "y": 3 },
+        { "name": "oga", "x": 3.75, "y": 3 },
+
+        { "name": "kondo", "x": -1.25, "y": 2 },
+        { "name": "shiratori", "x": 1.25, "y": 2 },
+
+        { "name": "ito", "x": -2.5, "y": 1 },
+        { "name": "hanada", "x": 0, "y": 1 },
+        { "name": "maruyama", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今 僕らは風になる 遮るもの 何もないんだ〜",
+      "members": [
+        { "name": "kawamura", "x": -3.75, "y": 3 },
+        { "name": "oga", "x": 0, "y": 3 },
+        { "name": "kondo", "x": 3.75, "y": 3 },
+
+        { "name": "maruyama", "x": -1.25, "y": 2 },
+        { "name": "okumoto", "x": 1.25, "y": 2 },
+
+        { "name": "shiratori", "x": -2.5, "y": 1 },
+        { "name": "ito", "x": 0, "y": 1 },
+        { "name": "hanada", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawamura", "x": -3.75, "y": 3 },
+        { "name": "oga", "x": 0, "y": 3 },
+        { "name": "kondo", "x": 3.75, "y": 3 },
+
+        { "name": "maruyama", "x": -1.25, "y": 2 },
+        { "name": "okumoto", "x": 1.25, "y": 2 },
+
+        { "name": "shiratori", "x": -2.5, "y": 1 },
+        { "name": "ito", "x": 0, "y": 1 },
+        { "name": "hanada", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
