@@ -1,0 +1,102 @@
+{
+  "stage": "AKB48「手をつなぎながら」",
+  "stageId": "tewotsunaginagara_2026",
+
+  "members": [
+    {
+      "name": "伊藤百花",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_momoka_2025"
+    },
+    {
+      "name": "奥本カイリ",
+      "display": "奥本",
+      "id": "okumoto",
+      "image": "okumoto_kairi_2025"
+    },
+    {
+      "name": "川村結衣",
+      "display": "川村",
+      "id": "kawamura",
+      "image": "kawamura_yui_2025"
+    },
+    {
+      "name": "白鳥沙怜",
+      "display": "白鳥",
+      "id": "shiratori",
+      "image": "shiratori_sari_2025"
+    },
+    {
+      "name": "花田藍衣",
+      "display": "花田",
+      "id": "hanada",
+      "image": "hanada_mei_2025"
+    },
+    {
+      "name": "大賀彩姫",
+      "display": "大賀",
+      "id": "oga",
+      "image": "oga_saki_2026"
+    },
+    {
+      "name": "近藤沙樹",
+      "display": "近藤",
+      "id": "kondo",
+      "image": "kondo_saki_2025"
+    },
+    {
+      "name": "丸山ひなた",
+      "display": "丸山",
+      "id": "maruyama",
+      "image": "maruyama_hinata_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "僕らの風",
+      "file": "bokuranokaze.json"
+    },
+    {
+      "name": "マンゴーNo.2",
+      "file": "mangono2.json"
+    },
+    {
+      "name": "手をつなぎながら",
+      "file": "tewotsunaginagara.json"
+    },
+    {
+      "name": "チャイムはLOVE SONG",
+      "file": "chimewalovesong.json"
+    },
+    {
+      "name": "Innocence",
+      "file": "innocence.json"
+    },
+    {
+      "name": "ロマンスロケット",
+      "file": "romancerocket.json"
+    },
+    {
+      "name": "恋の傾向と対策",
+      "file": "koinokeikototaisaku.json"
+    },
+    {
+      "name": "大好き",
+      "file": "daisuki.json"
+    },
+    {
+      "name": "ロープの友情",
+      "file": "ropenoyujo.json"
+    },
+    {
+      "name": "火曜日の夜、水曜日の朝",
+      "file": "kayobinoyoru_suiyobinoasa.json"
+    },
+    {
+      "name": "遠くにいても",
+      "file": "tokukuniitemo.json"
+    }
+  ]
+}
