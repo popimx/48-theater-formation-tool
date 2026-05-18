@@ -25,40 +25,6 @@
     },
 
     {
-      "title": "1番Bメロ",
-      "lyrics": "",
-      "members": [
-        { "name": "masai", "x": -2.5, "y": 3 },
-        { "name": "hotei", "x": 2.5, "y": 3 },
-
-        { "name": "sato", "x": -1.5, "y": 2 },
-        { "name": "mizushima", "x": 1.5, "y": 2 },
-
-        { "name": "hashimoto", "x": -3.5, "y": 1 },
-        { "name": "yamazaki", "x": -0.5, "y": 1 },
-        { "name": "hatakeyama", "x": 0.5, "y": 1 },
-        { "name": "hirata", "x": 3.5, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "1番サビ",
-      "lyrics": "",
-      "members": [
-        { "name": "masai", "x": -2.5, "y": 3 },
-        { "name": "hotei", "x": 2.5, "y": 3 },
-
-        { "name": "sato", "x": -1.5, "y": 2 },
-        { "name": "mizushima", "x": 1.5, "y": 2 },
-
-        { "name": "hashimoto", "x": -3.5, "y": 1 },
-        { "name": "yamazaki", "x": -0.5, "y": 1 },
-        { "name": "hatakeyama", "x": 0.5, "y": 1 },
-        { "name": "hirata", "x": 3.5, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番サビ",
       "lyrics": "",
       "members": [
