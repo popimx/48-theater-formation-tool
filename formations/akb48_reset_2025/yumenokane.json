@@ -1,0 +1,126 @@
+{
+  "song": "夢の鐘",
+
+  "memo": [
+    "① 大盛正鋳、徳永/田口/長友、岩立武藤坂川",
+    "② 岩立/武藤坂川、大盛/正鋳、徳永田口長友"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "taguchi", "x": -0.5, "y": 3 },
+
+        { "name": "iwatate", "x": -3, "y": 2 },
+        { "name": "sakagawa", "x": 0.5, "y": 2 },
+        { "name": "muto", "x": 3, "y": 2 },
+
+        { "name": "tokunaga", "x": -4.5, "y": 1 },
+        { "name": "omori", "x": -1.5, "y": 1 },
+        { "name": "masai", "x": 1.5, "y": 1 },
+        { "name": "nagatomo", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "taguchi", "x": -0.5, "y": 3 },
+
+        { "name": "iwatate", "x": -3, "y": 2 },
+        { "name": "sakagawa", "x": 0.5, "y": 2 },
+        { "name": "muto", "x": 3, "y": 2 },
+
+        { "name": "tokunaga", "x": -4.5, "y": 1 },
+        { "name": "omori", "x": -1.5, "y": 1 },
+        { "name": "masai", "x": 1.5, "y": 1 },
+        { "name": "nagatomo", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "この世界の神の存在を 疑った〜",
+      "members": [
+        { "name": "tokunaga", "x": -5, "y": 2 },
+        { "name": "iwatate", "x": -4, "y": 2 },
+        { "name": "muto", "x": 1, "y": 2 },
+        { "name": "sakagawa", "x": 2, "y": 2 },
+
+        { "name": "omori", "x": -2, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "masai", "x": 4, "y": 1 },
+        { "name": "nagatomo", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "夢の鐘を聞かせるんだ 荒む心〜",
+      "members": [
+        { "name": "tokunaga", "x": -3.75, "y": 3 },
+        { "name": "nagatomo", "x": 3.75, "y": 3 },
+
+        { "name": "iwatate", "x": -5.25, "y": 2 },
+        { "name": "muto", "x": -2.25, "y": 2 },
+        { "name": "taguchi", "x": 2.25, "y": 2 },
+        { "name": "sakagawa", "x": 5.25, "y": 2 },
+
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "masai", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "夢の鐘を聞かせるんだ 風に乗せて〜",
+      "members": [
+        { "name": "omori", "x": -0.75, "y": 3 },
+        { "name": "masai", "x": 0.75, "y": 3 },
+
+        { "name": "iwatate", "x": -5.25, "y": 2 },
+        { "name": "muto", "x": -2.25, "y": 2 },
+        { "name": "taguchi", "x": 2.25, "y": 2 },
+        { "name": "sakagawa", "x": 5.25, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.75, "y": 1 },
+        { "name": "nagatomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "夢の鐘を打ち続けろ！廃墟の上〜",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "masai", "x": -2.25, "y": 1 },
+        { "name": "tokunaga", "x": -0.75, "y": 1 },
+        { "name": "taguchi", "x": 3.75, "y": 1 },
+        { "name": "nagatomo", "x": 0.75, "y": 1 },
+        { "name": "omori", "x": 2.25, "y": 1 },
+        { "name": "muto", "x": 3.75, "y": 1 },
+        { "name": "iwatate", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "夢の鐘を打ち続けろ！あきらめるな！〜",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 3 },
+        { "name": "tokunaga", "x": -0.75, "y": 3 },
+        { "name": "iwatate", "x": 5.25, "y": 3 },
+
+        { "name": "taguchi", "x": -3.75, "y": 2 },
+        { "name": "nagatomo", "x": 0.75, "y": 2 },
+        { "name": "muto", "x": 3.75, "y": 2 },
+
+        { "name": "masai", "x": -2.25, "y": 1 },
+        { "name": "omori", "x": 2.25, "y": 1 }
+      ]
+    }
+  ]
+}
