@@ -1,0 +1,52 @@
+{
+  "title": "潮風の招待状",
+
+  "memo": [
+    "① 伊藤井上佐藤鎌田、菅原北川篠原",
+    "② 池田奥野藤本、松本荒野",
+    "②サビ後 井上佐藤伊藤鎌田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "潮風の招待状 もらったよ おばあちゃんの家まで〜",
+      "members": [
+        { "name": "matsumoto", "x": -1, "y": 3 },
+        { "name": "kitagawa", "x": 1, "y": 3 },
+
+        { "name": "ikeda", "x": -4, "y": 2 },
+        { "name": "arano", "x": -2, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 },
+        { "name": "fujimoto", "x": 4, "y": 2 },
+
+        { "name": "sugawara", "x": -5, "y": 1 },
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "inoue", "x": -1, "y": 1 },
+        { "name": "sato", "x": 1, "y": 1 },
+        { "name": "kamata", "x": 3, "y": 1 },
+        { "name": "shinohara", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "matsumoto", "x": -5.5, "y": 3 },
+        { "name": "arano", "x": -3.5, "y": 3 },
+        { "name": "ikeda", "x": 4.5, "y": 3 },
+        { "name": "fujimoto", "x": 6.5, "y": 3 },
+
+        { "name": "sugawara", "x": -6.5, "y": 2 },
+        { "name": "inoue", "x": -4.5, "y": 2 },
+        { "name": "kitagawa", "x": -1.5, "y": 2 },
+        { "name": "shinohara", "x": 0.5, "y": 2 },
+        { "name": "kamata", "x": 3.5, "y": 2 },
+        { "name": "okuno", "x": 5.5, "y": 2 },
+
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "ito", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
