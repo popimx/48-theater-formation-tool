@@ -1,0 +1,60 @@
+{
+  "song": "Innocence",
+
+  "memo": [
+    "① 大賀、奥本、大賀伊藤",
+    "② 伊藤、大賀奥本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiratori", "x": -3.5, "y": 3 },
+        { "name": "okumoto", "x": -2.5, "y": 3 },
+        { "name": "maruyama", "x": -1.5, "y": 3 },
+        { "name": "kawamura", "x": -0.5, "y": 3 },
+
+        { "name": "oga", "x": 0.5, "y": 3 },
+        { "name": "hanada", "x": 1.5, "y": 3 },
+        { "name": "kondo", "x": 2.5, "y": 3 },
+        { "name": "ito", "x": 3.5, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "maruyama", "x": -4.5, "y": 3 },
+        { "name": "oga", "x": -0.5, "y": 3 },
+        { "name": "hanada", "x": 4.5, "y": 3 },
+
+        { "name": "kawamura", "x": -3, "y": 2 },
+        { "name": "okumoto", "x": 0.5, "y": 2 },
+        { "name": "ito", "x": 3, "y": 2 },
+
+        { "name": "shiratori", "x": -1.5, "y": 1 },
+        { "name": "kondo", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "ねえ このままでいてよ Crazy for you! 〜",
+      "members": [
+        { "name": "kawamura", "x": 0, "y": 3 },
+
+        { "name": "kondo", "x": -3, "y": 2 },
+        { "name": "maruyama", "x": -1, "y": 2 },
+        { "name": "shiratori", "x": 1, "y": 2 },
+        { "name": "okumoto", "x": 3, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "hanada", "x": 0, "y": 1 },
+        { "name": "oga", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
