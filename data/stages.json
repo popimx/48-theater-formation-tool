@@ -25,6 +25,11 @@
     "file": "stages/ske48_theaternoMegami_2025.json"
   },
   {
+    "stage": "SKE48「RESET」",
+    "stageId": "ske48_reset_2025",
+    "file": "stages/ske48_reset_2025.json"
+  },
+  {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
     "file": "stages/metcharabuyu.json"
