@@ -1,0 +1,130 @@
+{
+  "stage": "SKE48「シアターの女神」",
+  "stageId": "ske48_theaternoMegami_2025",
+
+  "members": [
+    {
+      "name": "荒野姫楓",
+      "display": "荒野",
+      "id": "arano",
+      "image": "arano_himeka_2025"
+    },
+    {
+      "name": "池田楓",
+      "display": "池田",
+      "id": "ikeda",
+      "image": "ikeda_kaede_2025"
+    },
+    {
+      "name": "伊藤実希",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_miki_2025"
+    },
+    {
+      "name": "井上瑠夏",
+      "display": "井上",
+      "id": "inoue",
+      "image": "inoue_ruka_2025"
+    },
+    {
+      "name": "奥野心羽",
+      "display": "奥野",
+      "id": "okuno",
+      "image": "okuno_kokoha_2025"
+    },
+    {
+      "name": "鎌田菜月",
+      "display": "鎌田",
+      "id": "kamata",
+      "image": "kamata_natsuki_2025"
+    },
+    {
+      "name": "北川愛乃",
+      "display": "北川",
+      "id": "kitagawa",
+      "image": "kitagawa_yoshino_2025"
+    },
+    {
+      "name": "佐藤佳穂",
+      "display": "佐藤",
+      "id": "sato",
+      "image": "sato_kaho_2025"
+    },
+    {
+      "name": "篠原京香",
+      "display": "篠原",
+      "id": "shinohara",
+      "image": "shinohara_kyoka_2025"
+    },
+    {
+      "name": "菅原茉椰",
+      "display": "菅原",
+      "id": "sugawara",
+      "image": "sugawara_maya_2025"
+    },
+    {
+      "name": "藤本冬香",
+      "display": "藤本",
+      "id": "fujimoto",
+      "image": "fujimoto_fuyuka_2025"
+    },
+    {
+      "name": "松本慈子",
+      "display": "松本",
+      "id": "matsumoto",
+      "image": "matsumoto_chikako_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "勇気のハンマー",
+      "file": "yukinohammer.json"
+    },
+    {
+      "name": "隕石の確率",
+      "file": "insekinokakuritsu.json"
+    },
+    {
+      "name": "愛のストリッパー",
+      "file": "ainostripper.json"
+    },
+    {
+      "name": "シアターの女神",
+      "file": "theaternoMegami.json"
+    },
+    {
+      "name": "ロッカールームボーイ",
+      "file": "lockerroomboy.json"
+    },
+    {
+      "name": "100メートルコンビニ",
+      "file": "100meterconveni.json"
+    },
+    {
+      "name": "好き 好き 好き",
+      "file": "suki_suki_suki.json"
+    },
+    {
+      "name": "サヨナラのカナシバリ",
+      "file": "sayonaranokanashibari.json"
+    },
+    {
+      "name": "潮風の招待状",
+      "file": "shiokazenoshotaijo.json"
+    },
+    {
+      "name": "オネストマン",
+      "file": "honestman.json"
+    },
+    {
+      "name": "チームKⅡ推し",
+      "file": "teamk2oshi.json"
+    },
+    {
+      "name": "僕たちの紙飛行機",
+      "file": "bokutachinokamihikoki.json"
+    }
+  ]
+}
