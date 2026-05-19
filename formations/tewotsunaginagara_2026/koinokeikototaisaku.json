@@ -1,0 +1,61 @@
+{
+  "song": "恋の傾向と対策",
+
+  "memo": [
+    "① 丸山、伊藤 (花田) (近藤)、奥本 (川村)",
+    "丸山伊藤、白鳥",
+    "② 花田 (大賀)、近藤 (白鳥)、川村 (丸山) (奥本)",
+    "花田/近藤、大賀 (伊藤)"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "恋の傾向と対策 教えて どんな参考書がいいの? 〜",
+      "members": [
+        { "name": "oga", "x": -4, "y": 2 },
+        { "name": "kondo", "x": -1, "y": 2 },
+        { "name": "hanada", "x": 1, "y": 2 },
+        { "name": "maruyama", "x": 4, "y": 2 },
+
+        { "name": "kawamura", "x": -5.5, "y": 1 },
+        { "name": "okumoto", "x": -2.5, "y": 1 },
+        { "name": "shiratori", "x": 2.5, "y": 1 },
+        { "name": "ito", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "恋の傾向と対策 教えて どんな言葉かければいい? 〜",
+      "members": [
+        { "name": "oga", "x": -3, "y": 3 },
+        { "name": "kondo", "x": -0.5, "y": 3 },
+        { "name": "maruyama", "x": 3, "y": 3 },
+
+        { "name": "kawamura", "x": -4.5, "y": 2 },
+        { "name": "hanada", "x": 0.5, "y": 2 },
+        { "name": "ito", "x": 4.5, "y": 2 },
+
+        { "name": "okumoto", "x": -2, "y": 1 },
+        { "name": "shiratori", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "shiratori", "x": -1, "y": 2 },
+        { "name": "okumoto", "x": 1, "y": 2 },
+        { "name": "maruyama", "x": 3, "y": 2 },
+
+        { "name": "hanada", "x": -4, "y": 1 },
+        { "name": "oga", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 },
+        { "name": "kondo", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
