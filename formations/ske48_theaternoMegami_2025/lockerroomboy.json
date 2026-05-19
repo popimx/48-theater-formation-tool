@@ -1,0 +1,143 @@
+{
+  "title": "ロッカールームボーイ",
+
+  "memo": [
+    "① 北川、池田篠原、藤本奥野",
+    "② 池田北川、篠原/藤本奥野、池田北川",
+    "篠原奥野藤本",
+    "②サビ後 奥野北川池田、藤本/篠原"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "fujimoto", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "shinohara", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ラクロスの練習が終わった夕暮れ時〜",
+      "members": [
+        { "name": "fujimoto", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "shinohara", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "ロッカールームボーイ 君はベンチで背中を丸めて... 〜",
+      "members": [
+        { "name": "shinohara", "x": -2, "y": 2 },
+        { "name": "fujimoto", "x": 2, "y": 2 },
+
+        { "name": "ikeda", "x": -4, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "okuno", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "光と影を作るもの 涙の通り道〜",
+      "members": [
+        { "name": "kitagawa", "x": 0, "y": 3 },
+
+        { "name": "shinohara", "x": -1.5, "y": 2 },
+        { "name": "fujimoto", "x": 1.5, "y": 2 },
+
+        { "name": "ikeda", "x": -3, "y": 1 },
+        { "name": "okuno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "ロッカールームボーイ 君は自分で立ち上がるしかない〜",
+      "members": [
+        { "name": "fujimoto", "x": 4, "y": 5 },
+
+        { "name": "shinohara", "x": 2, "y": 4 },
+
+        { "name": "kitagawa", "x": 0, "y": 3 },
+
+        { "name": "okuno", "x": -2, "y": 2 },
+
+        { "name": "ikeda", "x": -4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "同じ痛みを知った私が涙拭った〜",
+      "members": [
+        { "name": "ikeda", "x": -2.5, "y": 2 },
+        { "name": "fujimoto", "x": 2.5, "y": 2 },
+
+        { "name": "okuno", "x": -5, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "shinohara", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "闘う相手は そう君自身なんだ〜",
+      "members": [
+        { "name": "ikeda", "x": -2.5, "y": 3 },
+        { "name": "okuno", "x": 2.5, "y": 3 },
+
+        { "name": "kitagawa", "x": 0, "y": 2 },
+
+        { "name": "fujimoto", "x": -5, "y": 1 },
+        { "name": "shinohara", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ロッカールームボーイ 君は孤独に震えているけど... 〜",
+      "members": [
+        { "name": "okuno", "x": -8, "y": 1 },
+        { "name": "shinohara", "x": -4, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "fujimoto", "x": 4, "y": 1 },
+        { "name": "ikeda", "x": 8, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "夢にまた火がつくまで〜",
+      "members": [
+        { "name": "okuno", "x": -5, "y": 1 },
+        { "name": "shinohara", "x": -2.5, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "fujimoto", "x": 2.5, "y": 1 },
+        { "name": "ikeda", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "慰めはしない〜",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 1 },
+        { "name": "shinohara", "x": -2, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "fujimoto", "x": 2, "y": 1 },
+        { "name": "ikeda", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
