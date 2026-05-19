@@ -1,0 +1,185 @@
+{
+  "title": "100メートルコンビニ",
+
+  "memo": [
+    "① 佐藤、井上/伊藤、北川菅原鎌田",
+    "篠原藤本/松本、池田/荒野奥野、篠原藤本/松本",
+    "② 北川/菅原/鎌田、篠原藤本松本、荒野/奥野",
+    "井上佐藤伊藤、北川/池田/鎌田、井上佐藤伊藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "shinohara", "x": -2, "y": 4 },
+        { "name": "ikeda", "x": 0, "y": 4 },
+        { "name": "arano", "x": 2, "y": 4 },
+
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "sugawara", "x": -1, "y": 3 },
+        { "name": "kamata", "x": 1, "y": 3 },
+        { "name": "okuno", "x": 3, "y": 3 },
+
+        { "name": "kitagawa", "x": -2, "y": 2 },
+        { "name": "sato", "x": 0, "y": 2 },
+        { "name": "matsumoto", "x": 2, "y": 2 },
+
+        { "name": "inoue", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ふいの着メロで あなたから呼び出された夜〜",
+      "members": [
+        { "name": "shinohara", "x": -5, "y": 3 },
+        { "name": "kitagawa", "x": -2.5, "y": 3 },
+        { "name": "ikeda", "x": 0, "y": 3 },
+        { "name": "arano", "x": 2.5, "y": 3 },
+        { "name": "okuno", "x": 5, "y": 3 },
+
+        { "name": "fujimoto", "x": -4, "y": 2 },
+        { "name": "sugawara", "x": -1.5, "y": 2 },
+        { "name": "kamata", "x": 1.5, "y": 2 },
+        { "name": "matsumoto", "x": 4, "y": 2 },
+
+        { "name": "inoue", "x": -3, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "愚かだってわかっていても 好きなもんはしょうがない〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 5 },
+        { "name": "arano", "x": 3, "y": 5 },
+
+        { "name": "ikeda", "x": -4.5, "y": 4 },
+        { "name": "kitagawa", "x": 0, "y": 4 },
+        { "name": "matsumoto", "x": 4.5, "y": 4 },
+
+        { "name": "shinohara", "x": -6, "y": 3 },
+        { "name": "sugawara", "x": -2, "y": 3 },
+        { "name": "kamata", "x": 2, "y": 3 },
+        { "name": "okuno", "x": 6, "y": 3 },
+
+        { "name": "inoue", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "sato", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 5 },
+        { "name": "arano", "x": 3, "y": 5 },
+
+        { "name": "ikeda", "x": -4.5, "y": 4 },
+        { "name": "kitagawa", "x": 0, "y": 4 },
+        { "name": "matsumoto", "x": 4.5, "y": 4 },
+
+        { "name": "shinohara", "x": -6, "y": 3 },
+        { "name": "sugawara", "x": -2, "y": 3 },
+        { "name": "kamata", "x": 2, "y": 3 },
+        { "name": "okuno", "x": 6, "y": 3 },
+
+        { "name": "inoue", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "sato", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "members": [
+        { "name": "fujimoto", "x": 0, "y": 4 },
+
+        { "name": "arano", "x": -4, "y": 3 },
+        { "name": "ikeda", "x": -1.5, "y": 3 },
+        { "name": "sato", "x": 1.5, "y": 3 },
+        { "name": "okuno", "x": 4, "y": 3 },
+
+        { "name": "kitagawa", "x": -5.5, "y": 2 },
+        { "name": "inoue", "x": -3, "y": 2 },
+        { "name": "sugawara", "x": 0, "y": 2 },
+        { "name": "ito", "x": 3, "y": 2 },
+        { "name": "kamata", "x": 5.5, "y": 2 },
+
+        { "name": "shinohara", "x": -7, "y": 1 },
+        { "name": "matsumoto", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "無理なこと言って いつも私を困らせるの〜",
+      "members": [
+        { "name": "fujimoto", "x": 0, "y": 4 },
+
+        { "name": "arano", "x": -4, "y": 3 },
+        { "name": "ikeda", "x": -1.5, "y": 3 },
+        { "name": "sato", "x": 1.5, "y": 3 },
+        { "name": "okuno", "x": 4, "y": 3 },
+
+        { "name": "kitagawa", "x": -5.5, "y": 2 },
+        { "name": "inoue", "x": -3, "y": 2 },
+        { "name": "sugawara", "x": 0, "y": 2 },
+        { "name": "ito", "x": 3, "y": 2 },
+        { "name": "kamata", "x": 5.5, "y": 2 },
+
+        { "name": "shinohara", "x": -7, "y": 1 },
+        { "name": "matsumoto", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "そろそろ行かなきゃ UターンLOVE〜",
+      "members": [
+        { "name": "arano", "x": -5, "y": 4 },
+        { "name": "ikeda", "x": 0, "y": 4 },
+        { "name": "okuno", "x": 5, "y": 4 },
+
+        { "name": "shinohara", "x": -5, "y": 3 },
+        { "name": "fujimoto", "x": 0, "y": 3 },
+        { "name": "matsumoto", "x": 5, "y": 3 },
+
+        { "name": "kitagawa", "x": -5, "y": 2 },
+        { "name": "sugawara", "x": 0, "y": 2 },
+        { "name": "kamata", "x": 5, "y": 2 },
+
+        { "name": "inoue", "x": -5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "ito", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "コンビニは愛の踏み絵 ここまで出て来いよなんて〜",
+      "members": [
+        { "name": "shinohara", "x": -3.75, "y": 3 },
+        { "name": "ikeda", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 3.75, "y": 3 },
+
+        { "name": "arano", "x": -6.25, "y": 2 },
+        { "name": "kitagawa", "x": -1.25, "y": 2 },
+        { "name": "fujimoto", "x": 1.25, "y": 2 },
+        { "name": "matsumoto", "x": 6.25, "y": 2 },
+
+        { "name": "sugawara", "x": -5, "y": 1 },
+        { "name": "inoue", "x": -2.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2.5, "y": 1 },
+        { "name": "kamata", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
