@@ -106,18 +106,6 @@
 
     {
       "title": "ラストサビ ①",
-      "lyrics": "ロッカールームボーイ 君は孤独に震えているけど... 〜",
-      "members": [
-        { "name": "okuno", "x": -8, "y": 1 },
-        { "name": "shinohara", "x": -4, "y": 1 },
-        { "name": "kitagawa", "x": 0, "y": 1 },
-        { "name": "fujimoto", "x": 4, "y": 1 },
-        { "name": "ikeda", "x": 8, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "ラストサビ ②",
       "lyrics": "夢にまた火がつくまで〜",
       "members": [
         { "name": "okuno", "x": -5, "y": 1 },
@@ -129,7 +117,7 @@
     },
 
     {
-      "title": "ラストサビ ③",
+      "title": "ラストサビ ②",
       "lyrics": "慰めはしない〜",
       "members": [
         { "name": "okuno", "x": -4, "y": 1 },
