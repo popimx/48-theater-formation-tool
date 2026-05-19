@@ -29,6 +29,7 @@
         { "name": "ito", "x": 2.5, "y": 1 }
       ]
     },
+    
     {
       "title": "1番Aメロ ②",
       "lyrics": "言うなんて 子どもじみてる〜",
@@ -50,6 +51,7 @@
         { "name": "ikeda", "x": 2.5, "y": 1 }
       ]
     },
+    
     {
       "title": "1番Aメロ ③",
       "lyrics": "あなたにやさしくされる度 冷たくしてしまうのは〜",
@@ -71,25 +73,7 @@
         { "name": "fujimoto", "x": 2.5, "y": 1 }
       ]
     },
-    {
-      "title": "1番サビ",
-      "members": [
-        { "name": "kitagawa", "x": -8, "y": 3 },
-        { "name": "okuno", "x": -4.5, "y": 3 },
-        { "name": "shinohara", "x": 1, "y": 3 },
-        { "name": "arano", "x": 4.5, "y": 3 },
-        { "name": "inoue", "x": 8, "y": 3 },
-
-        { "name": "ikeda", "x": -3, "y": 2 },
-        { "name": "sato", "x": 0, "y": 2 },
-        { "name": "matsumoto", "x": 3, "y": 2 },
-
-        { "name": "ito", "x": -5, "y": 1 },
-        { "name": "sugawara", "x": -1.5, "y": 1 },
-        { "name": "fujimoto", "x": 1.5, "y": 1 },
-        { "name": "kamata", "x": 5, "y": 1 }
-      ]
-    },
+   
     {
       "title": "2番Aメロ ①",
       "lyrics": "誰にも\"なりたい自分\"がいて どこかで見栄を張ったり〜",
@@ -111,6 +95,7 @@
         { "name": "okuno", "x": 1, "y": 1 }
       ]
     },
+    
     {
       "title": "2番Aメロ ②",
       "lyrics": "嘘ついて 誤魔化してるよ〜",
@@ -132,6 +117,7 @@
         { "name": "okuno", "x": 1, "y": 1 }
       ]
     },
+    
     {
       "title": "2番サビ ①",
       "lyrics": "愛のステージで 一人きり〜",
@@ -153,6 +139,7 @@
         { "name": "matsumoto", "x": 5.5, "y": 1 }
       ]
     },
+    
     {
       "title": "2番サビ ②",
       "lyrics": "それが今の私よ〜",
@@ -173,6 +160,7 @@
         { "name": "matsumoto", "x": 6, "y": 1 }
       ]
     },
+    
     {
       "title": "2番サビ後",
       "members": [
@@ -192,6 +180,7 @@
         { "name": "matsumoto", "x": 5.5, "y": 1 }
       ]
     },
+    
     {
       "title": "ラストサビ",
       "lyrics": "すべて 脱ぎ捨てたまま〜",
@@ -212,6 +201,7 @@
         { "name": "kamata", "x": 7, "y": 1 }
       ]
     },
+    
     {
       "title": "ラストサビ後 ①",
       "members": [
@@ -231,6 +221,7 @@
         { "name": "kamata", "x": 7, "y": 1 }
       ]
     },
+    
     {
       "title": "ラストサビ後 ②",
       "members": [
@@ -243,6 +234,7 @@
         { "name": "sugawara", "x": 0, "y": 1 }
       ]
     },
+    
     {
       "title": "ラスト",
       "members": [
