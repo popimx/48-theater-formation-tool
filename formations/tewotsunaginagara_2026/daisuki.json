@@ -1,0 +1,93 @@
+{
+  "song": "大好き",
+
+  "memo": [
+    "① 川村花田、近藤/大賀",
+    "② 奥本/伊藤、白鳥/丸山"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "oga", "x": 1, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+
+        { "name": "kondo", "x": -2, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+
+        { "name": "shiratori", "x": -5, "y": 1 },
+        { "name": "okumoto", "x": -4, "y": 1 },
+        { "name": "hanada", "x": 4, "y": 1 },
+        { "name": "maruyama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "oga", "x": 1, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+
+        { "name": "kondo", "x": -2, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+
+        { "name": "shiratori", "x": -5, "y": 1 },
+        { "name": "okumoto", "x": -4, "y": 1 },
+        { "name": "hanada", "x": 4, "y": 1 },
+        { "name": "maruyama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "oga", "x": 1, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+
+        { "name": "kondo", "x": -2, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+
+        { "name": "shiratori", "x": -5, "y": 1 },
+        { "name": "okumoto", "x": -4, "y": 1 },
+        { "name": "hanada", "x": 4, "y": 1 },
+        { "name": "maruyama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiratori", "x": -4, "y": 2 },
+        { "name": "okumoto", "x": -2, "y": 2 },
+        { "name": "ito", "x": 2, "y": 2 },
+        { "name": "maruyama", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -3, "y": 1 },
+        { "name": "kawamura", "x": -1, "y": 1 },
+        { "name": "hanada", "x": 1, "y": 1 },
+        { "name": "oga", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kondo", "x": -3, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+        { "name": "hanada", "x": 1, "y": 2 },
+        { "name": "oga", "x": 3, "y": 2 },
+
+        { "name": "shiratori", "x": -4, "y": 1 },
+        { "name": "okumoto", "x": -2, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 },
+        { "name": "maruyama", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
