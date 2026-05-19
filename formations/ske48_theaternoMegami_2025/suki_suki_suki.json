@@ -1,0 +1,135 @@
+{
+  "title": "好き 好き 好き",
+
+  "memo": [
+    "① 井上菅原、篠原/荒野、伊藤/池田、奥野佐藤",
+    "鎌田北川、藤本松本",
+    "② 北川佐藤、奥野鎌田、藤本伊藤松本、篠原井上",
+    "菅原/荒野、篠原/池田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "つき合って2カ月は経ったけど 何にも起きない私たち〜",
+      "members": [
+        { "name": "kitagawa", "x": -5.5, "y": 3 },
+        { "name": "okuno", "x": -3.5, "y": 3 },
+        { "name": "ito", "x": -1.5, "y": 3 },
+        { "name": "ikeda", "x": 1.5, "y": 3 },
+        { "name": "sato", "x": 3.5, "y": 3 },
+        { "name": "matsumoto", "x": 5.5, "y": 3 },
+
+        { "name": "shinohara", "x": -2.5, "y": 2 },
+        { "name": "arano", "x": 2.5, "y": 2 },
+
+        { "name": "kamata", "x": -5, "y": 1 },
+        { "name": "inoue", "x": -1, "y": 1 },
+        { "name": "sugawara", "x": 1, "y": 1 },
+        { "name": "fujimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "友達以上に なろうとしないの〜",
+      "members": [
+        { "name": "okuno", "x": -1, "y": 3 },
+        { "name": "sato", "x": 1, "y": 3 },
+
+        { "name": "kamata", "x": -7.5, "y": 1 },
+        { "name": "kitagawa", "x": -6, "y": 1 },
+        { "name": "sugawara", "x": -4.5, "y": 1 },
+        { "name": "shinohara", "x": -3, "y": 1 },
+        { "name": "ito", "x": -1.5, "y": 1 },
+        { "name": "ikeda", "x": 1.5, "y": 1 },
+        { "name": "arano", "x": 3, "y": 1 },
+        { "name": "inoue", "x": 4.5, "y": 1 },
+        { "name": "fujimoto", "x": 6, "y": 1 },
+        { "name": "matsumoto", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "襲いかかってよ こんな関係って〜",
+      "members": [
+        { "name": "okuno", "x": -1, "y": 3 },
+        { "name": "sato", "x": 1, "y": 3 },
+
+        { "name": "kamata", "x": -7.5, "y": 2 },
+        { "name": "kitagawa", "x": -6, "y": 2 },
+        { "name": "fujimoto", "x": 6, "y": 2 },
+        { "name": "matsumoto", "x": 7.5, "y": 2 },
+
+        { "name": "sugawara", "x": -4.5, "y": 1 },
+        { "name": "shinohara", "x": -3, "y": 1 },
+        { "name": "ito", "x": -1.5, "y": 1 },
+        { "name": "ikeda", "x": 1.5, "y": 1 },
+        { "name": "arano", "x": 3, "y": 1 },
+        { "name": "inoue", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "親友にどこまで進んだのか? いろいろ聞かれて困るのよ〜",
+      "members": [
+        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "okuno", "x": -3, "y": 2 },
+        { "name": "kitagawa", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "kamata", "x": 3, "y": 2 },
+        { "name": "matsumoto", "x": 5, "y": 2 },
+
+        { "name": "fujimoto", "x": -6, "y": 1 },
+        { "name": "shinohara", "x": -4, "y": 1 },
+        { "name": "sugawara", "x": -2, "y": 1 },
+        { "name": "inoue", "x": 2, "y": 1 },
+        { "name": "arano", "x": 4, "y": 1 },
+        { "name": "ikeda", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "やっと2人は 出会えたんだから いちゃいちゃと くっつきたいのよ〜",
+      "members": [
+        { "name": "arano", "x": -5.25, "y": 2 },
+        { "name": "ikeda", "x": -2.25, "y": 2 },
+        { "name": "inoue", "x": -0.75, "y": 2 },
+        { "name": "sugawara", "x": 0.75, "y": 2 },
+        { "name": "shinohara", "x": 2.25, "y": 2 },
+        { "name": "okuno", "x": 5.25, "y": 2 },
+
+        { "name": "matsumoto", "x": -4.5, "y": 1 },
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "sato", "x": -1.5, "y": 1 },
+        { "name": "kamata", "x": 1.5, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "kamata", "x": -5.5, "y": 4 },
+        { "name": "ikeda", "x": -3.5, "y": 4 },
+        { "name": "arano", "x": 0.5, "y": 4 },
+        { "name": "kitagawa", "x": 2.5, "y": 4 },
+
+        { "name": "inoue", "x": -4.5, "y": 3 },
+        { "name": "sugawara", "x": 1.5, "y": 3 },
+
+        { "name": "shinohara", "x": -2.5, "y": 2 },
+        { "name": "fujimoto", "x": -0.5, "y": 2 },
+        { "name": "matsumoto", "x": 3.5, "y": 2 },
+        { "name": "okuno", "x": 5.5, "y": 2 },
+
+        { "name": "sato", "x": -1.5, "y": 1 },
+        { "name": "ito", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
