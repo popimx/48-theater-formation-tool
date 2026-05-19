@@ -1,0 +1,95 @@
+{
+  "title": "サヨナラのカナシバリ",
+
+  "memo": [
+    "① 鎌田井上池田、篠原佐藤菅原、荒野北川伊藤",
+    "藤本松本奥野",
+    "② 荒野北川伊藤、藤本松本奥野、鎌田池田井上",
+    "篠原菅原佐藤、井上池田鎌田、奥野松本藤本",
+    "篠原菅原佐藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "members": [
+        { "name": "kamata", "x": -5.5, "y": 4 },
+        { "name": "ikeda", "x": -3.5, "y": 4 },
+        { "name": "arano", "x": 0.5, "y": 4 },
+        { "name": "kitagawa", "x": 2.5, "y": 4 },
+
+        { "name": "inoue", "x": -4.5, "y": 3 },
+        { "name": "sugawara", "x": 1.5, "y": 3 },
+
+        { "name": "shinohara", "x": -2.5, "y": 2 },
+        { "name": "fujimoto", "x": -0.5, "y": 2 },
+        { "name": "matsumoto", "x": 3.5, "y": 2 },
+        { "name": "okuno", "x": 5.5, "y": 2 },
+
+        { "name": "sato", "x": -1.5, "y": 1 },
+        { "name": "ito", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "members": [
+        { "name": "kamata", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": 0, "y": 3 },
+        { "name": "kitagawa", "x": 3, "y": 3 },
+
+        { "name": "inoue", "x": -4, "y": 2 },
+        { "name": "arano", "x": -1.5, "y": 2 },
+        { "name": "sugawara", "x": 1.5, "y": 2 },
+        { "name": "matsumoto", "x": 4, "y": 2 },
+
+        { "name": "shinohara", "x": -5, "y": 1 },
+        { "name": "sato", "x": -2.5, "y": 1 },
+        { "name": "fujimoto", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2.5, "y": 1 },
+        { "name": "okuno", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "inoue", "x": -3, "y": 4 },
+        { "name": "matsumoto", "x": -1, "y": 4 },
+        { "name": "kitagawa", "x": 6, "y": 4 },
+
+        { "name": "ikeda", "x": -2, "y": 3 },
+        { "name": "shinohara", "x": 5, "y": 3 },
+        { "name": "ito", "x": 7, "y": 3 },
+
+        { "name": "okuno", "x": -7, "y": 2 },
+        { "name": "fujimoto", "x": -5, "y": 2 },
+        { "name": "arano", "x": 1, "y": 2 },
+        { "name": "sato", "x": 3, "y": 2 },
+
+        { "name": "kamata", "x": -6, "y": 1 },
+        { "name": "sugawara", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "あなただけ行ってしまう 1人 忘れられたベンチで〜",
+      "members": [
+        { "name": "ikeda", "x": -5, "y": 2 },
+        { "name": "shinohara", "x": -3, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "okuno", "x": 1, "y": 2 },
+        { "name": "kamata", "x": 3, "y": 2 },
+        { "name": "sugawara", "x": 5, "y": 2 },
+
+        { "name": "inoue", "x": -6, "y": 1 },
+        { "name": "matsumoto", "x": -4, "y": 1 },
+        { "name": "kitagawa", "x": -2, "y": 1 },
+        { "name": "fujimoto", "x": 2, "y": 1 },
+        { "name": "arano", "x": 4, "y": 1 },
+        { "name": "sato", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
