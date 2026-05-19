@@ -1,0 +1,196 @@
+{
+  "song": "ロマンスロケット",
+
+  "memo": [
+    "① 大賀白鳥、奥本伊藤、丸山川村、花田/近藤",
+    "白鳥大賀",
+    "② 近藤/花田、白鳥/大賀、伊藤奥本、丸山川村",
+    "伊藤奥本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hanada", "x": -1, "y": 4 },
+        { "name": "kawamura", "x": 1, "y": 4 },
+
+        { "name": "maruyama", "x": -1, "y": 3 },
+        { "name": "kondo", "x": 1, "y": 3 },
+
+        { "name": "oga", "x": -1, "y": 2 },
+        { "name": "okumoto", "x": 1, "y": 2 },
+
+        { "name": "shiratori", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ロマンスロケット Oh yeah! あなたと2人で Oh yeah! 〜",
+      "members": [
+        { "name": "shiratori", "x": -4, "y": 3 },
+        { "name": "oga", "x": -2, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "okumoto", "x": 4, "y": 3 },
+
+        { "name": "hanada", "x": -3, "y": 1 },
+        { "name": "maruyama", "x": -1, "y": 1 },
+        { "name": "kawamura", "x": 1, "y": 1 },
+        { "name": "kondo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "長い夢が叶う瞬間 そっと瞳閉じて 数えて〜",
+      "members": [
+        { "name": "ito", "x": -3, "y": 3 },
+        { "name": "okumoto", "x": 3, "y": 3 },
+
+        { "name": "hanada", "x": -4, "y": 2 },
+        { "name": "shiratori", "x": -1, "y": 2 },
+        { "name": "oga", "x": 1, "y": 2 },
+        { "name": "kondo", "x": 4, "y": 2 },
+
+        { "name": "maruyama", "x": -5, "y": 1 },
+        { "name": "kawamura", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "恋をする地球人 不思議な生物の存在〜",
+      "members": [
+        { "name": "hanada", "x": -5.5, "y": 2 },
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "okumoto", "x": 2.5, "y": 2 },
+        { "name": "kondo", "x": 5.5, "y": 2 },
+
+        { "name": "maruyama", "x": -4, "y": 1 },
+        { "name": "shiratori", "x": -1, "y": 1 },
+        { "name": "oga", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "エイリアンじゃわからない行動ね 愛の意味は難しい〜",
+      "members": [
+        { "name": "shiratori", "x": -1, "y": 3 },
+        { "name": "oga", "x": 1, "y": 3 },
+
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "okumoto", "x": 2.5, "y": 2 },
+
+        { "name": "hanada", "x": -4, "y": 1 },
+        { "name": "maruyama", "x": -1.5, "y": 1 },
+        { "name": "kawamura", "x": 1.5, "y": 1 },
+        { "name": "kondo", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "パーティーロケット Oh yeah! 負けるな 流星 Oh yeah! 〜",
+      "members": [
+        { "name": "ito", "x": -3, "y": 3 },
+        { "name": "kawamura", "x": 3, "y": 3 },
+
+        { "name": "okumoto", "x": -1, "y": 2 },
+        { "name": "maruyama", "x": 1, "y": 2 },
+
+        { "name": "shiratori", "x": -4, "y": 1 },
+        { "name": "kondo", "x": -2, "y": 1 },
+        { "name": "hanada", "x": 2, "y": 1 },
+        { "name": "oga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "パーティーロケット Oh yeah! ブラックホールへ Oh yeah! 〜",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 3 },
+        { "name": "shiratori", "x": -2, "y": 3 },
+        { "name": "oga", "x": 2, "y": 3 },
+        { "name": "hanada", "x": 4, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "okumoto", "x": -1, "y": 1 },
+        { "name": "maruyama", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "誰も邪魔をしない空間 2人 無重力で フワフワ〜",
+      "members": [
+        { "name": "maruyama", "x": -3, "y": 3 },
+        { "name": "kawamura", "x": 3, "y": 3 },
+
+        { "name": "shiratori", "x": -4, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "okumoto", "x": 1, "y": 2 },
+        { "name": "oga", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -5, "y": 1 },
+        { "name": "hanada", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiratori", "x": -1, "y": 3 },
+        { "name": "oga", "x": 1, "y": 3 },
+
+        { "name": "kondo", "x": -5.5, "y": 2 },
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "okumoto", "x": 2.5, "y": 2 },
+        { "name": "hanada", "x": 5.5, "y": 2 },
+
+        { "name": "maruyama", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "恋をする地球人 不思議な生物の存在〜",
+      "members": [
+        { "name": "hanada", "x": -5, "y": 3 },
+        { "name": "kawamura", "x": -2, "y": 3 },
+        { "name": "maruyama", "x": 2, "y": 3 },
+        { "name": "kondo", "x": 5, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "okumoto", "x": 3, "y": 2 },
+
+        { "name": "shiratori", "x": -1, "y": 1 },
+        { "name": "oga", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "そう なんて素敵な地球人〜",
+      "members": [
+        { "name": "hanada", "x": -5.25, "y": 1 },
+        { "name": "ito", "x": -3.75, "y": 1 },
+        { "name": "kawamura", "x": -2.25, "y": 1 },
+        { "name": "shiratori", "x": -0.75, "y": 1 },
+
+        { "name": "oga", "x": 0.75, "y": 1 },
+        { "name": "maruyama", "x": 2.25, "y": 1 },
+        { "name": "okumoto", "x": 3.75, "y": 1 },
+        { "name": "kondo", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
