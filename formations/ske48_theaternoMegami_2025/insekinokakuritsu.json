@@ -1,0 +1,128 @@
+{
+  "title": "隕石の確率",
+
+  "memo": [
+    "① 鎌田/佐藤、藤本/菅原、井上/伊藤、北川/篠原",
+    "② 北川/篠原、佐藤/鎌田、荒野/池田、奥野/松本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "okuno", "x": -1.25, "y": 1 },
+        { "name": "ikeda", "x": 1.25, "y": 1 },
+
+        { "name": "fujimoto", "x": -2.5, "y": 2 },
+        { "name": "arano", "x": 0, "y": 2 },
+        { "name": "matsumoto", "x": 2.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "何億年に一度きりの 恋のインパクト〜",
+      "members": [
+        { "name": "arano", "x": -5, "y": 3 },
+        { "name": "ikeda", "x": 5, "y": 3 },
+
+        { "name": "okuno", "x": -6, "y": 2 },
+        { "name": "fujimoto", "x": -4, "y": 2 },
+        { "name": "kamata", "x": -2, "y": 2 },
+        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "sugawara", "x": 4, "y": 2 },
+        { "name": "matsumoto", "x": 6, "y": 2 },
+
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "inoue", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 },
+        { "name": "shinohara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "確かな気持ちは見つからない 価値ある人〜",
+      "members": [
+        { "name": "fujimoto", "x": -5.5, "y": 4 },
+        { "name": "kitagawa", "x": -3, "y": 4 },
+        { "name": "shinohara", "x": 3, "y": 4 },
+        { "name": "sugawara", "x": 5.5, "y": 4 },
+
+        { "name": "okuno", "x": -4, "y": 3 },
+        { "name": "sato", "x": -1.5, "y": 3 },
+        { "name": "kamata", "x": 1.5, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "arano", "x": -2.5, "y": 2 },
+        { "name": "ikeda", "x": 2.5, "y": 2 },
+
+        { "name": "ito", "x": -1, "y": 1 },
+        { "name": "inoue", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "この世界が変わるような ニュースだと思う〜",
+      "members": [
+        { "name": "fujimoto", "x": -5.5, "y": 4 },
+        { "name": "kitagawa", "x": -3, "y": 4 },
+        { "name": "shinohara", "x": 3, "y": 4 },
+        { "name": "sugawara", "x": 5.5, "y": 4 },
+
+        { "name": "okuno", "x": -4, "y": 3 },
+        { "name": "sato", "x": -1.5, "y": 3 },
+        { "name": "kamata", "x": 1.5, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "arano", "x": -2.5, "y": 2 },
+        { "name": "ikeda", "x": 2.5, "y": 2 },
+
+        { "name": "ito", "x": -1, "y": 1 },
+        { "name": "inoue", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "この世界が変わるような 星のサプライズ〜",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "arano", "x": -2.5, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "inoue", "x": 1, "y": 2 },
+        { "name": "ikeda", "x": 2.5, "y": 2 },
+        { "name": "matsumoto", "x": 4, "y": 2 },
+
+        { "name": "fujimoto", "x": -4.75, "y": 1 },
+        { "name": "kitagawa", "x": -3.25, "y": 1 },
+        { "name": "sato", "x": -1.75, "y": 1 },
+        { "name": "kamata", "x": 1.75, "y": 1 },
+        { "name": "shinohara", "x": 3.25, "y": 1 },
+        { "name": "sugawara", "x": 4.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "予言の書にも書かれてない 心の隕石〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 3 },
+        { "name": "kitagawa", "x": -2, "y": 3 },
+        { "name": "shinohara", "x": 2, "y": 3 },
+        { "name": "matsumoto", "x": 6, "y": 3 },
+
+        { "name": "arano", "x": -6, "y": 2 },
+        { "name": "inoue", "x": -2, "y": 2 },
+        { "name": "ito", "x": 2, "y": 2 },
+        { "name": "ikeda", "x": 6, "y": 2 },
+
+        { "name": "fujimoto", "x": -6, "y": 1 },
+        { "name": "sato", "x": -2, "y": 1 },
+        { "name": "kamata", "x": 2, "y": 1 },
+        { "name": "sugawara", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
