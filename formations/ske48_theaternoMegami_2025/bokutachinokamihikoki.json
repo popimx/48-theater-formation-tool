@@ -1,0 +1,127 @@
+{
+  "title": "僕たちの紙飛行機",
+
+  "memo": [
+    "① 佐藤井上、菅原伊藤、篠原鎌田、奥野藤本",
+    "北川/松本、池田/荒野",
+    "② 北川/鎌田、藤本/篠原、荒野/伊藤井上/池田",
+    "奥野/菅原佐藤/松本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "arano", "x": 4, "y": 3 },
+
+        { "name": "fujimoto", "x": -5, "y": 2 },
+        { "name": "sugawara", "x": -2, "y": 2 },
+        { "name": "ito", "x": 2, "y": 2 },
+        { "name": "shinohara", "x": 5, "y": 2 },
+
+        { "name": "okuno", "x": -6, "y": 1 },
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "sato", "x": -1, "y": 1 },
+        { "name": "inoue", "x": 1, "y": 1 },
+        { "name": "matsumoto", "x": 3, "y": 1 },
+        { "name": "kamata", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "arano", "x": 4, "y": 3 },
+
+        { "name": "sugawara", "x": -2, "y": 2 },
+        { "name": "ito", "x": 2, "y": 2 },
+
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "sato", "x": -1, "y": 1 },
+        { "name": "inoue", "x": 1, "y": 1 },
+        { "name": "matsumoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ後",
+      "members": [
+        { "name": "arano", "x": -2.5, "y": 4 },
+        { "name": "kitagawa", "x": 0, "y": 4 },
+        { "name": "kamata", "x": 2.5, "y": 4 },
+
+        { "name": "okuno", "x": -2.5, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "inoue", "x": 2.5, "y": 3 },
+
+        { "name": "fujimoto", "x": -2.5, "y": 2 },
+        { "name": "shinohara", "x": 0, "y": 2 },
+        { "name": "matsumoto", "x": 2.5, "y": 2 },
+
+        { "name": "sugawara", "x": -2.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "ikeda", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "members": [
+        { "name": "ikeda", "x": -4.5, "y": 2 },
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "fujimoto", "x": -0.5, "y": 2 },
+        { "name": "kamata", "x": 1.5, "y": 2 },
+        { "name": "arano", "x": 3.5, "y": 2 },
+        { "name": "okuno", "x": 5.5, "y": 2 },
+
+        { "name": "matsumoto", "x": -5.5, "y": 1 },
+        { "name": "shinohara", "x": -3.5, "y": 1 },
+        { "name": "sugawara", "x": -1.5, "y": 1 },
+        { "name": "sato", "x": 0.5, "y": 1 },
+        { "name": "inoue", "x": 2.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "members": [
+        { "name": "matsumoto", "x": -5.5, "y": 2 },
+        { "name": "shinohara", "x": -3.5, "y": 2 },
+        { "name": "sugawara", "x": -1.5, "y": 2 },
+        { "name": "sato", "x": 0.5, "y": 2 },
+        { "name": "inoue", "x": 2.5, "y": 2 },
+        { "name": "kitagawa", "x": 4.5, "y": 2 },
+
+        { "name": "ikeda", "x": -4.5, "y": 1 },
+        { "name": "ito", "x": -2.5, "y": 1 },
+        { "name": "fujimoto", "x": -0.5, "y": 1 },
+        { "name": "kamata", "x": 1.5, "y": 1 },
+        { "name": "arano", "x": 3.5, "y": 1 },
+        { "name": "okuno", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ③",
+      "members": [
+        { "name": "ikeda", "x": -2, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "kitagawa", "x": 2, "y": 3 },
+
+        { "name": "matsumoto", "x": -3, "y": 2 },
+        { "name": "shinohara", "x": -1, "y": 2 },
+        { "name": "fujimoto", "x": 1, "y": 2 },
+        { "name": "arano", "x": 3, "y": 2 },
+
+        { "name": "sugawara", "x": -4, "y": 1 },
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "inoue", "x": 2, "y": 1 },
+        { "name": "kamata", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
