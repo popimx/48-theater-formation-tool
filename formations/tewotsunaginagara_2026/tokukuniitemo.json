@@ -1,0 +1,59 @@
+{
+  "song": "遠くにいても",
+
+  "memo": [
+    "① 丸山花田/伊藤白鳥、奥本近藤川村大賀",
+    "② 近藤奥本大賀川村、丸山花田伊藤白鳥"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "maruyama", "x": -3, "y": 2 },
+        { "name": "hanada", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "shiratori", "x": 3, "y": 2 },
+
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "okumoto", "x": -2, "y": 1 },
+        { "name": "oga", "x": 2, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 2 },
+        { "name": "okumoto", "x": -2, "y": 2 },
+        { "name": "oga", "x": 2, "y": 2 },
+        { "name": "kawamura", "x": 4, "y": 2 },
+
+        { "name": "maruyama", "x": -3, "y": 1 },
+        { "name": "hanada", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 },
+        { "name": "shiratori", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "okumoto", "x": -2, "y": 3 },
+        { "name": "oga", "x": 2, "y": 3 },
+
+        { "name": "maruyama", "x": -3, "y": 2 },
+        { "name": "hanada", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "shiratori", "x": 3, "y": 2 },
+
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
