@@ -1,0 +1,33 @@
+{
+  "title": "合格kiss",
+
+  "memo": [
+    "イントロサビ 篠原山村倉本柿元杉本河村",
+    "① 鈴木/森本、奥野大村、松川伊藤",
+    "② 柿元河村、篠原杉本、山村倉本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "本当は私 先生が見ていても〜",
+      "members": [
+        { "name": "shinohara", "x": -6, "y": 4 },
+        { "name": "kuramoto", "x": -2, "y": 4 },
+        { "name": "sugimoto", "x": 2, "y": 4 },
+        { "name": "kawamura", "x": 6, "y": 4 },
+
+        { "name": "suzuki", "x": -5, "y": 3 },
+        { "name": "yamamura", "x": -3, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+        { "name": "morimoto", "x": 5, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "omura", "x": 4, "y": 2 },
+
+        { "name": "matsukawa", "x": -1, "y": 1 },
+        { "name": "ito", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
