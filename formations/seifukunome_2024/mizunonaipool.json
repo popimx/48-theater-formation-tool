@@ -1,0 +1,75 @@
+{
+  "title": "水のないプール",
+
+  "memo": [
+    "① 大村、鈴木、伊藤/河村、森本/奥野",
+    "② 篠原、杉本、柿元/倉本、松川/山村",
+    "ラストサビ前 大村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "morimoto", "x": -1.5, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 3 },
+
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "kawamura", "x": 2.5, "y": 2 },
+
+        { "name": "suzuki", "x": -3.5, "y": 1 },
+        { "name": "omura", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "あの夏の陽射しや アブラゼミ 思い出す〜",
+      "members": [
+        { "name": "morimoto", "x": -1.5, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 3 },
+
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "kawamura", "x": 2.5, "y": 2 },
+
+        { "name": "suzuki", "x": -1, "y": 1 },
+        { "name": "omura", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "members": [
+        { "name": "morimoto", "x": -1.5, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 3 },
+
+        { "name": "ito", "x": -2.5, "y": 2 },
+        { "name": "kawamura", "x": 2.5, "y": 2 },
+
+        { "name": "suzuki", "x": -1, "y": 1 },
+        { "name": "omura", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "ito", "x": -3.5, "y": 4 },
+        { "name": "matsukawa", "x": 0, "y": 4 },
+        { "name": "yamamura", "x": 3.5, "y": 4 },
+
+        { "name": "shinohara", "x": -2, "y": 3 },
+        { "name": "sugimoto", "x": 2, "y": 3 },
+
+        { "name": "kakimoto", "x": -3, "y": 2 },
+        { "name": "kuramoto", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 3, "y": 2 },
+
+        { "name": "suzuki", "x": -4.5, "y": 1 },
+        { "name": "morimoto", "x": -1.5, "y": 1 },
+        { "name": "omura", "x": 1.5, "y": 1 },
+        { "name": "kawamura", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
