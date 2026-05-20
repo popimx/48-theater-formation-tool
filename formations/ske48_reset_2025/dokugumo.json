@@ -1,0 +1,45 @@
+{
+  "title": "毒蜘蛛",
+
+  "memo": [
+    "① 太田、青木、井田、中坂、河村、西井、仲村",
+    "② 森本、上村、大村、浅井、赤堀",
+    "ラストサビ前 中坂/浅井、大村/森本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "nishii", "x": -4.5, "y": 3 },
+        { "name": "kawamura", "x": 4.5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "omura", "x": -3, "y": 2 },
+        { "name": "aoki", "x": 0, "y": 2 },
+        { "name": "ida", "x": 3, "y": 2 },
+        { "name": "ota", "x": 6, "y": 2 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 1 },
+        { "name": "morimoto", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "nishii", "x": -3, "y": 3 },
+        { "name": "ida", "x": 0, "y": 3 },
+        { "name": "kawamura", "x": 3, "y": 3 },
+
+        { "name": "aoki", "x": -3, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "ota", "x": 3, "y": 2 },
+
+        { "name": "nakamura", "x": -3, "y": 1 },
+        { "name": "morimoto", "x": 0, "y": 1 },
+        { "name": "nakasaka", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
