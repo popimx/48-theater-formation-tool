@@ -1,0 +1,120 @@
+{
+  "title": "彼女になれますか？",
+
+  "memo": [
+    "① 河村/森本/太田、青木/大村、浅井/中坂",
+    "西井/井田/上村、仲村/赤堀",
+    "② 青木/大村、西井/井田/上村、仲村/赤堀",
+    "河村/森本/太田、浅井/中坂",
+    "ラストサビ前 浅井/中坂、上村/赤堀/井田/西井/仲村"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "nishii", "x": -3, "y": 4 },
+        { "name": "nakamura", "x": 3, "y": 4 },
+
+        { "name": "kamimura", "x": -1.5, "y": 3 },
+        { "name": "nakasaka", "x": 1.5, "y": 3 },
+
+        { "name": "ida", "x": -3.75, "y": 2 },
+        { "name": "omura", "x": 0.5, "y": 2 },
+        { "name": "akahori", "x": 3.75, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "aoki", "x": -2.5, "y": 1 },
+        { "name": "kawamura", "x": -0.5, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 },
+        { "name": "ota", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "nishii", "x": -4.5, "y": 4 },
+        { "name": "akahori", "x": 0, "y": 4 },
+        { "name": "nakamura", "x": 4.5, "y": 4 },
+
+        { "name": "ida", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": 3, "y": 3 },
+
+        { "name": "kawamura", "x": -4, "y": 2 },
+        { "name": "morimoto", "x": -1.5, "y": 2 },
+        { "name": "asai", "x": 1.5, "y": 2 },
+        { "name": "ota", "x": 4, "y": 2 },
+
+        { "name": "aoki", "x": -5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "kamimura", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "チャンスに攻めないと〜",
+      "members": [
+        { "name": "kamimura", "x": -3, "y": 4 },
+        { "name": "ida", "x": 0, "y": 4 },
+        { "name": "nakamura", "x": 3, "y": 4 },
+
+        { "name": "akahori", "x": -1.5, "y": 3 },
+        { "name": "nishii", "x": 1.5, "y": 3 },
+
+        { "name": "aoki", "x": -4.5, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "kawamura", "x": 4.5, "y": 2 },
+
+        { "name": "morimoto", "x": -6, "y": 1 },
+        { "name": "asai", "x": -1, "y": 1 },
+        { "name": "nakasaka", "x": 1, "y": 1 },
+        { "name": "omura", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "悔いが残るから ヒューヒュー 〜",
+      "members": [
+        { "name": "kamimura", "x": -3, "y": 4 },
+        { "name": "ida", "x": 0, "y": 4 },
+        { "name": "nakamura", "x": 3, "y": 4 },
+
+        { "name": "akahori", "x": -1.5, "y": 3 },
+        { "name": "nishii", "x": 1.5, "y": 3 },
+
+        { "name": "morimoto", "x": -4.5, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "omura", "x": 4.5, "y": 2 },
+
+        { "name": "aoki", "x": -6, "y": 1 },
+        { "name": "asai", "x": -1, "y": 1 },
+        { "name": "nakasaka", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "私は あなたの彼女になれますか? 図々しい質問ですが 聞かせて欲しい〜",
+      "members": [
+        { "name": "kamimura", "x": -2.25, "y": 3 },
+        { "name": "ida", "x": -0.75, "y": 3 },
+        { "name": "akahori", "x": 0.75, "y": 3 },
+        { "name": "nishii", "x": 2.25, "y": 3 },
+
+        { "name": "aoki", "x": -6, "y": 2 },
+        { "name": "asai", "x": -4.5, "y": 2 },
+        { "name": "nakasaka", "x": 4.5, "y": 2 },
+        { "name": "nakamura", "x": 6, "y": 2 },
+
+        { "name": "morimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": -1.5, "y": 1 },
+        { "name": "kawamura", "x": 1.5, "y": 1 },
+        { "name": "ota", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
