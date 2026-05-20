@@ -1,0 +1,93 @@
+{
+  "title": "アンテナ",
+
+  "memo": [
+    "① 森本柿元、倉本奥野",
+    "松川河村大村鈴木、篠原伊藤山村杉本",
+    "② 河村大村鈴木、篠原/松川",
+    "森本伊藤山村杉本、倉本奥野柿元"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "そう 女の子は 鏡 見るたびに〜",
+      "members": [
+        { "name": "yamamura", "x": -3, "y": 4 },
+        { "name": "sugimoto", "x": -2, "y": 4 },
+        { "name": "matsukawa", "x": 2, "y": 4 },
+        { "name": "kawamura", "x": 3, "y": 4 },
+
+        { "name": "shinohara", "x": -5.5, "y": 3 },
+        { "name": "ito", "x": -4.5, "y": 3 },
+        { "name": "kuramoto", "x": -0.5, "y": 3 },
+        { "name": "okuno", "x": 0.5, "y": 3 },
+        { "name": "omura", "x": 4.5, "y": 3 },
+        { "name": "suzuki", "x": 5.5, "y": 3 },
+
+        { "name": "morimoto", "x": -1, "y": 1 },
+        { "name": "kakimoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "yamamura", "x": -3, "y": 3 },
+        { "name": "kawamura", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 3, "y": 3 },
+
+        { "name": "ito", "x": -4, "y": 2 },
+        { "name": "kuramoto", "x": -1.25, "y": 2 },
+        { "name": "sugimoto", "x": 1.25, "y": 2 },
+        { "name": "suzuki", "x": 4, "y": 2 },
+
+        { "name": "shinohara", "x": -5, "y": 1 },
+        { "name": "morimoto", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "matsukawa", "x": 2.5, "y": 1 },
+        { "name": "kakimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "kawamura", "x": -3, "y": 3 },
+        { "name": "shinohara", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "omura", "x": -1.25, "y": 2 },
+        { "name": "yamamura", "x": 1.25, "y": 2 },
+        { "name": "sugimoto", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -5, "y": 1 },
+        { "name": "kakimoto", "x": -2.5, "y": 1 },
+        { "name": "morimoto", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2.5, "y": 1 },
+        { "name": "matsukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "members": [
+        { "name": "yamamura", "x": -3, "y": 3 },
+        { "name": "sugimoto", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": 3, "y": 3 },
+
+        { "name": "kakimoto", "x": -4, "y": 2 },
+        { "name": "okuno", "x": -1.25, "y": 2 },
+        { "name": "kawamura", "x": 1.25, "y": 2 },
+        { "name": "ito", "x": 4, "y": 2 },
+
+        { "name": "omura", "x": -5, "y": 1 },
+        { "name": "matsukawa", "x": -2.5, "y": 1 },
+        { "name": "shinohara", "x": 0, "y": 1 },
+        { "name": "kuramoto", "x": 2.5, "y": 1 },
+        { "name": "morimoto", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
