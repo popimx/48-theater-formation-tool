@@ -1,0 +1,52 @@
+{
+  "title": "Doubt!",
+
+  "memo": [
+    "イントロサビ 松川奥野山村",
+    "① 松川、山村、伊藤/倉本、奥野/杉本",
+    "② 森本、鈴木、篠原大村、柿元/河村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "members": [
+        { "name": "matsukawa", "x": -3, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 3, "y": 3 },
+
+        { "name": "kuramoto", "x": -4, "y": 2 },
+        { "name": "kakimoto", "x": -1.25, "y": 2 },
+        { "name": "ito", "x": 1.25, "y": 2 },
+        { "name": "sugimoto", "x": 4, "y": 2 },
+
+        { "name": "shinohara", "x": -5, "y": 1 },
+        { "name": "morimoto", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "kawamura", "x": 2.5, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "聞き分けよくない私でいい〜",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "yamamura", "x": 3, "y": 3 },
+
+        { "name": "ito", "x": -4, "y": 2 },
+        { "name": "kakimoto", "x": -1.25, "y": 2 },
+        { "name": "kawamura", "x": 1.25, "y": 2 },
+        { "name": "sugimoto", "x": 4, "y": 2 },
+
+        { "name": "matsukawa", "x": -5, "y": 1 },
+        { "name": "morimoto", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "shinohara", "x": 2.5, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
