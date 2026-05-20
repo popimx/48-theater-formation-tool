@@ -1,0 +1,70 @@
+{
+  "title": "ホワイトデーには...",
+
+  "memo": [
+    "① 大村、河村/浅井、中坂/西井、森本",
+    "② 浅井、青木/井田、上村/赤堀、仲村/中坂、太田"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "nakamura", "x": -5, "y": 3 },
+        { "name": "akahori", "x": 0, "y": 3 },
+        { "name": "kamimura", "x": 5, "y": 3 },
+
+        { "name": "nakasaka", "x": -3, "y": 2 },
+        { "name": "morimoto", "x": -1, "y": 2 },
+        { "name": "ota", "x": 1, "y": 2 },
+        { "name": "nishii", "x": 3, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": -2, "y": 1 },
+        { "name": "asai", "x": 0, "y": 1 },
+        { "name": "omura", "x": 2, "y": 1 },
+        { "name": "ida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "members": [
+        { "name": "nakamura", "x": -4, "y": 4 },
+        { "name": "morimoto", "x": -2, "y": 4 },
+        { "name": "akahori", "x": 0, "y": 4 },
+        { "name": "ota", "x": 2, "y": 4 },
+        { "name": "nishii", "x": 4, "y": 4 },
+
+        { "name": "nakasaka", "x": -5, "y": 3 },
+        { "name": "aoki", "x": -3, "y": 3 },
+        { "name": "kawamura", "x": -1, "y": 3 },
+        { "name": "asai", "x": 1, "y": 3 },
+        { "name": "ida", "x": 3, "y": 3 },
+        { "name": "kamimura", "x": 5, "y": 3 },
+
+        { "name": "omura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "nakamura", "x": -4, "y": 4 },
+        { "name": "morimoto", "x": -2, "y": 4 },
+        { "name": "akahori", "x": 0, "y": 4 },
+        { "name": "ota", "x": 2, "y": 4 },
+        { "name": "nishii", "x": 4, "y": 4 },
+
+        { "name": "nakasaka", "x": -5, "y": 3 },
+        { "name": "aoki", "x": -3, "y": 3 },
+        { "name": "kawamura", "x": -1, "y": 3 },
+        { "name": "asai", "x": 1, "y": 3 },
+        { "name": "ida", "x": 3, "y": 3 },
+        { "name": "kamimura", "x": 5, "y": 3 },
+
+        { "name": "omura", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
