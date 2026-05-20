@@ -1,0 +1,322 @@
+{
+  "title": "女の子の第六感",
+
+  "memo": [
+    "① 大村、奥野、鈴木、柿元杉本、大村",
+    "② 大村、奥野、鈴木、杉本/柿元、奥野、鈴木",
+    "ラストサビ前 柿元杉本大村"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "女の子の第六感 絶対 外れることない〜",
+      "members": [
+        { "name": "kakimoto", "x": 3, "y": 5 },
+        { "name": "okuno", "x": 1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "sugimoto", "x": -3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "何か 何か 起きそうよ〜",
+      "members": [
+        { "name": "suzuki", "x": -1.5, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 3 },
+
+        { "name": "sugimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "恋のサプライズ〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "予感が当たり過ぎると リアクションは難しい〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 5 },
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ⑤",
+      "lyrics": "来るわ 来るわ ほら来た〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -1.5, "y": 1 },
+        { "name": "okuno", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ⑥",
+      "lyrics": "可愛げがないね〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "sugimoto", "x": -1, "y": 3 },
+        { "name": "kakimoto", "x": 1, "y": 3 },
+
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ハートの奥に隠した甘い言葉ちょうだい〜",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": 0, "y": 2 },
+        { "name": "omura", "x": 3, "y": 2 },
+
+        { "name": "sugimoto", "x": -1.5, "y": 1 },
+        { "name": "kakimoto", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "ルーフを あわてて 閉めたけれど〜",
+      "members": [
+        { "name": "omura", "x": 0, "y": 3 },
+
+        { "name": "sugimoto", "x": -1.5, "y": 2 },
+        { "name": "kakimoto", "x": 1.5, "y": 2 },
+
+        { "name": "okuno", "x": -3, "y": 1 },
+        { "name": "suzuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "女の子の第六感 絶対 外れることない〜",
+      "members": [
+        { "name": "kakimoto", "x": 3, "y": 5 },
+        { "name": "suzuki", "x": 1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "okuno", "x": -1.5, "y": 2 },
+        { "name": "sugimoto", "x": -3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "だけど だけど 予想外〜",
+      "members": [
+        { "name": "okuno", "x": -1.5, "y": 3 },
+        { "name": "suzuki", "x": 1.5, "y": 3 },
+
+        { "name": "sugimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "とんだハプニング〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "okuno", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "suzuki", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "こういう展開なんて 神様しか知らない〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 5 },
+        { "name": "okuno", "x": -1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ⑤",
+      "lyrics": "まさか まさか このまま〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -1.5, "y": 1 },
+        { "name": "suzuki", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ⑥",
+      "lyrics": "送られちゃうなんて... 〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "okuno", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "suzuki", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -1.5, "y": 2 },
+        { "name": "suzuki", "x": 1.5, "y": 2 },
+
+        { "name": "omura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "Mistake 次回までお預けだね〜",
+      "members": [
+        { "name": "suzuki", "x": -1, "y": 2 },
+        { "name": "okuno", "x": 1, "y": 2 },
+
+        { "name": "kakimoto", "x": -2, "y": 1 },
+        { "name": "sugimoto", "x": 0, "y": 1 },
+        { "name": "omura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "女の子の第六感 絶対 外れることない〜",
+      "members": [
+        { "name": "kakimoto", "x": 3, "y": 5 },
+        { "name": "okuno", "x": 1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "sugimoto", "x": -3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "何か 何か 起きそうよ〜",
+      "members": [
+        { "name": "suzuki", "x": -1.5, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 3 },
+
+        { "name": "sugimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "恋のサプライズ〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "予感が当たり過ぎると リアクションは難しい〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 5 },
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ⑤",
+      "lyrics": "来るわ 来るわ ほら来た〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "omura", "x": 0, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -1.5, "y": 1 },
+        { "name": "okuno", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ⑥",
+      "lyrics": "可愛げがないね〜",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "kakimoto", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+
+        { "name": "omura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "sugimoto", "x": -1, "y": 2 },
+        { "name": "omura", "x": 0, "y": 2 },
+        { "name": "kakimoto", "x": 1, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 }
+      ]
+    }
+  ]
+}
