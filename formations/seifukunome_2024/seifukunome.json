@@ -1,0 +1,165 @@
+{
+  "title": "制服の芽",
+
+  "memo": [
+    "① 大村、篠原、柿元、森本",
+    "杉本奥野河村、鈴木倉本、山村松川、森本伊藤",
+    "② 奥野/河村、杉本/松川、篠原 (倉本)、鈴木山村",
+    "伊藤倉本、大村篠原、森本/柿元"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "制服が芽を出すよ 重いコートの下に〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "kakimoto", "x": -4, "y": 4 },
+        { "name": "sugimoto", "x": 4, "y": 4 },
+        { "name": "kawamura", "x": 6, "y": 4 },
+
+        { "name": "omura", "x": -5, "y": 3 },
+        { "name": "shinohara", "x": 5, "y": 3 },
+
+        { "name": "yamamura", "x": -3, "y": 2 },
+        { "name": "morimoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "kuramoto", "x": 3, "y": 2 },
+
+        { "name": "matsukawa", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "制服が芽を出すよ 何かできる気がして… 〜",
+      "members": [
+        { "name": "omura", "x": -6, "y": 4 },
+        { "name": "okuno", "x": -4, "y": 4 },
+        { "name": "kawamura", "x": 4, "y": 4 },
+        { "name": "shinohara", "x": 6, "y": 4 },
+
+        { "name": "kakimoto", "x": -5, "y": 3 },
+        { "name": "sugimoto", "x": 5, "y": 3 },
+
+        { "name": "matsukawa", "x": -3, "y": 2 },
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+
+        { "name": "morimoto", "x": -2, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "元気の準備中〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "kakimoto", "x": -4, "y": 4 },
+        { "name": "sugimoto", "x": 4, "y": 4 },
+        { "name": "kawamura", "x": 6, "y": 4 },
+
+        { "name": "omura", "x": -5, "y": 3 },
+        { "name": "shinohara", "x": 5, "y": 3 },
+
+        { "name": "yamamura", "x": -3, "y": 2 },
+        { "name": "morimoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "kuramoto", "x": 3, "y": 2 },
+
+        { "name": "matsukawa", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "制服で歩こうよ もっと身軽になって〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "sugimoto", "x": -4, "y": 4 },
+        { "name": "suzuki", "x": 4, "y": 4 },
+        { "name": "matsukawa", "x": 6, "y": 4 },
+
+        { "name": "kawamura", "x": -5, "y": 3 },
+        { "name": "kuramoto", "x": 5, "y": 3 },
+
+        { "name": "morimoto", "x": -3, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "yamamura", "x": 1, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 },
+
+        { "name": "omura", "x": -2, "y": 1 },
+        { "name": "shinohara", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "制服で歩こうよ 運のよさを信じて... 〜",
+      "members": [
+        { "name": "kawamura", "x": -6, "y": 4 },
+        { "name": "okuno", "x": -4, "y": 4 },
+        { "name": "matsukawa", "x": 4, "y": 4 },
+        { "name": "kuramoto", "x": 6, "y": 4 },
+
+        { "name": "sugimoto", "x": -5, "y": 3 },
+        { "name": "suzuki", "x": 5, "y": 3 },
+
+        { "name": "omura", "x": -3, "y": 2 },
+        { "name": "morimoto", "x": -1, "y": 2 },
+        { "name": "kakimoto", "x": 1, "y": 2 },
+        { "name": "shinohara", "x": 3, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "yamamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "私も準備中〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "sugimoto", "x": -4, "y": 4 },
+        { "name": "suzuki", "x": 4, "y": 4 },
+        { "name": "matsukawa", "x": 6, "y": 4 },
+
+        { "name": "kawamura", "x": -5, "y": 3 },
+        { "name": "kuramoto", "x": 5, "y": 3 },
+
+        { "name": "morimoto", "x": -3, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "yamamura", "x": 1, "y": 2 },
+        { "name": "kakimoto", "x": 3, "y": 2 },
+
+        { "name": "omura", "x": -2, "y": 1 },
+        { "name": "shinohara", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "suzuki", "x": 0, "y": 4 },
+
+        { "name": "omura", "x": -1, "y": 3 },
+        { "name": "shinohara", "x": 1, "y": 3 },
+
+        { "name": "ito", "x": -5, "y": 2 },
+        { "name": "kuramoto", "x": -4, "y": 2 },
+        { "name": "morimoto", "x": 0, "y": 2 },
+        { "name": "kawamura", "x": 4, "y": 2 },
+        { "name": "yamamura", "x": 5, "y": 2 },
+
+        { "name": "okuno", "x": -6, "y": 1 },
+        { "name": "sugimoto", "x": -3, "y": 1 },
+        { "name": "kakimoto", "x": 3, "y": 1 },
+        { "name": "matsukawa", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
