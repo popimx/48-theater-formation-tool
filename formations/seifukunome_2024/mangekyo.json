@@ -1,0 +1,291 @@
+{
+  "title": "万華鏡",
+
+  "memo": [
+    "① 篠原、倉本、伊藤山村河村",
+    "② 山村、河村、倉本、伊藤、篠原",
+    "ラストサビ前 倉本篠原、河村山村伊藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "kawamura", "x": -2, "y": 3 },
+        { "name": "yamamura", "x": 2, "y": 3 },
+
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "shinohara", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "くるくると 回しながら〜",
+      "members": [
+        { "name": "ito", "x": -1, "y": 3 },
+        { "name": "kuramoto", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "kawamura", "x": -2, "y": 1 },
+        { "name": "yamamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "窓の光 集め 覗いた〜",
+      "members": [
+        { "name": "kuramoto", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "儚い原色の夢〜",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "kuramoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ①",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "kuramoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "members": [
+        { "name": "kuramoto", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "僕が欲しいものは愛さ〜",
+      "members": [
+        { "name": "kuramoto", "x": -2.5, "y": 3 },
+        { "name": "shinohara", "x": 2.5, "y": 3 },
+
+        { "name": "ito", "x": -5, "y": 1 },
+        { "name": "yamamura", "x": 0, "y": 1 },
+        { "name": "kawamura", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "蛍光灯 見上げ 覗いた〜",
+      "members": [
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "shinohara", "x": 0, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "眩しい原色の花〜",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "僕が求めるのは自由さ〜",
+      "members": [
+        { "name": "yamamura", "x": -1, "y": 3 },
+        { "name": "kawamura", "x": 1, "y": 3 },
+
+        { "name": "kuramoto", "x": -2, "y": 2 },
+        { "name": "ito", "x": 2, "y": 2 },
+
+        { "name": "shinohara", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "くるくると 回しながら〜",
+      "members": [
+        { "name": "ito", "x": -1, "y": 3 },
+        { "name": "kuramoto", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "kawamura", "x": -2, "y": 1 },
+        { "name": "yamamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "窓の光 集め 覗いた〜",
+      "members": [
+        { "name": "kuramoto", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "儚い原色の夢〜",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "kuramoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "kuramoto", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "members": [
+        { "name": "kuramoto", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "与えられたものは 色がないんだ〜",
+      "members": [
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "kawamura", "x": -2, "y": 1 },
+        { "name": "yamamura", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 },
+        { "name": "shinohara", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "蛍光灯 見上げ 覗いた〜",
+      "members": [
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "shinohara", "x": 0, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "眩しい原色の花〜",
+      "members": [
+        { "name": "shinohara", "x": 0, "y": 3 },
+
+        { "name": "yamamura", "x": -1, "y": 2 },
+        { "name": "kuramoto", "x": 1, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "万華鏡 コロコロと転がってく〜",
+      "members": [
+        { "name": "yamamura", "x": -3, "y": 1 },
+        { "name": "kuramoto", "x": -1.5, "y": 1 },
+        { "name": "shinohara", "x": 0, "y": 1 },
+        { "name": "ito", "x": 1.5, "y": 1 },
+        { "name": "kawamura", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "kuramoto", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+
+        { "name": "shinohara", "x": 0, "y": 2 },
+
+        { "name": "yamamura", "x": -2, "y": 1 },
+        { "name": "kawamura", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
