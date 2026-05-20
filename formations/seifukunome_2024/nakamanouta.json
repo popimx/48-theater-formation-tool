@@ -1,0 +1,69 @@
+{
+  "title": "仲間の歌",
+
+  "memo": [
+    "① 河村/大村伊藤/柿元、奥野鈴木森本篠原",
+    "山村倉本/松川杉本",
+    "② 鈴木篠原森本奥野、倉本山村/松川杉本",
+    "柿元大村伊藤河村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "morimoto", "x": -1, "y": 3 },
+        { "name": "kuramoto", "x": 1, "y": 3 },
+
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 2, "y": 2 },
+
+        { "name": "okuno", "x": -3, "y": 1 },
+        { "name": "shinohara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "yamamura", "x": -4.5, "y": 4 },
+        { "name": "morimoto", "x": -0.5, "y": 4 },
+        { "name": "okuno", "x": 4.5, "y": 4 },
+
+        { "name": "shinohara", "x": -3, "y": 3 },
+        { "name": "omura", "x": 0.5, "y": 3 },
+        { "name": "suzuki", "x": 3, "y": 3 },
+
+        { "name": "ito", "x": -1.5, "y": 2 },
+        { "name": "kawamura", "x": 1.5, "y": 2 },
+
+        { "name": "kuramoto", "x": -5, "y": 1 },
+        { "name": "kakimoto", "x": -3, "y": 1 },
+        { "name": "matsukawa", "x": 3, "y": 1 },
+        { "name": "sugimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "僕にはこんなに 仲間がいるから〜",
+      "members": [
+        { "name": "shinohara", "x": -4.5, "y": 4 },
+        { "name": "sugimoto", "x": -0.5, "y": 4 },
+        { "name": "okuno", "x": 4.5, "y": 4 },
+
+        { "name": "shinohara", "x": -3, "y": 3 },
+        { "name": "matsukawa", "x": 0.5, "y": 3 },
+        { "name": "suzuki", "x": 3, "y": 3 },
+
+        { "name": "yamamura", "x": -6, "y": 2 },
+        { "name": "ito", "x": -1.5, "y": 2 },
+        { "name": "kakimoto", "x": 1.5, "y": 2 },
+        { "name": "kawamura", "x": 6, "y": 2 },
+
+        { "name": "morimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
