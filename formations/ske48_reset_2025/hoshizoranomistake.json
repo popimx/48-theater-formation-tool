@@ -1,0 +1,53 @@
+{
+  "title": "星空のミステイク",
+
+  "memo": [
+    "① 青木/森本、大村/浅井、赤堀/上村",
+    "② 仲村/河村、太田/西井、中坂/井田",
+    "ラストサビ前 森本/青木、大村/浅井",
+    "中坂/太田、河村/赤堀"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "自分の気持ちさえ 気づかずに素通りさ〜",
+      "members": [
+        { "name": "kamimura", "x": -6.75, "y": 4 },
+        { "name": "morimoto", "x": -5.25, "y": 4 },
+        { "name": "asai", "x": -3.75, "y": 4 },
+        { "name": "omura", "x": 3.75, "y": 4 },
+        { "name": "aoki", "x": 5.25, "y": 4 },
+        { "name": "akahori", "x": 6.75, "y": 4 },
+
+        { "name": "nakamura", "x": -2.25, "y": 3 },
+        { "name": "ota", "x": -0.75, "y": 3 },
+        { "name": "kawamura", "x": 0.75, "y": 3 },
+        { "name": "nishii", "x": 2.25, "y": 3 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 1 },
+        { "name": "ida", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "nakamura", "x": -2, "y": 3 },
+        { "name": "nishii", "x": 2, "y": 3 },
+
+        { "name": "kamimura", "x": -6, "y": 2 },
+        { "name": "nakasaka", "x": -4, "y": 2 },
+        { "name": "ota", "x": -1, "y": 2 },
+        { "name": "kawamura", "x": 1, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+        { "name": "akahori", "x": 6, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "asai", "x": -3, "y": 1 },
+        { "name": "omura", "x": 3, "y": 1 },
+        { "name": "aoki", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
