@@ -1,0 +1,96 @@
+{
+  "title": "夢の鐘",
+
+  "memo": [
+    "① 西井/浅井/仲村、井田/森本/太田/河村",
+    "上村/赤堀/大村/青木/中坂",
+    "② 青木/中坂、上村/大村/赤堀、仲村/浅井/西井",
+    "井田/太田/河村/森本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "nakamura", "x": -5, "y": 3 },
+        { "name": "kamimura", "x": -0.5, "y": 3 },
+        { "name": "nishii", "x": 5, "y": 3 },
+
+        { "name": "ida", "x": -6, "y": 2 },
+        { "name": "nakasaka", "x": -3, "y": 2 },
+        { "name": "omura", "x": 0.5, "y": 2 },
+        { "name": "akahori", "x": 3, "y": 2 },
+        { "name": "kawamura", "x": 6, "y": 2 },
+
+        { "name": "morimoto", "x": -4, "y": 1 },
+        { "name": "aoki", "x": -2, "y": 1 },
+        { "name": "asai", "x": 2, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "morimoto", "x": -4, "y": 3 },
+        { "name": "aoki", "x": -2, "y": 3 },
+        { "name": "asai", "x": 2, "y": 3 },
+        { "name": "ota", "x": 4, "y": 3 },
+
+        { "name": "nakamura", "x": -5, "y": 2 },
+        { "name": "kamimura", "x": -0.5, "y": 2 },
+        { "name": "nishii", "x": 5, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "nakasaka", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0.5, "y": 1 },
+        { "name": "akahori", "x": 3, "y": 1 },
+        { "name": "kawamura", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "夢の鐘を聞かせるんだ 荒む心〜",
+      "members": [
+        { "name": "kamimura", "x": -4, "y": 4 },
+        { "name": "nakasaka", "x": 4, "y": 4 },
+
+        { "name": "nishii", "x": -5, "y": 3 },
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "ida", "x": 3, "y": 3 },
+        { "name": "morimoto", "x": 5, "y": 3 },
+
+        { "name": "ota", "x": -6, "y": 2 },
+        { "name": "akahori", "x": -2, "y": 2 },
+        { "name": "kawamura", "x": 2, "y": 2 },
+        { "name": "aoki", "x": 6, "y": 2 },
+
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "夢の鐘を聞かせるんだ 風に乗せて〜",
+      "members": [
+        { "name": "omura", "x": -1, "y": 4 },
+        { "name": "asai", "x": 1, "y": 4 },
+
+        { "name": "ota", "x": -6, "y": 3 },
+        { "name": "akahori", "x": -2, "y": 3 },
+        { "name": "kawamura", "x": 2, "y": 3 },
+        { "name": "aoki", "x": 6, "y": 3 },
+
+        { "name": "nishii", "x": -5, "y": 2 },
+        { "name": "nakamura", "x": -3, "y": 2 },
+        { "name": "ida", "x": 3, "y": 2 },
+        { "name": "morimoto", "x": 5, "y": 2 },
+
+        { "name": "kamimura", "x": -4, "y": 1 },
+        { "name": "nakasaka", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
