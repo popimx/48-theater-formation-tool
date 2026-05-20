@@ -1,0 +1,134 @@
+{
+  "stage": "SKE48「制服の芽」",
+  "stageId": "seifukunome_2024",
+
+  "members": [
+    {
+      "name": "大村杏",
+      "display": "大村",
+      "id": "omura",
+      "image": "omura_anzu_2024"
+    },
+    {
+      "name": "篠原京香",
+      "display": "篠原",
+      "id": "shinohara",
+      "image": "shinohara_kyoka_2024"
+    },
+    {
+      "name": "杉本りいな",
+      "display": "杉本",
+      "id": "sugimoto",
+      "image": "sugimoto_riina_2024"
+    },
+    {
+      "name": "森本くるみ",
+      "display": "森本",
+      "id": "morimoto",
+      "image": "morimoto_kurumi_2024"
+    },
+    {
+      "name": "山村さくら",
+      "display": "山村",
+      "id": "yamamura",
+      "image": "yamamura_sakura_2024"
+    },
+    {
+      "name": "伊藤虹々美",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_kokomi_2024"
+    },
+    {
+      "name": "奥野心羽",
+      "display": "奥野",
+      "id": "okuno",
+      "image": "okuno_kokoha_2024"
+    },
+    {
+      "name": "柿元礼愛",
+      "display": "柿元",
+      "id": "kakimoto",
+      "image": "kakimoto_rena_2024"
+    },
+    {
+      "name": "河村優愛",
+      "display": "河村",
+      "id": "kawamura",
+      "image": "kawamura_yua_2024"
+    },
+    {
+      "name": "倉本羽菜",
+      "display": "倉本",
+      "id": "kuramoto",
+      "image": "kuramoto_hana_2024"
+    },
+    {
+      "name": "鈴木愛來",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_sara_2024"
+    },
+    {
+      "name": "松川みゆ",
+      "display": "松川",
+      "id": "matsukawa",
+      "image": "matsukawa_miyu_2024"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "恋を語る詩人になれなくて",
+      "file": "koiwokatarushijinninarenakute.json"
+    },
+    {
+      "name": "合格kiss",
+      "file": "goukakukiss.json"
+    },
+    {
+      "name": "アンテナ",
+      "file": "antenna.json"
+    },
+    {
+      "name": "制服の芽",
+      "file": "seifukunome.json"
+    },
+    {
+      "name": "女の子の第六感",
+      "file": "onnanokonodairokkan.json"
+    },
+    {
+      "name": "万華鏡",
+      "file": "mangekyo.json"
+    },
+    {
+      "name": "ジェラシーのアリバイ",
+      "file": "jealousynoalibi.json"
+    },
+    {
+      "name": "Doubt!",
+      "file": "doubt.json"
+    },
+    {
+      "name": "仲間の歌",
+      "file": "nakamanouta.json"
+    },
+    {
+      "name": "水のないプール",
+      "file": "mizunonaipool.json"
+    },
+    {
+      "name": "楽園の階段",
+      "file": "rakuennokaidan.json"
+    },
+    {
+      "name": "ピノキオ軍",
+      "file": "pinokiogun.json"
+    },
+    {
+      "name": "手紙のこと",
+      "file": "tegaminokoto.json"
+    }
+  ]
+}
