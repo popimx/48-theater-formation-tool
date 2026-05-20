@@ -1,0 +1,71 @@
+{
+  "title": "ジグソーパズル48",
+
+  "memo": [
+    "① 森本/大村/太田、井田/浅井/河村",
+    "西井/赤堀、上村/青木/中坂/仲村",
+    "② 上村/青木、中坂/仲村、西井/赤堀",
+    "井田/河村/浅井、大村/森本/太田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "morimoto", "x": 1, "y": 3 },
+        { "name": "nakasaka", "x": 2, "y": 3 },
+
+        { "name": "kamimura", "x": -6, "y": 2 },
+        { "name": "ida", "x": -5, "y": 2 },
+        { "name": "nishii", "x": -2, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+        { "name": "ota", "x": 5, "y": 2 },
+        { "name": "nakamura", "x": 6, "y": 2 },
+
+        { "name": "omura", "x": -4, "y": 1 },
+        { "name": "aoki", "x": -3, "y": 1 },
+        { "name": "akahori", "x": 3, "y": 1 },
+        { "name": "asai", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "nishii", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": 3, "y": 3 },
+
+        { "name": "kamimura", "x": -6, "y": 2 },
+        { "name": "ida", "x": -4, "y": 2 },
+        { "name": "kawamura", "x": -1, "y": 2 },
+        { "name": "morimoto", "x": 1, "y": 2 },
+        { "name": "ota", "x": 4, "y": 2 },
+        { "name": "nakamura", "x": 6, "y": 2 },
+
+        { "name": "omura", "x": -5, "y": 1 },
+        { "name": "aoki", "x": -2, "y": 1 },
+        { "name": "akahori", "x": 2, "y": 1 },
+        { "name": "asai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "members": [
+        { "name": "kawamura", "x": -4.5, "y": 2 },
+        { "name": "aoki", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": -0.5, "y": 2 },
+        { "name": "akahori", "x": 1.5, "y": 2 },
+        { "name": "nakamura", "x": 3.5, "y": 2 },
+        { "name": "asai", "x": 5.5, "y": 2 },
+
+        { "name": "omura", "x": -5.5, "y": 1 },
+        { "name": "kamimura", "x": -3.5, "y": 1 },
+        { "name": "nishii", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0.5, "y": 1 },
+        { "name": "nakasaka", "x": 2.5, "y": 1 },
+        { "name": "morimoto", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
