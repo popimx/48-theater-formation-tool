@@ -306,17 +306,6 @@
 
         { "name": "omura", "x": 0, "y": 1 }
       ]
-    },
-
-    {
-      "title": "ラスト",
-      "members": [
-        { "name": "suzuki", "x": -2, "y": 2 },
-        { "name": "sugimoto", "x": -1, "y": 2 },
-        { "name": "omura", "x": 0, "y": 2 },
-        { "name": "kakimoto", "x": 1, "y": 2 },
-        { "name": "okuno", "x": 2, "y": 2 }
-      ]
     }
   ]
 }
