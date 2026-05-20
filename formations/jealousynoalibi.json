@@ -1,0 +1,99 @@
+{
+  "title": "ジェラシーのアリバイ",
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "ジェラシーのアリバイ あなたしか見えない〜",
+      "members": [
+        { "name": "omura", "x": 0, "y": 3 },
+
+        { "name": "shinohara", "x": -4, "y": 2 },
+        { "name": "morimoto", "x": 4, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "飛行機の最終便に 今〜",
+      "members": [
+        { "name": "shinohara", "x": -1.5, "y": 3 },
+        { "name": "kakimoto", "x": 1.5, "y": 3 },
+
+        { "name": "suzuki", "x": -4.5, "y": 2 },
+        { "name": "okuno", "x": -2.5, "y": 2 },
+        { "name": "matsukawa", "x": 2.5, "y": 2 },
+        { "name": "sugimoto", "x": 4.5, "y": 2 },
+
+        { "name": "morimoto", "x": -3.5, "y": 1 },
+        { "name": "omura", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "どうしても会いたいのは 誰とそこにいるか〜",
+      "members": [
+        { "name": "morimoto", "x": -3.5, "y": 3 },
+        { "name": "omura", "x": 3.5, "y": 3 },
+
+        { "name": "suzuki", "x": -4.5, "y": 2 },
+        { "name": "okuno", "x": -2.5, "y": 2 },
+        { "name": "kakimoto", "x": 2.5, "y": 2 },
+        { "name": "sugimoto", "x": 4.5, "y": 2 },
+
+        { "name": "shinohara", "x": -1.5, "y": 1 },
+        { "name": "matsukawa", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "夜空へと誘って〜",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "shinohara", "x": -2, "y": 2 },
+        { "name": "sugimoto", "x": 2, "y": 2 },
+        { "name": "matsukawa", "x": 4, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "suzuki", "x": -3, "y": 1 },
+        { "name": "omura", "x": 3, "y": 1 },
+        { "name": "kakimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "知らない街へと飛ぶ 愚かな行動〜",
+      "members": [
+        { "name": "suzuki", "x": -2, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "kakimoto", "x": 2, "y": 3 },
+
+        { "name": "shinohara", "x": -3.5, "y": 2 },
+        { "name": "sugimoto", "x": 3.5, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "matsukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "suzuki", "x": -2, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "kakimoto", "x": 2, "y": 3 },
+
+        { "name": "shinohara", "x": -3.5, "y": 2 },
+        { "name": "sugimoto", "x": 3.5, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "matsukawa", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
