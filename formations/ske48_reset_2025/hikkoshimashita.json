@@ -1,0 +1,73 @@
+{
+  "title": "引っ越しました",
+
+  "memo": [
+    "① 森本、大村、青木、浅井、太田/上村",
+    "中坂/西井",
+    "② 赤堀、西井、井田、河村、仲村、上村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "nakasaka", "x": -4, "y": 2 },
+        { "name": "ota", "x": -1.25, "y": 2 },
+        { "name": "akahori", "x": 1.25, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+
+        { "name": "kawamura", "x": -5, "y": 1 },
+        { "name": "aoki", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 },
+        { "name": "morimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "ここに引っ越しするよ そのうち 遊びにおいでよ〜",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "nakasaka", "x": -4, "y": 2 },
+        { "name": "ota", "x": -1.25, "y": 2 },
+        { "name": "akahori", "x": 1.25, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+
+        { "name": "kawamura", "x": -5, "y": 1 },
+        { "name": "aoki", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 },
+        { "name": "morimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "ここに引っ越ししたよ 寂しくなったらおいでよ〜",
+      "members": [
+        { "name": "kamimura", "x": -3, "y": 3 },
+        { "name": "nakamura", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "ida", "x": -1.25, "y": 2 },
+        { "name": "kawamura", "x": 1.25, "y": 2 },
+        { "name": "ota", "x": 4, "y": 2 },
+
+        { "name": "morimoto", "x": -5, "y": 1 },
+        { "name": "asai", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "aoki", "x": 2.5, "y": 1 },
+        { "name": "nakasaka", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
