@@ -10,27 +10,7 @@
   ],
 
   "parts": [
-    {
-      "title": "1番サビ",
-      "members": [
-        { "name": "nishii", "x": -3, "y": 4 },
-        { "name": "nakamura", "x": 3, "y": 4 },
-
-        { "name": "kamimura", "x": -1.5, "y": 3 },
-        { "name": "nakasaka", "x": 1.5, "y": 3 },
-
-        { "name": "ida", "x": -3.75, "y": 2 },
-        { "name": "omura", "x": 0.5, "y": 2 },
-        { "name": "akahori", "x": 3.75, "y": 2 },
-
-        { "name": "morimoto", "x": -5, "y": 1 },
-        { "name": "aoki", "x": -2.5, "y": 1 },
-        { "name": "kawamura", "x": -0.5, "y": 1 },
-        { "name": "asai", "x": 2.5, "y": 1 },
-        { "name": "ota", "x": 5, "y": 1 }
-      ]
-    },
-
+   
     {
       "title": "2番サビ",
       "members": [
