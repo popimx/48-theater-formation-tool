@@ -1,0 +1,107 @@
+{
+  "title": "ウッホウッホホ",
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "おいで おいで 淋しい人よ 落ち込んでたってしょうがないぜ〜",
+      "members": [
+        { "name": "aoki", "x": -2, "y": 4 },
+        { "name": "omura", "x": 0, "y": 4 },
+        { "name": "kamimura", "x": 2, "y": 4 },
+
+        { "name": "kawamura", "x": -1, "y": 3 },
+        { "name": "nakasaka", "x": 1, "y": 3 },
+
+        { "name": "ida", "x": -4, "y": 2 },
+        { "name": "asai", "x": 0, "y": 2 },
+        { "name": "nishii", "x": 4, "y": 2 },
+
+        { "name": "ota", "x": -5, "y": 1 },
+        { "name": "morimoto", "x": -3, "y": 1 },
+        { "name": "akahori", "x": 3, "y": 1 },
+        { "name": "nakamura", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "ota", "x": -1.25, "y": 2 },
+        { "name": "nakasaka", "x": 1.25, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+
+        { "name": "kawamura", "x": -5, "y": 1 },
+        { "name": "aoki", "x": -2.5, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 },
+        { "name": "morimoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "ida", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "akahori", "x": -4.5, "y": 2 },
+        { "name": "ota", "x": -1.5, "y": 2 },
+        { "name": "nakasaka", "x": 1.5, "y": 2 },
+        { "name": "kamimura", "x": 4.5, "y": 2 },
+
+        { "name": "kawamura", "x": -6, "y": 1 },
+        { "name": "aoki", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "morimoto", "x": 3, "y": 1 },
+        { "name": "asai", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 3 },
+        { "name": "ida", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "akahori", "x": -4.5, "y": 2 },
+        { "name": "ota", "x": -1.5, "y": 2 },
+        { "name": "nakasaka", "x": 1.5, "y": 2 },
+        { "name": "kamimura", "x": 4.5, "y": 2 },
+
+        { "name": "kawamura", "x": -6, "y": 1 },
+        { "name": "aoki", "x": -3, "y": 1 },
+        { "name": "omura", "x": 0, "y": 1 },
+        { "name": "morimoto", "x": 3, "y": 1 },
+        { "name": "asai", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "kamimura", "x": -5, "y": 3 },
+        { "name": "akahori", "x": -3, "y": 3 },
+        { "name": "nakamura", "x": 3, "y": 3 },
+        { "name": "nishii", "x": 5, "y": 3 },
+
+        { "name": "nakasaka", "x": -4, "y": 2 },
+        { "name": "kawamura", "x": -2, "y": 2 },
+        { "name": "ota", "x": 2, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+
+        { "name": "aoki", "x": -3, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "morimoto", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
