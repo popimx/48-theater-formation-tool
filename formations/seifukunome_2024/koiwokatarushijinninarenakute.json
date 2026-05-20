@@ -196,8 +196,8 @@
         { "name": "ito", "x": 2, "y": 2 },
         { "name": "morimoto", "x": 4, "y": 2 },
 
-        { "name": "okuno", "x": -5, "y": 1 },
-        { "name": "kawamura", "x": 5, "y": 1 }
+        { "name": "okuno", "x": -5.5, "y": 1 },
+        { "name": "kawamura", "x": 5.5, "y": 1 }
       ]
     },
 
