@@ -139,27 +139,6 @@
         { "name": "omura", "x": -2, "y": 1 },
         { "name": "shinohara", "x": 2, "y": 1 }
       ]
-    },
-
-    {
-      "title": "ラスト",
-      "members": [
-        { "name": "suzuki", "x": 0, "y": 4 },
-
-        { "name": "omura", "x": -1, "y": 3 },
-        { "name": "shinohara", "x": 1, "y": 3 },
-
-        { "name": "ito", "x": -5, "y": 2 },
-        { "name": "kuramoto", "x": -4, "y": 2 },
-        { "name": "morimoto", "x": 0, "y": 2 },
-        { "name": "kawamura", "x": 4, "y": 2 },
-        { "name": "yamamura", "x": 5, "y": 2 },
-
-        { "name": "okuno", "x": -6, "y": 1 },
-        { "name": "sugimoto", "x": -3, "y": 1 },
-        { "name": "kakimoto", "x": 3, "y": 1 },
-        { "name": "matsukawa", "x": 6, "y": 1 }
-      ]
     }
   ]
 }
