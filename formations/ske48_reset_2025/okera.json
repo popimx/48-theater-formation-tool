@@ -1,0 +1,137 @@
+{
+  "title": "オケラ",
+
+  "memo": [
+    "① 太田/赤堀、浅井/大村、青木/森本",
+    "② 中坂/河村、仲村/西井、井田/上村",
+    "ラストサビ前 大村/浅井、赤堀/太田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "nishii", "x": -3, "y": 4 },
+        { "name": "ida", "x": 0, "y": 4 },
+        { "name": "nakamura", "x": 3, "y": 4 },
+
+        { "name": "kamimura", "x": -1.5, "y": 3 },
+        { "name": "nakasaka", "x": 1.5, "y": 3 },
+
+        { "name": "morimoto", "x": -2.5, "y": 2 },
+        { "name": "kawamura", "x": 0, "y": 2 },
+        { "name": "akahori", "x": 2.5, "y": 2 },
+
+        { "name": "ota", "x": -4, "y": 1 },
+        { "name": "asai", "x": -1, "y": 1 },
+        { "name": "omura", "x": 1, "y": 1 },
+        { "name": "aoki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "akahori", "x": -3, "y": 4 },
+        { "name": "kawamura", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "kamimura", "x": 1.5, "y": 3 },
+
+        { "name": "nakamura", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 0, "y": 2 },
+        { "name": "morimoto", "x": 2.5, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "members": [
+        { "name": "akahori", "x": -3, "y": 4 },
+        { "name": "kawamura", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "kamimura", "x": 1.5, "y": 3 },
+
+        { "name": "nakamura", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 0, "y": 2 },
+        { "name": "morimoto", "x": 2.5, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 4 },
+        { "name": "kawamura", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "kamimura", "x": 1.5, "y": 3 },
+
+        { "name": "akahori", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 0, "y": 2 },
+        { "name": "morimoto", "x": 2.5, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 4 },
+        { "name": "kawamura", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "kamimura", "x": 1.5, "y": 3 },
+
+        { "name": "akahori", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 0, "y": 2 },
+        { "name": "morimoto", "x": 2.5, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "nakamura", "x": -3, "y": 4 },
+        { "name": "kawamura", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "kamimura", "x": 1.5, "y": 3 },
+
+        { "name": "akahori", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 0, "y": 2 },
+        { "name": "morimoto", "x": 2.5, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 },
+        { "name": "ota", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
