@@ -1,0 +1,126 @@
+{
+  "stage": "SKE48「可能性こそが未来」",
+  "stageId": "kanouseikosogamirai",
+
+  "members": [
+    {
+      "name": "伊藤虹々美",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_kokomi_2025"
+    },
+    {
+      "name": "松川みゆ",
+      "display": "松川",
+      "id": "matsukawa",
+      "image": "matsukawa_miyu_2025"
+    },
+    {
+      "name": "奥野心羽",
+      "display": "奥野",
+      "id": "okuno",
+      "image": "okuno_kokoha_2025"
+    },
+    {
+      "name": "河村優愛",
+      "display": "河村",
+      "id": "yua",
+      "image": "kawamura_yua_2025"
+    },
+    {
+      "name": "長谷川雅",
+      "display": "長谷川",
+      "id": "hasegawa",
+      "image": "hasegawa_miyabi_2025"
+    },
+    {
+      "name": "太田愛恵",
+      "display": "太田",
+      "id": "ota",
+      "image": "ota_manae_2025"
+    },
+    {
+      "name": "川村昇子",
+      "display": "川村",
+      "id": "shoko",
+      "image": "kawamura_shoko_2025"
+    },
+    {
+      "name": "雲井紗菜",
+      "display": "雲井",
+      "id": "kumoi",
+      "image": "kumoi_sana_2025"
+    },
+    {
+      "name": "倉本羽菜",
+      "display": "倉本",
+      "id": "kuramoto",
+      "image": "kuramoto_hana_2025"
+    },
+    {
+      "name": "桒原椿",
+      "display": "桒原",
+      "id": "kuwahara",
+      "image": "kuwahara_tsubaki_2025"
+    },
+    {
+      "name": "近藤海琴",
+      "display": "近藤",
+      "id": "kondo",
+      "image": "kondo_mikoto_2025"
+    },
+    {
+      "name": "南澤恋々",
+      "display": "南澤",
+      "id": "minamisawa",
+      "image": "minamisawa_koko_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "title": "青空片想い",
+      "file": "songs/aozorakataomoi.json"
+    },
+    {
+      "title": "逆上がり",
+      "file": "songs/sakaagari.json"
+    },
+    {
+      "title": "ボーイフレンドの作り方",
+      "file": "songs/boyfriendnotsukurikata.json"
+    },
+    {
+      "title": "2人乗りの自転車",
+      "file": "songs/futarinorinojitensha.json"
+    },
+    {
+      "title": "ほっぺ、ツネル",
+      "file": "songs/hoppe_tsuneru.json"
+    },
+    {
+      "title": "火曜日の夜、水曜日の朝",
+      "file": "songs/kayoubinoyoru_suiyoubinoasa.json"
+    },
+    {
+      "title": "FRUSTRATION",
+      "file": "songs/frustration.json"
+    },
+    {
+      "title": "鳥は青い空の涯を知らない",
+      "file": "songs/torihaaoisoranohatewoshiranai.json"
+    },
+    {
+      "title": "バズーカ砲発射！",
+      "file": "songs/bazookahouhassha.json"
+    },
+    {
+      "title": "水夫は嵐に夢を見る",
+      "file": "songs/suifuhaarashiniyumewomiru.json"
+    },
+    {
+      "title": "未来とは？",
+      "file": "songs/miraitowa.json"
+    }
+  ]
+}
