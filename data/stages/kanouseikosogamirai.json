@@ -79,47 +79,47 @@
 
   "songs": [
     {
-      "title": "青空片想い",
+      "name": "青空片想い",
       "file": "aozorakataomoi.json"
     },
     {
-      "title": "逆上がり",
+      "name": "逆上がり",
       "file": "sakaagari.json"
     },
     {
-      "title": "ボーイフレンドの作り方",
+      "name": "ボーイフレンドの作り方",
       "file": "boyfriendnotsukurikata.json"
     },
     {
-      "title": "2人乗りの自転車",
+      "name": "2人乗りの自転車",
       "file": "futarinorinojitensha.json"
     },
     {
-      "title": "ほっぺ、ツネル",
+      "name": "ほっぺ、ツネル",
       "file": "hoppe_tsuneru.json"
     },
     {
-      "title": "火曜日の夜、水曜日の朝",
+      "name": "火曜日の夜、水曜日の朝",
       "file": "kayoubinoyoru_suiyoubinoasa.json"
     },
     {
-      "title": "FRUSTRATION",
+      "name": "FRUSTRATION",
       "file": "frustration.json"
     },
     {
-      "title": "鳥は青い空の涯を知らない",
+      "name": "鳥は青い空の涯を知らない",
       "file": "torihaaoisoranohatewoshiranai.json"
     },
     {
-      "title": "バズーカ砲発射！",
+      "name": "バズーカ砲発射！",
       "file": "bazookahouhassha.json"
     },
     {
-      "title": "水夫は嵐に夢を見る",
+      "name": "水夫は嵐に夢を見る",
       "file": "suifuhaarashiniyumewomiru.json"
     },
     {
-      "title": "未来とは？",
+      "name": "未来とは？",
       "file": "miraitowa.json"
     }
   ]
