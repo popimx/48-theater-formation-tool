@@ -1,0 +1,137 @@
+{
+  "title": "手紙のこと",
+
+  "memo": [
+    "① 大村/篠原、柿元/河村、奥野/森本、倉本松川",
+    "② 倉本伊藤、鈴木/河村、山村杉本",
+    "ラストサビ前 柿元大村/篠原河村、奥野松川森本",
+    "ラスト 大村森本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "でも 改まると何を書けばいいのか〜",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 4 },
+        { "name": "morimoto", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -4.5, "y": 3 },
+        { "name": "yamamura", "x": -1.5, "y": 3 },
+        { "name": "sugimoto", "x": 1.5, "y": 3 },
+        { "name": "ito", "x": 4.5, "y": 3 },
+
+        { "name": "omura", "x": -4.5, "y": 2 },
+        { "name": "kuramoto", "x": -1.5, "y": 2 },
+        { "name": "matsukawa", "x": 1.5, "y": 2 },
+        { "name": "shinohara", "x": 4.5, "y": 2 },
+
+        { "name": "kakimoto", "x": -4.5, "y": 1 },
+        { "name": "kawamura", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "suzuki", "x": -3, "y": 3 },
+        { "name": "kuramoto", "x": -2, "y": 3 },
+        { "name": "matsukawa", "x": 2, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "yamamura", "x": -5, "y": 2 },
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "morimoto", "x": 4, "y": 2 },
+        { "name": "sugimoto", "x": 5, "y": 2 },
+
+        { "name": "kakimoto", "x": -7, "y": 1 },
+        { "name": "omura", "x": -6, "y": 1 },
+        { "name": "shinohara", "x": 6, "y": 1 },
+        { "name": "kawamura", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "きっと (きっと) 出さない (出さない) この手紙〜",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "omura", "x": -2, "y": 3 },
+        { "name": "matsukawa", "x": 2, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "kakimoto", "x": -5, "y": 2 },
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "morimoto", "x": 4, "y": 2 },
+        { "name": "kawamura", "x": 5, "y": 2 },
+
+        { "name": "yamamura", "x": -7, "y": 1 },
+        { "name": "kuramoto", "x": -6, "y": 1 },
+        { "name": "shinohara", "x": 6, "y": 1 },
+        { "name": "sugimoto", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "気持ちなんてどうやっても言い表せないよ〜",
+      "members": [
+        { "name": "ito", "x": 0, "y": 4 },
+
+        { "name": "yamamura", "x": -3, "y": 3 },
+        { "name": "suzuki", "x": -1, "y": 3 },
+        { "name": "matsukawa", "x": 1, "y": 3 },
+        { "name": "sugimoto", "x": 3, "y": 3 },
+
+        { "name": "kakimoto", "x": -2, "y": 2 },
+        { "name": "okuno", "x": 0, "y": 2 },
+        { "name": "kawamura", "x": 2, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "morimoto", "x": 1, "y": 1 },
+        { "name": "shinohara", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "yamamura", "x": -4, "y": 2 },
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 2, "y": 2 },
+        { "name": "sugimoto", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -5, "y": 1 },
+        { "name": "kakimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "morimoto", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 3, "y": 1 },
+        { "name": "shinohara", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "yamamura", "x": -4, "y": 2 },
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 2, "y": 2 },
+        { "name": "sugimoto", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -5, "y": 1 },
+        { "name": "kakimoto", "x": -3, "y": 1 },
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "morimoto", "x": 1, "y": 1 },
+        { "name": "kawamura", "x": 3, "y": 1 },
+        { "name": "shinohara", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
