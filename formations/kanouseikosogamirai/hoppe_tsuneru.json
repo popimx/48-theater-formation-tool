@@ -1,0 +1,384 @@
+{
+  "title": "ほっぺ、ツネル",
+
+  "memo": [
+    "① 倉本河村/長谷川、奥野/川村松川",
+    "雲井/桒原/南澤、近藤/太田/伊藤",
+    "倉本/河村/長谷川、奥野/川村/松川",
+    "② 奥野川村/松川、雲井/桒原南澤",
+    "近藤太田伊藤、倉本河村長谷川",
+    "奥野川村松川、雲井桒原南澤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "誰に何と 言われたとこで 譲れないわ〜",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 4 },
+        { "name": "minamisawa", "x": 2, "y": 4 },
+
+        { "name": "kumoi", "x": -3, "y": 3 },
+        { "name": "kondo", "x": -1, "y": 3 },
+        { "name": "ota", "x": 1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -5, "y": 2 },
+        { "name": "shoko", "x": -4, "y": 2 },
+        { "name": "matsukawa", "x": -6, "y": 2 },
+
+        { "name": "kuramoto", "x": -6, "y": 1 },
+        { "name": "yua", "x": -4, "y": 1 },
+        { "name": "hasegawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "なぜなら あなただけが 私の世界なのよ〜",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 4 },
+        { "name": "minamisawa", "x": 2, "y": 4 },
+
+        { "name": "kumoi", "x": -3, "y": 3 },
+        { "name": "kondo", "x": -1, "y": 3 },
+        { "name": "ota", "x": 1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "kuramoto", "x": -6, "y": 2 },
+        { "name": "yua", "x": -4, "y": 2 },
+        { "name": "hasegawa", "x": 5, "y": 2 },
+
+        { "name": "okuno", "x": -5, "y": 1 },
+        { "name": "shoko", "x": -4, "y": 1 },
+        { "name": "matsukawa", "x": -6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "愛はいつでも 自由よ〜",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 4 },
+        { "name": "shoko", "x": 0, "y": 4 },
+        { "name": "matsukawa", "x": 4, "y": 4 },
+
+        { "name": "kuramoto", "x": -4, "y": 3 },
+        { "name": "yua", "x": 0, "y": 3 },
+        { "name": "hasegawa", "x": 4, "y": 3 },
+
+        { "name": "kondo", "x": -4, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "ito", "x": 4, "y": 2 },
+
+        { "name": "kumoi", "x": -4, "y": 1 },
+        { "name": "kuwahara", "x": 0, "y": 1 },
+        { "name": "minamisawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "お好きなように 答えて〜",
+      "members": [
+        { "name": "kumoi", "x": -4, "y": 4 },
+        { "name": "kuwahara", "x": 0, "y": 4 },
+        { "name": "minamisawa", "x": 4, "y": 4 },
+
+        { "name": "okuno", "x": -4, "y": 3 },
+        { "name": "shoko", "x": 0, "y": 3 },
+        { "name": "matsukawa", "x": 4, "y": 3 },
+
+        { "name": "kuramoto", "x": -4, "y": 2 },
+        { "name": "yua", "x": 0, "y": 2 },
+        { "name": "hasegawa", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "ito", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ③",
+      "lyrics": "目と目合わせて お互い〜",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 4 },
+        { "name": "ota", "x": 0, "y": 4 },
+        { "name": "ito", "x": 4, "y": 4 },
+
+        { "name": "kumoi", "x": -4, "y": 3 },
+        { "name": "kuwahara", "x": 0, "y": 3 },
+        { "name": "minamisawa", "x": 4, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "shoko", "x": 0, "y": 2 },
+        { "name": "matsukawa", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "yua", "x": 0, "y": 1 },
+        { "name": "hasegawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "私 キレイ? 私 カワイイ? 嘘を言っちゃ怒るよ〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "shoko", "x": -2, "y": 4 },
+        { "name": "matsukawa", "x": 4, "y": 4 },
+
+        { "name": "kuramoto", "x": -4, "y": 3 },
+        { "name": "yua", "x": 2, "y": 3 },
+        { "name": "hasegawa", "x": 6, "y": 3 },
+
+        { "name": "kondo", "x": -5, "y": 2 },
+        { "name": "ota", "x": -1, "y": 2 },
+        { "name": "ito", "x": 3, "y": 2 },
+
+        { "name": "kuwahara", "x": -3, "y": 1 },
+        { "name": "kumoi", "x": 1, "y": 1 },
+        { "name": "minamisawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "私 キレイ? 私 カワイイ? 考えなくていい〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 4 },
+        { "name": "shoko", "x": -2, "y": 4 },
+        { "name": "matsukawa", "x": 4, "y": 4 },
+
+        { "name": "kuramoto", "x": -4, "y": 3 },
+        { "name": "yua", "x": 2, "y": 3 },
+        { "name": "hasegawa", "x": 6, "y": 3 },
+
+        { "name": "kuwahara", "x": -3, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+        { "name": "minamisawa", "x": 5, "y": 2 },
+
+        { "name": "kondo", "x": -5, "y": 1 },
+        { "name": "ota", "x": -1, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "私 キレイ? 私 カワイイ? 本音 そっと聞かせて!〜",
+      "members": [
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "kumoi", "x": 1, "y": 4 },
+        { "name": "minamisawa", "x": 5, "y": 4 },
+
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -6, "y": 2 },
+        { "name": "shoko", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "yua", "x": 2, "y": 1 },
+        { "name": "hasegawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "私 キレイ? 私 カワイイ? 本音 そっと聞かせて!〜",
+      "members": [
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "kumoi", "x": 1, "y": 4 },
+        { "name": "minamisawa", "x": 5, "y": 4 },
+
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "kuramoto", "x": -4, "y": 2 },
+        { "name": "yua", "x": 2, "y": 2 },
+        { "name": "hasegawa", "x": 6, "y": 2 },
+
+        { "name": "okuno", "x": -6, "y": 1 },
+        { "name": "shoko", "x": -2, "y": 1 },
+        { "name": "matsukawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "愛の痛みを知ってよ 力を込める指先〜",
+      "members": [
+        { "name": "okuno", "x": -5, "y": 2 },
+        { "name": "shoko", "x": -3, "y": 2 },
+        { "name": "matsukawa", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+        { "name": "kuwahara", "x": 3, "y": 2 },
+        { "name": "minamisawa", "x": 5, "y": 2 },
+
+        { "name": "kondo", "x": -6, "y": 1 },
+        { "name": "ota", "x": -4, "y": 1 },
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kuramoto", "x": 2, "y": 1 },
+        { "name": "yua", "x": 4, "y": 1 },
+        { "name": "hasegawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "私のハートも こんなに〜",
+      "members": [
+        { "name": "kondo", "x": -6, "y": 2 },
+        { "name": "ota", "x": -4, "y": 2 },
+        { "name": "ito", "x": -2, "y": 2 },
+        { "name": "kuramoto", "x": 2, "y": 2 },
+        { "name": "yua", "x": 4, "y": 2 },
+        { "name": "hasegawa", "x": 6, "y": 2 },
+
+        { "name": "okuno", "x": -5, "y": 1 },
+        { "name": "shoko", "x": -3, "y": 1 },
+        { "name": "matsukawa", "x": -1, "y": 1 },
+        { "name": "kumoi", "x": 1, "y": 1 },
+        { "name": "kuwahara", "x": 3, "y": 1 },
+        { "name": "minamisawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "あなた ワカル? あなた ウレシイ? 女心を独占〜",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 4 },
+        { "name": "ota", "x": 2, "y": 4 },
+        { "name": "ito", "x": 6, "y": 4 },
+
+        { "name": "kuwahara", "x": -6, "y": 3 },
+        { "name": "kumoi", "x": -2, "y": 3 },
+        { "name": "minamisawa", "x": 4, "y": 3 },
+
+        { "name": "okuno", "x": -3, "y": 2 },
+        { "name": "shoko", "x": 1, "y": 2 },
+        { "name": "matsukawa", "x": 5, "y": 2 },
+
+        { "name": "kuramoto", "x": -5, "y": 1 },
+        { "name": "yua", "x": -1, "y": 1 },
+        { "name": "hasegawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "あなた ワカル? あなた ウレシイ? 真剣なんだよ〜",
+      "members": [
+        { "name": "kondo", "x": -4, "y": 4 },
+        { "name": "ota", "x": 2, "y": 4 },
+        { "name": "ito", "x": 6, "y": 4 },
+
+        { "name": "kuwahara", "x": -6, "y": 3 },
+        { "name": "kumoi", "x": -2, "y": 3 },
+        { "name": "minamisawa", "x": 4, "y": 3 },
+
+        { "name": "kuramoto", "x": -5, "y": 2 },
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "hasegawa", "x": 3, "y": 2 },
+
+        { "name": "okuno", "x": -3, "y": 1 },
+        { "name": "shoko", "x": 1, "y": 1 },
+        { "name": "matsukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "あなた ワカル? あなた ウレシイ? 首を縦に振ってよ〜",
+      "members": [
+        { "name": "kuramoto", "x": -5, "y": 4 },
+        { "name": "yua", "x": -1, "y": 4 },
+        { "name": "hasegawa", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "shoko", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 5, "y": 3 },
+
+        { "name": "kondo", "x": -4, "y": 2 },
+        { "name": "ota", "x": 2, "y": 2 },
+        { "name": "ito", "x": 6, "y": 2 },
+
+        { "name": "kuwahara", "x": -6, "y": 1 },
+        { "name": "kumoi", "x": -2, "y": 1 },
+        { "name": "minamisawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "あなた ワカル? あなた ウレシイ? 笑顔になるまで〜",
+      "members": [
+        { "name": "kuramoto", "x": -5, "y": 4 },
+        { "name": "yua", "x": -1, "y": 4 },
+        { "name": "hasegawa", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "shoko", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 5, "y": 3 },
+
+        { "name": "kuwahara", "x": -6, "y": 2 },
+        { "name": "kumoi", "x": -2, "y": 2 },
+        { "name": "minamisawa", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -4, "y": 1 },
+        { "name": "ota", "x": 2, "y": 1 },
+        { "name": "ito", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "私 キレイ? 私 カワイイ? 本音 そっと聞かせて!〜",
+      "members": [
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "kumoi", "x": 1, "y": 4 },
+        { "name": "minamisawa", "x": 5, "y": 4 },
+
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "okuno", "x": -6, "y": 2 },
+        { "name": "shoko", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 4, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "yua", "x": 2, "y": 1 },
+        { "name": "hasegawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "私 キレイ? 私 カワイイ? そう頷くまで〜",
+      "members": [
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "kumoi", "x": 1, "y": 4 },
+        { "name": "minamisawa", "x": 5, "y": 4 },
+
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "ito", "x": 3, "y": 3 },
+
+        { "name": "kuramoto", "x": -4, "y": 2 },
+        { "name": "yua", "x": 2, "y": 2 },
+        { "name": "hasegawa", "x": 6, "y": 2 },
+
+        { "name": "okuno", "x": -6, "y": 1 },
+        { "name": "shoko", "x": -2, "y": 1 },
+        { "name": "matsukawa", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
