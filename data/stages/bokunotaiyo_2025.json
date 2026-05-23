@@ -79,10 +79,6 @@
 
   "songs": [
     {
-      "name": "Dreamin' girls",
-      "file": "dreamin_girls.json"
-    },
-    {
       "name": "RUN RUN RUN",
       "file": "run_run_run.json"
     },
