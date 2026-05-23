@@ -1,0 +1,76 @@
+{
+  "title": "鳥は青い空の涯を知らない",
+
+  "memo": [
+    "① 伊藤長谷川、河村/近藤、奥野/松川",
+    "② 桒原南澤、倉本雲井、太田/川村"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yua", "x": -5.5, "y": 4 },
+        { "name": "okuno", "x": -2.5, "y": 4 },
+        { "name": "matsukawa", "x": 0, "y": 4 },
+        { "name": "kuramoto", "x": 2.5, "y": 4 },
+        { "name": "kumoi", "x": 5.5, "y": 4 },
+
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "shoko", "x": 1, "y": 3 },
+
+        { "name": "ito", "x": -4, "y": 2 },
+        { "name": "hasegawa", "x": 0, "y": 2 },
+        { "name": "kondo", "x": 4, "y": 2 },
+
+        { "name": "kuwahara", "x": -2, "y": 1 },
+        { "name": "minamisawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "okuno", "x": -4.5, "y": 4 },
+        { "name": "kuramoto", "x": -1.5, "y": 4 },
+        { "name": "kumoi", "x": 1.5, "y": 4 },
+        { "name": "matsukawa", "x": 4.5, "y": 4 },
+
+        { "name": "kuwahara", "x": -3.5, "y": 3 },
+        { "name": "minamisawa", "x": 3.5, "y": 3 },
+
+        { "name": "yua", "x": -5.5, "y": 2 },
+        { "name": "ota", "x": -1, "y": 2 },
+        { "name": "shoko", "x": 1, "y": 2 },
+        { "name": "kondo", "x": 5.5, "y": 2 },
+
+        { "name": "ito", "x": -2.5, "y": 1 },
+        { "name": "hasegawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 4 },
+        { "name": "matsukawa", "x": 4, "y": 4 },
+
+        { "name": "kuwahara", "x": -5, "y": 3 },
+        { "name": "kuramoto", "x": -2, "y": 3 },
+        { "name": "kumoi", "x": 2, "y": 3 },
+        { "name": "minamisawa", "x": 5, "y": 3 },
+
+        { "name": "yua", "x": -6, "y": 2 },
+        { "name": "ota", "x": -3, "y": 2 },
+        { "name": "shoko", "x": 3, "y": 2 },
+        { "name": "kondo", "x": 6, "y": 2 },
+
+        { "name": "ito", "x": -4, "y": 1 },
+        { "name": "hasegawa", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
