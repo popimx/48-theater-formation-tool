@@ -1,0 +1,126 @@
+{
+  "stage": "SKE48「僕の太陽」",
+  "stageId": "bokunotaiyo_2025",
+
+  "members": [
+    {
+      "name": "相川暖花",
+      "display": "相川",
+      "id": "aikawa",
+      "image": "aikawa_honoka_2025"
+    },
+    {
+      "name": "石黒友月",
+      "display": "石黒",
+      "id": "ishiguro",
+      "image": "ishiguro_yuzuki_2025"
+    },
+    {
+      "name": "伊藤虹々美",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_kokomi_2025"
+    },
+    {
+      "name": "入内嶋涼",
+      "display": "入内嶋",
+      "id": "iriuchijima",
+      "image": "iriuchijima_sayaka_2025"
+    },
+    {
+      "name": "熊崎晴香",
+      "display": "熊崎",
+      "id": "kumazaki",
+      "image": "kumazaki_haruka_2025"
+    },
+    {
+      "name": "倉島杏実",
+      "display": "倉島",
+      "id": "kurashima",
+      "image": "kurashima_ami_2025"
+    },
+    {
+      "name": "坂本真凛",
+      "display": "坂本",
+      "id": "sakamoto",
+      "image": "sakamoto_marin_2025"
+    },
+    {
+      "name": "杉本りいな",
+      "display": "杉本",
+      "id": "sugimoto",
+      "image": "sugimoto_riina_2025"
+    },
+    {
+      "name": "鈴木恋奈",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_kokona_2025"
+    },
+    {
+      "name": "中野愛理",
+      "display": "中野",
+      "id": "nakano",
+      "image": "nakano_airi_2025"
+    },
+    {
+      "name": "野村実代",
+      "display": "野村",
+      "id": "nomura",
+      "image": "nomura_miyo_2025"
+    },
+    {
+      "name": "原優寧",
+      "display": "原",
+      "id": "hara",
+      "image": "hara_yuune_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "Dreamin' girls",
+      "file": "dreamin_girls.json"
+    },
+    {
+      "name": "RUN RUN RUN",
+      "file": "run_run_run.json"
+    },
+    {
+      "name": "未来の果実",
+      "file": "mirainokajitsu.json"
+    },
+    {
+      "name": "ビバ!ハリケーン",
+      "file": "viva_hurricane.json"
+    },
+    {
+      "name": "竹内先輩",
+      "file": "takeuchisenpai.json"
+    },
+    {
+      "name": "そんなこんなわけで",
+      "file": "sonnakonnawakede.json"
+    },
+    {
+      "name": "デジャビュ",
+      "file": "dejavu.json"
+    },
+    {
+      "name": "夕陽を見ているか?",
+      "file": "yuhiwomiteiruka.json"
+    },
+    {
+      "name": "Lay down",
+      "file": "lay_down.json"
+    },
+    {
+      "name": "BINGO!",
+      "file": "bingo.json"
+    },
+    {
+      "name": "僕の太陽",
+      "file": "bokunotaiyo.json"
+    }
+  ]
+}
