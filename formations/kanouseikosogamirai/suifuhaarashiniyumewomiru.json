@@ -1,0 +1,227 @@
+{
+  "title": "水夫は嵐に夢を見る",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "遥か彼方には 地図にない場所がある〜",
+      "members": [
+        { "name": "kuwahara", "x": -5.5, "y": 2 },
+        { "name": "matsukawa", "x": -3.5, "y": 2 },
+        { "name": "minamisawa", "x": -1.5, "y": 2 },
+        { "name": "kumoi", "x": 0.5, "y": 2 },
+        { "name": "shoko", "x": 2.5, "y": 2 },
+        { "name": "ota", "x": 4.5, "y": 2 },
+
+        { "name": "okuno", "x": -4.5, "y": 1 },
+        { "name": "hasegawa", "x": -2.5, "y": 1 },
+        { "name": "yua", "x": -0.5, "y": 1 },
+        { "name": "kuramoto", "x": 1.5, "y": 1 },
+        { "name": "kondo", "x": 3.5, "y": 1 },
+        { "name": "ito", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "どんな地の果ても〜",
+      "members": [
+        { "name": "kuwahara", "x": -4.5, "y": 2 },
+        { "name": "matsukawa", "x": -2.5, "y": 2 },
+        { "name": "minamisawa", "x": -0.5, "y": 2 },
+        { "name": "kumoi", "x": 1.5, "y": 2 },
+        { "name": "shoko", "x": 3.5, "y": 2 },
+        { "name": "ota", "x": 5.5, "y": 2 },
+
+        { "name": "okuno", "x": -5.5, "y": 1 },
+        { "name": "hasegawa", "x": -3.5, "y": 1 },
+        { "name": "yua", "x": -1.5, "y": 1 },
+        { "name": "kuramoto", "x": 0.5, "y": 1 },
+        { "name": "kondo", "x": 2.5, "y": 1 },
+        { "name": "ito", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ③",
+      "lyrics": "海を越え 目指すだけ〜",
+      "members": [
+        { "name": "minamisawa", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "激しい嵐を 力に変えろ！〜",
+      "members": [
+        { "name": "minamisawa", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "kuwahara", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "今だ！船を出すんだ！出航！〜",
+      "members": [
+        { "name": "minamisawa", "x": -4, "y": 3 },
+        { "name": "kuwahara", "x": -2, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "kondo", "x": 2, "y": 3 },
+        { "name": "ota", "x": 4, "y": 3 },
+
+        { "name": "okuno", "x": -3, "y": 2 },
+        { "name": "hasegawa", "x": -1, "y": 2 },
+        { "name": "ito", "x": 1, "y": 2 },
+        { "name": "shoko", "x": 3, "y": 2 },
+
+        { "name": "yua", "x": -2, "y": 1 },
+        { "name": "kuramoto", "x": 0, "y": 1 },
+        { "name": "kumoi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "広い世界には 手付かずの運がある〜",
+      "members": [
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "kuwahara", "x": -1, "y": 3 },
+        { "name": "minamisawa", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 3, "y": 3 },
+
+        { "name": "kumoi", "x": -3, "y": 2 },
+        { "name": "ota", "x": -1, "y": 2 },
+        { "name": "shoko", "x": 1, "y": 2 },
+        { "name": "kondo", "x": 3, "y": 2 },
+
+        { "name": "kuramoto", "x": -3, "y": 1 },
+        { "name": "ito", "x": -1, "y": 1 },
+        { "name": "yua", "x": 1, "y": 1 },
+        { "name": "hasegawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "minamisawa", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "激しい嵐を 力に変えろ！〜",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "minamisawa", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "minamisawa", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kuwahara", "x": -2, "y": 5 },
+        { "name": "ota", "x": 2, "y": 5 },
+
+        { "name": "minamisawa", "x": -3, "y": 4 },
+        { "name": "matsukawa", "x": -1, "y": 4 },
+        { "name": "ito", "x": 1, "y": 4 },
+        { "name": "kondo", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "hasegawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+
+        { "name": "yua", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+
+        { "name": "kuramoto", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
