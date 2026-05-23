@@ -1,0 +1,147 @@
+{
+  "title": "未来とは？",
+
+  "memo": [
+    "イントロサビ 伊藤長谷川河村、松川近藤奥野桒原",
+    "太田倉本南澤雲井川村",
+    "① 伊藤長谷川河村、松川近藤奥野、南澤/桒原",
+    "倉本太田、川村雲井",
+    "② 南澤桒原、倉本太田、川村雲井",
+    "伊藤長谷川河村、松川近藤奥野",
+    "ラストサビ 伊藤長谷川河村、松川近藤奥野桒原",
+    "太田倉本南澤雲井川村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "minamisawa", "x": -2, "y": 4 },
+        { "name": "shoko", "x": 2, "y": 4 },
+
+        { "name": "ota", "x": -3.5, "y": 3 },
+        { "name": "kondo", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 3.5, "y": 3 },
+
+        { "name": "kuramoto", "x": -4.5, "y": 2 },
+        { "name": "matsukawa", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kumoi", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "未来とは? 1秒後 砂時計〜",
+      "members": [
+        { "name": "ota", "x": -2, "y": 4 },
+        { "name": "shoko", "x": 2, "y": 4 },
+
+        { "name": "kuramoto", "x": -3.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kumoi", "x": 3.5, "y": 3 },
+
+        { "name": "matsukawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kuwahara", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "未来とは? 目の前の 兆したち〜",
+      "members": [
+        { "name": "ota", "x": -2, "y": 4 },
+        { "name": "shoko", "x": 2, "y": 4 },
+
+        { "name": "kuramoto", "x": -3.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kumoi", "x": 3.5, "y": 3 },
+
+        { "name": "matsukawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kuwahara", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "未来とは? 1秒後 砂時計 次の一粒が〜",
+      "members": [
+        { "name": "ota", "x": -6, "y": 3 },
+        { "name": "kuramoto", "x": -3, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kumoi", "x": 3, "y": 3 },
+        { "name": "shoko", "x": 6, "y": 3 },
+
+        { "name": "matsukawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kuwahara", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ota", "x": -2, "y": 4 },
+        { "name": "shoko", "x": 2, "y": 4 },
+
+        { "name": "kuramoto", "x": -3.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kumoi", "x": 3.5, "y": 3 },
+
+        { "name": "matsukawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kuwahara", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "ota", "x": -2, "y": 4 },
+        { "name": "shoko", "x": 2, "y": 4 },
+
+        { "name": "kuramoto", "x": -3.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kumoi", "x": 3.5, "y": 3 },
+
+        { "name": "matsukawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "kuwahara", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
