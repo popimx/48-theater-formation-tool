@@ -1,0 +1,78 @@
+{
+  "title": "火曜日の夜、水曜日の朝",
+
+  "memo": [
+    "① 川村奥野太田、近藤/松川、桒原伊藤倉本",
+    "長谷川雲井/南澤河村",
+    "② 桒原伊藤倉本、南澤/雲井、長谷川/河村",
+    "川村近藤奥野松川太田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ito", "x": -2, "y": 4 },
+        { "name": "kumoi", "x": 2, "y": 4 },
+
+        { "name": "kuwahara", "x": -3, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "yua", "x": 3, "y": 3 },
+
+        { "name": "shoko", "x": -4, "y": 2 },
+        { "name": "hasegawa", "x": -1, "y": 2 },
+        { "name": "matsukawa", "x": 1, "y": 2 },
+        { "name": "ota", "x": 4, "y": 2 },
+
+        { "name": "kondo", "x": -2.5, "y": 1 },
+        { "name": "okuno", "x": 0, "y": 1 },
+        { "name": "kuramoto", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kumoi", "x": -2.5, "y": 4 },
+        { "name": "minamisawa", "x": 2.5, "y": 4 },
+
+        { "name": "hasegawa", "x": -3.5, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "yua", "x": 3.5, "y": 3 },
+
+        { "name": "shoko", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.5, "y": 2 },
+        { "name": "okuno", "x": 1.5, "y": 2 },
+        { "name": "ota", "x": 4.5, "y": 2 },
+
+        { "name": "kuwahara", "x": -3, "y": 1 },
+        { "name": "ito", "x": 0, "y": 1 },
+        { "name": "kuramoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "派手なネイルもへそのピアスもアゲハのタトゥーも〜",
+      "members": [
+        { "name": "shoko", "x": -4, "y": 4 },
+        { "name": "okuno", "x": 0, "y": 4 },
+        { "name": "ota", "x": 4, "y": 4 },
+
+        { "name": "hasegawa", "x": -5, "y": 3 },
+        { "name": "kondo", "x": -1.5, "y": 3 },
+        { "name": "matsukawa", "x": 1.5, "y": 3 },
+        { "name": "yua", "x": 5, "y": 3 },
+
+        { "name": "kuwahara", "x": -3, "y": 2 },
+        { "name": "ito", "x": 0, "y": 2 },
+        { "name": "kuramoto", "x": 3, "y": 2 },
+
+        { "name": "minamisawa", "x": -1, "y": 1 },
+        { "name": "kumoi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
