@@ -80,47 +80,47 @@
   "songs": [
     {
       "title": "青空片想い",
-      "file": "songs/aozorakataomoi.json"
+      "file": "aozorakataomoi.json"
     },
     {
       "title": "逆上がり",
-      "file": "songs/sakaagari.json"
+      "file": sakaagari.json"
     },
     {
       "title": "ボーイフレンドの作り方",
-      "file": "songs/boyfriendnotsukurikata.json"
+      "file": "boyfriendnotsukurikata.json"
     },
     {
       "title": "2人乗りの自転車",
-      "file": "songs/futarinorinojitensha.json"
+      "file": "futarinorinojitensha.json"
     },
     {
       "title": "ほっぺ、ツネル",
-      "file": "songs/hoppe_tsuneru.json"
+      "file": "hoppe_tsuneru.json"
     },
     {
       "title": "火曜日の夜、水曜日の朝",
-      "file": "songs/kayoubinoyoru_suiyoubinoasa.json"
+      "file": "kayoubinoyoru_suiyoubinoasa.json"
     },
     {
       "title": "FRUSTRATION",
-      "file": "songs/frustration.json"
+      "file": "frustration.json"
     },
     {
       "title": "鳥は青い空の涯を知らない",
-      "file": "songs/torihaaoisoranohatewoshiranai.json"
+      "file": "torihaaoisoranohatewoshiranai.json"
     },
     {
       "title": "バズーカ砲発射！",
-      "file": "songs/bazookahouhassha.json"
+      "file": "bazookahouhassha.json"
     },
     {
       "title": "水夫は嵐に夢を見る",
-      "file": "songs/suifuhaarashiniyumewomiru.json"
+      "file": "suifuhaarashiniyumewomiru.json"
     },
     {
       "title": "未来とは？",
-      "file": "songs/miraitowa.json"
+      "file": "miraitowa.json"
     }
   ]
 }
