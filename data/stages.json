@@ -15,6 +15,11 @@
     "file": "stages/tewotsunaginagara_2026.json"
   },
   {
+    "stage": "SKE48「僕の太陽」",
+    "stageId": "bokunotaiyo_2025",
+    "file": "stages/bokunotaiyo_2025.json"
+  },
+  {
     "stage": "SKE48「ずっと君を探している」",
     "stageId": "zuttokimiwosagashiteiru",
     "file": "stages/zuttokimiwosagashiteiru.json"
