@@ -1,0 +1,70 @@
+{
+  "title": "楽園の階段",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "suzuki", "x": 0, "y": 5 },
+
+        { "name": "sugimoto", "x": -4, "y": 4 },
+        { "name": "kakimoto", "x": -1.5, "y": 4 },
+        { "name": "yamamura", "x": 1.5, "y": 4 },
+        { "name": "kuramoto", "x": 4, "y": 4 },
+
+        { "name": "ito", "x": -3, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 3, "y": 3 },
+
+        { "name": "kawamura", "x": -2, "y": 2 },
+        { "name": "shinohara", "x": 2, "y": 2 },
+
+        { "name": "omura", "x": -1, "y": 1 },
+        { "name": "morimoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "yamamura", "x": 0, "y": 3 },
+        { "name": "kuramoto", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "kakimoto", "x": -1.25, "y": 2 },
+        { "name": "kawamura", "x": 1.25, "y": 2 },
+        { "name": "matsukawa", "x": 4, "y": 2 },
+
+        { "name": "ito", "x": -5, "y": 1 },
+        { "name": "omura", "x": -2.5, "y": 1 },
+        { "name": "morimoto", "x": 0, "y": 1 },
+        { "name": "shinohara", "x": 2.5, "y": 1 },
+        { "name": "okuno", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "私たちの前に情熱を見せてくれ！〜",
+      "members": [
+        { "name": "suzuki", "x": 0, "y": 5 },
+
+        { "name": "sugimoto", "x": -4, "y": 4 },
+        { "name": "kuramoto", "x": -1.5, "y": 4 },
+        { "name": "kakimoto", "x": 1.5, "y": 4 },
+        { "name": "yamamura", "x": 4, "y": 4 },
+
+        { "name": "ito", "x": -3, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "okuno", "x": 3, "y": 3 },
+
+        { "name": "kawamura", "x": -2, "y": 2 },
+        { "name": "shinohara", "x": 2, "y": 2 },
+
+        { "name": "morimoto", "x": -1, "y": 1 },
+        { "name": "omura", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
