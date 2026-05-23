@@ -1,0 +1,100 @@
+{
+  "title": "ボーイフレンドの作り方",
+
+  "memo": [
+    "イントロ 奥野",
+    "① 伊藤 (長谷川)、河村 (近藤) (松川)",
+    "長谷川 (雲井)、川村/南澤、奥野/倉本",
+    "①サビ後 近藤",
+    "② 松川 (奥野) (南澤)、近藤 (伊藤河村) (倉本)",
+    "桒原 (太田) (雲井松川)、太田 (桒原雲井松川)",
+    "伊藤雲井奥野",
+    "②サビ後 近藤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "恋の1! 2! 3! 本を読んでみたり  1! 2! 3! 誰かに聞いたり〜",
+      "members": [
+        { "name": "kondo", "x": -7.5, "y": 3 },
+        { "name": "minamisawa", "x": -3.5, "y": 3 },
+        { "name": "yua", "x": 0.5, "y": 3 },
+        { "name": "kuwahara", "x": 4.5, "y": 3 },
+
+        { "name": "shoko", "x": -6, "y": 2 },
+        { "name": "okuno", "x": -2, "y": 2 },
+        { "name": "kuramoto", "x": 2, "y": 2 },
+        { "name": "hasegawa", "x": 6, "y": 2 },
+
+        { "name": "ota", "x": -4.5, "y": 1 },
+        { "name": "ito", "x": -0.5, "y": 1 },
+        { "name": "kumoi", "x": 3.5, "y": 1 },
+        { "name": "matsukawa", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "恋の1! 2! 3! 全部 受け売りなの  今日も レッスンしています〜",
+      "members": [
+        { "name": "ota", "x": -4.5, "y": 3 },
+        { "name": "ito", "x": -0.5, "y": 3 },
+        { "name": "kumoi", "x": 3.5, "y": 3 },
+        { "name": "matsukawa", "x": 7.5, "y": 3 },
+
+        { "name": "shoko", "x": -6, "y": 2 },
+        { "name": "okuno", "x": -2, "y": 2 },
+        { "name": "kuramoto", "x": 2, "y": 2 },
+        { "name": "hasegawa", "x": 6, "y": 2 },
+
+        { "name": "kondo", "x": -7.5, "y": 1 },
+        { "name": "minamisawa", "x": -3.5, "y": 1 },
+        { "name": "yua", "x": 0.5, "y": 1 },
+        { "name": "kuwahara", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "準備万端だけど〜",
+      "members": [
+        { "name": "yua", "x": -4, "y": 3 },
+        { "name": "kuramoto", "x": -2, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "shoko", "x": 2, "y": 3 },
+        { "name": "hasegawa", "x": 4, "y": 3 },
+
+        { "name": "kondo", "x": -3, "y": 2 },
+        { "name": "ota", "x": -1, "y": 2 },
+        { "name": "kuwahara", "x": 1, "y": 2 },
+        { "name": "matsukawa", "x": 3, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "kumoi", "x": 0, "y": 1 },
+        { "name": "okuno", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "恋の1! 2! 3! 全部 受け売りなの  今日も レッスンしています〜",
+      "members": [
+        { "name": "ota", "x": -6, "y": 3 },
+        { "name": "kondo", "x": -3, "y": 3 },
+        { "name": "hasegawa", "x": 3, "y": 3 },
+        { "name": "kuwahara", "x": 6, "y": 3 },
+
+        { "name": "kumoi", "x": -5, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "yua", "x": 1, "y": 2 },
+        { "name": "matsukawa", "x": 5, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "minamisawa", "x": -2, "y": 1 },
+        { "name": "okuno", "x": 2, "y": 1 },
+        { "name": "shoko", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
