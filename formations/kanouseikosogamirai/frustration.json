@@ -1,0 +1,222 @@
+{
+  "title": "FRUSTRATION",
+
+  "memo": [
+    "① 太田河村川村、長谷川伊藤近藤奥野",
+    "② 南澤雲井倉本桒原松川、太田河村川村",
+    "長谷川伊藤近藤奥野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "アイシテルゼ 叫ぼうぜ〜",
+      "members": [
+        { "name": "ota", "x": -5, "y": 3 },
+        { "name": "yua", "x": -3, "y": 3 },
+        { "name": "minamisawa", "x": -1, "y": 3 },
+        { "name": "kuwahara", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 3, "y": 3 },
+        { "name": "shoko", "x": 5, "y": 3 },
+
+        { "name": "hasegawa", "x": -4, "y": 2 },
+        { "name": "kumoi", "x": -2, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 },
+        { "name": "kondo", "x": 4, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "kuramoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "アイシテルゼ 思い切り〜",
+      "members": [
+        { "name": "hasegawa", "x": -5, "y": 3 },
+        { "name": "ota", "x": -3, "y": 3 },
+        { "name": "yua", "x": -1, "y": 3 },
+        { "name": "matsukawa", "x": 1, "y": 3 },
+        { "name": "shoko", "x": 3, "y": 3 },
+        { "name": "kondo", "x": 5, "y": 3 },
+
+        { "name": "ito", "x": -4, "y": 2 },
+        { "name": "minamisawa", "x": -2, "y": 2 },
+        { "name": "kuwahara", "x": 2, "y": 2 },
+        { "name": "kuramoto", "x": 4, "y": 2 },
+
+        { "name": "kumoi", "x": -3, "y": 1 },
+        { "name": "okuno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "アイシテルゼ ハグしよう！〜",
+      "members": [
+        { "name": "ito", "x": -5, "y": 3 },
+        { "name": "hasegawa", "x": -3, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "shoko", "x": 1, "y": 3 },
+        { "name": "kondo", "x": 3, "y": 3 },
+        { "name": "kuramoto", "x": 5, "y": 3 },
+
+        { "name": "kumoi", "x": -4, "y": 2 },
+        { "name": "yua", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 2, "y": 2 },
+        { "name": "okuno", "x": 4, "y": 2 },
+
+        { "name": "minamisawa", "x": -3, "y": 1 },
+        { "name": "kuwahara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "踊れ！オラオラ 踊れ！オラオラ 踊れ！オラオラ 全部 吐き出せ！〜",
+      "members": [
+        { "name": "minamisawa", "x": -6, "y": 3 },
+        { "name": "kumoi", "x": -2.5, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 2.5, "y": 3 },
+        { "name": "matsukawa", "x": 6, "y": 3 },
+
+        { "name": "hasegawa", "x": -4.5, "y": 2 },
+        { "name": "ito", "x": -1.25, "y": 2 },
+        { "name": "kondo", "x": 1.25, "y": 2 },
+        { "name": "okuno", "x": 4.5, "y": 2 },
+
+        { "name": "ota", "x": -3, "y": 1 },
+        { "name": "yua", "x": 0, "y": 1 },
+        { "name": "shoko", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "今一緒にバカやれば すぐにGangになれるだろう〜",
+      "members": [
+        { "name": "minamisawa", "x": -4, "y": 3 },
+        { "name": "kumoi", "x": -2, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 2, "y": 3 },
+        { "name": "matsukawa", "x": 4, "y": 3 },
+
+        { "name": "hasegawa", "x": -3, "y": 2 },
+        { "name": "ito", "x": -1, "y": 2 },
+        { "name": "kondo", "x": 1, "y": 2 },
+        { "name": "okuno", "x": 3, "y": 2 },
+
+        { "name": "ota", "x": -2, "y": 1 },
+        { "name": "yua", "x": 0, "y": 1 },
+        { "name": "shoko", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "Jump turn it up just go numb Empty your mind, have some fun〜",
+      "members": [
+        { "name": "kumoi", "x": -2.5, "y": 4 },
+        { "name": "kuramoto", "x": 0, "y": 4 },
+        { "name": "kuwahara", "x": 2.5, "y": 4 },
+
+        { "name": "minamisawa", "x": -3.5, "y": 3 },
+        { "name": "ito", "x": -1, "y": 3 },
+        { "name": "kondo", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 3.5, "y": 3 },
+
+        { "name": "hasegawa", "x": -2, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 },
+
+        { "name": "ota", "x": -3, "y": 1 },
+        { "name": "yua", "x": 0, "y": 1 },
+        { "name": "shoko", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "アイシテルゼ 叫ぼうぜ〜",
+      "members": [
+        { "name": "ota", "x": -5, "y": 3 },
+        { "name": "yua", "x": -3, "y": 3 },
+        { "name": "minamisawa", "x": -1, "y": 3 },
+        { "name": "kuwahara", "x": 1, "y": 3 },
+        { "name": "matsukawa", "x": 3, "y": 3 },
+        { "name": "shoko", "x": 5, "y": 3 },
+
+        { "name": "hasegawa", "x": -4, "y": 2 },
+        { "name": "kumoi", "x": -2, "y": 2 },
+        { "name": "okuno", "x": 2, "y": 2 },
+        { "name": "kondo", "x": 4, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "kuramoto", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "アイシテルゼ 思い切り〜",
+      "members": [
+        { "name": "hasegawa", "x": -5, "y": 3 },
+        { "name": "ota", "x": -3, "y": 3 },
+        { "name": "yua", "x": -1, "y": 3 },
+        { "name": "matsukawa", "x": 1, "y": 3 },
+        { "name": "shoko", "x": 3, "y": 3 },
+        { "name": "kondo", "x": 5, "y": 3 },
+
+        { "name": "ito", "x": -4, "y": 2 },
+        { "name": "minamisawa", "x": -2, "y": 2 },
+        { "name": "kuwahara", "x": 2, "y": 2 },
+        { "name": "kuramoto", "x": 4, "y": 2 },
+
+        { "name": "kumoi", "x": -3, "y": 1 },
+        { "name": "okuno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "アイシテルゼ ハグしよう！〜",
+      "members": [
+        { "name": "ito", "x": -5, "y": 3 },
+        { "name": "hasegawa", "x": -3, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "shoko", "x": 1, "y": 3 },
+        { "name": "kondo", "x": 3, "y": 3 },
+        { "name": "kuramoto", "x": 5, "y": 3 },
+
+        { "name": "kumoi", "x": -4, "y": 2 },
+        { "name": "yua", "x": -2, "y": 2 },
+        { "name": "matsukawa", "x": 2, "y": 2 },
+        { "name": "okuno", "x": 4, "y": 2 },
+
+        { "name": "minamisawa", "x": -3, "y": 1 },
+        { "name": "kuwahara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "踊れ！オラオラ 踊れ！オラオラ 踊れ！オラオラ 全部 吐き出せ！〜",
+      "members": [
+        { "name": "minamisawa", "x": -6, "y": 3 },
+        { "name": "kumoi", "x": -2.5, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 2.5, "y": 3 },
+        { "name": "matsukawa", "x": 6, "y": 3 },
+
+        { "name": "hasegawa", "x": -4.5, "y": 2 },
+        { "name": "ito", "x": -1.25, "y": 2 },
+        { "name": "kondo", "x": 1.25, "y": 2 },
+        { "name": "okuno", "x": 4.5, "y": 2 },
+
+        { "name": "ota", "x": -3, "y": 1 },
+        { "name": "yua", "x": 0, "y": 1 },
+        { "name": "shoko", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
