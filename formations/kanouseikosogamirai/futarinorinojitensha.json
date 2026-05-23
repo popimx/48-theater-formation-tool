@@ -1,0 +1,98 @@
+{
+  "title": "2人乗りの自転車",
+
+  "memo": [
+    "① 雲井松川、河村/倉本、長谷川/奥野、近藤太田",
+    "桒原伊藤、南澤川村、雲井/松川、河村倉本",
+    "② 川村/南澤、桒原/伊藤、雲井/松川、倉本河村",
+    "奥野/長谷川、近藤太田、桒原/伊藤、奥野長谷川"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "Don't say 言わないで〜",
+      "members": [
+        { "name": "okuno", "x": -4, "y": 4 },
+        { "name": "yua", "x": 0, "y": 4 },
+        { "name": "hasegawa", "x": 4, "y": 4 },
+
+        { "name": "kumoi", "x": -4, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "matsukawa", "x": 4, "y": 3 },
+
+        { "name": "kuwahara", "x": -4, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "ito", "x": 4, "y": 2 },
+
+        { "name": "shoko", "x": -4, "y": 1 },
+        { "name": "kondo", "x": 0, "y": 1 },
+        { "name": "minamisawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "いつか 思い出になるまで〜",
+      "members": [
+        { "name": "kuwahara", "x": -4, "y": 4 },
+        { "name": "yua", "x": 0, "y": 4 },
+        { "name": "ito", "x": 4, "y": 4 },
+
+        { "name": "shoko", "x": -4, "y": 3 },
+        { "name": "kuramoto", "x": 0, "y": 3 },
+        { "name": "minamisawa", "x": 4, "y": 3 },
+
+        { "name": "okuno", "x": -4, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "hasegawa", "x": 4, "y": 2 },
+
+        { "name": "kumoi", "x": -4, "y": 1 },
+        { "name": "kondo", "x": 0, "y": 1 },
+        { "name": "matsukawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kondo", "x": -3, "y": 3 },
+        { "name": "ota", "x": 0, "y": 3 },
+        { "name": "hasegawa", "x": 3, "y": 3 },
+
+        { "name": "kuwahara", "x": -4, "y": 2 },
+        { "name": "kumoi", "x": -1.25, "y": 2 },
+        { "name": "shoko", "x": 1.25, "y": 2 },
+        { "name": "yua", "x": 4, "y": 2 },
+
+        { "name": "okuno", "x": -5, "y": 1 },
+        { "name": "kuramoto", "x": -2.5, "y": 1 },
+        { "name": "minamisawa", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2.5, "y": 1 },
+        { "name": "matsukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "minamisawa", "x": -6, "y": 3 },
+        { "name": "kuwahara", "x": -2.5, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "ito", "x": 2.5, "y": 3 },
+        { "name": "kumoi", "x": 6, "y": 3 },
+
+        { "name": "ota", "x": -4.5, "y": 2 },
+        { "name": "matsukawa", "x": -1.25, "y": 2 },
+        { "name": "shoko", "x": 1.25, "y": 2 },
+        { "name": "kuramoto", "x": 4.5, "y": 2 },
+
+        { "name": "yua", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "kondo", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
