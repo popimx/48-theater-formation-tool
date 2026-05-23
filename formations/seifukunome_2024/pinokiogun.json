@@ -1,0 +1,76 @@
+{
+  "title": "ピノキオ軍",
+
+  "memo": [
+    "イントロ 森本",
+    "① 河村、奥野、松川、奥野河村、森本大村篠原",
+    "森本、大村、篠原、柿元、鈴木、倉本",
+    "ラスト 山村、伊藤、杉本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "ito", "x": -4.5, "y": 3 },
+        { "name": "okuno", "x": -1.5, "y": 3 },
+        { "name": "kuramoto", "x": 1.5, "y": 3 },
+        { "name": "sugimoto", "x": 4.5, "y": 3 },
+
+        { "name": "shinohara", "x": -4.5, "y": 2 },
+        { "name": "yamamura", "x": -1.5, "y": 2 },
+        { "name": "matsukawa", "x": 1.5, "y": 2 },
+        { "name": "suzuki", "x": 4.5, "y": 2 },
+
+        { "name": "kakimoto", "x": -4.5, "y": 1 },
+        { "name": "morimoto", "x": -1.5, "y": 1 },
+        { "name": "omura", "x": 1.5, "y": 1 },
+        { "name": "kawamura", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ピノキオじゃん 心配ないじゃん ピノキオじゃん 不安はないじゃん〜",
+      "members": [
+        { "name": "okuno", "x": -2, "y": 3 },
+        { "name": "kawamura", "x": 2, "y": 3 },
+
+        { "name": "omura", "x": -5, "y": 2 },
+        { "name": "kakimoto", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1, "y": 2 },
+        { "name": "morimoto", "x": 1, "y": 2 },
+        { "name": "shinohara", "x": 3, "y": 2 },
+        { "name": "sugimoto", "x": 5, "y": 2 },
+
+        { "name": "kuramoto", "x": -4, "y": 1 },
+        { "name": "matsukawa", "x": -2, "y": 1 },
+        { "name": "yamamura", "x": 2, "y": 1 },
+        { "name": "ito", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "いざ進め! 天下を獲ろうぜ! イェーイ! 〜",
+      "members": [
+        { "name": "suzuki", "x": -2, "y": 5 },
+        { "name": "kakimoto", "x": 0, "y": 5 },
+        { "name": "okuno", "x": 2, "y": 5 },
+
+        { "name": "yamamura", "x": -3, "y": 4 },
+        { "name": "kuramoto", "x": -1, "y": 4 },
+        { "name": "matsukawa", "x": 1, "y": 4 },
+        { "name": "kawamura", "x": 3, "y": 4 },
+
+        { "name": "sugimoto", "x": -2, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+
+        { "name": "shinohara", "x": -1, "y": 2 },
+        { "name": "morimoto", "x": 1, "y": 2 },
+
+        { "name": "omura", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
