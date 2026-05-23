@@ -1,0 +1,179 @@
+{
+  "title": "青空片想い",
+
+  "memo": [
+    "① 長谷川、伊藤、河村伊藤、近藤/奥野",
+    "桒原/松川、倉本南澤、川村太田雲井",
+    "② 近藤河村、太田雲井、川村倉本、長谷川",
+    "伊藤、南澤/奥野、桒原/松川",
+    "ラストサビ 倉本/南澤/雲井、伊藤/長谷川/河村",
+    "奥野/近藤/太田、松川/川村/桒原"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "members": [
+        { "name": "kondo", "x": -5, "y": 3 },
+        { "name": "shoko", "x": -2.5, "y": 3 },
+        { "name": "okuno", "x": 0, "y": 3 },
+        { "name": "ota", "x": 2.5, "y": 3 },
+        { "name": "kumoi", "x": 5, "y": 3 },
+
+        { "name": "kuwahara", "x": -3.5, "y": 2 },
+        { "name": "kuramoto", "x": -1, "y": 2 },
+        { "name": "minamisawa", "x": 1, "y": 2 },
+        { "name": "matsukawa", "x": 3.5, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "members": [
+        { "name": "shoko", "x": -6, "y": 3 },
+        { "name": "kuramoto", "x": -2.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "ota", "x": 2.5, "y": 3 },
+        { "name": "kumoi", "x": 6, "y": 3 },
+
+        { "name": "kuwahara", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.25, "y": 2 },
+        { "name": "okuno", "x": 1.25, "y": 2 },
+        { "name": "matsukawa", "x": 4.5, "y": 2 },
+
+        { "name": "yua", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "members": [
+        { "name": "shoko", "x": -5, "y": 3 },
+        { "name": "kuramoto", "x": -2.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "ota", "x": 2.5, "y": 3 },
+        { "name": "kumoi", "x": 5, "y": 3 },
+
+        { "name": "kuwahara", "x": -3.5, "y": 2 },
+        { "name": "kondo", "x": -1, "y": 2 },
+        { "name": "okuno", "x": 1, "y": 2 },
+        { "name": "matsukawa", "x": 3.5, "y": 2 },
+
+        { "name": "yua", "x": -2, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "members": [
+        { "name": "kuwahara", "x": -6, "y": 3 },
+        { "name": "kumoi", "x": -2.5, "y": 3 },
+        { "name": "minamisawa", "x": 0, "y": 3 },
+        { "name": "kondo", "x": 2.5, "y": 3 },
+        { "name": "okuno", "x": 6, "y": 3 },
+
+        { "name": "shoko", "x": -4.5, "y": 2 },
+        { "name": "matsukawa", "x": -1.25, "y": 2 },
+        { "name": "kuramoto", "x": 1.25, "y": 2 },
+        { "name": "yua", "x": 4.5, "y": 2 },
+
+        { "name": "ota", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "ito", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "青空片想い 恋は空の下で生まれるんだ〜",
+      "members": [
+        { "name": "matsukawa", "x": -3, "y": 4 },
+        { "name": "shoko", "x": 0, "y": 4 },
+        { "name": "kuwahara", "x": 3, "y": 4 },
+
+        { "name": "okuno", "x": -3, "y": 3 },
+        { "name": "kondo", "x": 0, "y": 3 },
+        { "name": "ota", "x": 3, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "hasegawa", "x": 0, "y": 2 },
+        { "name": "yua", "x": 3, "y": 2 },
+
+        { "name": "kuramoto", "x": -3, "y": 1 },
+        { "name": "minamisawa", "x": 0, "y": 1 },
+        { "name": "kumoi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "青空片想い 心に日向があるように〜",
+      "members": [
+        { "name": "okuno", "x": -3.5, "y": 4 },
+        { "name": "matsukawa", "x": 0, "y": 4 },
+        { "name": "shoko", "x": 3.5, "y": 4 },
+
+        { "name": "kuramoto", "x": -2, "y": 3 },
+        { "name": "ota", "x": 2, "y": 3 },
+
+        { "name": "ito", "x": -3, "y": 2 },
+        { "name": "kondo", "x": 0, "y": 2 },
+        { "name": "kuwahara", "x": 3, "y": 2 },
+
+        { "name": "minamisawa", "x": -4.5, "y": 1 },
+        { "name": "hasegawa", "x": -1.5, "y": 1 },
+        { "name": "kumoi", "x": 1.5, "y": 1 },
+        { "name": "yua", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "青空片想い 僕は君の空になりたい〜",
+      "members": [
+        { "name": "okuno", "x": -6, "y": 3 },
+        { "name": "kuramoto", "x": -2.5, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 2.5, "y": 3 },
+        { "name": "shoko", "x": 6, "y": 3 },
+
+        { "name": "minamisawa", "x": -4.5, "y": 2 },
+        { "name": "kondo", "x": -1.25, "y": 2 },
+        { "name": "kumoi", "x": 1.25, "y": 2 },
+        { "name": "ota", "x": 4.5, "y": 2 },
+
+        { "name": "ito", "x": -3, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "members": [
+        { "name": "okuno", "x": -5, "y": 3 },
+        { "name": "kuramoto", "x": -2.5, "y": 3 },
+        { "name": "matsukawa", "x": 0, "y": 3 },
+        { "name": "kuwahara", "x": 2.5, "y": 3 },
+        { "name": "shoko", "x": 5, "y": 3 },
+
+        { "name": "minamisawa", "x": -3.5, "y": 2 },
+        { "name": "kondo", "x": -1, "y": 2 },
+        { "name": "kumoi", "x": 1, "y": 2 },
+        { "name": "ota", "x": 3.5, "y": 2 },
+
+        { "name": "ito", "x": -2, "y": 1 },
+        { "name": "hasegawa", "x": 0, "y": 1 },
+        { "name": "yua", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
