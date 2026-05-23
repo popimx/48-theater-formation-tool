@@ -35,6 +35,11 @@
     "file": "stages/seifukunome_2024.json"
   },
   {
+    "stage": "SKE48「可能性こそが未来」",
+    "stageId": "kanouseikosogamirai",
+    "file": "stages/kanouseikosogamirai.json"
+  },
+  {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
     "file": "stages/metcharabuyu.json"
