@@ -1,0 +1,153 @@
+{
+  "title": "夕陽を見ているか？",
+
+  "memo": [
+    "① 鈴木/坂本、杉本/石黒、原/倉島",
+    "② 伊藤野村熊崎、中野相川入内嶋",
+    "中野相川入内嶋伊藤野村熊崎"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -5, "y": 3 },
+        { "name": "sugimoto", "x": -3, "y": 3 },
+        { "name": "hara", "x": -1, "y": 3 },
+        { "name": "kurashima", "x": 1, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+        { "name": "sakamoto", "x": 5, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Yes! それなりの今日が終わり〜",
+      "members": [
+        { "name": "sakamoto", "x": -5, "y": 1 },
+        { "name": "sugimoto", "x": -3, "y": 1 },
+        { "name": "hara", "x": -1, "y": 1 },
+        { "name": "kurashima", "x": 1, "y": 1 },
+        { "name": "ishiguro", "x": 3, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "家路を急ぐ君は一人きり〜",
+      "members": [
+        { "name": "sakamoto", "x": -7.5, "y": 1 },
+        { "name": "sugimoto", "x": -4.5, "y": 1 },
+        { "name": "hara", "x": -1.5, "y": 1 },
+        { "name": "kurashima", "x": 1.5, "y": 1 },
+        { "name": "ishiguro", "x": 4.5, "y": 1 },
+        { "name": "suzuki", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "いろいろとあったけど いつも希望に満ちている〜",
+      "members": [
+        { "name": "hara", "x": -5.5, "y": 2 },
+        { "name": "sakamoto", "x": -3.5, "y": 2 },
+        { "name": "aikawa", "x": -1.5, "y": 2 },
+        { "name": "ito", "x": 0.5, "y": 2 },
+        { "name": "kumazaki", "x": 2.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "sugimoto", "x": -4.5, "y": 1 },
+        { "name": "nakano", "x": -2.5, "y": 1 },
+        { "name": "iriuchijima", "x": -0.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "suzuki", "x": 3.5, "y": 1 },
+        { "name": "kurashima", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "夕陽が沈む空を見ているか? 〜",
+      "members": [
+        { "name": "hara", "x": -5.5, "y": 2 },
+        { "name": "sakamoto", "x": -3.5, "y": 2 },
+        { "name": "aikawa", "x": -1.5, "y": 2 },
+        { "name": "ito", "x": 0.5, "y": 2 },
+        { "name": "kumazaki", "x": 2.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "sugimoto", "x": -4.5, "y": 1 },
+        { "name": "nakano", "x": -2.5, "y": 1 },
+        { "name": "iriuchijima", "x": -0.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "suzuki", "x": 3.5, "y": 1 },
+        { "name": "kurashima", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "家路を急ぐ君は一人きり〜",
+      "members": [
+        { "name": "aikawa", "x": -4, "y": 3 },
+        { "name": "iriuchijima", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 0, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "nomura", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -3, "y": 2 },
+        { "name": "hara", "x": -1, "y": 2 },
+        { "name": "ishiguro", "x": 1, "y": 2 },
+        { "name": "kumazaki", "x": 3, "y": 2 },
+
+        { "name": "sugimoto", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 0, "y": 1 },
+        { "name": "kurashima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": -4, "y": 3 },
+        { "name": "iriuchijima", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 0, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "nomura", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -3, "y": 2 },
+        { "name": "hara", "x": -1, "y": 2 },
+        { "name": "ishiguro", "x": 1, "y": 2 },
+        { "name": "kumazaki", "x": 3, "y": 2 },
+
+        { "name": "sugimoto", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 0, "y": 1 },
+        { "name": "kurashima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "aikawa", "x": -4, "y": 3 },
+        { "name": "iriuchijima", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 0, "y": 3 },
+        { "name": "ito", "x": 2, "y": 3 },
+        { "name": "nomura", "x": 4, "y": 3 },
+
+        { "name": "sakamoto", "x": -3, "y": 2 },
+        { "name": "hara", "x": -1, "y": 2 },
+        { "name": "ishiguro", "x": 1, "y": 2 },
+        { "name": "kumazaki", "x": 3, "y": 2 },
+
+        { "name": "sugimoto", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 0, "y": 1 },
+        { "name": "kurashima", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
