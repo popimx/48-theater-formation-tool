@@ -1,0 +1,126 @@
+{
+  "stage": "NMB48「N ship」",
+  "stageId": "nship",
+
+  "members": [
+    {
+      "name": "石田優美",
+      "display": "石田",
+      "id": "ishida",
+      "image": "ishida_yuumi_2023"
+    },
+    {
+      "name": "泉綾乃",
+      "display": "泉",
+      "id": "izumi",
+      "image": "izumi_ayano_2023"
+    },
+    {
+      "name": "瓶野神音",
+      "display": "瓶野",
+      "id": "kameno",
+      "image": "kameno_zion_2023"
+    },
+    {
+      "name": "川上千尋",
+      "display": "川上",
+      "id": "kawakami",
+      "image": "kawakami_chihiro_2023"
+    },
+    {
+      "name": "小嶋花梨",
+      "display": "小嶋",
+      "id": "kojima",
+      "image": "kojima_karin_2023"
+    },
+    {
+      "name": "佐月愛果",
+      "display": "佐月",
+      "id": "satsuki",
+      "image": "satsuki_aika_2023"
+    },
+    {
+      "name": "田中雪乃",
+      "display": "田中",
+      "id": "tanaka",
+      "image": "tanaka_yukino_2023"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2023"
+    },
+    {
+      "name": "松岡さくら",
+      "display": "松岡",
+      "id": "matsuoka",
+      "image": "matsuoka_sakura_2023"
+    },
+    {
+      "name": "松本海日菜",
+      "display": "松本",
+      "id": "matsumoto",
+      "image": "matsumoto_mihina_2023"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "NMB参上！",
+      "file": "nmbsanjo.json"
+    },
+    {
+      "name": "マンモス",
+      "file": "mammoth.json"
+    },
+    {
+      "name": "いびつな真珠",
+      "file": "ibitsunashinju.json"
+    },
+    {
+      "name": "ハートの脱出ゲーム",
+      "file": "heartnodasshutsugame.json"
+    },
+    {
+      "name": "涯",
+      "file": "hate.json"
+    },
+    {
+      "name": "どこかでキスを",
+      "file": "dokokadekisuo.json"
+    },
+    {
+      "name": "少し苦い人生相談",
+      "file": "sukoshinigaijinseisodan.json"
+    },
+    {
+      "name": "呼び捨てファンタジー",
+      "file": "yobisutefantasy.json"
+    },
+    {
+      "name": "NEW SHIP",
+      "file": "new_ship.json"
+    },
+    {
+      "name": "1!2!3!4! ヨロシク!",
+      "file": "1234_yoroshiku.json"
+    },
+    {
+      "name": "夏のDestination",
+      "file": "natsunodestination.json"
+    },
+    {
+      "name": "Gotcha",
+      "file": "gotcha.json"
+    },
+    {
+      "name": "ジンクスとゲンカツギ",
+      "file": "jinkstogenkatsugi.json"
+    },
+    {
+      "name": "ずっと ずっと",
+      "file": "zutto_zutto.json"
+    }
+  ]
+}
