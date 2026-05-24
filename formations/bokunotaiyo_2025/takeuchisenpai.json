@@ -55,9 +55,9 @@
       "lyrics": "",
       "members": [
         { "name": "sugimoto", "x": -6, "y": 3 },
-        { "name": "nakano", "x": -3.5, "y": 3 },
+        { "name": "nakano", "x": -3, "y": 3 },
         { "name": "iriuchijima", "x": 0, "y": 3 },
-        { "name": "aikawa", "x": 3.5, "y": 3 },
+        { "name": "aikawa", "x": 3, "y": 3 },
         { "name": "nomura", "x": 6, "y": 3 },
 
         { "name": "ishiguro", "x": -4.5, "y": 2 },
