@@ -58,7 +58,7 @@
       "members": [
         { "name": "suzuki", "x": -5.5, "y": 4 },
         { "name": "ishiguro", "x": 0, "y": 4 },
-        { "name": "aikawa", "x": 3, "y": 4 },
+        { "name": "aikawa", "x": 5.5, "y": 4 },
 
         { "name": "iriuchijima", "x": -4, "y": 3 },
         { "name": "kurashima", "x": -1.5, "y": 3 },
