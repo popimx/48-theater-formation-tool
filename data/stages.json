@@ -45,6 +45,11 @@
     "file": "stages/kanouseikosogamirai.json"
   },
   {
+    "stage": "NMB48「N ship」",
+    "stageId": "nship",
+    "file": "stages/nship.json"
+  },
+  {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
     "file": "stages/metcharabuyu.json"
