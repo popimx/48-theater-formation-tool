@@ -1,0 +1,243 @@
+{
+  "title": "NEW SHIP",
+
+  "memo": [
+    "① 小嶋平山川上、瓶野石田泉、佐月松本/松岡田中",
+    "小嶋平山川上、瓶野石田泉",
+    "② 松本松岡、佐月/田中、瓶野石田泉",
+    "平山小嶋川上",
+    "ラストサビ 平山小嶋川上、瓶野石田泉",
+    "松本佐月/田中松岡"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "新しい船を出せ！夢の帆をあげろ！〜",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 3 },
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "ishida", "x": 1, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+        { "name": "tanaka", "x": 6, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "海原を 真っ直ぐ 突き進め！〜",
+      "members": [
+        { "name": "matsumoto", "x": -3, "y": 4 },
+        { "name": "matsuoka", "x": 3, "y": 4 },
+
+        { "name": "satsuki", "x": -6, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "ishida", "x": 1, "y": 3 },
+        { "name": "tanaka", "x": 6, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "仲間を信じろ！〜",
+      "members": [
+        { "name": "hirayama", "x": -0.5, "y": 3 },
+        { "name": "ishida", "x": 0.5, "y": 3 },
+
+        { "name": "satsuki", "x": -5.5, "y": 2 },
+        { "name": "matsumoto", "x": -4.5, "y": 2 },
+        { "name": "matsuoka", "x": 4.5, "y": 2 },
+        { "name": "tanaka", "x": 5.5, "y": 2 },
+
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "風に舵を取れ！〜",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 5 },
+        { "name": "tanaka", "x": 6.75, "y": 5 },
+
+        { "name": "matsumoto", "x": -5.25, "y": 4 },
+        { "name": "matsuoka", "x": 5.25, "y": 4 },
+
+        { "name": "kameno", "x": -3.75, "y": 3 },
+        { "name": "izumi", "x": 3.75, "y": 3 },
+
+        { "name": "kojima", "x": -2.25, "y": 2 },
+        { "name": "kawakami", "x": 2.25, "y": 2 },
+
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "逃げ出さない  たとえ何かに傷ついて〜",
+      "members": [
+        { "name": "hirayama", "x": -4.5, "y": 3 },
+        { "name": "satsuki", "x": -1.5, "y": 3 },
+        { "name": "tanaka", "x": 1.5, "y": 3 },
+        { "name": "ishida", "x": 4.5, "y": 3 },
+
+        { "name": "kameno", "x": -6, "y": 2 },
+        { "name": "kojima", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": 3, "y": 2 },
+        { "name": "izumi", "x": 6, "y": 2 },
+
+        { "name": "matsumoto", "x": -1, "y": 1 },
+        { "name": "matsuoka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "これまで何隻の帆船が〜",
+      "members": [
+        { "name": "kojima", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "kawakami", "x": 1, "y": 2 },
+
+        { "name": "kameno", "x": -2, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "新しい船を出せ！ 荒れた波を越えろ！〜",
+      "members": [
+        { "name": "kameno", "x": -5.25, "y": 2 },
+        { "name": "hirayama", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 2.25, "y": 2 },
+        { "name": "izumi", "x": 5.25, "y": 2 },
+
+        { "name": "satsuki", "x": -6.75, "y": 1 },
+        { "name": "matsumoto", "x": -3.75, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "kawakami", "x": 0.75, "y": 1 },
+        { "name": "matsuoka", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "ずっと探してる大陸は  悲しみの先にある〜",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 2 },
+        { "name": "matsumoto", "x": -3.75, "y": 2 },
+        { "name": "kojima", "x": -0.75, "y": 2 },
+        { "name": "kawakami", "x": 0.75, "y": 2 },
+        { "name": "matsuoka", "x": 3.75, "y": 2 },
+        { "name": "tanaka", "x": 6.75, "y": 2 },
+
+        { "name": "kameno", "x": -5.25, "y": 1 },
+        { "name": "hirayama", "x": -2.25, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "未来を担う者よ  力を合わせろ！〜",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 4 },
+        { "name": "tanaka", "x": 6.75, "y": 4 },
+
+        { "name": "kameno", "x": -5.25, "y": 3 },
+        { "name": "kojima", "x": -0.75, "y": 3 },
+        { "name": "kawakami", "x": 0.75, "y": 3 },
+        { "name": "izumi", "x": 5.25, "y": 3 },
+
+        { "name": "matsumoto", "x": -3.75, "y": 2 },
+        { "name": "matsuoka", "x": 3.75, "y": 2 },
+
+        { "name": "hirayama", "x": -2.25, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "古い水夫のやり方は  真似なんかしなくていい〜",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 5 },
+        { "name": "matsuoka", "x": 4, "y": 5 },
+
+        { "name": "satsuki", "x": -3, "y": 4 },
+        { "name": "ishida", "x": 0, "y": 4 },
+        { "name": "tanaka", "x": 3, "y": 4 },
+
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "izumi", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "kawakami", "x": 1, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "同じ甲板に立て！〜",
+      "members": [
+        { "name": "matsumoto", "x": -6, "y": 4 },
+        { "name": "satsuki", "x": -2.5, "y": 4 },
+        { "name": "tanaka", "x": 2.5, "y": 4 },
+        { "name": "matsuoka", "x": 6, "y": 4 },
+
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "生きる喜び 感じながら！風に舵を取れ！〜",
+      "members": [
+        { "name": "matsumoto", "x": -6, "y": 3 },
+        { "name": "satsuki", "x": -2, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "matsuoka", "x": 6, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "kawakami", "x": 1, "y": 2 },
+        { "name": "izumi", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "ishida", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
