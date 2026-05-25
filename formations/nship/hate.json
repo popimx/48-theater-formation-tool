@@ -1,0 +1,173 @@
+{
+  "title": "涯",
+
+  "memo": [
+    "① 小嶋、川上、石田泉、平山瓶野",
+    "佐月田中/松岡松本",
+    "② 平山瓶野、松本/田中、松岡佐月",
+    "川上石田泉小嶋",
+    "ラストサビ前 小嶋、石田川上泉",
+    "ラストサビ 小嶋、石田/川上泉"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "世界の涯  風は伝えているか？〜",
+      "members": [
+        { "name": "satsuki", "x": -5, "y": 5 },
+        { "name": "matsumoto", "x": 5, "y": 5 },
+
+        { "name": "tanaka", "x": -4, "y": 4 },
+        { "name": "matsuoka", "x": 4, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -2, "y": 2 },
+        { "name": "izumi", "x": 2, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "永遠だと フェードアウト〜",
+      "members": [
+        { "name": "tanaka", "x": -3.5, "y": 3 },
+        { "name": "matsuoka", "x": 3.5, "y": 3 },
+
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+        { "name": "matsumoto", "x": 4.5, "y": 2 },
+
+        { "name": "ishida", "x": -3, "y": 1 },
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "心の涯  光 届いているか？〜",
+      "members": [
+        { "name": "matsumoto", "x": -5, "y": 5 },
+        { "name": "satsuki", "x": 5, "y": 5 },
+
+        { "name": "matsuoka", "x": -4, "y": 4 },
+        { "name": "tanaka", "x": 4, "y": 4 },
+
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "izumi", "x": -2, "y": 2 },
+        { "name": "ishida", "x": 2, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "愛に未来はない  ブラックアウト〜",
+      "members": [
+        { "name": "matsuoka", "x": -3.5, "y": 3 },
+        { "name": "tanaka", "x": 3.5, "y": 3 },
+
+        { "name": "matsumoto", "x": -4.5, "y": 2 },
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "izumi", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 },
+        { "name": "ishida", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 3 },
+        { "name": "tanaka", "x": -5.25, "y": 3 },
+        { "name": "hirayama", "x": -3.75, "y": 3 },
+        { "name": "ishida", "x": -2.25, "y": 3 },
+        { "name": "kojima", "x": -0.75, "y": 3 },
+
+        { "name": "kawakami", "x": 0.75, "y": 3 },
+        { "name": "izumi", "x": 2.25, "y": 3 },
+        { "name": "kameno", "x": 3.75, "y": 3 },
+        { "name": "matsuoka", "x": 5.25, "y": 3 },
+        { "name": "matsumoto", "x": 6.75, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "世界の涯  風は伝えているか？〜",
+      "members": [
+        { "name": "tanaka", "x": -3.5, "y": 3 },
+        { "name": "matsuoka", "x": 3.5, "y": 3 },
+
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+        { "name": "matsumoto", "x": 4.5, "y": 2 },
+
+        { "name": "ishida", "x": -3, "y": 1 },
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "oh, oh, yeah, yeah  世界の涯  君は信じているか？〜",
+      "members": [
+        { "name": "satsuki", "x": -5, "y": 5 },
+        { "name": "matsumoto", "x": 5, "y": 5 },
+
+        { "name": "tanaka", "x": -4, "y": 4 },
+        { "name": "matsuoka", "x": 4, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -2, "y": 2 },
+        { "name": "izumi", "x": 2, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 5 },
+        { "name": "matsumoto", "x": 3, "y": 5 },
+
+        { "name": "tanaka", "x": -2, "y": 4 },
+        { "name": "matsuoka", "x": 2, "y": 4 },
+
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "kameno", "x": 1, "y": 3 },
+
+        { "name": "ishida", "x": -5, "y": 2 },
+        { "name": "izumi", "x": 5, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
