@@ -1,0 +1,151 @@
+{
+  "title": "1! 2! 3! 4! ヨロシク!",
+
+  "memo": [
+    "① 平山、田中、小嶋/川上、石田、泉、瓶野佐月",
+    "(平山)、田中松岡松本、(田中)、平山田中小嶋",
+    "② 松本、松岡、平山田中、小嶋、泉石田",
+    "佐月瓶野川上、(瓶野)、石田泉小嶋、(佐月)",
+    "②サビ後 (泉)",
+    "ラストサビ 平山/田中、小嶋石田川上、泉佐月瓶野",
+    "松岡/松本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3.75, "y": 3 },
+        { "name": "satsuki", "x": -2.25, "y": 3 },
+        { "name": "matsumoto", "x": 2.25, "y": 3 },
+        { "name": "matsuoka", "x": 3.75, "y": 3 },
+
+        { "name": "ishida", "x": -6.75, "y": 2 },
+        { "name": "kojima", "x": -5.25, "y": 2 },
+        { "name": "kawakami", "x": 5.25, "y": 2 },
+        { "name": "izumi", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "みんなは言うけれど  そんな簡単に (目が合ったら)〜",
+      "members": [
+        { "name": "izumi", "x": 0, "y": 4 },
+
+        { "name": "satsuki", "x": -2, "y": 3 },
+        { "name": "matsuoka", "x": 2, "y": 3 },
+
+        { "name": "kameno", "x": -3, "y": 2 },
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+        { "name": "matsumoto", "x": 3, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 3 },
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+        { "name": "satsuki", "x": 5, "y": 3 },
+
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "ishida", "x": -2, "y": 2 },
+        { "name": "kojima", "x": 2, "y": 2 },
+        { "name": "kawakami", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "tanaka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "どうして出会ったのだろう〜",
+      "members": [
+        { "name": "izumi", "x": 0, "y": 5 },
+
+        { "name": "ishida", "x": -2, "y": 4 },
+        { "name": "kojima", "x": 2, "y": 4 },
+
+        { "name": "matsumoto", "x": -4, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "ishida", "x": -2.25, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "kawakami", "x": 3.75, "y": 2 },
+
+        { "name": "satsuki", "x": -6.75, "y": 1 },
+        { "name": "matsumoto", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -0.75, "y": 1 },
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 },
+        { "name": "kojima", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "5 ! 6 ! 7 ! 8 ! 愛して! 〜",
+      "members": [
+        { "name": "satsuki", "x": 0, "y": 4 },
+
+        { "name": "matsuoka", "x": -4, "y": 3 },
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 2, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+
+        { "name": "kojima", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "5 ! 6 ! 7 ! 8 ! 私を! 〜",
+      "members": [
+        { "name": "satsuki", "x": -3.75, "y": 3 },
+        { "name": "matsuoka", "x": -2.25, "y": 3 },
+        { "name": "matsumoto", "x": 2.25, "y": 3 },
+        { "name": "kameno", "x": 3.75, "y": 3 },
+
+        { "name": "kawakami", "x": -6.75, "y": 2 },
+        { "name": "kojima", "x": -5.25, "y": 2 },
+        { "name": "ishida", "x": 5.25, "y": 2 },
+        { "name": "izumi", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 }
+      ]
+    }
+  ]
+}
