@@ -1,0 +1,245 @@
+{
+  "title": "ずっと ずっと",
+
+  "memo": [
+    "① 川上、平山/石田、小嶋泉、田中瓶野佐月",
+    "② 松本小嶋、松岡川上、泉佐月平山、田中石田瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -6, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "matsumoto", "x": 6, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "ishida", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "何がきっかけだっけ？ 覚えてない〜",
+      "members": [
+        { "name": "matsuoka", "x": -6, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "matsumoto", "x": 6, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "ishida", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "ずっと ずっと そばにいたいよ 君のいない世界は無意味〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "kawakami", "x": -2.25, "y": 2 },
+        { "name": "kameno", "x": 0.75, "y": 2 },
+        { "name": "ishida", "x": 3.75, "y": 2 },
+        { "name": "matsumoto", "x": 6.75, "y": 2 },
+
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "satsuki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "ずっと ずっと そばにいたいよ 僕はやっと気づいたんだ 愛に… 〜",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 2 },
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "kojima", "x": -0.75, "y": 2 },
+        { "name": "izumi", "x": 2.25, "y": 2 },
+        { "name": "satsuki", "x": 5.25, "y": 2 },
+
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "kawakami", "x": -2.25, "y": 1 },
+        { "name": "kameno", "x": 0.75, "y": 1 },
+        { "name": "ishida", "x": 3.75, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "僕のこの人生 編集しよう〜",
+      "members": [
+        { "name": "izumi", "x": -3, "y": 2 },
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+        { "name": "tanaka", "x": 3, "y": 2 },
+
+        { "name": "matsuoka", "x": -5.5, "y": 1 },
+        { "name": "kawakami", "x": -4.5, "y": 1 },
+        { "name": "matsumoto", "x": -0.5, "y": 1 },
+        { "name": "kojima", "x": 0.5, "y": 1 },
+        { "name": "ishida", "x": 4.5, "y": 1 },
+        { "name": "kameno", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "君も同じ気持ちで 待ってたなら〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "izumi", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 3, "y": 2 },
+
+        { "name": "matsumoto", "x": -5.5, "y": 1 },
+        { "name": "kojima", "x": -4.5, "y": 1 },
+        { "name": "matsuoka", "x": -0.5, "y": 1 },
+        { "name": "kawakami", "x": 0.5, "y": 1 },
+        { "name": "kameno", "x": 4.5, "y": 1 },
+        { "name": "ishida", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "きっと きっと 君だけなんだ 僕が愛せる女性は一人〜",
+      "members": [
+        { "name": "kojima", "x": -5.25, "y": 2 },
+        { "name": "izumi", "x": -2.25, "y": 2 },
+        { "name": "matsuoka", "x": 0.75, "y": 2 },
+        { "name": "satsuki", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "tanaka", "x": -6.75, "y": 1 },
+        { "name": "matsumoto", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -0.75, "y": 1 },
+        { "name": "kawakami", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "きっと きっと 君だけなんだ 僕の未来 必要な人だから… 〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "matsumoto", "x": -3.75, "y": 2 },
+        { "name": "ishida", "x": -0.75, "y": 2 },
+        { "name": "kawakami", "x": 2.25, "y": 2 },
+        { "name": "kameno", "x": 5.25, "y": 2 },
+
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "izumi", "x": -2.25, "y": 1 },
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "satsuki", "x": 3.75, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "kameno", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "kojima", "x": 2.25, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ずっと ずっと そばにいたいよ 君のいない世界は無意味〜",
+      "members": [
+        { "name": "kawakami", "x": -5.25, "y": 2 },
+        { "name": "kameno", "x": -2.25, "y": 2 },
+        { "name": "tanaka", "x": 0.75, "y": 2 },
+        { "name": "matsumoto", "x": 3.75, "y": 2 },
+        { "name": "ishida", "x": 6.75, "y": 2 },
+
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "kojima", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "ずっと ずっと そばにいたいよ 僕はやっと気づいたんだ 愛に… 〜",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "hirayama", "x": -0.75, "y": 2 },
+        { "name": "kojima", "x": 2.25, "y": 2 },
+        { "name": "izumi", "x": 5.25, "y": 2 },
+
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -2.25, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "hirayama", "x": -0.75, "y": 2 },
+        { "name": "kojima", "x": 2.25, "y": 2 },
+        { "name": "izumi", "x": 5.25, "y": 2 },
+
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -2.25, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "hirayama", "x": -0.75, "y": 2 },
+        { "name": "kojima", "x": 2.25, "y": 2 },
+        { "name": "izumi", "x": 5.25, "y": 2 },
+
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -2.25, "y": 1 },
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
