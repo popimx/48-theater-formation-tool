@@ -1,0 +1,184 @@
+{
+  "title": "ハートの脱出ゲーム",
+
+  "memo": [
+    "① 泉平山瓶野、田中/佐月、小嶋松岡松本",
+    "川上/石田",
+    "② 小嶋/川上、松岡石田松本、泉/平山/瓶野",
+    "田中/佐月",
+    "ラストサビ前 泉平山瓶野、田中佐月",
+    "小嶋松岡松本、石田川上"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -1, "y": 5 },
+        { "name": "hirayama", "x": 1, "y": 5 },
+
+        { "name": "kojima", "x": -1.75, "y": 4 },
+        { "name": "kameno", "x": 1.75, "y": 4 },
+
+        { "name": "matsuoka", "x": -2.5, "y": 3 },
+        { "name": "matsumoto", "x": 2.5, "y": 3 },
+
+        { "name": "kawakami", "x": -3.25, "y": 2 },
+        { "name": "satsuki", "x": 3.25, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "ishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -3.5, "y": 2 },
+        { "name": "kojima", "x": -1.5, "y": 2 },
+        { "name": "matsuoka", "x": 0.5, "y": 2 },
+        { "name": "matsumoto", "x": 2.5, "y": 2 },
+        { "name": "ishida", "x": 4.5, "y": 2 },
+
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "izumi", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": -0.5, "y": 1 },
+        { "name": "kameno", "x": 1.5, "y": 1 },
+        { "name": "satsuki", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "izumi", "x": -3.75, "y": 1 },
+        { "name": "kojima", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 2.25, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 },
+        { "name": "satsuki", "x": 5.25, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -6, "y": 3 },
+        { "name": "matsuoka", "x": 0, "y": 3 },
+        { "name": "matsumoto", "x": 6, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "kawakami", "x": -1.5, "y": 2 },
+        { "name": "ishida", "x": 1.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "izumi", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -7, "y": 3 },
+        { "name": "izumi", "x": -5, "y": 3 },
+        { "name": "kojima", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+        { "name": "kameno", "x": 5, "y": 3 },
+        { "name": "satsuki", "x": 7, "y": 3 },
+
+        { "name": "matsuoka", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 2, "y": 2 },
+
+        { "name": "ishida", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -4, "y": 5 },
+        { "name": "matsumoto", "x": 4, "y": 5 },
+
+        { "name": "matsuoka", "x": -3.25, "y": 4 },
+        { "name": "satsuki", "x": 3.25, "y": 4 },
+
+        { "name": "tanaka", "x": -2.5, "y": 3 },
+        { "name": "kawakami", "x": 2.5, "y": 3 },
+
+        { "name": "ishida", "x": -1.75, "y": 2 },
+        { "name": "kameno", "x": 1.75, "y": 2 },
+
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "kojima", "x": 3.75, "y": 1 },
+        { "name": "matsuoka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "kojima", "x": 3.75, "y": 1 },
+        { "name": "matsuoka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "kojima", "x": 3.75, "y": 1 },
+        { "name": "matsuoka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
