@@ -1,0 +1,72 @@
+{
+  "title": "夏のDestination",
+
+  "memo": [
+    "① 小嶋、川上、泉、瓶野、平山、石田",
+    "田中、佐月",
+    "ラストサビ前 小嶋田中/泉川上",
+    "田中平山/石田佐月、松岡松本",
+    "ラストサビ 小嶋、川上、瓶野/泉",
+    "平山/石田 (田中/佐月)、松岡松本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "このトンネルを抜けたら 夏の海が待ってるよ〜",
+      "members": [
+        { "name": "matsumoto", "x": -2.5, "y": 4 },
+        { "name": "matsuoka", "x": 2.5, "y": 4 },
+
+        { "name": "hirayama", "x": -4.5, "y": 3 },
+        { "name": "tanaka", "x": -1, "y": 3 },
+        { "name": "satsuki", "x": 1, "y": 3 },
+        { "name": "ishida", "x": 4.5, "y": 3 },
+
+        { "name": "kameno", "x": -3, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+
+        { "name": "kojima", "x": -1.5, "y": 1 },
+        { "name": "kawakami", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -0.5, "y": 3 },
+        { "name": "matsumoto", "x": 0.5, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "ishida", "x": 3.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kojima", "x": -2.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "izumi", "x": 1.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "このトンネルを抜けたら 夏の海が待ってるよ〜",
+      "members": [
+        { "name": "matsuoka", "x": -0.5, "y": 3 },
+        { "name": "matsumoto", "x": 0.5, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "ishida", "x": 3.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kojima", "x": -2.5, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "izumi", "x": 1.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
