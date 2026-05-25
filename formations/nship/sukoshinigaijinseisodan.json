@@ -86,20 +86,20 @@
       "title": "2番サビ",
       "lyrics": "少し苦い恋愛相談  急に心臓 どきどきして来た〜",
       "members": [
-        { "name": "tanaka", "x": -6.75, "y": 5 },
-        { "name": "matsuoka", "x": 6.75, "y": 5 },
+        { "name": "tanaka", "x": -7, "y": 5 },
+        { "name": "matsuoka", "x": 7, "y": 5 },
 
-        { "name": "ishida", "x": -5.25, "y": 4 },
-        { "name": "matsumoto", "x": 5.25, "y": 4 },
+        { "name": "ishida", "x": -5.5, "y": 4 },
+        { "name": "matsumoto", "x": 5.5, "y": 4 },
 
-        { "name": "izumi", "x": -3.75, "y": 3 },
-        { "name": "kojima", "x": 3.75, "y": 3 },
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "kojima", "x": 4, "y": 3 },
 
-        { "name": "satsuki", "x": -2.25, "y": 2 },
-        { "name": "kameno", "x": 2.25, "y": 2 },
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
 
-        { "name": "kawakami", "x": -0.75, "y": 1 },
-        { "name": "hirayama", "x": 0.75, "y": 1 }
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
       ]
     },
 
