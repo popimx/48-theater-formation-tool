@@ -1,0 +1,159 @@
+{
+  "title": "Gotcha",
+
+  "memo": [
+    "① 川上小嶋、平山泉、瓶野佐月、松岡/田中",
+    "松本石田、川上小嶋、瓶野平山泉佐月",
+    "松本松岡/田中石田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "Gotcha Gotcha Gotcha Gotcha Gotcha Gotcha わかった〜",
+      "members": [
+        { "name": "matsumoto", "x": -5, "y": 5 },
+        { "name": "ishida", "x": 5, "y": 5 },
+
+        { "name": "matsuoka", "x": -4, "y": 4 },
+        { "name": "tanaka", "x": 4, "y": 4 },
+
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "izumi", "x": 2, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "言いたいことは そう全て〜",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 3 },
+        { "name": "matsuoka", "x": -2, "y": 3 },
+        { "name": "tanaka", "x": 2, "y": 3 },
+        { "name": "ishida", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5, "y": 2 },
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+        { "name": "satsuki", "x": 5, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 2 },
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+        { "name": "satsuki", "x": 5, "y": 2 },
+
+        { "name": "matsumoto", "x": -3, "y": 1 },
+        { "name": "matsuoka", "x": -1, "y": 1 },
+        { "name": "tanaka", "x": 1, "y": 1 },
+        { "name": "ishida", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Gotcha Gotcha Gotcha Gotcha Gotcha Gotcha OK〜",
+      "members": [
+        { "name": "matsumoto", "x": -4.5, "y": 2 },
+        { "name": "matsuoka", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": -0.5, "y": 2 },
+        { "name": "tanaka", "x": 1.5, "y": 2 },
+        { "name": "ishida", "x": 3.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3.5, "y": 1 },
+        { "name": "kawakami", "x": -1.5, "y": 1 },
+        { "name": "kojima", "x": 0.5, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 },
+        { "name": "satsuki", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Gotcha Gotcha Gotcha Gotcha Gotcha Gotcha 時間だ〜",
+      "members": [
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "kawakami", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 0.5, "y": 2 },
+        { "name": "izumi", "x": 2.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "matsumoto", "x": -4.5, "y": 1 },
+        { "name": "matsuoka", "x": -2.5, "y": 1 },
+        { "name": "kameno", "x": -0.5, "y": 1 },
+        { "name": "tanaka", "x": 1.5, "y": 1 },
+        { "name": "ishida", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "Gotcha Gotcha Gotcha Gotcha Gotcha Gotcha 時間だ〜",
+      "members": [
+        { "name": "hirayama", "x": -3.5, "y": 2 },
+        { "name": "kawakami", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 0.5, "y": 2 },
+        { "name": "izumi", "x": 2.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "matsumoto", "x": -4.5, "y": 1 },
+        { "name": "matsuoka", "x": -2.5, "y": 1 },
+        { "name": "kameno", "x": -0.5, "y": 1 },
+        { "name": "tanaka", "x": 1.5, "y": 1 },
+        { "name": "ishida", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "背中 向けて 歩き出す〜",
+      "members": [
+        { "name": "matsumoto", "x": -3.5, "y": 3 },
+        { "name": "matsuoka", "x": -1.5, "y": 3 },
+        { "name": "kameno", "x": 0.5, "y": 3 },
+        { "name": "tanaka", "x": 2.5, "y": 3 },
+        { "name": "ishida", "x": 4.5, "y": 3 },
+
+        { "name": "hirayama", "x": -4.5, "y": 1 },
+        { "name": "kawakami", "x": -2.5, "y": 1 },
+        { "name": "kojima", "x": -0.5, "y": 1 },
+        { "name": "izumi", "x": 1.5, "y": 1 },
+        { "name": "satsuki", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "声をかけなけりゃ 他人だね〜",
+      "members": [
+        { "name": "matsumoto", "x": -4.5, "y": 2 },
+        { "name": "matsuoka", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": -0.5, "y": 2 },
+        { "name": "tanaka", "x": 1.5, "y": 2 },
+        { "name": "ishida", "x": 3.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3.5, "y": 1 },
+        { "name": "kawakami", "x": -1.5, "y": 1 },
+        { "name": "kojima", "x": 0.5, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 },
+        { "name": "satsuki", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
