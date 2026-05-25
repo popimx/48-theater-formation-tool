@@ -13,25 +13,6 @@
   "parts": [
     {
       "title": "1番サビ ①",
-      "lyrics": "新しい船を出せ！夢の帆をあげろ！〜",
-      "members": [
-        { "name": "satsuki", "x": -6, "y": 3 },
-        { "name": "matsumoto", "x": -3, "y": 3 },
-        { "name": "hirayama", "x": -1, "y": 3 },
-        { "name": "ishida", "x": 1, "y": 3 },
-        { "name": "matsuoka", "x": 3, "y": 3 },
-        { "name": "tanaka", "x": 6, "y": 3 },
-
-        { "name": "kameno", "x": -4, "y": 2 },
-        { "name": "izumi", "x": 4, "y": 2 },
-
-        { "name": "kojima", "x": -2, "y": 1 },
-        { "name": "kawakami", "x": 2, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "1番サビ ②",
       "lyrics": "海原を 真っ直ぐ 突き進め！〜",
       "members": [
         { "name": "matsumoto", "x": -3, "y": 4 },
@@ -51,7 +32,7 @@
     },
 
     {
-      "title": "1番サビ ③",
+      "title": "1番サビ ②",
       "lyrics": "仲間を信じろ！〜",
       "members": [
         { "name": "hirayama", "x": -0.5, "y": 3 },
@@ -70,7 +51,7 @@
     },
 
     {
-      "title": "1番サビ ④",
+      "title": "1番サビ ③",
       "lyrics": "風に舵を取れ！〜",
       "members": [
         { "name": "satsuki", "x": -6.75, "y": 5 },
