@@ -13,17 +13,17 @@
       "title": "イントロ",
       "lyrics": "",
       "members": [
-        { "name": "satsuki", "x": -6.75, "y": 2 },
-        { "name": "tanaka", "x": -3.75, "y": 2 },
-        { "name": "kameno", "x": -0.75, "y": 2 },
-        { "name": "kawakami", "x": 0.75, "y": 2 },
-        { "name": "matsuoka", "x": 3.75, "y": 2 },
-        { "name": "hirayama", "x": 6.75, "y": 2 },
+        { "name": "satsuki", "x": -7, "y": 2 },
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "kameno", "x": -1, "y": 2 },
+        { "name": "kawakami", "x": 1, "y": 2 },
+        { "name": "matsuoka", "x": 4, "y": 2 },
+        { "name": "hirayama", "x": 7, "y": 2 },
 
-        { "name": "kojima", "x": -5.25, "y": 1 },
-        { "name": "ishida", "x": -2.25, "y": 1 },
-        { "name": "matsumoto", "x": 2.25, "y": 1 },
-        { "name": "izumi", "x": 5.25, "y": 1 }
+        { "name": "kojima", "x": -5.5, "y": 1 },
+        { "name": "ishida", "x": -2.5, "y": 1 },
+        { "name": "matsumoto", "x": 2.5, "y": 1 },
+        { "name": "izumi", "x": 5.5, "y": 1 }
       ]
     },
 
