@@ -1,0 +1,132 @@
+{
+  "title": "どこかでキスを",
+
+  "memo": [
+    "① 瓶野/小嶋、石田平山、川上佐月、泉/松岡",
+    "田中松本、小嶋/瓶野",
+    "② 佐月/川上、田中泉/松岡松本、石田/平山",
+    "小嶋/瓶野",
+    "ラストサビ前 小嶋石田平山瓶野",
+    "田中佐月泉/松岡川上松本",
+    "ラストサビ 小嶋/瓶野、石田平山、佐月/川上"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "kawakami", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 2, "y": 2 },
+        { "name": "kojima", "x": 4, "y": 2 },
+        { "name": "satsuki", "x": 6, "y": 2 },
+
+        { "name": "izumi", "x": -5, "y": 1 },
+        { "name": "ishida", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "matsuoka", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "1回くらいは キスしたっけ？〜",
+      "members": [
+        { "name": "izumi", "x": -2.5, "y": 4 },
+        { "name": "matsuoka", "x": 2.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "ishida", "x": -1, "y": 3 },
+        { "name": "hirayama", "x": 1, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "何で泣いたんだっけ？ きっかけがあったでしょう？〜",
+      "members": [
+        { "name": "kojima", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "satsuki", "x": -5, "y": 2 },
+        { "name": "ishida", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+        { "name": "matsumoto", "x": 5, "y": 2 },
+
+        { "name": "izumi", "x": -4, "y": 1 },
+        { "name": "tanaka", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 },
+        { "name": "matsuoka", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "それっきりだけど ハグしたっけ？〜",
+      "members": [
+        { "name": "izumi", "x": -2.5, "y": 4 },
+        { "name": "matsuoka", "x": 2.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "ishida", "x": -1, "y": 3 },
+        { "name": "hirayama", "x": 1, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "1回くらいは キスしたっけ？〜",
+      "members": [
+        { "name": "izumi", "x": -2.5, "y": 4 },
+        { "name": "matsuoka", "x": 2.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "ishida", "x": -1, "y": 3 },
+        { "name": "hirayama", "x": 1, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -2.5, "y": 4 },
+        { "name": "matsuoka", "x": 2.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "ishida", "x": -1, "y": 3 },
+        { "name": "hirayama", "x": 1, "y": 3 },
+        { "name": "matsumoto", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
+
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
