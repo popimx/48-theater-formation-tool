@@ -54,20 +54,20 @@
       "title": "1番サビ ③",
       "lyrics": "風に舵を取れ！〜",
       "members": [
-        { "name": "satsuki", "x": -6.75, "y": 5 },
-        { "name": "tanaka", "x": 6.75, "y": 5 },
+        { "name": "satsuki", "x": -7, "y": 5 },
+        { "name": "tanaka", "x": 7, "y": 5 },
 
-        { "name": "matsumoto", "x": -5.25, "y": 4 },
-        { "name": "matsuoka", "x": 5.25, "y": 4 },
+        { "name": "matsumoto", "x": -5.5, "y": 4 },
+        { "name": "matsuoka", "x": 5.5, "y": 4 },
 
-        { "name": "kameno", "x": -3.75, "y": 3 },
-        { "name": "izumi", "x": 3.75, "y": 3 },
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "izumi", "x": 4, "y": 3 },
 
-        { "name": "kojima", "x": -2.25, "y": 2 },
-        { "name": "kawakami", "x": 2.25, "y": 2 },
+        { "name": "kojima", "x": -2.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
 
-        { "name": "hirayama", "x": -0.75, "y": 1 },
-        { "name": "ishida", "x": 0.75, "y": 1 }
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "ishida", "x": 1, "y": 1 }
       ]
     },
 
@@ -109,17 +109,17 @@
       "title": "2番サビ ①",
       "lyrics": "新しい船を出せ！ 荒れた波を越えろ！〜",
       "members": [
-        { "name": "kameno", "x": -5.25, "y": 2 },
-        { "name": "hirayama", "x": -2.25, "y": 2 },
-        { "name": "ishida", "x": 2.25, "y": 2 },
-        { "name": "izumi", "x": 5.25, "y": 2 },
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "izumi", "x": 5.5, "y": 2 },
 
-        { "name": "satsuki", "x": -6.75, "y": 1 },
-        { "name": "matsumoto", "x": -3.75, "y": 1 },
-        { "name": "kojima", "x": -0.75, "y": 1 },
-        { "name": "kawakami", "x": 0.75, "y": 1 },
-        { "name": "matsuoka", "x": 3.75, "y": 1 },
-        { "name": "tanaka", "x": 6.75, "y": 1 }
+        { "name": "satsuki", "x": -7, "y": 1 },
+        { "name": "matsumoto", "x": -4, "y": 1 },
+        { "name": "kojima", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 },
+        { "name": "matsuoka", "x": 4, "y": 1 },
+        { "name": "tanaka", "x": 7, "y": 1 }
       ]
     },
 
@@ -127,17 +127,17 @@
       "title": "2番サビ ②",
       "lyrics": "ずっと探してる大陸は  悲しみの先にある〜",
       "members": [
-        { "name": "satsuki", "x": -6.75, "y": 2 },
-        { "name": "matsumoto", "x": -3.75, "y": 2 },
-        { "name": "kojima", "x": -0.75, "y": 2 },
-        { "name": "kawakami", "x": 0.75, "y": 2 },
-        { "name": "matsuoka", "x": 3.75, "y": 2 },
-        { "name": "tanaka", "x": 6.75, "y": 2 },
+        { "name": "satsuki", "x": -7, "y": 2 },
+        { "name": "matsumoto", "x": -4, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "kawakami", "x": 1, "y": 2 },
+        { "name": "matsuoka", "x": 4, "y": 2 },
+        { "name": "tanaka", "x": 7, "y": 2 },
 
-        { "name": "kameno", "x": -5.25, "y": 1 },
-        { "name": "hirayama", "x": -2.25, "y": 1 },
-        { "name": "ishida", "x": 2.25, "y": 1 },
-        { "name": "izumi", "x": 5.25, "y": 1 }
+        { "name": "kameno", "x": -5.5, "y": 1 },
+        { "name": "hirayama", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 2.5, "y": 1 },
+        { "name": "izumi", "x": 5.5, "y": 1 }
       ]
     },
 
@@ -145,19 +145,19 @@
       "title": "2番サビ ③",
       "lyrics": "未来を担う者よ  力を合わせろ！〜",
       "members": [
-        { "name": "satsuki", "x": -6.75, "y": 4 },
-        { "name": "tanaka", "x": 6.75, "y": 4 },
+        { "name": "satsuki", "x": -7, "y": 4 },
+        { "name": "tanaka", "x": 7, "y": 4 },
 
-        { "name": "kameno", "x": -5.25, "y": 3 },
-        { "name": "kojima", "x": -0.75, "y": 3 },
-        { "name": "kawakami", "x": 0.75, "y": 3 },
-        { "name": "izumi", "x": 5.25, "y": 3 },
+        { "name": "kameno", "x": -5.5, "y": 3 },
+        { "name": "kojima", "x": -1, "y": 3 },
+        { "name": "kawakami", "x": 1, "y": 3 },
+        { "name": "izumi", "x": 5.5, "y": 3 },
 
-        { "name": "matsumoto", "x": -3.75, "y": 2 },
-        { "name": "matsuoka", "x": 3.75, "y": 2 },
+        { "name": "matsumoto", "x": -4, "y": 2 },
+        { "name": "matsuoka", "x": 4, "y": 2 },
 
-        { "name": "hirayama", "x": -2.25, "y": 1 },
-        { "name": "ishida", "x": 2.25, "y": 1 }
+        { "name": "hirayama", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 2.5, "y": 1 }
       ]
     },
 
