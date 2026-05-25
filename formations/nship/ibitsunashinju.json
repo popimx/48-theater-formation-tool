@@ -9,25 +9,6 @@
 
   "parts": [
     {
-      "title": "1番サビ",
-      "lyrics": "いびつな真珠 輝いているのに〜",
-      "members": [
-        { "name": "izumi", "x": -3, "y": 3 },
-        { "name": "kawakami", "x": 0.5, "y": 3 },
-        { "name": "hirayama", "x": 3, "y": 3 },
-
-        { "name": "kameno", "x": -4, "y": 2 },
-        { "name": "kojima", "x": -0.5, "y": 2 },
-        { "name": "satsuki", "x": 4, "y": 2 },
-
-        { "name": "matsumoto", "x": -5, "y": 1 },
-        { "name": "ishida", "x": -1.5, "y": 1 },
-        { "name": "tanaka", "x": 1.5, "y": 1 },
-        { "name": "matsuoka", "x": 5, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番Aメロ ①",
       "lyrics": "若さはいつも 落ち着きなくて〜",
       "members": [
