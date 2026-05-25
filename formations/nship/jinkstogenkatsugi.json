@@ -1,0 +1,250 @@
+{
+  "title": "ジンクスとゲンカツギ",
+
+  "memo": [
+    "① 石田川上/小嶋平山、瓶野泉田中、松本佐月松岡",
+    "川上小嶋平山",
+    "② 松本佐月松岡、川上平山小嶋、瓶野石田/泉田中",
+    "ラストサビ前 小嶋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 5 },
+        { "name": "satsuki", "x": 0, "y": 5 },
+        { "name": "matsuoka", "x": 4, "y": 5 },
+
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "tanaka", "x": 3, "y": 4 },
+
+        { "name": "ishida", "x": -2, "y": 3 },
+        { "name": "izumi", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "Bad Bad Bad そんなこと  Bad Bad Bad やめなさい〜",
+      "members": [
+        { "name": "matsumoto", "x": -3.5, "y": 3 },
+        { "name": "satsuki", "x": -0.5, "y": 3 },
+        { "name": "matsuoka", "x": 2.5, "y": 3 },
+
+        { "name": "kameno", "x": -2.5, "y": 2 },
+        { "name": "izumi", "x": 0.5, "y": 2 },
+        { "name": "tanaka", "x": 3.5, "y": 2 },
+
+        { "name": "ishida", "x": -4.5, "y": 1 },
+        { "name": "kawakami", "x": -1.5, "y": 1 },
+        { "name": "kojima", "x": 1.5, "y": 1 },
+        { "name": "hirayama", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "Bad Bad Bad 昔から  Bad Bad Bad 言われてる〜",
+      "members": [
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -4.5, "y": 2 },
+        { "name": "kawakami", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+        { "name": "hirayama", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "izumi", "x": 0, "y": 1 },
+        { "name": "tanaka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "僕も勘違いしてた  ジンクスは縁起悪い言葉〜",
+      "members": [
+        { "name": "matsumoto", "x": -6, "y": 3 },
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "tanaka", "x": 3, "y": 3 },
+        { "name": "matsuoka", "x": 6, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "ishida", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "僕も間違ってたんだ  いいことが起きるように祈る時〜",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 5 },
+        { "name": "satsuki", "x": 0, "y": 5 },
+        { "name": "matsuoka", "x": 4, "y": 5 },
+
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "tanaka", "x": 3, "y": 4 },
+
+        { "name": "ishida", "x": -2, "y": 3 },
+        { "name": "izumi", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "口にはするなよ ジンクス  イメージを捨てろ ジンクス〜",
+      "members": [
+        { "name": "kojima", "x": 0, "y": 4 },
+
+        { "name": "matsumoto", "x": -5.5, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "hirayama", "x": 1.5, "y": 3 },
+        { "name": "matsuoka", "x": 5.5, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "satsuki", "x": 0, "y": 2 },
+        { "name": "tanaka", "x": 4.5, "y": 2 },
+
+        { "name": "ishida", "x": -3.5, "y": 1 },
+        { "name": "izumi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "みんな間違ってたろう？ また いいことが起きるように〜",
+      "members": [
+        { "name": "matsumoto", "x": -6, "y": 3 },
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "tanaka", "x": 3, "y": 3 },
+        { "name": "matsuoka", "x": 6, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "ishida", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "みんな間違ってたろう  ジンクスに拘るのはNG〜",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 5 },
+        { "name": "satsuki", "x": 0, "y": 5 },
+        { "name": "matsuoka", "x": 4, "y": 5 },
+
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "tanaka", "x": 3, "y": 4 },
+
+        { "name": "ishida", "x": -2, "y": 3 },
+        { "name": "izumi", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "僕も勘違いしてた  ジンクスは縁起悪い言葉〜",
+      "members": [
+        { "name": "matsumoto", "x": -6.75, "y": 2 },
+        { "name": "kameno", "x": -3.75, "y": 2 },
+        { "name": "satsuki", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "matsuoka", "x": 5.25, "y": 2 },
+
+        { "name": "ishida", "x": -5.25, "y": 1 },
+        { "name": "kawakami", "x": -2.25, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "izumi", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "僕も間違ってたんだ  いいことが起きるように祈る時〜",
+      "members": [
+        { "name": "matsumoto", "x": -6, "y": 5 },
+        { "name": "satsuki", "x": 0, "y": 5 },
+        { "name": "matsuoka", "x": 6, "y": 5 },
+
+        { "name": "kameno", "x": -4.5, "y": 4 },
+        { "name": "tanaka", "x": 4.5, "y": 4 },
+
+        { "name": "ishida", "x": -3, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "kawakami", "x": -1.5, "y": 2 },
+        { "name": "hirayama", "x": 1.5, "y": 2 },
+
+        { "name": "kojima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "口にはするなよ ジンクス  イメージを捨てろ ジンクス〜",
+      "members": [
+        { "name": "kojima", "x": 0, "y": 4 },
+
+        { "name": "matsumoto", "x": -5.5, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "hirayama", "x": 1.5, "y": 3 },
+        { "name": "matsuoka", "x": 5.5, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "satsuki", "x": 0, "y": 2 },
+        { "name": "tanaka", "x": 4.5, "y": 2 },
+
+        { "name": "ishida", "x": -3.5, "y": 1 },
+        { "name": "izumi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "この世の全ては ジンクス  誰が決めたのか？ジンクス〜",
+      "members": [
+        { "name": "satsuki", "x": 0, "y": 4 },
+
+        { "name": "matsumoto", "x": -5.5, "y": 3 },
+        { "name": "kawakami", "x": -1.5, "y": 3 },
+        { "name": "hirayama", "x": 1.5, "y": 3 },
+        { "name": "matsuoka", "x": 5.5, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "kojima", "x": 0, "y": 2 },
+        { "name": "tanaka", "x": 4.5, "y": 2 },
+
+        { "name": "ishida", "x": -3.5, "y": 1 },
+        { "name": "izumi", "x": 3.5, "y": 1 }
+      ]
+    }
+  ]
+}
