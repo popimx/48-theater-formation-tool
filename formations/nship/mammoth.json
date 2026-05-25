@@ -193,44 +193,6 @@
     },
 
     {
-      "title": "2番サビ後",
-      "lyrics": "",
-      "members": [
-        { "name": "satsuki", "x": -6.75, "y": 3 },
-        { "name": "izumi", "x": -2.25, "y": 3 },
-        { "name": "hirayama", "x": 2.25, "y": 3 },
-        { "name": "tanaka", "x": 6.75, "y": 3 },
-
-        { "name": "kawakami", "x": -3.75, "y": 2 },
-        { "name": "matsumoto", "x": 0.75, "y": 2 },
-        { "name": "kameno", "x": 3.75, "y": 2 },
-
-        { "name": "ishida", "x": -5.25, "y": 1 },
-        { "name": "kojima", "x": -0.75, "y": 1 },
-        { "name": "matsuoka", "x": 5.25, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "ラストサビ",
-      "lyrics": "雄叫びを上げるんだ  愚かな人間 踏み潰せ！〜",
-      "members": [
-        { "name": "satsuki", "x": -5.25, "y": 3 },
-        { "name": "ishida", "x": 0.75, "y": 3 },
-        { "name": "tanaka", "x": 5.25, "y": 3 },
-
-        { "name": "matsumoto", "x": -6.75, "y": 2 },
-        { "name": "izumi", "x": -2.25, "y": 2 },
-        { "name": "kawakami", "x": 2.25, "y": 2 },
-        { "name": "matsumoto", "x": 6.75, "y": 2 },
-
-        { "name": "hirayama", "x": -3.75, "y": 1 },
-        { "name": "kojima", "x": -0.75, "y": 1 },
-        { "name": "kameno", "x": 3.75, "y": 1 }
-      ]
-    },
-
-    {
       "title": "ラストサビ後",
       "lyrics": "We're mammoth.  We're mammoth.〜",
       "members": [
