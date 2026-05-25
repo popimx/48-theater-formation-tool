@@ -71,27 +71,6 @@
     },
 
     {
-      "title": "2番Bメロ",
-      "lyrics": "どうして出会ったのだろう〜",
-      "members": [
-        { "name": "izumi", "x": 0, "y": 5 },
-
-        { "name": "ishida", "x": -2, "y": 4 },
-        { "name": "kojima", "x": 2, "y": 4 },
-
-        { "name": "matsumoto", "x": -4, "y": 3 },
-        { "name": "kameno", "x": 0, "y": 3 },
-        { "name": "matsuoka", "x": 4, "y": 3 },
-
-        { "name": "hirayama", "x": -1, "y": 2 },
-        { "name": "tanaka", "x": 1, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "kawakami", "x": 3, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番サビ",
       "lyrics": "",
       "members": [
