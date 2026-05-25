@@ -1,0 +1,250 @@
+{
+  "title": "マンモス",
+
+  "memo": [
+    "① 小嶋石田、川上泉、松岡田中平山",
+    "瓶野佐月松本、小嶋石田、川上/泉",
+    "② 平山/田中/松岡、佐月/石田/松本",
+    "石田小嶋、泉/川上、平山田中松岡、佐月瓶野松本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "We're mammoth.  We're mammoth.〜",
+      "members": [
+        { "name": "matsuoka", "x": -5.25, "y": 3 },
+        { "name": "kawakami", "x": -2.25, "y": 3 },
+        { "name": "izumi", "x": 2.25, "y": 3 },
+        { "name": "kameno", "x": 5.25, "y": 3 },
+
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "ishida", "x": -0.75, "y": 2 },
+        { "name": "satsuki", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "アスファルトの大地に  鉄の獣が走るよ〜",
+      "members": [
+        { "name": "matsuoka", "x": -5.25, "y": 3 },
+        { "name": "kawakami", "x": -2.25, "y": 3 },
+        { "name": "izumi", "x": 2.25, "y": 3 },
+        { "name": "kameno", "x": 5.25, "y": 3 },
+
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "kojima", "x": -0.75, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "satsuki", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "matsumoto", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "M･A･M･M･O･T･H  絶滅した〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 3 },
+        { "name": "kojima", "x": -2.25, "y": 3 },
+        { "name": "ishida", "x": 2.25, "y": 3 },
+        { "name": "satsuki", "x": 5.25, "y": 3 },
+
+        { "name": "matsuoka", "x": -6.75, "y": 2 },
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "kawakami", "x": -0.75, "y": 2 },
+        { "name": "izumi", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "matsumoto", "x": 6.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "M･A･M･M･O･T･H  憂いてる〜",
+      "members": [
+        { "name": "hirayama", "x": -6.75, "y": 3 },
+        { "name": "matsuoka", "x": -5.25, "y": 3 },
+        { "name": "tanaka", "x": -3.75, "y": 3 },
+        { "name": "kawakami", "x": -2.25, "y": 3 },
+        { "name": "kojima", "x": -0.75, "y": 3 },
+        { "name": "ishida", "x": 0.75, "y": 3 },
+        { "name": "izumi", "x": 2.25, "y": 3 },
+        { "name": "satsuki", "x": 3.75, "y": 3 },
+        { "name": "kameno", "x": 5.25, "y": 3 },
+        { "name": "matsumoto", "x": 6.75, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "魂よ 甦れ！〜",
+      "members": [
+        { "name": "hirayama", "x": -6.75, "y": 1 },
+        { "name": "matsuoka", "x": -5.25, "y": 1 },
+        { "name": "tanaka", "x": -3.75, "y": 1 },
+        { "name": "kawakami", "x": -2.25, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "satsuki", "x": 3.75, "y": 1 },
+        { "name": "kameno", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "本能で生きること〜",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "kameno", "x": -2.25, "y": 1 },
+        { "name": "matsumoto", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 0.75, "y": 1 },
+        { "name": "matsuoka", "x": 2.25, "y": 1 },
+        { "name": "tanaka", "x": 3.75, "y": 1 },
+        { "name": "kawakami", "x": 5.25, "y": 1 },
+        { "name": "kojima", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "今 牙を剥け！ Mammoth！〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 4 },
+        { "name": "kameno", "x": -2, "y": 4 },
+        { "name": "izumi", "x": 2, "y": 4 },
+        { "name": "kawakami", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+
+        { "name": "kojima", "x": -1.5, "y": 2 },
+        { "name": "matsumoto", "x": 1.5, "y": 2 },
+
+        { "name": "tanaka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "心の中に眠ってた  遺伝子の中の強さ〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 4 },
+        { "name": "kameno", "x": -2, "y": 4 },
+        { "name": "izumi", "x": 2, "y": 4 },
+        { "name": "kawakami", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "matsuoka", "x": 3, "y": 3 },
+
+        { "name": "kojima", "x": -1.5, "y": 2 },
+        { "name": "matsumoto", "x": 1.5, "y": 2 },
+
+        { "name": "tanaka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "M･A･M･M･O･T･H  最強に〜",
+      "members": [
+        { "name": "matsumoto", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "ishida", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 5.5, "y": 2 },
+
+        { "name": "satsuki", "x": -7, "y": 1 },
+        { "name": "izumi", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "matsuoka", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "雄叫びを上げるんだ〜",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 1 },
+        { "name": "kameno", "x": -5.25, "y": 1 },
+        { "name": "matsumoto", "x": -3.75, "y": 1 },
+        { "name": "kawakami", "x": -2.25, "y": 1 },
+        { "name": "ishida", "x": -0.75, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 3 },
+        { "name": "izumi", "x": -2.25, "y": 3 },
+        { "name": "hirayama", "x": 2.25, "y": 3 },
+        { "name": "tanaka", "x": 6.75, "y": 3 },
+
+        { "name": "kawakami", "x": -3.75, "y": 2 },
+        { "name": "matsumoto", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+
+        { "name": "ishida", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "matsuoka", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "雄叫びを上げるんだ  愚かな人間 踏み潰せ！〜",
+      "members": [
+        { "name": "satsuki", "x": -5.25, "y": 3 },
+        { "name": "ishida", "x": 0.75, "y": 3 },
+        { "name": "tanaka", "x": 5.25, "y": 3 },
+
+        { "name": "matsumoto", "x": -6.75, "y": 2 },
+        { "name": "izumi", "x": -2.25, "y": 2 },
+        { "name": "kawakami", "x": 2.25, "y": 2 },
+        { "name": "matsumoto", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "We're mammoth.  We're mammoth.〜",
+      "members": [
+        { "name": "matsumoto", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -5.25, "y": 1 },
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "izumi", "x": -2.25, "y": 1 },
+        { "name": "kojima", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "kawakami", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
