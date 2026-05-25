@@ -1,0 +1,125 @@
+{
+  "title": "少し苦い人生相談",
+
+  "memo": [
+    "① 田中川上松岡、佐月瓶野平山、泉松本",
+    "石田/小嶋",
+    "② 石田川上小嶋、泉平山松本、佐月/瓶野",
+    "田中/松岡"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": -0.75, "y": 2 },
+        { "name": "kawakami", "x": 0.75, "y": 2 },
+        { "name": "matsuoka", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "matsumoto", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "コーヒーだけで 聞いてくれた〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -5.25, "y": 2 },
+        { "name": "kawakami", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 5.25, "y": 2 },
+        { "name": "matsuoka", "x": 6.75, "y": 2 },
+
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "izumi", "x": -0.75, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "matsumoto", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "八つ当たりをしたこともあったっけ〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "ishida", "x": -5.25, "y": 2 },
+        { "name": "izumi", "x": -3.75, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "kawakami", "x": -0.75, "y": 2 },
+
+        { "name": "hirayama", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 2.25, "y": 2 },
+        { "name": "kojima", "x": 3.75, "y": 2 },
+        { "name": "matsumoto", "x": 5.25, "y": 2 },
+        { "name": "matsuoka", "x": 6.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "○○  インスタントコーヒー 入れてくれた〜",
+      "members": [
+        { "name": "ishida", "x": -5.25, "y": 3 },
+        { "name": "izumi", "x": -3.75, "y": 3 },
+        { "name": "satsuki", "x": -2.25, "y": 3 },
+        { "name": "kawakami", "x": -0.75, "y": 3 },
+
+        { "name": "hirayama", "x": 0.75, "y": 3 },
+        { "name": "kameno", "x": 2.25, "y": 3 },
+        { "name": "kojima", "x": 3.75, "y": 3 },
+        { "name": "matsumoto", "x": 5.25, "y": 3 },
+
+        { "name": "tanaka", "x": -6.75, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "少し苦い恋愛相談  急に心臓 どきどきして来た〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 5 },
+        { "name": "matsuoka", "x": 6.75, "y": 5 },
+
+        { "name": "ishida", "x": -5.25, "y": 4 },
+        { "name": "matsumoto", "x": 5.25, "y": 4 },
+
+        { "name": "izumi", "x": -3.75, "y": 3 },
+        { "name": "kojima", "x": 3.75, "y": 3 },
+
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "kameno", "x": 2.25, "y": 2 },
+
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 0.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "0時過ぎの人生相談  言い出せないこの胸のもやもや〜",
+      "members": [
+        { "name": "ishida", "x": -5, "y": 3 },
+        { "name": "matsumoto", "x": 0, "y": 3 },
+        { "name": "kojima", "x": 5, "y": 3 },
+
+        { "name": "izumi", "x": -6, "y": 2 },
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "matsuoka", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
