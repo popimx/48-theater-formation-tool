@@ -1,0 +1,142 @@
+{
+  "title": "マンモス",
+
+  "memo": [
+    "① 小嶋、川上、平山田中、石田泉、瓶野/佐月",
+    "松岡/松本",
+    "② 平山、石田、泉、瓶野/佐月、松岡田中松本",
+    "石田川上小嶋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -2.5, "y": 4 },
+        { "name": "tanaka", "x": 0, "y": 4 },
+        { "name": "matsumoto", "x": 2.5, "y": 4 },
+
+        { "name": "kameno", "x": -1.25, "y": 3 },
+        { "name": "satsuki", "x": 1.25, "y": 3 },
+
+        { "name": "kojima", "x": 0, "y": 2 },
+
+        { "name": "ishida", "x": -5.5, "y": 1 },
+        { "name": "hirayama", "x": -4, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 },
+        { "name": "izumi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "情熱MAX  いつか失った emotion 思い出せ！〜",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+        { "name": "matsumoto", "x": 5, "y": 3 },
+
+        { "name": "ishida", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "kawakami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "情熱MAX  体を駆け巡る 熱いこの血潮よ〜",
+      "members": [
+        { "name": "matsuoka", "x": -5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+        { "name": "matsumoto", "x": 5, "y": 3 },
+
+        { "name": "kojima", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+
+        { "name": "ishida", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "tanaka", "x": 1, "y": 1 },
+        { "name": "izumi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "団結48  ずっとしまっていた あの夢を取り戻せ！〜",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 3 },
+        { "name": "izumi", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 4.5, "y": 3 },
+
+        { "name": "matsuoka", "x": -6, "y": 2 },
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "hirayama", "x": 1.5, "y": 2 },
+        { "name": "matsumoto", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "団結48  輝いているのは 落ちた汗じゃなくて〜",
+      "members": [
+        { "name": "ishida", "x": -4, "y": 2 },
+        { "name": "kawakami", "x": -2, "y": 2 },
+        { "name": "kojima", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "kameno", "x": -5, "y": 1 },
+        { "name": "tanaka", "x": -3, "y": 1 },
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "matsuoka", "x": 1, "y": 1 },
+        { "name": "satsuki", "x": 3, "y": 1 },
+        { "name": "matsumoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "走り続けろ！我らがNMB  情熱MAX〜",
+      "members": [
+        { "name": "ishida", "x": -2.25, "y": 2 },
+        { "name": "kawakami", "x": -0.75, "y": 2 },
+        { "name": "kojima", "x": 0.75, "y": 2 },
+        { "name": "izumi", "x": 2.25, "y": 2 },
+
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "kameno", "x": -5.25, "y": 1 },
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "いつか失った emotion 思い出せ！〜",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "kameno", "x": -5.25, "y": 1 },
+        { "name": "hirayama", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "satsuki", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
