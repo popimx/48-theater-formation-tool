@@ -32,18 +32,18 @@
       "title": "1番Aメロ",
       "lyrics": "アスファルトの大地に  鉄の獣が走るよ〜",
       "members": [
-        { "name": "matsuoka", "x": -5.25, "y": 3 },
-        { "name": "kawakami", "x": -2.25, "y": 3 },
-        { "name": "izumi", "x": 2.25, "y": 3 },
-        { "name": "kameno", "x": 5.25, "y": 3 },
+        { "name": "matsuoka", "x": -5.5, "y": 3 },
+        { "name": "kawakami", "x": -2.5, "y": 3 },
+        { "name": "izumi", "x": 2.5, "y": 3 },
+        { "name": "kameno", "x": 5.5, "y": 3 },
 
-        { "name": "tanaka", "x": -6.75, "y": 2 },
-        { "name": "kojima", "x": -0.75, "y": 2 },
-        { "name": "ishida", "x": 0.75, "y": 2 },
-        { "name": "satsuki", "x": 6.75, "y": 2 },
+        { "name": "tanaka", "x": -7, "y": 2 },
+        { "name": "kojima", "x": -1, "y": 2 },
+        { "name": "ishida", "x": 1, "y": 2 },
+        { "name": "satsuki", "x": 7, "y": 2 },
 
-        { "name": "hirayama", "x": -3.75, "y": 1 },
-        { "name": "matsumoto", "x": 3.75, "y": 1 }
+        { "name": "hirayama", "x": -4, "y": 1 },
+        { "name": "matsumoto", "x": 4, "y": 1 }
       ]
     },
 
@@ -51,17 +51,17 @@
       "title": "1番Bメロ ①",
       "lyrics": "M･A･M･M･O･T･H  絶滅した〜",
       "members": [
-        { "name": "tanaka", "x": -5.25, "y": 3 },
-        { "name": "kojima", "x": -2.25, "y": 3 },
-        { "name": "ishida", "x": 2.25, "y": 3 },
-        { "name": "satsuki", "x": 5.25, "y": 3 },
+        { "name": "tanaka", "x": -5.5, "y": 3 },
+        { "name": "kojima", "x": -2.5, "y": 3 },
+        { "name": "ishida", "x": 2.5, "y": 3 },
+        { "name": "satsuki", "x": 5.5, "y": 3 },
 
-        { "name": "matsuoka", "x": -6.75, "y": 2 },
-        { "name": "hirayama", "x": -3.75, "y": 2 },
-        { "name": "kawakami", "x": -0.75, "y": 2 },
-        { "name": "izumi", "x": 0.75, "y": 2 },
-        { "name": "kameno", "x": 3.75, "y": 2 },
-        { "name": "matsumoto", "x": 6.75, "y": 2 }
+        { "name": "matsuoka", "x": -7, "y": 2 },
+        { "name": "hirayama", "x": -4, "y": 2 },
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 4, "y": 2 },
+        { "name": "matsumoto", "x": 7, "y": 2 }
       ]
     },
 
