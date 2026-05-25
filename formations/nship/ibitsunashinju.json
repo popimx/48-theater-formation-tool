@@ -1,0 +1,180 @@
+{
+  "title": "いびつな真珠",
+
+  "memo": [
+    "① 川上、平山佐月、瓶野泉、小嶋、石田田中",
+    "② 泉、田中松岡、松本佐月、平山、瓶野小嶋",
+    "ラストサビ前 川上小嶋石田、佐月平山瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "いびつな真珠 輝いているのに〜",
+      "members": [
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "kawakami", "x": 0.5, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "kojima", "x": -0.5, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "matsumoto", "x": -5, "y": 1 },
+        { "name": "ishida", "x": -1.5, "y": 1 },
+        { "name": "tanaka", "x": 1.5, "y": 1 },
+        { "name": "matsuoka", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "若さはいつも 落ち着きなくて〜",
+      "members": [
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "kojima", "x": -4.5, "y": 2 },
+        { "name": "matsumoto", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+        { "name": "kawakami", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "tanaka", "x": -0.75, "y": 1 },
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "ishida", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "自分のものも 見失ってしまう〜",
+      "members": [
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "kojima", "x": -4.5, "y": 2 },
+        { "name": "matsumoto", "x": -0.75, "y": 2 },
+        { "name": "satsuki", "x": 0.75, "y": 2 },
+        { "name": "kawakami", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "tanaka", "x": -1.5, "y": 1 },
+        { "name": "matsuoka", "x": 1.5, "y": 1 },
+        { "name": "ishida", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "愛してた あなたの代わりに... 〜",
+      "members": [
+        { "name": "matsumoto", "x": -5, "y": 5 },
+        { "name": "ishida", "x": 5, "y": 5 },
+
+        { "name": "satsuki", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "matsuoka", "x": 2, "y": 2 },
+
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "いびつな真珠 私のものなのに〜",
+      "members": [
+        { "name": "matsumoto", "x": -5, "y": 5 },
+        { "name": "ishida", "x": 5, "y": 5 },
+
+        { "name": "satsuki", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "matsuoka", "x": 2, "y": 2 },
+
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "いびつな真珠 輝いているのに〜",
+      "members": [
+        { "name": "kawakami", "x": -5.25, "y": 2 },
+        { "name": "tanaka", "x": -2.25, "y": 2 },
+        { "name": "matsuoka", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "kojima", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "matsumoto", "x": -0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "ishida", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "これが本物なんて気づかずに 見過ごしてた〜",
+      "members": [
+        { "name": "kojima", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -3.75, "y": 2 },
+        { "name": "matsumoto", "x": -0.75, "y": 2 },
+        { "name": "izumi", "x": 2.25, "y": 2 },
+        { "name": "ishida", "x": 5.25, "y": 2 },
+
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -6.75, "y": 1 },
+        { "name": "kawakami", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "matsumoto", "x": -0.75, "y": 1 },
+        { "name": "matsuoka", "x": 0.75, "y": 1 },
+        { "name": "izumi", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "matsuoka", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "kawakami", "x": 2.25, "y": 1 },
+        { "name": "satsuki", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsumoto", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
