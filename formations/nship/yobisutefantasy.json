@@ -1,0 +1,126 @@
+{
+  "title": "呼び捨てファンタジー",
+
+  "memo": [
+    "① 平山、泉、小嶋/田中、石田/川上",
+    "② 松本/瓶野、松岡/佐月、川上/小嶋、石田/田中",
+    "平山泉、川上/小嶋",
+    "ラストサビ前 平山、泉",
+    "ラストサビ 小嶋、川上、平山、石田、泉、瓶野",
+    "田中、佐月、松岡、松本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "混雑した カフェテリアで〜",
+      "members": [
+        { "name": "matsuoka", "x": -2, "y": 4 },
+        { "name": "satsuki", "x": 2, "y": 4 },
+
+        { "name": "matsumoto", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 2, "y": 3 },
+
+        { "name": "kojima", "x": -4, "y": 2 },
+        { "name": "izumi", "x": 0, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "ishida", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "斜め前に あなたがいて〜",
+      "members": [
+        { "name": "matsumoto", "x": -2, "y": 4 },
+        { "name": "kameno", "x": 2, "y": 4 },
+
+        { "name": "matsuoka", "x": -2, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "ishida", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 2 },
+        { "name": "kawakami", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "izumi", "x": 0, "y": 1 },
+        { "name": "tanaka", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -4.5, "y": 2 },
+        { "name": "ishida", "x": -2.5, "y": 2 },
+        { "name": "matsumoto", "x": -0.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+        { "name": "kojima", "x": 3.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3.5, "y": 1 },
+        { "name": "matsuoka", "x": -1.5, "y": 1 },
+        { "name": "kameno", "x": 0.5, "y": 1 },
+        { "name": "tanaka", "x": 2.5, "y": 1 },
+        { "name": "izumi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "matsumoto", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "matsumoto", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "matsumoto", "x": -6.75, "y": 1 },
+        { "name": "satsuki", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "kawakami", "x": -0.75, "y": 1 },
+
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "matsuoka", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
