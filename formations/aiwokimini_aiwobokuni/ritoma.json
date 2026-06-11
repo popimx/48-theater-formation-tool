@@ -1,0 +1,66 @@
+{
+  "title": "リ と マ",
+
+  "memo": [
+    "① 中坂大谷松本井上/北川石黒竹内荒野",
+    "上村杉山坂本仲村/赤堀青海野村平野",
+    "中坂大谷松本井上/北川石黒竹内荒野",
+    "上村杉山坂本仲村/赤堀青海野村平野",
+    "② 上村杉山坂本仲村/赤堀青海野村平野",
+    "松本中坂大谷井上/北川竹内荒野石黒"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kamimura", "x": -5.5, "y": 4 },
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "aoumi", "x": 3, "y": 4 },
+        { "name": "hirano", "x": 5.5, "y": 4 },
+
+        { "name": "sugiyama", "x": -4.5, "y": 3 },
+        { "name": "nakamura", "x": -1.5, "y": 3 },
+        { "name": "akahori", "x": 1.5, "y": 3 },
+        { "name": "nomura", "x": 4.5, "y": 3 },
+
+        { "name": "nakasaka", "x": -6, "y": 2 },
+        { "name": "otani", "x": -3.5, "y": 2 },
+        { "name": "takeuchi", "x": 3.5, "y": 2 },
+        { "name": "arano", "x": 6, "y": 2 },
+
+        { "name": "matsumoto", "x": -5, "y": 1 },
+        { "name": "inoue", "x": -2.5, "y": 1 },
+        { "name": "kitagawa", "x": 2.5, "y": 1 },
+        { "name": "ishiguro", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kamimura", "x": -5.5, "y": 4 },
+        { "name": "sakamoto", "x": -3, "y": 4 },
+        { "name": "aoumi", "x": 3, "y": 4 },
+        { "name": "hirano", "x": 5.5, "y": 4 },
+
+        { "name": "sugiyama", "x": -4.5, "y": 3 },
+        { "name": "nakamura", "x": -1.5, "y": 3 },
+        { "name": "akahori", "x": 1.5, "y": 3 },
+        { "name": "nomura", "x": 4.5, "y": 3 },
+
+        { "name": "nakasaka", "x": -6, "y": 2 },
+        { "name": "otani", "x": -3.5, "y": 2 },
+        { "name": "takeuchi", "x": 3.5, "y": 2 },
+        { "name": "arano", "x": 6, "y": 2 },
+
+        { "name": "matsumoto", "x": -5, "y": 1 },
+        { "name": "inoue", "x": -2.5, "y": 1 },
+        { "name": "kitagawa", "x": 2.5, "y": 1 },
+        { "name": "ishiguro", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
