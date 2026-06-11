@@ -1,0 +1,126 @@
+{
+  "stage": "NMB48「僕のアオハル」",
+  "stageId": "bokunoaoharu",
+
+  "members": [
+    {
+      "name": "安部若菜",
+      "display": "安部",
+      "id": "abe",
+      "image": "abe_wakana_2023"
+    },
+    {
+      "name": "坂下真心",
+      "display": "坂下",
+      "id": "sakashita",
+      "image": "sakashita_mako_2023"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2023"
+    },
+    {
+      "name": "桜田彩叶",
+      "display": "桜田",
+      "id": "sakurada",
+      "image": "sakurada_ayaka_2023"
+    },
+    {
+      "name": "塩月希依音",
+      "display": "塩月",
+      "id": "shiotsuki",
+      "image": "shiotsuki_keito_2023"
+    },
+    {
+      "name": "新澤菜央",
+      "display": "新澤",
+      "id": "shinzawa",
+      "image": "shinzawa_nao_2023"
+    },
+    {
+      "name": "龍本弥生",
+      "display": "龍本",
+      "id": "tatsumoto",
+      "image": "tatsumoto_yayoi_2023"
+    },
+    {
+      "name": "出口結菜",
+      "display": "出口",
+      "id": "deguchi",
+      "image": "deguchi_yuina_2023"
+    },
+    {
+      "name": "水田詩織",
+      "display": "水田",
+      "id": "mizuta",
+      "image": "mizuta_shiori_2023"
+    },
+    {
+      "name": "芳野心咲",
+      "display": "芳野",
+      "id": "yoshino",
+      "image": "yoshino_misaki_2023"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "清純フィロソフィー",
+      "file": "seijunphilosophy.json"
+    },
+    {
+      "name": "快速と動体視力",
+      "file": "kaisokutodoutaishiryoku.json"
+    },
+    {
+      "name": "ボーイフレンドの作り方",
+      "file": "boyfriendnotsukurikata.json"
+    },
+    {
+      "name": "サングラスと打ち明け話",
+      "file": "sunglasstouchiakebanashi.json"
+    },
+    {
+      "name": "100年先でも",
+      "file": "100nensakidemo.json"
+    },
+    {
+      "name": "ノーカン",
+      "file": "nocount.json"
+    },
+    {
+      "name": "水の中の伝導率",
+      "file": "mizunonakanodendouritsu.json"
+    },
+    {
+      "name": "ロックだよ、人生は...",
+      "file": "rockdayo_jinseiha.json"
+    },
+    {
+      "name": "次のSeason",
+      "file": "tsuginoseason.json"
+    },
+    {
+      "name": "GIVE ME FIVE!",
+      "file": "give_me_five.json"
+    },
+    {
+      "name": "ヘドバンタイム",
+      "file": "headbangtime.json"
+    },
+    {
+      "name": "もっと永遠に",
+      "file": "mottoeienni.json"
+    },
+    {
+      "name": "恋のヘタレ",
+      "file": "koinohetare.json"
+    },
+    {
+      "name": "夢へのルート",
+      "file": "yumiehenoroute.json"
+    }
+  ]
+}
