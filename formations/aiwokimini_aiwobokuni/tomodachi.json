@@ -1,0 +1,88 @@
+{
+  "title": "ともだち",
+
+  "memo": [
+    "① 石黒/上村/中坂、仲村/赤堀/荒野",
+    "② 松本/平野/井上、北川/坂本/野村"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "aoumi", "x": -4.5, "y": 4 },
+        { "name": "kitagawa", "x": -1.5, "y": 4 },
+        { "name": "sakamoto", "x": 1.5, "y": 4 },
+        { "name": "nomura", "x": 4.5, "y": 4 },
+
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "hirano", "x": 0, "y": 3 },
+        { "name": "inoue", "x": 3, "y": 3 },
+
+        { "name": "otani", "x": -7.5, "y": 2 },
+        { "name": "nakamura", "x": -4.5, "y": 2 },
+        { "name": "takeuchi", "x": -1.5, "y": 2 },
+        { "name": "akahori", "x": 1.5, "y": 2 },
+        { "name": "sugiyama", "x": 4.5, "y": 2 },
+        { "name": "arano", "x": 7.5, "y": 2 },
+
+        { "name": "ishiguro", "x": -6, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "nakasaka", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ごめんね ありがとう もう行かなきゃ〜",
+      "members": [
+        { "name": "aoumi", "x": -4.5, "y": 4 },
+        { "name": "kitagawa", "x": -1.5, "y": 4 },
+        { "name": "sakamoto", "x": 1.5, "y": 4 },
+        { "name": "nomura", "x": 4.5, "y": 4 },
+
+        { "name": "matsumoto", "x": -3, "y": 3 },
+        { "name": "hirano", "x": 0, "y": 3 },
+        { "name": "inoue", "x": 3, "y": 3 },
+
+        { "name": "otani", "x": -7.5, "y": 2 },
+        { "name": "nakamura", "x": -4.5, "y": 2 },
+        { "name": "takeuchi", "x": -1.5, "y": 2 },
+        { "name": "akahori", "x": 1.5, "y": 2 },
+        { "name": "sugiyama", "x": 4.5, "y": 2 },
+        { "name": "arano", "x": 7.5, "y": 2 },
+
+        { "name": "ishiguro", "x": -6, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "nakasaka", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ともだち 隠恋慕 もういいかい〜",
+      "members": [
+        { "name": "matsumoto", "x": -3, "y": 4 },
+        { "name": "hirano", "x": 0, "y": 4 },
+        { "name": "inoue", "x": 3, "y": 4 },
+
+        { "name": "aoumi", "x": -4, "y": 3 },
+        { "name": "kitagawa", "x": -2, "y": 3 },
+        { "name": "sakamoto", "x": 2, "y": 3 },
+        { "name": "nomura", "x": 4, "y": 3 },
+
+        { "name": "otani", "x": -6, "y": 2 },
+        { "name": "takeuchi", "x": 0, "y": 2 },
+        { "name": "sugiyama", "x": 6, "y": 2 },
+
+        { "name": "ishiguro", "x": -7, "y": 1 },
+        { "name": "nakamura", "x": -5, "y": 1 },
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 },
+        { "name": "nakasaka", "x": 5, "y": 1 },
+        { "name": "arano", "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
