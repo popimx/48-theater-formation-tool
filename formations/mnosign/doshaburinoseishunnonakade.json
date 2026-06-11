@@ -1,0 +1,244 @@
+{
+  "title": "どしゃぶりの青春の中で",
+
+  "memo": [
+    "① 山本/前田、上西/隅野、貞野/原、(山本)",
+    "② 和田/早川、池眞鍋、上西/山本、(前田)",
+    "ラストサビ 上西山本前田、貞野隅野原",
+    "ラスト 山本/前田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ike", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "manabe", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "sumino", "x": 1, "y": 2 },
+        { "name": "hara", "x": 4, "y": 2 },
+
+        { "name": "jonishi", "x": -2, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "maeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "廃線になったこの停車場で〜",
+      "members": [
+        { "name": "wada", "x": -5, "y": 3 },
+        { "name": "ike", "x": -1, "y": 3 },
+        { "name": "hayakawa", "x": 1, "y": 3 },
+        { "name": "manabe", "x": 5, "y": 3 },
+
+        { "name": "sadano", "x": -4, "y": 2 },
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "sumino", "x": 2, "y": 2 },
+        { "name": "hara", "x": 4, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "maeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "私は待ちくたびれた〜",
+      "members": [
+        { "name": "wada", "x": -6, "y": 3 },
+        { "name": "ike", "x": -2, "y": 3 },
+        { "name": "hayakawa", "x": 2, "y": 3 },
+        { "name": "manabe", "x": 6, "y": 3 },
+
+        { "name": "sadano", "x": -5, "y": 2 },
+        { "name": "jonishi", "x": -3, "y": 2 },
+        { "name": "sumino", "x": 3, "y": 2 },
+        { "name": "hara", "x": 5, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "maeda", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "あなたのことを見限れたら〜",
+      "members": [
+        { "name": "ike", "x": -4, "y": 4 },
+        { "name": "hayakawa", "x": 0, "y": 4 },
+        { "name": "manabe", "x": 4, "y": 4 },
+
+        { "name": "wada", "x": -1, "y": 3 },
+        { "name": "sumino", "x": 1, "y": 3 },
+
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "maeda", "x": 2, "y": 2 },
+
+        { "name": "sadano", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "hara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "どしゃぶりの青春の中で 1mmだけ信じてる〜",
+      "members": [
+        { "name": "ike", "x": -4, "y": 4 },
+        { "name": "hayakawa", "x": 0, "y": 4 },
+        { "name": "manabe", "x": 4, "y": 4 },
+
+        { "name": "sadano", "x": -3, "y": 3 },
+        { "name": "wada", "x": -1, "y": 3 },
+        { "name": "sumino", "x": 1, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "maeda", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "鉄条網が囲んでる〜",
+      "members": [
+        { "name": "sadano", "x": -4, "y": 3 },
+        { "name": "ike", "x": -1, "y": 3 },
+        { "name": "manabe", "x": 1, "y": 3 },
+        { "name": "hara", "x": 4, "y": 3 },
+
+        { "name": "jonishi", "x": -5, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "maeda", "x": 5, "y": 2 },
+
+        { "name": "wada", "x": -3, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "隣の空き地は〜",
+      "members": [
+        { "name": "sadano", "x": -5, "y": 3 },
+        { "name": "ike", "x": -2, "y": 3 },
+        { "name": "manabe", "x": 2, "y": 3 },
+        { "name": "hara", "x": 5, "y": 3 },
+
+        { "name": "jonishi", "x": -6, "y": 2 },
+        { "name": "sumino", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": 3, "y": 2 },
+        { "name": "maeda", "x": 6, "y": 2 },
+
+        { "name": "wada", "x": -4, "y": 1 },
+        { "name": "hayakawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "何を守っているのか？ 大人たちに聞きたい〜",
+      "members": [
+        { "name": "ike", "x": -1, "y": 3 },
+        { "name": "manabe", "x": 1, "y": 3 },
+
+        { "name": "sadano", "x": -4, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hara", "x": 4, "y": 2 },
+
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "wada", "x": -3, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 },
+        { "name": "maeda", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "若さは無知で傲慢なんて 納得いかない〜",
+      "members": [
+        { "name": "ike", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "manabe", "x": 3, "y": 3 },
+
+        { "name": "sadano", "x": -4, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "sumino", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4, "y": 2 },
+
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "maeda", "x": 0, "y": 1 },
+        { "name": "yamamoto", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "どしゃぶりの人生の空を 一瞬だけ駆け抜けよう〜",
+      "members": [
+        { "name": "ike", "x": -4, "y": 4 },
+        { "name": "hayakawa", "x": 0, "y": 4 },
+        { "name": "manabe", "x": 4, "y": 4 },
+
+        { "name": "sadano", "x": -3, "y": 3 },
+        { "name": "wada", "x": -1, "y": 3 },
+        { "name": "sumino", "x": 1, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -2, "y": 2 },
+        { "name": "maeda", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "泥を跳ねた汚れが やさしさをいつか教えてくれる〜",
+      "members": [
+        { "name": "ike", "x": -2, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "manabe", "x": 2, "y": 3 },
+
+        { "name": "sadano", "x": -3, "y": 2 },
+        { "name": "sumino", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "hara", "x": 3, "y": 2 },
+
+        { "name": "jonishi", "x": -2, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "maeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "どしゃぶりの青春の中で 1mmだけ信じてる〜",
+      "members": [
+        { "name": "ike", "x": -4.5, "y": 4 },
+        { "name": "wada", "x": -2, "y": 4 },
+        { "name": "hayakawa", "x": 2, "y": 4 },
+        { "name": "manabe", "x": 4.5, "y": 4 },
+
+        { "name": "sadano", "x": -3, "y": 3 },
+        { "name": "sumino", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -1.5, "y": 2 },
+        { "name": "maeda", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
