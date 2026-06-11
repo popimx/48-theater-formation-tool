@@ -1,0 +1,313 @@
+{
+  "title": "ノーカン",
+
+  "memo": [
+    "① 坂田龍本 (安部)、坂田龍本 (新澤)",
+    "坂田龍本 (坂下)、芳野塩月坂下 (出口)",
+    "芳野塩月坂下 (桜田)、塩月芳野/坂下 (水田)",
+    "出口/安部、水田新澤桜田 (坂田)",
+    "② 出口桜田 (塩月)、出口桜田 (坂下)",
+    "水田/安部 (坂田)、塩月坂下、芳野龍本/坂田",
+    "龍本/坂田、塩月/坂下、龍本/坂田 (新澤)",
+    "ラストサビ 坂田/龍本、塩月/坂下"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "友達の紹介なんて (無理！無理！) イケメンいません 外れくじ (残念！) 〜",
+      "members": [
+        { "name": "deguchi", "x": -5, "y": 2 },
+        { "name": "mizuta", "x": -3, "y": 2 },
+        { "name": "sakashita", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "sakurada", "x": -4, "y": 1 },
+        { "name": "yoshino", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "tatsumoto", "x": 2, "y": 1 },
+        { "name": "shiotsuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "だから2度と期待なんかは 1ミリもしないのよ〜",
+      "members": [
+        { "name": "deguchi", "x": -4, "y": 2 },
+        { "name": "mizuta", "x": -2, "y": 2 },
+        { "name": "sakashita", "x": 0, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
+
+        { "name": "sakurada", "x": -5, "y": 1 },
+        { "name": "yoshino", "x": -3, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "tatsumoto", "x": 1, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "どこにもいる中くらいの人 ダサさまで好みだわー",
+      "members": [
+        { "name": "mizuta", "x": -2, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 4 },
+        { "name": "sakurada", "x": 2, "y": 4 },
+
+        { "name": "tatsumoto", "x": -1, "y": 3 },
+        { "name": "sakata", "x": 1, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+
+        { "name": "shiotsuki", "x": -5, "y": 1 },
+        { "name": "deguchi", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuta", "x": -2, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 4 },
+        { "name": "sakurada", "x": 2, "y": 4 },
+
+        { "name": "tatsumoto", "x": -1, "y": 3 },
+        { "name": "sakata", "x": 1, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+
+        { "name": "shiotsuki", "x": -5, "y": 1 },
+        { "name": "deguchi", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5, "y": 2 },
+        { "name": "deguchi", "x": -3, "y": 2 },
+        { "name": "tatsumoto", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+
+        { "name": "mizuta", "x": -4, "y": 1 },
+        { "name": "shiotsuki", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2, "y": 1 },
+        { "name": "sakashita", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "mizuta", "x": -5.25, "y": 1 },
+        { "name": "deguchi", "x": -3.75, "y": 1 },
+        { "name": "shiotsuki", "x": -2.25, "y": 1 },
+        { "name": "tatsumoto", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "shinzawa", "x": 2.25, "y": 1 },
+        { "name": "abe", "x": 3.75, "y": 1 },
+        { "name": "sakurada", "x": 5.25, "y": 1 },
+        { "name": "sakashita", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "恋人ができないなんて あの子はずっとこぼしてた〜",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "sakata", "x": -2, "y": 3 },
+        { "name": "tatsumoto", "x": 2, "y": 3 },
+        { "name": "yoshino", "x": 4, "y": 3 },
+
+        { "name": "shiotsuki", "x": -5, "y": 2 },
+        { "name": "deguchi", "x": -1, "y": 2 },
+        { "name": "sakurada", "x": 1, "y": 2 },
+        { "name": "sakashita", "x": 5, "y": 2 },
+
+        { "name": "mizuta", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "愛ってもっと浮気者 (異議あり) 〜",
+      "members": [
+        { "name": "shinzawa", "x": -5.5, "y": 3 },
+        { "name": "sakata", "x": -4.5, "y": 3 },
+        { "name": "yoshino", "x": 4.5, "y": 3 },
+        { "name": "tatsumoto", "x": 5.5, "y": 3 },
+
+        { "name": "shiotsuki", "x": -0.5, "y": 2 },
+        { "name": "sakashita", "x": 0.5, "y": 2 },
+
+        { "name": "mizuta", "x": -3, "y": 1 },
+        { "name": "deguchi", "x": -2, "y": 1 },
+        { "name": "abe", "x": 2, "y": 1 },
+        { "name": "sakurada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "奪い取って誰かが泣けば 優越感 ハンパないね (勝利！) 〜",
+      "members": [
+        { "name": "mizuta", "x": -2, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 4 },
+        { "name": "sakurada", "x": 2, "y": 4 },
+
+        { "name": "tatsumoto", "x": -1, "y": 3 },
+        { "name": "sakata", "x": 1, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+
+        { "name": "shiotsuki", "x": -5, "y": 1 },
+        { "name": "deguchi", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuta", "x": -2, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 4 },
+        { "name": "sakurada", "x": 2, "y": 4 },
+
+        { "name": "tatsumoto", "x": -1, "y": 3 },
+        { "name": "sakata", "x": 1, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+
+        { "name": "shiotsuki", "x": -5, "y": 1 },
+        { "name": "deguchi", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 },
+        { "name": "sakashita", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5, "y": 2 },
+        { "name": "deguchi", "x": -3, "y": 2 },
+        { "name": "tatsumoto", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+        { "name": "sakurada", "x": 3, "y": 2 },
+
+        { "name": "mizuta", "x": -4, "y": 1 },
+        { "name": "shiotsuki", "x": -2, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2, "y": 1 },
+        { "name": "sakashita", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "mizuta", "x": -5.25, "y": 1 },
+        { "name": "deguchi", "x": -3.75, "y": 1 },
+        { "name": "shiotsuki", "x": -2.25, "y": 1 },
+        { "name": "tatsumoto", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "shinzawa", "x": 2.25, "y": 1 },
+        { "name": "abe", "x": 3.75, "y": 1 },
+        { "name": "sakurada", "x": 5.25, "y": 1 },
+        { "name": "sakashita", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "deguchi", "x": -3.75, "y": 2 },
+        { "name": "tatsumoto", "x": -0.75, "y": 2 },
+        { "name": "shinzawa", "x": 2.25, "y": 2 },
+        { "name": "sakurada", "x": 5.25, "y": 2 },
+
+        { "name": "mizuta", "x": -5.25, "y": 1 },
+        { "name": "shiotsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "abe", "x": 3.75, "y": 1 },
+        { "name": "sakashita", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5.25, "y": 2 },
+        { "name": "deguchi", "x": -2.25, "y": 2 },
+        { "name": "tatsumoto", "x": 0.75, "y": 2 },
+        { "name": "shinzawa", "x": 3.75, "y": 2 },
+        { "name": "sakurada", "x": 6.75, "y": 2 },
+
+        { "name": "mizuta", "x": -6.75, "y": 1 },
+        { "name": "shiotsuki", "x": -3.75, "y": 1 },
+        { "name": "sakata", "x": -0.75, "y": 1 },
+        { "name": "abe", "x": 2.25, "y": 1 },
+        { "name": "sakashita", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今まで出会った男の子 恋して 破れて〜",
+      "members": [
+        { "name": "mizuta", "x": -4, "y": 2 },
+        { "name": "abe", "x": -2, "y": 2 },
+        { "name": "yoshino", "x": 2, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
+
+        { "name": "sakata", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": -3, "y": 1 },
+        { "name": "sakashita", "x": -1, "y": 1 },
+        { "name": "deguchi", "x": 1, "y": 1 },
+        { "name": "sakurada", "x": 3, "y": 1 },
+        { "name": "tatsumoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuta", "x": -3, "y": 3 },
+        { "name": "deguchi", "x": 0, "y": 3 },
+        { "name": "sakurada", "x": 3, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "abe", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+        { "name": "sakashita", "x": 4, "y": 2 },
+
+        { "name": "tatsumoto", "x": -2, "y": 1 },
+        { "name": "shiotsuki", "x": 0, "y": 1 },
+        { "name": "sakata", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
