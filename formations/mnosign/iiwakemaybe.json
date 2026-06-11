@@ -1,0 +1,92 @@
+{
+  "title": "言い訳Maybe",
+
+  "memo": [
+    "① 上西 (山本)、貞野/前田、貞野上西山本前田",
+    "隅野 (和田)、眞鍋/原、眞鍋隅野/和田原",
+    "池早川、眞鍋隅野和田原",
+    "② 原 (隅野)、眞鍋/和田、眞鍋隅野原和田",
+    "貞野 (前田)、池早川、前田池早川貞野",
+    "眞鍋和田原隅野、前田上西山本貞野",
+    "ラストサビ前 上西貞野、前田山本",
+    "上西、山本/貞野、隅野和田/前田原"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+        { "name": "hayakawa", "x": 6, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "sadano", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+        { "name": "maeda", "x": 4.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "君のことが 本当は好きだ〜",
+      "members": [
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+        { "name": "hayakawa", "x": 6, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "sadano", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+        { "name": "maeda", "x": 4.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+        { "name": "hayakawa", "x": 6, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "sadano", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+        { "name": "maeda", "x": 4.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ike", "x": -6, "y": 3 },
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+        { "name": "hayakawa", "x": 6, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "sadano", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+        { "name": "maeda", "x": 4.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
