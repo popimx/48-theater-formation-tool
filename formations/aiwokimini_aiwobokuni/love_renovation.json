@@ -1,0 +1,92 @@
+{
+  "title": "LOVE RENOVATION",
+
+  "memo": [
+    "① 松本/青海、坂本/野村、北川平野井上竹内",
+    "② 上村仲村、中坂赤堀、大谷杉山石黒荒野",
+    "ラストサビ 青海、野村青海松本"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "並んで歩いた 大きな背中〜",
+      "members": [
+        { "name": "otani", "x": -6, "y": 5 },
+        { "name": "ishiguro", "x": -3.5, "y": 5 },
+        { "name": "nakasaka", "x": -1, "y": 5 },
+        { "name": "kamimura", "x": 1, "y": 5 },
+        { "name": "akahori", "x": 3.5, "y": 5 },
+        { "name": "arano", "x": 6, "y": 5 },
+
+        { "name": "sugiyama", "x": -4.5, "y": 4 },
+        { "name": "kitagawa", "x": -2, "y": 4 },
+        { "name": "takeuchi", "x": 2, "y": 4 },
+        { "name": "nakamura", "x": 4.5, "y": 4 },
+
+        { "name": "sakamoto", "x": -3, "y": 3 },
+        { "name": "hirano", "x": 0, "y": 3 },
+        { "name": "nomura", "x": 3, "y": 3 },
+
+        { "name": "matsumoto", "x": -1.5, "y": 2 },
+        { "name": "inoue", "x": 1.5, "y": 2 },
+
+        { "name": "aoumi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "愛する明日を 築きたいから〜",
+      "members": [
+        { "name": "kamimura", "x": -6, "y": 5 },
+        { "name": "takeuchi", "x": -3.5, "y": 5 },
+        { "name": "nomura", "x": -1, "y": 5 },
+        { "name": "ishiguro", "x": 1, "y": 5 },
+        { "name": "kitagawa", "x": 3.5, "y": 5 },
+        { "name": "hirano", "x": 6, "y": 5 },
+
+        { "name": "nakamura", "x": -4.5, "y": 4 },
+        { "name": "otani", "x": -2, "y": 4 },
+        { "name": "sakamoto", "x": 2, "y": 4 },
+        { "name": "inoue", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -3, "y": 3 },
+        { "name": "sugiyama", "x": 0, "y": 3 },
+        { "name": "arano", "x": 3, "y": 3 },
+
+        { "name": "akahori", "x": -1.5, "y": 2 },
+        { "name": "matsumoto", "x": 1.5, "y": 2 },
+
+        { "name": "aoumi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kamimura", "x": -6, "y": 5 },
+        { "name": "takeuchi", "x": -3.5, "y": 5 },
+        { "name": "otani", "x": -1, "y": 5 },
+        { "name": "hirano", "x": 1, "y": 5 },
+        { "name": "ishiguro", "x": 3.5, "y": 5 },
+        { "name": "arano", "x": 6, "y": 5 },
+
+        { "name": "nakamura", "x": -4.5, "y": 4 },
+        { "name": "akahori", "x": -2, "y": 4 },
+        { "name": "sakamoto", "x": 2, "y": 4 },
+        { "name": "inoue", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -3, "y": 3 },
+        { "name": "sugiyama", "x": 0, "y": 3 },
+        { "name": "kitagawa", "x": 3, "y": 3 },
+
+        { "name": "nomura", "x": -1.5, "y": 2 },
+        { "name": "matsumoto", "x": 1.5, "y": 2 },
+
+        { "name": "aoumi", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
