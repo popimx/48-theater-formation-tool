@@ -55,6 +55,11 @@
     "file": "stages/mnosign.json"
   },
   {
+    "stage": "NMB48「僕のアオハル」",
+    "stageId": "bokunoaoharu",
+    "file": "stages/bokunoaoharu.json"
+  },
+  {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
     "stageId": "metcharabuyu",
     "file": "stages/metcharabuyu.json"
