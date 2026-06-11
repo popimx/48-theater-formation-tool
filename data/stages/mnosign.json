@@ -1,0 +1,126 @@
+{
+  "stage": "NMB48「Mのサイン」",
+  "stageId": "mnosign",
+
+  "members": [
+    {
+      "name": "池帆乃香",
+      "display": "池",
+      "id": "ike",
+      "image": "ike_honoka_2023"
+    },
+    {
+      "name": "貞野遥香",
+      "display": "貞野",
+      "id": "sadano",
+      "image": "sadano_haruka_2023"
+    },
+    {
+      "name": "上西怜",
+      "display": "上西",
+      "id": "jonishi",
+      "image": "jonishi_rei_2023"
+    },
+    {
+      "name": "隅野和奏",
+      "display": "隅野",
+      "id": "sumino",
+      "image": "sumino_wakana_2023"
+    },
+    {
+      "name": "早川夢菜",
+      "display": "早川",
+      "id": "hayakawa",
+      "image": "hayakawa_yuna_2023"
+    },
+    {
+      "name": "原かれん",
+      "display": "原",
+      "id": "hara",
+      "image": "hara_karen_2023"
+    },
+    {
+      "name": "前田令子",
+      "display": "前田",
+      "id": "maeda",
+      "image": "maeda_reiko_2023"
+    },
+    {
+      "name": "眞鍋杏樹",
+      "display": "眞鍋",
+      "id": "manabe",
+      "image": "manabe_anju_2023"
+    },
+    {
+      "name": "山本望叶",
+      "display": "山本",
+      "id": "yamamoto",
+      "image": "yamamoto_mikana_2023"
+    },
+    {
+      "name": "和田海佑",
+      "display": "和田",
+      "id": "wada",
+      "image": "wada_miyu_2023"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "恋を急げ",
+      "file": "koiwoisoge.json"
+    },
+    {
+      "name": "空腹で恋愛をするな",
+      "file": "kuufukuderenaiosuruna.json"
+    },
+    {
+      "name": "シャムネコ",
+      "file": "shamuneko.json"
+    },
+    {
+      "name": "ウィンクの銃弾",
+      "file": "winknojudan.json"
+    },
+    {
+      "name": "ハート・エレキ",
+      "file": "heart_electric.json"
+    },
+    {
+      "name": "どしゃぶりの青春の中で",
+      "file": "doshaburinoseishunnonakade.json"
+    },
+    {
+      "name": "そばかすのキス",
+      "file": "sobakasunokiss.json"
+    },
+    {
+      "name": "言い訳Maybe",
+      "file": "iiwakemaybe.json"
+    },
+    {
+      "name": "職員室に行くべきか？",
+      "file": "shokuinshitsuniikubekika.json"
+    },
+    {
+      "name": "Mosh & Dive",
+      "file": "mosh_and_dive.json"
+    },
+    {
+      "name": "青春ジャンプ",
+      "file": "seishunjump.json"
+    },
+    {
+      "name": "あの船長を選んだのは俺たちじゃない",
+      "file": "anosenchouwoerandanowaoretachijanai.json"
+    },
+    {
+      "name": "右にしてるリング",
+      "file": "miginishiteruring.json"
+    },
+    {
+      "name": "After rain",
+      "file": "after_rain.json"
+    }
+  ]
+}
