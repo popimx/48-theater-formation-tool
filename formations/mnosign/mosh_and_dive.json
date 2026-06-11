@@ -1,0 +1,105 @@
+{
+  "title": "Mosh & Dive",
+
+  "memo": [
+    "① 山本上西、貞野/前田、隅野和田、原/眞鍋",
+    "② 隅野早川前田、貞野池和田、眞鍋上西、山本/原"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "ike", "x": 3, "y": 3 },
+
+        { "name": "hara", "x": -5, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+        { "name": "manabe", "x": 5, "y": 2 },
+
+        { "name": "sadano", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "maeda", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "ライブ中の高まり方で 何でもできる気がした〜",
+      "members": [
+        { "name": "yamamoto", "x": -3, "y": 3 },
+        { "name": "manabe", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+
+        { "name": "hayakawa", "x": -2, "y": 2 },
+        { "name": "ike", "x": 2, "y": 2 },
+
+        { "name": "sumino", "x": -3, "y": 1 },
+        { "name": "maeda", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -2, "y": 4 },
+        { "name": "jonishi", "x": 2, "y": 4 },
+
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "ike", "x": 0.5, "y": 3 },
+        { "name": "hara", "x": 4.5, "y": 3 },
+
+        { "name": "sumino", "x": -3, "y": 2 },
+        { "name": "hayakawa", "x": -0.5, "y": 2 },
+        { "name": "wada", "x": 3, "y": 2 },
+
+        { "name": "maeda", "x": -1.5, "y": 1 },
+        { "name": "sadano", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -6.75, "y": 1 },
+        { "name": "sumino", "x": -5.25, "y": 1 },
+        { "name": "maeda", "x": -3.75, "y": 1 },
+        { "name": "hayakawa", "x": -2.25, "y": 1 },
+        { "name": "yamamoto", "x": -0.75, "y": 1 },
+
+        { "name": "jonishi", "x": 0.75, "y": 1 },
+        { "name": "ike", "x": 2.25, "y": 1 },
+        { "name": "sadano", "x": 3.75, "y": 1 },
+        { "name": "wada", "x": 5.25, "y": 1 },
+        { "name": "hara", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "1! 2! 3! でDiveして 見えない海を泳げ! 〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "ike", "x": 3, "y": 3 },
+
+        { "name": "manabe", "x": -5, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+        { "name": "hara", "x": 5, "y": 2 },
+
+        { "name": "maeda", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "sadano", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
