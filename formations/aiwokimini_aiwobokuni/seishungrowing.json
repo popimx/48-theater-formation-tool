@@ -1,0 +1,59 @@
+{
+  "title": "青春Growing",
+
+  "memo": [
+    "イントロ 青海坂本平野",
+    "① 上村杉山竹内、北川松本野村",
+    "② 中坂大谷仲村、井上石黒/赤堀荒野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "題名のない未来 君なら ねぇ どうする〜",
+      "members": [
+        { "name": "sakamoto", "x": 0, "y": 3 },
+
+        { "name": "aoumi", "x": -1, "y": 2 },
+        { "name": "hirano", "x": 1, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "叫ぼう 大声で 君なら ねぇ どうする〜",
+      "members": [
+        { "name": "aoumi", "x": -1, "y": 3 },
+        { "name": "hirano", "x": 1, "y": 3 },
+
+        { "name": "sakamoto", "x": 0, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "何千回 感謝したって 何万回 後悔したって〜",
+      "members": [
+        { "name": "inoue", "x": -3, "y": 4 },
+        { "name": "otani", "x": 0, "y": 4 },
+        { "name": "akahori", "x": 3, "y": 4 },
+
+        { "name": "ishiguro", "x": -4.5, "y": 3 },
+        { "name": "kitagawa", "x": -1.5, "y": 3 },
+        { "name": "arano", "x": 1.5, "y": 3 },
+        { "name": "takeuchi", "x": 4.5, "y": 3 },
+
+        { "name": "nakamura", "x": -5.5, "y": 2 },
+        { "name": "matsumoto", "x": -2.5, "y": 2 },
+        { "name": "sakamoto", "x": 0, "y": 2 },
+        { "name": "nakasaka", "x": 2.5, "y": 2 },
+        { "name": "sugiyama", "x": 5.5, "y": 2 },
+
+        { "name": "nomura", "x": -4, "y": 1 },
+        { "name": "aoumi", "x": -1, "y": 1 },
+        { "name": "hirano", "x": 1, "y": 1 },
+        { "name": "kamimura", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
