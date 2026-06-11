@@ -1,0 +1,324 @@
+{
+  "title": "頼りは翼だけだ",
+
+  "memo": [
+    "① 青海野村、井上平野北川、松本",
+    "② 仲村上村坂本、青海",
+    "ラストサビ前 大谷中坂/赤堀竹内、杉山石黒荒野",
+    "ラストサビ 青海、野村",
+    "ラスト 青海"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "otani", "x": -3.5, "y": 4 },
+        { "name": "matsumoto", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "sugiyama", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "ishiguro", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "kamimura", "x": -3, "y": 2 },
+        { "name": "hirano", "x": 0, "y": 2 },
+        { "name": "sakamoto", "x": 3, "y": 2 },
+        { "name": "takeuchi", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "otani", "x": -3.5, "y": 4 },
+        { "name": "matsumoto", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "sugiyama", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "ishiguro", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "kamimura", "x": -3, "y": 2 },
+        { "name": "hirano", "x": 0, "y": 2 },
+        { "name": "sakamoto", "x": 3, "y": 2 },
+        { "name": "takeuchi", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "白い翼を 思い切り 広げ風と 舞い上がれば〜",
+      "members": [
+        { "name": "sugiyama", "x": -6, "y": 4 },
+        { "name": "otani", "x": -4, "y": 4 },
+        { "name": "nakasaka", "x": -2, "y": 4 },
+        { "name": "matsumoto", "x": 0, "y": 4 },
+        { "name": "akahori", "x": 2, "y": 4 },
+        { "name": "arano", "x": 4, "y": 4 },
+        { "name": "ishiguro", "x": 6, "y": 4 },
+
+        { "name": "nakamura", "x": -5, "y": 3 },
+        { "name": "kamimura", "x": -3, "y": 3 },
+        { "name": "aoumi", "x": -1, "y": 3 },
+        { "name": "nomura", "x": 1, "y": 3 },
+        { "name": "sakamoto", "x": 3, "y": 3 },
+        { "name": "takeuchi", "x": 5, "y": 3 },
+
+        { "name": "inoue", "x": -2, "y": 1 },
+        { "name": "hirano", "x": 0, "y": 1 },
+        { "name": "kitagawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "otani", "x": -3.5, "y": 4 },
+        { "name": "nakasaka", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "sugiyama", "x": -5, "y": 3 },
+        { "name": "kamimura", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "ishiguro", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -3, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "sakamoto", "x": 3, "y": 2 },
+        { "name": "takeuchi", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "昇る朝日 吸い込んで 沈む夕日に 染められて〜",
+      "members": [
+        { "name": "nakasaka", "x": -2, "y": 4 },
+        { "name": "akahori", "x": 2, "y": 4 },
+
+        { "name": "sugiyama", "x": -7, "y": 3 },
+        { "name": "otani", "x": -3, "y": 3 },
+        { "name": "aoumi", "x": 0, "y": 3 },
+        { "name": "arano", "x": 3, "y": 3 },
+        { "name": "takeuchi", "x": 7, "y": 3 },
+
+        { "name": "inoue", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -4, "y": 2 },
+        { "name": "matsumoto", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "ishiguro", "x": 4, "y": 2 },
+        { "name": "kitagawa", "x": 6, "y": 2 },
+
+        { "name": "nakamura", "x": -5, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "sakamoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "七色に輝く〜",
+      "members": [
+        { "name": "akahori", "x": -2, "y": 4 },
+        { "name": "nakasaka", "x": 2, "y": 4 },
+
+        { "name": "otani", "x": -7, "y": 3 },
+        { "name": "sugiyama", "x": -3, "y": 3 },
+        { "name": "aoumi", "x": 0, "y": 3 },
+        { "name": "takeuchi", "x": 3, "y": 3 },
+        { "name": "arano", "x": 7, "y": 3 },
+
+        { "name": "hirano", "x": -6, "y": 2 },
+        { "name": "inoue", "x": -4, "y": 2 },
+        { "name": "nomura", "x": -1, "y": 2 },
+        { "name": "matsumoto", "x": 1, "y": 2 },
+        { "name": "kitagawa", "x": 4, "y": 2 },
+        { "name": "ishiguro", "x": 6, "y": 2 },
+
+        { "name": "nakamura", "x": -5, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "sakamoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "翼で 飛び立て〜",
+      "members": [
+        { "name": "nakasaka", "x": -2, "y": 4 },
+        { "name": "akahori", "x": 2, "y": 4 },
+
+        { "name": "sugiyama", "x": -7, "y": 3 },
+        { "name": "otani", "x": -3, "y": 3 },
+        { "name": "aoumi", "x": 0, "y": 3 },
+        { "name": "arano", "x": 3, "y": 3 },
+        { "name": "takeuchi", "x": 7, "y": 3 },
+
+        { "name": "inoue", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -4, "y": 2 },
+        { "name": "matsumoto", "x": -1, "y": 2 },
+        { "name": "nomura", "x": 1, "y": 2 },
+        { "name": "ishiguro", "x": 4, "y": 2 },
+        { "name": "kitagawa", "x": 6, "y": 2 },
+
+        { "name": "nakamura", "x": -5, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "sakamoto", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sugiyama", "x": -3.5, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "otani", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "takeuchi", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -3, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "kamimura", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "風に挑む 頼りは翼だけだ〜",
+      "members": [
+        { "name": "nakamura", "x": -6, "y": 4 },
+        { "name": "hirano", "x": -3, "y": 4 },
+        { "name": "matsumoto", "x": 0, "y": 4 },
+        { "name": "kamimura", "x": 3, "y": 4 },
+        { "name": "sakamoto", "x": 6, "y": 4 },
+
+        { "name": "inoue", "x": -4.5, "y": 3 },
+        { "name": "aoumi", "x": -1.5, "y": 3 },
+        { "name": "nomura", "x": 1.5, "y": 3 },
+        { "name": "kitagawa", "x": 4.5, "y": 3 },
+
+        { "name": "otani", "x": -5.5, "y": 1 },
+        { "name": "nakasaka", "x": -2.5, "y": 1 },
+        { "name": "akahori", "x": 2.5, "y": 1 },
+        { "name": "takeuchi", "x": 5.5, "y": 1 },
+
+        { "name": "sugiyama", "x": -4, "y": 2 },
+        { "name": "ishiguro", "x": 0, "y": 2 },
+        { "name": "arano", "x": 4, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "空を目指し 振り向かず〜",
+      "members": [
+        { "name": "sugiyama", "x": -3.5, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "otani", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "takeuchi", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -3, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "kamimura", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "果てしない空に 自由を見たのは〜",
+      "members": [
+        { "name": "sugiyama", "x": -3.5, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "otani", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "takeuchi", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -3, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "kamimura", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "sugiyama", "x": -3.5, "y": 4 },
+        { "name": "ishiguro", "x": 0, "y": 4 },
+        { "name": "arano", "x": 3.5, "y": 4 },
+
+        { "name": "otani", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "takeuchi", "x": 5, "y": 3 },
+
+        { "name": "nakamura", "x": -6, "y": 2 },
+        { "name": "hirano", "x": -3, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "kamimura", "x": 3, "y": 2 },
+        { "name": "sakamoto", "x": 6, "y": 2 },
+
+        { "name": "inoue", "x": -4.5, "y": 1 },
+        { "name": "aoumi", "x": -1.5, "y": 1 },
+        { "name": "nomura", "x": 1.5, "y": 1 },
+        { "name": "kitagawa", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
