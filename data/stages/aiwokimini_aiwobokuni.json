@@ -1,0 +1,150 @@
+{
+  "stage": "SKE48「愛を君に、愛を僕に」",
+  "stageId": "aiwokimini_aiwobokuni",
+
+  "members": [
+    {
+      "name": "青海ひな乃",
+      "display": "青海",
+      "id": "aoumi",
+      "image": "aoumi_hinano_2022"
+    },
+    {
+      "name": "赤堀君江",
+      "display": "赤堀",
+      "id": "akahori",
+      "image": "akahori_kimie_2022"
+    },
+    {
+      "name": "荒野姫楓",
+      "display": "荒野",
+      "id": "arano",
+      "image": "arano_himeka_2022"
+    },
+    {
+      "name": "石黒友月",
+      "display": "石黒",
+      "id": "ishiguro",
+      "image": "ishiguro_yuzuki_2022"
+    },
+    {
+      "name": "井上瑠夏",
+      "display": "井上",
+      "id": "inoue",
+      "image": "inoue_ruka_2022"
+    },
+    {
+      "name": "大谷悠妃",
+      "display": "大谷",
+      "id": "otani",
+      "image": "otani_yuki_2022"
+    },
+    {
+      "name": "上村亜柚香",
+      "display": "上村",
+      "id": "kamimura",
+      "image": "kamimura_ayuka_2022"
+    },
+    {
+      "name": "北川愛乃",
+      "display": "北川",
+      "id": "kitagawa",
+      "image": "kitagawa_yoshino_2022"
+    },
+    {
+      "name": "坂本真凛",
+      "display": "坂本",
+      "id": "sakamoto",
+      "image": "sakamoto_marin_2022"
+    },
+    {
+      "name": "杉山歩南",
+      "display": "杉山",
+      "id": "sugiyama",
+      "image": "sugiyama_anon_2022"
+    },
+    {
+      "name": "竹内ななみ",
+      "display": "竹内",
+      "id": "takeuchi",
+      "image": "takeuchi_nanami_2022"
+    },
+    {
+      "name": "中坂美祐",
+      "display": "中坂",
+      "id": "nakasaka",
+      "image": "nakasaka_miyu_2022"
+    },
+    {
+      "name": "仲村和泉",
+      "display": "仲村",
+      "id": "nakamura",
+      "image": "nakamura_izumi_2022"
+    },
+    {
+      "name": "野村実代",
+      "display": "野村",
+      "id": "nomura",
+      "image": "nomura_miyo_2022"
+    },
+    {
+      "name": "平野百菜",
+      "display": "平野",
+      "id": "hirano",
+      "image": "hirano_momona_2022"
+    },
+    {
+      "name": "松本慈子",
+      "display": "松本",
+      "id": "matsumoto",
+      "image": "matsumoto_chikako_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "愛を君に、愛を僕に",
+      "file": "aiwokimini_aiwobokuni.json"
+    },
+    {
+      "name": "LIVE MASTER",
+      "file": "livemaster.json"
+    },
+    {
+      "name": "旅立てジャック",
+      "file": "tabidatejack.json"
+    },
+    {
+      "name": "SURFな最近",
+      "file": "surfnasaikin.json"
+    },
+    {
+      "name": "小悪魔ブルーベリー",
+      "file": "koakumablueberry.json"
+    },
+    {
+      "name": "LOVE RENOVATION",
+      "file": "love_renovation.json"
+    },
+    {
+      "name": "青春Growing",
+      "file": "seishungrowing.json"
+    },
+    {
+      "name": "ともだち",
+      "file": "tomodachi.json"
+    },
+    {
+      "name": "リ と マ",
+      "file": "ritoma.json"
+    },
+    {
+      "name": "頼りは翼だけだ",
+      "file": "tayoriwatsubasadakeda.json"
+    },
+    {
+      "name": "マイ・ドリーム",
+      "file": "my_dream.json"
+    }
+  ]
+}
