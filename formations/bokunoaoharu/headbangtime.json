@@ -96,8 +96,8 @@
         { "name": "tatsumoto", "x": 5.5, "y": 3 },
 
         { "name": "deguchi", "x": -4, "y": 2 },
-        { "name": "shinzawa", "x": -1.5, "y": 2 },
-        { "name": "sakurada", "x": 1.5, "y": 2 },
+        { "name": "shinzawa", "x": -1.25, "y": 2 },
+        { "name": "sakurada", "x": 1.25, "y": 2 },
         { "name": "sakashita", "x": 4, "y": 2 },
 
         { "name": "abe", "x": -2.5, "y": 1 },
