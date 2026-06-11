@@ -46,26 +46,6 @@
     },
 
     {
-      "title": "2番サビ",
-      "lyrics": "",
-      "members": [
-        { "name": "yamamoto", "x": -2, "y": 4 },
-        { "name": "jonishi", "x": 2, "y": 4 },
-
-        { "name": "manabe", "x": -4.5, "y": 3 },
-        { "name": "ike", "x": 0.5, "y": 3 },
-        { "name": "hara", "x": 4.5, "y": 3 },
-
-        { "name": "sumino", "x": -3, "y": 2 },
-        { "name": "hayakawa", "x": -0.5, "y": 2 },
-        { "name": "wada", "x": 3, "y": 2 },
-
-        { "name": "maeda", "x": -1.5, "y": 1 },
-        { "name": "sadano", "x": 1.5, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番サビ後",
       "lyrics": "",
       "members": [
