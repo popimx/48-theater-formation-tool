@@ -1,0 +1,107 @@
+{
+  "title": "100年先でも",
+
+  "memo": [
+    "① 出口坂下、安部芳野/水田、新澤龍本塩月",
+    "桜田/坂田",
+    "② 塩月龍本新澤、桜田坂田、出口/坂下",
+    "水田芳野安部"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "deguchi", "x": -1, "y": 3 },
+        { "name": "sakashita", "x": 1, "y": 3 },
+
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "sakurada", "x": -2, "y": 2 },
+        { "name": "tatsumoto", "x": 2, "y": 2 },
+        { "name": "shiotsuki", "x": 4, "y": 2 },
+
+        { "name": "abe", "x": -5, "y": 1 },
+        { "name": "yoshino", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 3, "y": 1 },
+        { "name": "mizuta", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "長いその廊下を 近づいてくる〜",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "sakurada", "x": -2, "y": 3 },
+        { "name": "tatsumoto", "x": 2, "y": 3 },
+        { "name": "shiotsuki", "x": 4, "y": 3 },
+
+        { "name": "abe", "x": -5, "y": 2 },
+        { "name": "yoshino", "x": -3, "y": 2 },
+        { "name": "sakata", "x": 3, "y": 2 },
+        { "name": "mizuta", "x": 5, "y": 2 },
+
+        { "name": "deguchi", "x": -1, "y": 1 },
+        { "name": "sakashita", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5, "y": 3 },
+        { "name": "deguchi", "x": -2, "y": 3 },
+        { "name": "tatsumoto", "x": 2, "y": 3 },
+        { "name": "sakashita", "x": 5, "y": 3 },
+
+        { "name": "sakurada", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "abe", "x": 4, "y": 2 },
+
+        { "name": "mizuta", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5, "y": 3 },
+        { "name": "sakurada", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "sakashita", "x": 5, "y": 3 },
+
+        { "name": "deguchi", "x": -4, "y": 2 },
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+        { "name": "tatsumoto", "x": 4, "y": 2 },
+
+        { "name": "mizuta", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -5, "y": 3 },
+        { "name": "sakurada", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "sakashita", "x": 5, "y": 3 },
+
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+
+        { "name": "deguchi", "x": -6, "y": 1 },
+        { "name": "mizuta", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 },
+        { "name": "tatsumoto", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
