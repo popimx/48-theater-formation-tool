@@ -1,0 +1,51 @@
+{
+  "title": "サングラスと打ち明け話",
+
+  "memo": [
+    "① 塩月桜田、坂田出口新澤、龍本水田安部",
+    "芳野坂下",
+    "② 龍本坂下水田、芳野塩月桜田",
+    "出口/坂田安部/新澤"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "なんかきゅんとしちゃう 一人 センチメンタルで〜",
+      "members": [
+        { "name": "sakata", "x": -1, "y": 4 },
+        { "name": "abe", "x": 1, "y": 4 },
+
+        { "name": "tatsumoto", "x": -4, "y": 3 },
+        { "name": "mizuta", "x": 4, "y": 3 },
+
+        { "name": "shiotsuki", "x": -6, "y": 2 },
+        { "name": "yoshino", "x": -3, "y": 2 },
+        { "name": "sakashita", "x": 3, "y": 2 },
+        { "name": "sakurada", "x": 6, "y": 2 },
+
+        { "name": "deguchi", "x": -5, "y": 1 },
+        { "name": "shinzawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 3 },
+        { "name": "sakata", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+        { "name": "sakashita", "x": 3, "y": 3 },
+
+        { "name": "deguchi", "x": -0.5, "y": 2 },
+        { "name": "shinzawa", "x": 0.5, "y": 2 },
+
+        { "name": "tatsumoto", "x": -5.5, "y": 1 },
+        { "name": "shiotsuki", "x": -4.5, "y": 1 },
+        { "name": "sakurada", "x": 4.5, "y": 1 },
+        { "name": "mizuta", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
