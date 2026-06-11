@@ -1,0 +1,219 @@
+{
+  "title": "空腹で恋愛をするな",
+
+  "memo": [
+    "① 山本上西隅野、前田/貞野、和田/原",
+    "早川/眞鍋/池",
+    "② 和田山本貞野、上西/隅野、眞鍋前田池",
+    "早川/原"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -5.25, "y": 3 },
+        { "name": "manabe", "x": -2.25, "y": 3 },
+        { "name": "maeda", "x": 0.75, "y": 3 },
+        { "name": "sadano", "x": 3.75, "y": 3 },
+        { "name": "hara", "x": 6.75, "y": 3 },
+
+        { "name": "hayakawa", "x": -6.75, "y": 1 },
+        { "name": "yamamoto", "x": -3.75, "y": 1 },
+        { "name": "jonishi", "x": -0.75, "y": 1 },
+        { "name": "sumino", "x": 2.25, "y": 1 },
+        { "name": "ike", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -6.75, "y": 3 },
+        { "name": "yamamoto", "x": -3.75, "y": 3 },
+        { "name": "jonishi", "x": -0.75, "y": 3 },
+        { "name": "sumino", "x": 2.25, "y": 3 },
+        { "name": "ike", "x": 5.25, "y": 3 },
+
+        { "name": "wada", "x": -5.25, "y": 1 },
+        { "name": "manabe", "x": -2.25, "y": 1 },
+        { "name": "maeda", "x": 0.75, "y": 1 },
+        { "name": "sadano", "x": 3.75, "y": 1 },
+        { "name": "hara", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "夢から覚めれば気づくでしょう〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 5 },
+        { "name": "ike", "x": 3, "y": 5 },
+
+        { "name": "manabe", "x": -3, "y": 4 },
+        { "name": "sumino", "x": 3, "y": 4 },
+
+        { "name": "yamamoto", "x": -3, "y": 3 },
+        { "name": "jonishi", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "hara", "x": 3, "y": 2 },
+
+        { "name": "maeda", "x": -3, "y": 1 },
+        { "name": "sadano", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -6, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "ike", "x": 6, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "maeda", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "sumino", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "maeda", "x": -5.25, "y": 3 },
+        { "name": "manabe", "x": -2.25, "y": 3 },
+        { "name": "sadano", "x": 0.75, "y": 3 },
+        { "name": "hara", "x": 3.75, "y": 3 },
+        { "name": "ike", "x": 6.75, "y": 3 },
+
+        { "name": "hayakawa", "x": -6.75, "y": 1 },
+        { "name": "wada", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -0.75, "y": 1 },
+        { "name": "jonishi", "x": 2.25, "y": 1 },
+        { "name": "sumino", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -6.75, "y": 3 },
+        { "name": "wada", "x": -3.75, "y": 3 },
+        { "name": "yamamoto", "x": -0.75, "y": 3 },
+        { "name": "jonishi", "x": 2.25, "y": 3 },
+        { "name": "sumino", "x": 5.25, "y": 3 },
+
+        { "name": "maeda", "x": -5.25, "y": 1 },
+        { "name": "manabe", "x": -2.25, "y": 1 },
+        { "name": "sadano", "x": 0.75, "y": 1 },
+        { "name": "hara", "x": 3.75, "y": 1 },
+        { "name": "ike", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 1, "y": 3 },
+        { "name": "hara", "x": 5, "y": 3 },
+
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "sadano", "x": 3.5, "y": 2 },
+
+        { "name": "maeda", "x": -6.5, "y": 1 },
+        { "name": "jonishi", "x": -2, "y": 1 },
+        { "name": "sumino", "x": 2, "y": 1 },
+        { "name": "ike", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 1, "y": 3 },
+        { "name": "hara", "x": 5, "y": 3 },
+
+        { "name": "wada", "x": -3.5, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "sadano", "x": 3.5, "y": 2 },
+
+        { "name": "maeda", "x": -6.5, "y": 1 },
+        { "name": "jonishi", "x": -2, "y": 1 },
+        { "name": "sumino", "x": 2, "y": 1 },
+        { "name": "ike", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "hara", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+        { "name": "ike", "x": 4, "y": 2 },
+
+        { "name": "maeda", "x": -5, "y": 1 },
+        { "name": "jonishi", "x": -1, "y": 1 },
+        { "name": "sumino", "x": 1, "y": 1 },
+        { "name": "sadano", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "そうそんなに好きじゃないのに 間食みたいに… 〜",
+      "members": [
+        { "name": "hayakawa", "x": -6, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "ike", "x": 6, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "maeda", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "sumino", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -6, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "ike", "x": 6, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "maeda", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "sumino", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
