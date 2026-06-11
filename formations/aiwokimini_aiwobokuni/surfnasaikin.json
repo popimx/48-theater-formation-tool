@@ -1,0 +1,194 @@
+{
+  "title": "SURFな最近",
+
+  "memo": [
+    "イントロサビ 北川平野坂本、野村青海井上",
+    "① 上村松本仲村、中坂赤堀竹内、杉山石黒、荒野大谷",
+    "② 中坂赤堀竹内、北川平野坂本",
+    "ラストサビ 上村松本仲村、野村青海井上"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "akahori", "x": -3, "y": 4 },
+        { "name": "sugiyama", "x": -1, "y": 4 },
+        { "name": "ishiguro", "x": 1, "y": 4 },
+        { "name": "arano", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -4, "y": 3 },
+        { "name": "uemura", "x": -2, "y": 3 },
+        { "name": "matsumoto", "x": 0, "y": 3 },
+        { "name": "nakamura", "x": 2, "y": 3 },
+        { "name": "otani", "x": 4, "y": 3 },
+
+        { "name": "takeuchi", "x": -3, "y": 2 },
+        { "name": "kitagawa", "x": -1, "y": 2 },
+        { "name": "hirano", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 3, "y": 2 },
+
+        { "name": "nomura", "x": -2, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "inoue", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "来ないかも 来るのかも わからない〜",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "kitagawa", "x": 0, "y": 3 },
+        { "name": "inoue", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "ishiguro", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "hirano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "kitagawa", "x": 0, "y": 3 },
+        { "name": "inoue", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "ishiguro", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "hirano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "僕らはみんなと生きてゆく〜",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "matsumoto", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "aoumi", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "inoue", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "kitagawa", "x": 0, "y": 1 },
+        { "name": "hirano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "どうしても水平線を 目指して進むけれど〜",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "kitagawa", "x": -3, "y": 3 },
+        { "name": "matsumoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "inoue", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "hirano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "昨日も今日も明日も まだまだ流されてゆく〜",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "kitagawa", "x": -3, "y": 3 },
+        { "name": "matsumoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "hirano", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "inoue", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "akahori", "x": -4.5, "y": 4 },
+        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "nakamura", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -6, "y": 3 },
+        { "name": "kitagawa", "x": -3, "y": 3 },
+        { "name": "matsumoto", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+        { "name": "otani", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -4, "y": 2 },
+        { "name": "sugiyama", "x": -1, "y": 2 },
+        { "name": "inoue", "x": 1, "y": 2 },
+        { "name": "sakamoto", "x": 4, "y": 2 },
+
+        { "name": "nomura", "x": -2.5, "y": 1 },
+        { "name": "aoumi", "x": 0, "y": 1 },
+        { "name": "hirano", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
