@@ -19,7 +19,7 @@
         { "name": "arano", "x": 3, "y": 4 },
 
         { "name": "nakasaka", "x": -4, "y": 3 },
-        { "name": "uemura", "x": -2, "y": 3 },
+        { "name": "kamimura", "x": -2, "y": 3 },
         { "name": "matsumoto", "x": 0, "y": 3 },
         { "name": "nakamura", "x": 2, "y": 3 },
         { "name": "otani", "x": 4, "y": 3 },
@@ -45,7 +45,7 @@
         { "name": "arano", "x": 4.5, "y": 4 },
 
         { "name": "nakasaka", "x": -6, "y": 3 },
-        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": -3, "y": 3 },
         { "name": "kitagawa", "x": 0, "y": 3 },
         { "name": "inoue", "x": 3, "y": 3 },
         { "name": "otani", "x": 6, "y": 3 },
@@ -71,7 +71,7 @@
         { "name": "arano", "x": 4.5, "y": 4 },
 
         { "name": "nakasaka", "x": -6, "y": 3 },
-        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": -3, "y": 3 },
         { "name": "kitagawa", "x": 0, "y": 3 },
         { "name": "inoue", "x": 3, "y": 3 },
         { "name": "otani", "x": 6, "y": 3 },
@@ -97,7 +97,7 @@
         { "name": "arano", "x": 4.5, "y": 4 },
 
         { "name": "nakasaka", "x": -6, "y": 3 },
-        { "name": "uemura", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": -3, "y": 3 },
         { "name": "aoumi", "x": 0, "y": 3 },
         { "name": "ishiguro", "x": 3, "y": 3 },
         { "name": "otani", "x": 6, "y": 3 },
@@ -118,7 +118,7 @@
       "lyrics": "どうしても水平線を 目指して進むけれど〜",
       "members": [
         { "name": "akahori", "x": -4.5, "y": 4 },
-        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "kamimura", "x": -1.5, "y": 4 },
         { "name": "nakamura", "x": 1.5, "y": 4 },
         { "name": "arano", "x": 4.5, "y": 4 },
 
@@ -144,7 +144,7 @@
       "lyrics": "昨日も今日も明日も まだまだ流されてゆく〜",
       "members": [
         { "name": "akahori", "x": -4.5, "y": 4 },
-        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "kamimura", "x": -1.5, "y": 4 },
         { "name": "nakamura", "x": 1.5, "y": 4 },
         { "name": "arano", "x": 4.5, "y": 4 },
 
@@ -170,7 +170,7 @@
       "lyrics": "",
       "members": [
         { "name": "akahori", "x": -4.5, "y": 4 },
-        { "name": "uemura", "x": -1.5, "y": 4 },
+        { "name": "kamimura", "x": -1.5, "y": 4 },
         { "name": "nakamura", "x": 1.5, "y": 4 },
         { "name": "arano", "x": 4.5, "y": 4 },
 
