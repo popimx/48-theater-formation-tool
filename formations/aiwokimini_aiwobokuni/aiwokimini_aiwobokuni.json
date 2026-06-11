@@ -1,0 +1,113 @@
+{
+  "title": "愛を君に、愛を僕に",
+
+  "memo": [
+    "① 野村/青海、坂本北川井上、上村松本平野",
+    "赤堀竹内仲村、石黒杉山中坂、荒野/大谷",
+    "② 上村松本平野、坂本北川井上、野村/青海",
+    "赤堀仲村竹内",
+    "ラストサビ 野村/青海、坂本北川井上"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "arano", "x": -5, "y": 3 },
+        { "name": "ishiguro", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": -1, "y": 3 },
+        { "name": "sugiyama", "x": 3, "y": 3 },
+        { "name": "otani", "x": 5, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "nakamura", "x": 2, "y": 2 },
+        { "name": "takeuchi", "x": 4, "y": 2 },
+
+        { "name": "sakamoto", "x": -5, "y": 1 },
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "nomura", "x": -1, "y": 1 },
+        { "name": "aoumi", "x": 1, "y": 1 },
+        { "name": "inoue", "x": 3, "y": 1 },
+        { "name": "hirano", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "arano", "x": -5, "y": 3 },
+        { "name": "ishiguro", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": -1, "y": 3 },
+        { "name": "sugiyama", "x": 3, "y": 3 },
+        { "name": "otani", "x": 5, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "nakamura", "x": 2, "y": 2 },
+        { "name": "takeuchi", "x": 4, "y": 2 },
+
+        { "name": "sakamoto", "x": -5, "y": 1 },
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "nomura", "x": -1, "y": 1 },
+        { "name": "aoumi", "x": 1, "y": 1 },
+        { "name": "inoue", "x": 3, "y": 1 },
+        { "name": "hirano", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "arano", "x": -5, "y": 3 },
+        { "name": "ishiguro", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": -1, "y": 3 },
+        { "name": "sugiyama", "x": 3, "y": 3 },
+        { "name": "otani", "x": 5, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "nakamura", "x": 2, "y": 2 },
+        { "name": "takeuchi", "x": 4, "y": 2 },
+
+        { "name": "sakamoto", "x": -5, "y": 1 },
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "nomura", "x": -1, "y": 1 },
+        { "name": "aoumi", "x": 1, "y": 1 },
+        { "name": "inoue", "x": 3, "y": 1 },
+        { "name": "hirano", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "そっと鏡にうつしてごらん〜",
+      "members": [
+        { "name": "arano", "x": -5, "y": 3 },
+        { "name": "ishiguro", "x": -3, "y": 3 },
+        { "name": "nakasaka", "x": -1, "y": 3 },
+        { "name": "sugiyama", "x": 3, "y": 3 },
+        { "name": "otani", "x": 5, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "matsumoto", "x": 0, "y": 2 },
+        { "name": "nakamura", "x": 2, "y": 2 },
+        { "name": "takeuchi", "x": 4, "y": 2 },
+
+        { "name": "sakamoto", "x": -5, "y": 1 },
+        { "name": "kitagawa", "x": -3, "y": 1 },
+        { "name": "nomura", "x": -1, "y": 1 },
+        { "name": "aoumi", "x": 1, "y": 1 },
+        { "name": "inoue", "x": 3, "y": 1 },
+        { "name": "hirano", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
