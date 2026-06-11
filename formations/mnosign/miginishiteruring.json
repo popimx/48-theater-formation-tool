@@ -1,0 +1,131 @@
+{
+  "title": "右にしてるリング",
+
+  "memo": [
+    "① 上西山本隅野、前田貞野和田、原/池",
+    "眞鍋早川、上西山本隅野",
+    "② 原/和田、眞鍋池早川、上西山本",
+    "前田隅野貞野、原/和田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "maeda", "x": -6, "y": 4 },
+        { "name": "hara", "x": -3, "y": 4 },
+        { "name": "ike", "x": 3, "y": 4 },
+        { "name": "wada", "x": 6, "y": 4 },
+
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 4.5, "y": 3 },
+
+        { "name": "jonishi", "x": -1.5, "y": 2 },
+        { "name": "sumino", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "maeda", "x": -6, "y": 4 },
+        { "name": "hara", "x": -3, "y": 4 },
+        { "name": "ike", "x": 3, "y": 4 },
+        { "name": "wada", "x": 6, "y": 4 },
+
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 4.5, "y": 3 },
+
+        { "name": "jonishi", "x": -1.5, "y": 2 },
+        { "name": "sumino", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "パーティーが終わった帰り お茶くらい飲みたかっただけだよ〜",
+      "members": [
+        { "name": "sumino", "x": 0, "y": 5 },
+
+        { "name": "jonishi", "x": -1.5, "y": 4 },
+        { "name": "yamamoto", "x": 1.5, "y": 4 },
+
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "ike", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "maeda", "x": -4.5, "y": 2 },
+        { "name": "sadano", "x": 4.5, "y": 2 },
+
+        { "name": "hara", "x": -6, "y": 1 },
+        { "name": "wada", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "ike", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 4.5, "y": 3 },
+
+        { "name": "jonishi", "x": -6, "y": 2 },
+        { "name": "hara", "x": -1.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+        { "name": "yamamoto", "x": 6, "y": 2 },
+
+        { "name": "maeda", "x": -3, "y": 1 },
+        { "name": "sumino", "x": 0, "y": 1 },
+        { "name": "sadano", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "jonishi", "x": -4.5, "y": 2 },
+        { "name": "maeda", "x": -2.5, "y": 2 },
+        { "name": "sumino", "x": -0.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+        { "name": "hayakawa", "x": 3.5, "y": 2 },
+
+        { "name": "manabe", "x": -3.5, "y": 1 },
+        { "name": "hara", "x": -1.5, "y": 1 },
+        { "name": "ike", "x": 0.5, "y": 1 },
+        { "name": "sadano", "x": 2.5, "y": 1 },
+        { "name": "yamamoto", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -5, "y": 5 },
+        { "name": "wada", "x": 5, "y": 5 },
+
+        { "name": "maeda", "x": -4, "y": 4 },
+        { "name": "sadano", "x": 4, "y": 4 },
+
+        { "name": "sumino", "x": -3, "y": 3 },
+        { "name": "ike", "x": 3, "y": 3 },
+
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "jonishi", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
