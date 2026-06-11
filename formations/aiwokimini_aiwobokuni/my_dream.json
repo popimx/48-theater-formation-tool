@@ -1,0 +1,37 @@
+{
+  "title": "マイ・ドリーム",
+
+  "memo": [
+    "① 大谷/石黒、杉山/荒野、中坂/赤堀、竹内/井上",
+    "② 平野/仲村、野村/坂本",
+    "ラストサビ 上村/松本、北川青海"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ",
+      "lyrics": "私のドリーム そばにいて欲しいの〜",
+      "members": [
+        { "name": "otani", "x": -4.5, "y": 4 },
+        { "name": "nakasaka", "x": 0, "y": 4 },
+        { "name": "arano", "x": 4.5, "y": 4 },
+
+        { "name": "takeuchi", "x": -6, "y": 3 },
+        { "name": "ishiguro", "x": -3, "y": 3 },
+        { "name": "sugiyama", "x": 3, "y": 3 },
+        { "name": "akahori", "x": 6, "y": 3 },
+
+        { "name": "kamimura", "x": -3.75, "y": 2 },
+        { "name": "hirano", "x": -1.25, "y": 2 },
+        { "name": "matsumoto", "x": 1.25, "y": 2 },
+        { "name": "nakamura", "x": 3.75, "y": 2 },
+
+        { "name": "nomura", "x": -5 },
+        { "name": "kitagawa", "x": -2.5 },
+        { "name": "aoumi", "x": 0 },
+        { "name": "inoue", "x": 2.5 },
+        { "name": "sakamoto", "x": 5 }
+      ]
+    }
+  ]
+}
