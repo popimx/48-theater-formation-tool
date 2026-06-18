@@ -1,0 +1,234 @@
+{
+  "title": "抱きしめちゃいけない",
+  "memo": [
+    "① 渋谷/小嶋、貞野加藤、平山新澤山本",
+    "石田泉南、貞野/加藤、小嶋渋谷",
+    "② 貞野加藤、新澤山本、石田平山、南泉",
+    "貞野小嶋渋谷加藤山本、南石田新澤平山泉"
+  ],
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sadano", "x": -2, "y": 4 },
+        { "name": "kato", "x": 2, "y": 4 },
+
+        { "name": "shibuya", "x": -1, "y": 3 },
+        { "name": "kojima", "x": 1, "y": 3 },
+
+        { "name": "shinzawa", "x": -6, "y": 2 },
+        { "name": "hirayama", "x": -4, "y": 2 },
+        { "name": "minami", "x": 4, "y": 2 },
+        { "name": "ishida", "x": 6, "y": 2 },
+
+        { "name": "yamamoto", "x": -5, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -2, "y": 4 },
+        { "name": "minami", "x": 2, "y": 4 },
+
+        { "name": "sadano", "x": -1, "y": 3 },
+        { "name": "kato", "x": 1, "y": 3 },
+
+        { "name": "shinzawa", "x": -6, "y": 2 },
+        { "name": "yamamoto", "x": -4, "y": 2 },
+        { "name": "ishida", "x": 4, "y": 2 },
+        { "name": "izumi", "x": 6, "y": 2 },
+
+        { "name": "shibuya", "x": -5, "y": 1 },
+        { "name": "kojima", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番Aメロ",
+      "lyrics": "川沿いの土手の上を〜",
+      "members": [
+        { "name": "hirayama", "x": -2, "y": 4 },
+        { "name": "minami", "x": 2, "y": 4 },
+
+        { "name": "sadano", "x": -1, "y": 3 },
+        { "name": "kato", "x": 1, "y": 3 },
+
+        { "name": "shinzawa", "x": -6, "y": 2 },
+        { "name": "yamamoto", "x": -4, "y": 2 },
+        { "name": "ishida", "x": 4, "y": 2 },
+        { "name": "izumi", "x": 6, "y": 2 },
+
+        { "name": "shibuya", "x": -5, "y": 1 },
+        { "name": "kojima", "x": 5, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ",
+      "lyrics": "靴の紐を直すふりして 愛しさ我慢してた〜",
+      "members": [
+        { "name": "minami", "x": -3, "y": 5 },
+        { "name": "shinzawa", "x": 0, "y": 5 },
+        { "name": "ishida", "x": 3, "y": 5 },
+
+        { "name": "izumi", "x": -1.5, "y": 4 },
+        { "name": "hirayama", "x": 1.5, "y": 4 },
+
+        { "name": "yamamoto", "x": 0, "y": 3 },
+
+        { "name": "kojima", "x": -6, "y": 1 },
+        { "name": "shibuya", "x": -4.5, "y": 1 },
+        { "name": "sadano", "x": 4.5, "y": 1 },
+        { "name": "kato", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "空色のワンピースは 誕生日にあげたもの〜",
+      "members": [
+        { "name": "shinzawa", "x": -1, "y": 4 },
+        { "name": "yamamoto", "x": 1, "y": 4 },
+
+        { "name": "ishida", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -5, "y": 2 },
+        { "name": "izumi", "x": 5, "y": 2 },
+
+        { "name": "shibuya", "x": -7, "y": 1 },
+        { "name": "sadano", "x": -1, "y": 1 },
+        { "name": "kato", "x": 1, "y": 1 },
+        { "name": "kojima", "x": 7, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "最後の日に 選んだのは 君の決心だね〜",
+      "members": [
+        { "name": "ishida", "x": -1, "y": 4 },
+        { "name": "hirayama", "x": 1, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "shibuya", "x": -5, "y": 2 },
+        { "name": "kojima", "x": 5, "y": 2 },
+
+        { "name": "sadano", "x": -7, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 },
+        { "name": "kato", "x": 7, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "少しずつ あの川面が きらきらと滲むのは〜",
+      "members": [
+        { "name": "minami", "x": -1, "y": 4 },
+        { "name": "izumi", "x": 1, "y": 4 },
+
+        { "name": "shibuya", "x": -3, "y": 3 },
+        { "name": "kojima", "x": 3, "y": 3 },
+
+        { "name": "sadano", "x": -5, "y": 2 },
+        { "name": "kato", "x": 5, "y": 2 },
+
+        { "name": "shinzawa", "x": -7, "y": 1 },
+        { "name": "ishida", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 },
+        { "name": "yamamoto", "x": 7, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ④",
+      "lyrics": "流れて行く 日の名残か 僕の瞳のせいか… 〜",
+      "members": [
+        { "name": "shibuya", "x": -1, "y": 4 },
+        { "name": "kojima", "x": 1, "y": 4 },
+
+        { "name": "sadano", "x": -3, "y": 3 },
+        { "name": "kato", "x": 3, "y": 3 },
+
+        { "name": "shinzawa", "x": -5, "y": 2 },
+        { "name": "yamamoto", "x": 5, "y": 2 },
+
+        { "name": "ishida", "x": -7, "y": 1 },
+        { "name": "minami", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 7, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "すれ違った 中学生たち〜",
+      "members": [
+        { "name": "minami", "x": -6.75, "y": 3 },
+        { "name": "ishida", "x": -3.75, "y": 3 },
+        { "name": "shinzawa", "x": -0.75, "y": 3 },
+        { "name": "hirayama", "x": 2.25, "y": 3 },
+        { "name": "izumi", "x": 5.25, "y": 3 },
+
+        { "name": "sadano", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -2.25, "y": 1 },
+        { "name": "shibuya", "x": 0.75, "y": 1 },
+        { "name": "kato", "x": 3.75, "y": 1 },
+        { "name": "yamamoto", "x": 6.75, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "あの頃 どういう夢見た？ 〜",
+      "members": [
+        { "name": "sadano", "x": -5.25, "y": 3 },
+        { "name": "kojima", "x": -2.25, "y": 3 },
+        { "name": "shibuya", "x": 0.75, "y": 3 },
+        { "name": "kato", "x": 3.75, "y": 3 },
+        { "name": "yamamoto", "x": 6.75, "y": 3 },
+
+        { "name": "minami", "x": -6.75, "y": 1 },
+        { "name": "ishida", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sadano", "x": -6.5, "y": 3 },
+        { "name": "kojima", "x": -2.5, "y": 3 },
+        { "name": "shibuya", "x": 1.5, "y": 3 },
+        { "name": "kato", "x": 5.5, "y": 3 },
+
+        { "name": "minami", "x": -4, "y": 2 },
+        { "name": "ishida", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -5.5, "y": 1 },
+        { "name": "yamamoto", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ",
+      "lyrics": "靴の紐を直すふりして 愛しさ我慢してた〜",
+      "members": [
+        { "name": "minami", "x": -3, "y": 5 },
+        { "name": "shinzawa", "x": 0, "y": 5 },
+        { "name": "ishida", "x": 3, "y": 5 },
+
+        { "name": "izumi", "x": -1.5, "y": 4 },
+        { "name": "hirayama", "x": 1.5, "y": 4 },
+
+        { "name": "yamamoto", "x": 0, "y": 3 },
+
+        { "name": "kojima", "x": -6, "y": 1 },
+        { "name": "shibuya", "x": -4.5, "y": 1 },
+        { "name": "sadano", "x": 4.5, "y": 1 },
+        { "name": "kato", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
