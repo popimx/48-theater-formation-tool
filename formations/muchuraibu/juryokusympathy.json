@@ -1,0 +1,163 @@
+{
+  "title": "重力シンパシー",
+
+  "memo": [
+    "① 渋谷小嶋、加藤山本貞野、平山/新澤、泉石田南",
+    "② 平山新澤、泉石田南、渋谷小嶋、山本加藤/貞野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -3.5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 3.5, "y": 3 },
+
+        { "name": "hirayama", "x": -4.5, "y": 2 },
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+        { "name": "shinzawa", "x": 4.5, "y": 2 },
+
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "カーブ曲がり 身体が傾く時 その方向は同じさ",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 5 },
+        { "name": "ishida", "x": 0, "y": 5 },
+        { "name": "minami", "x": 2, "y": 5 },
+
+        { "name": "shibuya", "x": -1, "y": 4 },
+        { "name": "kojima", "x": 1, "y": 4 },
+
+        { "name": "kato", "x": -2, "y": 3 },
+        { "name": "yamamoto", "x": 0, "y": 3 },
+        { "name": "sadano", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": 4, "y": 1 },
+        { "name": "shinzawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shibuya", "x": -4.5, "y": 3 },
+        { "name": "kato", "x": 0, "y": 3 },
+        { "name": "kojima", "x": 4.5, "y": 3 },
+
+        { "name": "sadano", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -6, "y": 1 },
+        { "name": "izumi", "x": -3, "y": 1 },
+        { "name": "minami", "x": 0, "y": 1 },
+        { "name": "ishida", "x": 3, "y": 1 },
+        { "name": "hirayama", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -4.5, "y": 3 },
+        { "name": "yamamoto", "x": 0, "y": 3 },
+        { "name": "sadano", "x": 4.5, "y": 3 },
+
+        { "name": "shibuya", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "hirayama", "x": -6, "y": 1 },
+        { "name": "izumi", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "minami", "x": 3, "y": 1 },
+        { "name": "ishida", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -1.5, "y": 4 },
+        { "name": "minami", "x": 1.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "ishida", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "君に重力シンパシー 何も話せなくても",
+      "members": [
+        { "name": "izumi", "x": -5.5, "y": 2 },
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "minami", "x": 5.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -7, "y": 1 },
+        { "name": "kato", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": -1, "y": 1 },
+        { "name": "kojima", "x": 1, "y": 1 },
+        { "name": "sadano", "x": 4, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "君に重力シンパシー いつか 同じ重さで",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4.5, "y": 3 },
+
+        { "name": "hirayama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -6, "y": 1 },
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 },
+        { "name": "sadano", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4.5, "y": 3 },
+
+        { "name": "hirayama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -6, "y": 1 },
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 },
+        { "name": "sadano", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
