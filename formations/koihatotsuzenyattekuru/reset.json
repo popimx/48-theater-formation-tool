@@ -13,8 +13,8 @@
       "title": "イントロ ①",
       "lyrics": "",
       "members": [
-        { "name": "hori", "x": -2, "y": 4 },
-        { "name": "kawakami", "x": 2, "y": 4 },
+        { "name": "hori", "x": -4, "y": 4 },
+        { "name": "kawakami", "x": 4, "y": 4 },
 
         { "name": "maeda", "x": -5, "y": 3 },
         { "name": "hara", "x": -2, "y": 3 },
