@@ -1,0 +1,130 @@
+{
+  "stage": "NMB48「なんば笑顔開花宣言」",
+  "stageId": "nambaegaokaikasengen",
+
+  "members": [
+    {
+      "name": "浅尾桃香",
+      "display": "浅尾",
+      "id": "asao",
+      "image": "asao_momoka_2022"
+    },
+    {
+      "name": "李始燕",
+      "display": "李",
+      "id": "lee",
+      "image": "lee_siyeon_2024"
+    },
+    {
+      "name": "瓶野神音",
+      "display": "瓶野",
+      "id": "heino",
+      "image": "heino_kanon_2024"
+    },
+    {
+      "name": "黒田楓和",
+      "display": "黒田",
+      "id": "kuroda",
+      "image": "kuroda_fuwa_2024"
+    },
+    {
+      "name": "坂田心咲",
+      "display": "坂田",
+      "id": "sakata",
+      "image": "sakata_misaki_2024"
+    },
+    {
+      "name": "佐月愛果",
+      "display": "佐月",
+      "id": "satsuki",
+      "image": "satsuki_aika_2024"
+    },
+    {
+      "name": "隅野和奏",
+      "display": "隅野",
+      "id": "sumino",
+      "image": "sumino_wakana_2024"
+    },
+    {
+      "name": "田中雪乃",
+      "display": "田中",
+      "id": "tanaka",
+      "image": "tanaka_yukino_2024"
+    },
+    {
+      "name": "早川夢菜",
+      "display": "早川",
+      "id": "hayakawa",
+      "image": "hayakawa_yumina_2024"
+    },
+    {
+      "name": "芳野心咲",
+      "display": "芳野",
+      "id": "yoshino",
+      "image": "yoshino_misaki_2024"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "一週間 全部が月曜日ならいいのに...",
+      "file": "isshukanzenbugetsuyobinara_iinoni.json"
+    },
+    {
+      "name": "ごめんね 好きになっちゃって...",
+      "file": "gomennesukinacchatte.json"
+    },
+    {
+      "name": "落とし穴",
+      "file": "otoshiana.json"
+    },
+    {
+      "name": "ランナーズハイ",
+      "file": "runnershigh.json"
+    },
+    {
+      "name": "絶滅黒髪少女",
+      "file": "zetsumetsukurokamishojo.json"
+    },
+    {
+      "name": "太陽が坂道を昇る頃",
+      "file": "taiyogasakamichiwonoborukoro.json"
+    },
+    {
+      "name": "Virgin love",
+      "file": "virginlove.json"
+    },
+    {
+      "name": "アーモンドクロワッサン計画",
+      "file": "almondcroissantkeikaku.json"
+    },
+    {
+      "name": "届かなそうで届くもの",
+      "file": "todokanasode_todokumono.json"
+    },
+    {
+      "name": "オーマイガー！",
+      "file": "ohmygod.json"
+    },
+    {
+      "name": "僕らのユリイカ",
+      "file": "bokuranoyureka.json"
+    },
+    {
+      "name": "だってだってだって",
+      "file": "dattedattedatte.json"
+    },
+    {
+      "name": "スワンボート",
+      "file": "swanboat.json"
+    },
+    {
+      "name": "オネストマン",
+      "file": "honestman.json"
+    },
+    {
+      "name": "ひこうき雲",
+      "file": "hikokigumo.json"
+    }
+  ]
+}
