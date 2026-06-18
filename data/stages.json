@@ -1,4 +1,4 @@
-[
+ [
   {
     "stage": "AKB48「RESET」",
     "stageId": "akb48_reset_2025",
@@ -50,14 +50,29 @@
     "file": "stages/kanouseikosogamirai.json"
   },
   {
+    "stage": "NMB48「夢中雷舞」",
+    "stageId": "muchurabu",
+    "file": "stages/muchurabu.json"
+  },
+  {
     "stage": "NMB48「N ship」",
     "stageId": "nship",
     "file": "stages/nship.json"
   },
   {
+    "stage": "NMB48「恋は突然やってくる」",
+    "stageId": "koihatotsuzenyattekuru",
+    "file": "stages/koihatotsuzenyattekuru.json"
+  },
+  {
     "stage": "NMB48「Mのサイン」",
     "stageId": "mnosign",
     "file": "stages/mnosign.json"
+  },
+  {
+    "stage": "NMB48「なんば笑顔開花宣言」",
+    "stageId": "nambaegaokaikasengen",
+    "file": "stages/nambaegaokaikasengen.json"
   },
   {
     "stage": "NMB48「僕のアオハル」",
