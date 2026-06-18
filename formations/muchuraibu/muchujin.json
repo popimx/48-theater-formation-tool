@@ -1,0 +1,377 @@
+{
+  "title": "夢中人",
+  "memo": [
+    "イントロサビ 渋谷",
+    "① 渋谷、加藤/小嶋、山本/貞野、平山/新澤",
+    "泉石田南",
+    "② 泉石田南、平山山本貞野新澤、渋谷",
+    "加藤/小嶋、山本貞野、平山新澤",
+    "②サビ後 渋谷、加藤/小嶋、山本貞野",
+    "平山新澤、泉石田南、加藤山本貞野小嶋"
+  ],
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Crazy for you! なんてね〜",
+      "members": [
+        { "name": "izumi", "x": -5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 5, "y": 3 },
+
+        { "name": "yamamoto", "x": -4, "y": 2 },
+        { "name": "kato", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+        { "name": "sadano", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ②",
+      "lyrics": "僕みたいなタイプは そういう対象じゃない〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ③",
+      "lyrics": "面白いことを言ってる 一緒にいると楽しい奴〜",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 4 },
+        { "name": "yamamoto", "x": -2, "y": 4 },
+        { "name": "ishida", "x": 2, "y": 4 },
+        { "name": "minami", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "shinzawa", "x": 3, "y": 3 },
+
+        { "name": "kato", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ④",
+      "lyrics": "好きになってもらえない 恋とは無縁だった〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ ⑤",
+      "lyrics": "誰かがいるのなら 名乗り出て さあ夢中人〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "絶対 僕に気があるって思ってた〜",
+      "members": [
+        { "name": "kato", "x": -2, "y": 3 },
+        { "name": "shibuya", "x": 0, "y": 3 },
+        { "name": "kojima", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "izumi", "x": -2, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "恋について アドバイス欲しかっただけ〜",
+      "members": [
+        { "name": "kato", "x": -3, "y": 3 },
+        { "name": "shibuya", "x": -1, "y": 3 },
+        { "name": "kojima", "x": 1, "y": 3 },
+
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "ishida", "x": -2, "y": 2 },
+        { "name": "minami", "x": 0, "y": 2 },
+
+        { "name": "hirayama", "x": -5, "y": 1 },
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "sadano", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番Bメロ",
+      "lyrics": "君のために何ができるか考えた〜",
+      "members": [
+        { "name": "izumi", "x": -3, "y": 3 },
+        { "name": "yamamoto", "x": -1, "y": 3 },
+        { "name": "sadano", "x": 1, "y": 3 },
+        { "name": "ishida", "x": 3, "y": 3 },
+
+        { "name": "kato", "x": -2, "y": 2 },
+        { "name": "kojima", "x": 2, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": -1, "y": 1 },
+        { "name": "shinzawa", "x": 1, "y": 1 },
+        { "name": "minami", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ①",
+      "lyrics": "But I love you! なんてね〜",
+      "members": [
+        { "name": "izumi", "x": -5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 5, "y": 3 },
+
+        { "name": "yamamoto", "x": -4, "y": 2 },
+        { "name": "kato", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+        { "name": "sadano", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ②",
+      "lyrics": "恋愛関係にはならない僕たちかもしれない〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ③",
+      "lyrics": "好きになっちゃいけないのか それって何か寂しくなる〜",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 4 },
+        { "name": "yamamoto", "x": -2, "y": 4 },
+        { "name": "ishida", "x": 2, "y": 4 },
+        { "name": "minami", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "shinzawa", "x": 3, "y": 3 },
+
+        { "name": "kato", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ④",
+      "lyrics": "ロマンティックになる度 笑わせたくなるんだ〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ ⑤",
+      "lyrics": "照れないで真面目に キスをしよう ねえ夢中人〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ前",
+      "lyrics": "「せ～の！」「ここにいる～!!!」〜",
+      "members": [
+        { "name": "ishida", "x": 1, "y": 5 },
+
+        { "name": "hirayama", "x": -2.5, "y": 4 },
+        { "name": "shinzawa", "x": 2.5, "y": 4 },
+
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "shibuya", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "Crazy for you! なんてね 一度でいい 誰か言ってよ〜",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 1 },
+        { "name": "hirayama", "x": -4.5, "y": 1 },
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": -1.5, "y": 1 },
+        { "name": "sadano", "x": 0, "y": 1 },
+        { "name": "ishida", "x": 1.5, "y": 1 },
+        { "name": "kojima", "x": 3, "y": 1 },
+        { "name": "shinzawa", "x": 4.5, "y": 1 },
+        { "name": "minami", "x": 6, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "面白いことを言ってる 一緒にいると楽しい奴〜",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 4 },
+        { "name": "yamamoto", "x": -2, "y": 4 },
+        { "name": "ishida", "x": 2, "y": 4 },
+        { "name": "minami", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "shinzawa", "x": 3, "y": 3 },
+
+        { "name": "kato", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "好きになってもらえない 恋とは無縁だった〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "誰かがいるのなら 名乗り出て さあ夢中人〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -4.5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 4.5, "y": 3 },
+
+        { "name": "hirayama", "x": -5.5, "y": 2 },
+        { "name": "yamamoto", "x": -2.5, "y": 2 },
+        { "name": "sadano", "x": 2.5, "y": 2 },
+        { "name": "shinzawa", "x": 5.5, "y": 2 },
+
+        { "name": "kato", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
+```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
