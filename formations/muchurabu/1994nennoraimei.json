@@ -8,27 +8,6 @@
 
   "parts": [
     {
-      "title": "イントロサビ",
-      "lyrics": "",
-      "members": [
-        { "name": "izumi", "x": -1.5, "y": 5 },
-        { "name": "minami", "x": 1.5, "y": 5 },
-
-        { "name": "hirayama", "x": -3, "y": 4 },
-        { "name": "ishida", "x": 3, "y": 4 },
-
-        { "name": "sadano", "x": -2, "y": 3 },
-        { "name": "shinzawa", "x": 0, "y": 3 },
-        { "name": "kato", "x": 2, "y": 3 },
-
-        { "name": "yamamoto", "x": -1, "y": 2 },
-        { "name": "kojima", "x": 1, "y": 2 },
-
-        { "name": "shibuya", "x": 0, "y": 1 }
-      ]
-    },
-
-    {
       "title": "1番Bメロ",
       "lyrics": "シャツが汗ばんで 息苦しくなる〜",
       "members": [
@@ -196,27 +175,6 @@
         { "name": "kato", "x": -3.75, "y": 1 },
         { "name": "shibuya", "x": -0.75, "y": 1 },
         { "name": "sadano", "x": 3.75, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "ラスト",
-      "lyrics": "",
-      "members": [
-        { "name": "izumi", "x": -1.5, "y": 5 },
-        { "name": "minami", "x": 1.5, "y": 5 },
-
-        { "name": "hirayama", "x": -3, "y": 4 },
-        { "name": "ishida", "x": 3, "y": 4 },
-
-        { "name": "sadano", "x": -2, "y": 3 },
-        { "name": "shinzawa", "x": 0, "y": 3 },
-        { "name": "kato", "x": 2, "y": 3 },
-
-        { "name": "yamamoto", "x": -1, "y": 2 },
-        { "name": "kojima", "x": 1, "y": 2 },
-
-        { "name": "shibuya", "x": 0, "y": 1 }
       ]
     }
   ]
