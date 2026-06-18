@@ -14,7 +14,7 @@
         { "name": "hirayama", "x": 0, "y": 3 },
 
         { "name": "ishida", "x": -3, "y": 2 },
-        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "kato", "x": -1, "y": 2 },
         { "name": "shinzawa", "x": 1, "y": 2 },
         { "name": "minami", "x": 3, "y": 2 },
 
@@ -30,16 +30,16 @@
       "title": "1番Bメロ",
       "lyrics": "見上げた空は どこまでも涯なく〜",
       "members": [
-        { "name": "shibuya", "x": -6, "y": 3 },
-        { "name": "hirayama", "x": -2, "y": 3 },
-        { "name": "minami", "x": 2, "y": 3 },
-        { "name": "yamamoto", "x": 6, "y": 3 },
+        { "name": "shibuya", "x": -6, "y": 4 },
+        { "name": "hirayama", "x": -2, "y": 4 },
+        { "name": "minami", "x": 2, "y": 4 },
+        { "name": "yamamoto", "x": 6, "y": 4 },
 
-        { "name": "sadano", "x": -4.5, "y": 2 },
-        { "name": "izumi", "x": 4.5, "y": 2 },
+        { "name": "sadano", "x": -4.5, "y": 3 },
+        { "name": "izumi", "x": 4.5, "y": 3 },
 
-        { "name": "kato", "x": -3, "y": 1 },
-        { "name": "kojima", "x": 3, "y": 1 },
+        { "name": "kato", "x": -3, "y": 2 },
+        { "name": "kojima", "x": 3, "y": 2 },
 
         { "name": "ishida", "x": -1.5, "y": 1 },
         { "name": "shinzawa", "x": 1.5, "y": 1 }
