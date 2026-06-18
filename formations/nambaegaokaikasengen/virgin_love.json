@@ -1,0 +1,216 @@
+{
+  "title": "Virgin love",
+
+  "memo": [
+    "① 浅尾佐月瓶野、浅尾坂田佐月黒田瓶野、浅尾/瓶野",
+    "坂田佐月黒田、芳野/隅野、坂田芳野佐月隅野黒田",
+    "② 田中李始燕早川、浅尾佐月瓶野、田中李始燕早川",
+    "田中佐月早川、浅尾瓶野、坂田/黒田",
+    "坂田浅尾佐月瓶野黒田",
+    "ラストサビ前 浅尾/瓶野、坂田佐月黒田、芳野/隅野",
+    "芳野坂田佐月黒田隅野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -4, "y": 3 },
+        { "name": "sumino", "x": 4, "y": 3 },
+
+        { "name": "sakata", "x": -1, "y": 2 },
+        { "name": "kuroda", "x": 1, "y": 2 },
+        { "name": "siyeon", "x": 5, "y": 2 },
+
+        { "name": "tanaka", "x": -6, "y": 1 },
+        { "name": "asao", "x": -2, "y": 1 },
+        { "name": "satsuki", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 2, "y": 1 },
+        { "name": "hayakawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "大人びた女の子 言うだけ 言うだけ 見栄っ張り〜",
+      "members": [
+        { "name": "tanaka", "x": -3.5, "y": 2 },
+        { "name": "siyeon", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 0.5, "y": 2 },
+        { "name": "kuroda", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "asao", "x": -4.5, "y": 1 },
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "yoshino", "x": -0.5, "y": 1 },
+        { "name": "sumino", "x": 1.5, "y": 1 },
+        { "name": "kameno", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "大人びた女の子 見かけ以上 サバを読む〜",
+      "members": [
+        { "name": "asao", "x": -4.5, "y": 2 },
+        { "name": "sakata", "x": -2.5, "y": 2 },
+        { "name": "yoshino", "x": -0.5, "y": 2 },
+        { "name": "sumino", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 3.5, "y": 2 },
+
+        { "name": "tanaka", "x": -3.5, "y": 1 },
+        { "name": "siyeon", "x": -1.5, "y": 1 },
+        { "name": "satsuki", "x": 0.5, "y": 1 },
+        { "name": "kuroda", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakata", "x": -4.5, "y": 3 },
+        { "name": "yoshino", "x": -1.5, "y": 3 },
+        { "name": "sumino", "x": 1.5, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+
+        { "name": "asao", "x": -3.5, "y": 2 },
+        { "name": "satsuki", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.5, "y": 2 },
+
+        { "name": "tanaka", "x": -2.5, "y": 1 },
+        { "name": "siyeon", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "育ちすぎた果実を持て余す〜",
+      "members": [
+        { "name": "sakata", "x": -4.5, "y": 3 },
+        { "name": "yoshino", "x": -1.5, "y": 3 },
+        { "name": "sumino", "x": 1.5, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+
+        { "name": "asao", "x": -3.5, "y": 2 },
+        { "name": "satsuki", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.5, "y": 2 },
+
+        { "name": "tanaka", "x": -2.5, "y": 1 },
+        { "name": "siyeon", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "残された女の子 少数 少数 マイノリティー〜",
+      "members": [
+        { "name": "siyeon", "x": 0, "y": 4 },
+
+        { "name": "yoshino", "x": -2, "y": 3 },
+        { "name": "sumino", "x": 2, "y": 3 },
+
+        { "name": "tanaka", "x": -3.5, "y": 2 },
+        { "name": "satsuki", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 3.5, "y": 2 },
+
+        { "name": "sakata", "x": -5, "y": 1 },
+        { "name": "asao", "x": -1, "y": 1 },
+        { "name": "kameno", "x": 1, "y": 1 },
+        { "name": "kuroda", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "残された女の子 旬が終わる その前に〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "yoshino", "x": -2.25, "y": 2 },
+        { "name": "siyeon", "x": 0.75, "y": 2 },
+        { "name": "sumino", "x": 3.75, "y": 2 },
+        { "name": "kuroda", "x": 6.75, "y": 2 },
+
+        { "name": "sakata", "x": -6.75, "y": 1 },
+        { "name": "asao", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -0.75, "y": 1 },
+        { "name": "kameno", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "本気だから いい！いい！いい！ Virgin love〜",
+      "members": [
+        { "name": "sakata", "x": -6.75, "y": 1 },
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "asao", "x": -3.75, "y": 1 },
+        { "name": "yoshino", "x": -2.25, "y": 1 },
+        { "name": "satsuki", "x": -0.75, "y": 1 },
+        { "name": "siyeon", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 2.25, "y": 1 },
+        { "name": "sumino", "x": 3.75, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 },
+        { "name": "kuroda", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "大人びた女の子 言うだけ 言うだけ 見栄っ張り〜",
+      "members": [
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "siyeon", "x": -2.25, "y": 2 },
+        { "name": "satsuki", "x": 0.75, "y": 2 },
+        { "name": "kuroda", "x": 3.75, "y": 2 },
+        { "name": "hayakawa", "x": 6.75, "y": 2 },
+
+        { "name": "asao", "x": -6.75, "y": 1 },
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "yoshino", "x": -0.75, "y": 1 },
+        { "name": "sumino", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "大人びた女の子 見かけ以上 サバを読む〜",
+      "members": [
+        { "name": "asao", "x": -6.75, "y": 2 },
+        { "name": "sakata", "x": -3.75, "y": 2 },
+        { "name": "yoshino", "x": -0.75, "y": 2 },
+        { "name": "sumino", "x": 2.25, "y": 2 },
+        { "name": "kameno", "x": 5.25, "y": 2 },
+
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "siyeon", "x": -2.25, "y": 1 },
+        { "name": "satsuki", "x": 0.75, "y": 1 },
+        { "name": "kuroda", "x": 3.75, "y": 1 },
+        { "name": "hayakawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "早く誰か 来て 来て 来て Virgin love〜",
+      "members": [
+        { "name": "asao", "x": -6.75, "y": 1 },
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "sakata", "x": -3.75, "y": 1 },
+        { "name": "siyeon", "x": -2.25, "y": 1 },
+        { "name": "yoshino", "x": -0.75, "y": 1 },
+        { "name": "satsuki", "x": 0.75, "y": 1 },
+        { "name": "sumino", "x": 2.25, "y": 1 },
+        { "name": "kuroda", "x": 3.75, "y": 1 },
+        { "name": "kameno", "x": 5.25, "y": 1 },
+        { "name": "hayakawa", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
