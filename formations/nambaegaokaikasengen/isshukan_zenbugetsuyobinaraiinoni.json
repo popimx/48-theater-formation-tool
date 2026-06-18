@@ -1,0 +1,88 @@
+{
+  "title": "一週間、全部が月曜日ならいいのに...",
+
+  "memo": [
+    "① 佐月坂田瓶野、黒田浅尾隅野、田中早川",
+    "李始燕/芳野",
+    "② 田中黒田隅野、李始燕早川芳野、佐月坂田",
+    "浅尾瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -4, "y": 3 },
+        { "name": "yoshino", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 4, "y": 3 },
+
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+        { "name": "sumino", "x": 6, "y": 2 },
+
+        { "name": "satsuki", "x": -4, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "Monday 待ち望んでる Monday 週の始まり〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": -1.5, "y": 2 },
+        { "name": "asao", "x": 1.5, "y": 2 },
+        { "name": "sumino", "x": 4, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "Everyday 今日が来るまで Everyday 指折り数え〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": -1.5, "y": 2 },
+        { "name": "asao", "x": 1.5, "y": 2 },
+        { "name": "sumino", "x": 4, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -4, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "siyeon", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -6, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "asao", "x": 6, "y": 2 },
+
+        { "name": "satsuki", "x": -4, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
