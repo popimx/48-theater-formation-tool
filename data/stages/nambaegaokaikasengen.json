@@ -12,67 +12,67 @@
     {
       "name": "李始燕",
       "display": "李",
-      "id": "lee",
-      "image": "lee_siyeon_2024"
+      "id": "siyeon",
+      "image": "lee_siyeon_2022"
     },
     {
       "name": "瓶野神音",
       "display": "瓶野",
-      "id": "heino",
-      "image": "heino_kanon_2024"
+      "id": "kameno",
+      "image": "kameno_zion_2022"
     },
     {
       "name": "黒田楓和",
       "display": "黒田",
       "id": "kuroda",
-      "image": "kuroda_fuwa_2024"
+      "image": "kuroda_fuwa_2022"
     },
     {
       "name": "坂田心咲",
       "display": "坂田",
       "id": "sakata",
-      "image": "sakata_misaki_2024"
+      "image": "sakata_misaki_2022"
     },
     {
       "name": "佐月愛果",
       "display": "佐月",
       "id": "satsuki",
-      "image": "satsuki_aika_2024"
+      "image": "satsuki_aika_2022"
     },
     {
       "name": "隅野和奏",
       "display": "隅野",
       "id": "sumino",
-      "image": "sumino_wakana_2024"
+      "image": "sumino_wakana_2022"
     },
     {
       "name": "田中雪乃",
       "display": "田中",
       "id": "tanaka",
-      "image": "tanaka_yukino_2024"
+      "image": "tanaka_yukino_2022"
     },
     {
       "name": "早川夢菜",
       "display": "早川",
       "id": "hayakawa",
-      "image": "hayakawa_yumina_2024"
+      "image": "hayakawa_yuna_2022"
     },
     {
       "name": "芳野心咲",
       "display": "芳野",
       "id": "yoshino",
-      "image": "yoshino_misaki_2024"
+      "image": "yoshino_misaki_2022"
     }
   ],
 
   "songs": [
     {
-      "name": "一週間 全部が月曜日ならいいのに...",
-      "file": "isshukanzenbugetsuyobinara_iinoni.json"
+      "name": "一週間、全部が月曜日ならいいのに...",
+      "file": "isshukan_zenbugetsuyobinaraiinoni.json"
     },
     {
-      "name": "ごめんね 好きになっちゃって...",
-      "file": "gomennesukinacchatte.json"
+      "name": "ごめんね、好きになっちゃって...",
+      "file": "gomenne_sukinacchatte.json"
     },
     {
       "name": "落とし穴",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Virgin love",
-      "file": "virginlove.json"
+      "file": "virgin_love.json"
     },
     {
       "name": "アーモンドクロワッサン計画",
@@ -100,7 +100,7 @@
     },
     {
       "name": "届かなそうで届くもの",
-      "file": "todokanasode_todokumono.json"
+      "file": "todokanasodetodokumono.json"
     },
     {
       "name": "オーマイガー！",
@@ -108,7 +108,7 @@
     },
     {
       "name": "僕らのユリイカ",
-      "file": "bokuranoyureka.json"
+      "file": "bokuranoeureka.json"
     },
     {
       "name": "だってだってだって",
