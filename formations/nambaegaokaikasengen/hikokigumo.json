@@ -1,0 +1,142 @@
+{
+  "title": "ひこうき雲",
+
+  "memo": [
+    "① 早川坂田李始燕、芳野佐月/田中、隅野瓶野",
+    "浅尾/黒田",
+    "② 隅野瓶野、浅尾/黒田、坂田李始燕早川",
+    "田中/佐月芳野",
+    "ラストサビ前 李始燕/坂田/早川、佐月/芳野田中",
+    "隅野瓶野、浅尾/黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -4.5, "y": 3 },
+        { "name": "hayakawa", "x": -2.5, "y": 3 },
+        { "name": "sumino", "x": -0.5, "y": 3 },
+        { "name": "tanaka", "x": 1.5, "y": 3 },
+        { "name": "siyeon", "x": 3.5, "y": 3 },
+
+        { "name": "asao", "x": -3.5, "y": 2 },
+        { "name": "satsuki", "x": -1.5, "y": 2 },
+        { "name": "sakata", "x": 0.5, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
+        { "name": "kuroda", "x": 4.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "空にひこうき雲 白く棚引く線よ〜",
+      "members": [
+        { "name": "asao", "x": -5.25, "y": 2 },
+        { "name": "sumino", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "kuroda", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "時のひこうき雲 爪を立てたみたいに〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "satsuki", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "asao", "x": -5.25, "y": 1 },
+        { "name": "sumino", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "kuroda", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "satsuki", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "asao", "x": -5.25, "y": 1 },
+        { "name": "sumino", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "kuroda", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "愛はひこうき雲 淡い一筆書き〜",
+      "members": [
+        { "name": "siyeon", "x": -6, "y": 2 },
+        { "name": "sumino", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+        { "name": "yoshino", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -5, "y": 1 },
+        { "name": "asao", "x": -3, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 },
+        { "name": "hayakawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "まるでひこうき雲 涙を隠すように〜",
+      "members": [
+        { "name": "siyeon", "x": -7, "y": 5 },
+        { "name": "yoshino", "x": 7, "y": 5 },
+
+        { "name": "tanaka", "x": -5.5, "y": 4 },
+        { "name": "hayakawa", "x": 5.5, "y": 4 },
+
+        { "name": "sumino", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "asao", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "愛のひこうき雲 後を追いかけるみたいに〜",
+      "members": [
+        { "name": "siyeon", "x": -6.75, "y": 1 },
+        { "name": "sumino", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "asao", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": -0.75, "y": 1 },
+        { "name": "satsuki", "x": 0.75, "y": 1 },
+        { "name": "kuroda", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 3.75, "y": 1 },
+        { "name": "yoshino", "x": 5.25, "y": 1 },
+        { "name": "tanaka", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
