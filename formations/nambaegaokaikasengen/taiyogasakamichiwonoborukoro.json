@@ -1,0 +1,203 @@
+{
+  "title": "太陽が坂道を昇る頃",
+
+  "memo": [
+    "① 佐月/坂田、浅尾/瓶野",
+    "田中黒田隅野(李始燕早川芳野)、佐月/坂田",
+    "② 田中黒田隅野、李始燕早川芳野",
+    "佐月坂田(浅尾瓶野)、田中黒田隅野",
+    "②サビ後 佐月坂田(浅尾瓶野)",
+    "田中黒田隅野(李始燕早川芳野)"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 3 },
+        { "name": "asao", "x": -0.75, "y": 3 },
+        { "name": "yoshino", "x": 6.75, "y": 3 },
+
+        { "name": "sumino", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "太陽が坂道をゆっくりと昇る頃〜",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 3 },
+        { "name": "kameno", "x": 0.75, "y": 3 },
+        { "name": "hayakawa", "x": 5.25, "y": 3 },
+
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 2.25, "y": 2 },
+        { "name": "yoshino", "x": 6.75, "y": 2 },
+
+        { "name": "sumino", "x": -3.75, "y": 1 },
+        { "name": "asao", "x": -0.75, "y": 1 },
+        { "name": "siyeon", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "いつもよりも早く 坂の上まで来てしまった〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 3 },
+        { "name": "asao", "x": -0.75, "y": 3 },
+        { "name": "yoshino", "x": 6.75, "y": 3 },
+
+        { "name": "sumino", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "君も朝練かな (何部なんだろう？) 〜",
+      "members": [
+        { "name": "tanaka", "x": -3, "y": 4 },
+        { "name": "siyeon", "x": 0, "y": 4 },
+        { "name": "yoshino", "x": 3, "y": 4 },
+
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "hayakawa", "x": 1.5, "y": 3 },
+
+        { "name": "sumino", "x": 0, "y": 2 },
+
+        { "name": "satsuki", "x": -6, "y": 1 },
+        { "name": "sakata", "x": -4.5, "y": 1 },
+        { "name": "asao", "x": 4.5, "y": 1 },
+        { "name": "kameno", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "太陽が坂道をゆっくりと沈む頃〜",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 3 },
+        { "name": "kameno", "x": 0.75, "y": 3 },
+        { "name": "hayakawa", "x": 5.25, "y": 3 },
+
+        { "name": "tanaka", "x": -6.75, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 2.25, "y": 2 },
+        { "name": "yoshino", "x": 6.75, "y": 2 },
+
+        { "name": "sumino", "x": -3.75, "y": 1 },
+        { "name": "asao", "x": -0.75, "y": 1 },
+        { "name": "siyeon", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "僕はまだ学校で 練習が終わっていないよ〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 3 },
+        { "name": "asao", "x": -0.75, "y": 3 },
+        { "name": "yoshino", "x": 6.75, "y": 3 },
+
+        { "name": "sumino", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "十字路を通るその度 想ってる〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "tanaka", "x": -7, "y": 1 },
+        { "name": "sumino", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "asao", "x": 1, "y": 1 },
+        { "name": "siyeon", "x": 4, "y": 1 },
+        { "name": "yoshino", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "tanaka", "x": -7, "y": 1 },
+        { "name": "sumino", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "asao", "x": 1, "y": 1 },
+        { "name": "siyeon", "x": 4, "y": 1 },
+        { "name": "yoshino", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 3 },
+        { "name": "sakata", "x": -1, "y": 3 },
+        { "name": "asao", "x": 1, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "kuroda", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+        { "name": "hayakawa", "x": 4, "y": 2 },
+
+        { "name": "sumino", "x": -3, "y": 1 },
+        { "name": "siyeon", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "いつもよりも早く 坂の上まで来てしまった〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 3 },
+        { "name": "asao", "x": -0.75, "y": 3 },
+        { "name": "yoshino", "x": 6.75, "y": 3 },
+
+        { "name": "sumino", "x": -3.75, "y": 2 },
+        { "name": "kameno", "x": 0.75, "y": 2 },
+        { "name": "siyeon", "x": 3.75, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
