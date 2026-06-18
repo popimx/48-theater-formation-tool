@@ -1,0 +1,67 @@
+{
+  "title": "摩天楼の距離",
+  
+  "memo": [
+    "① 梅山塩月、本郷安部上西、原堀、川上前田出口",
+    "② 安部堀、原前田出口、梅山川上、本郷上西塩月"
+  ],
+  
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -5, "y": 3 },
+        { "name": "hori", "x": 0, "y": 3 },
+        { "name": "maeda", "x": 5, "y": 3 },
+
+        { "name": "abe", "x": -6, "y": 2 },
+        { "name": "umeyama", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+        { "name": "deguchi", "x": 6, "y": 2 },
+
+        { "name": "hongo", "x": -4, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -2.5, "y": 3 },
+        { "name": "shiotsuki", "x": 0.5, "y": 3 },
+        { "name": "deguchi", "x": 3.5, "y": 3 },
+
+        { "name": "hongo", "x": -3.5, "y": 2 },
+        { "name": "hori", "x": -0.5, "y": 2 },
+        { "name": "kawakami", "x": 2.5, "y": 2 },
+
+        { "name": "abe", "x": -4.5, "y": 1 },
+        { "name": "jonishi", "x": -1.5, "y": 1 },
+        { "name": "umeyama", "x": 1.5, "y": 1 },
+        { "name": "maeda", "x": 4.5, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hara", "x": -5, "y": 3 },
+        { "name": "hori", "x": 0, "y": 3 },
+        { "name": "maeda", "x": 5, "y": 3 },
+
+        { "name": "abe", "x": -6, "y": 2 },
+        { "name": "umeyama", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+        { "name": "deguchi", "x": 6, "y": 2 },
+
+        { "name": "hongo", "x": -4, "y": 1 },
+        { "name": "jonishi", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
