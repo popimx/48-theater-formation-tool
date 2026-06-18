@@ -1,0 +1,70 @@
+{
+  "title": "アーモンドクロワッサン計画",
+
+  "memo": [
+    "① 佐月瓶野、浅尾/黒田、坂田田中、李始燕隅野",
+    "早川/芳野",
+    "② 李始燕/坂田/田中、早川隅野芳野、佐月瓶野",
+    "浅尾黒田、李始燕坂田田中、早川隅野芳野",
+    "ラストサビ前 佐月瓶野、浅尾/黒田",
+    "李始燕坂田田中、早川隅野芳野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "そういつまでも 学生じゃないし〜",
+      "members": [
+        { "name": "satsuki", "x": -5.5, "y": 3 },
+        { "name": "asao", "x": -4.5, "y": 3 },
+        { "name": "kameno", "x": 4.5, "y": 3 },
+        { "name": "kuroda", "x": 5.5, "y": 3 },
+
+        { "name": "hayakawa", "x": -3, "y": 2 },
+        { "name": "sakata", "x": -2, "y": 2 },
+        { "name": "yoshino", "x": 2, "y": 2 },
+        { "name": "tanaka", "x": 3, "y": 2 },
+
+        { "name": "siyeon", "x": -0.5, "y": 1 },
+        { "name": "sumino", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "デートを繰り返すことよりも 当たり前に家にいるっていい〜",
+      "members": [
+        { "name": "sakata", "x": -5.5, "y": 3 },
+        { "name": "asao", "x": -4.5, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+        { "name": "tanaka", "x": 5.5, "y": 3 },
+
+        { "name": "satsuki", "x": -0.5, "y": 2 },
+        { "name": "kameno", "x": 0.5, "y": 2 },
+
+        { "name": "hayakawa", "x": -3, "y": 1 },
+        { "name": "siyeon", "x": -2, "y": 1 },
+        { "name": "yoshino", "x": 2, "y": 1 },
+        { "name": "sumino", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -4.5, "y": 2 },
+        { "name": "siyeon", "x": -2.5, "y": 2 },
+        { "name": "satsuki", "x": -0.5, "y": 2 },
+        { "name": "kameno", "x": 1.5, "y": 2 },
+        { "name": "yoshino", "x": 3.5, "y": 2 },
+
+        { "name": "asao", "x": -3.5, "y": 1 },
+        { "name": "sakata", "x": -1.5, "y": 1 },
+        { "name": "sumino", "x": 0.5, "y": 1 },
+        { "name": "tanaka", "x": 2.5, "y": 1 },
+        { "name": "kuroda", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
