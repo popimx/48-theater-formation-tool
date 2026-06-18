@@ -1,0 +1,122 @@
+{
+  "stage": "NMB48「夢中雷舞」",
+  "stageId": "muchurabu",
+
+  "members": [
+    {
+      "name": "石田優美",
+      "display": "石田",
+      "id": "ishida",
+      "image": "ishida_yuumi_2022"
+    },
+    {
+      "name": "泉綾乃",
+      "display": "泉",
+      "id": "izumi",
+      "image": "izumi_ayano_2022"
+    },
+    {
+      "name": "加藤夕夏",
+      "display": "加藤",
+      "id": "kato",
+      "image": "kato_yuka_2022"
+    },
+    {
+      "name": "小嶋花梨",
+      "display": "小嶋",
+      "id": "kojima",
+      "image": "kojima_karin_2022"
+    },
+    {
+      "name": "貞野遥香",
+      "display": "貞野",
+      "id": "sadano",
+      "image": "sadano_haruka_2022"
+    },
+    {
+      "name": "渋谷凪咲",
+      "display": "渋谷",
+      "id": "shibuya",
+      "image": "shibuya_nagisa_2022"
+    },
+    {
+      "name": "新澤菜央",
+      "display": "新澤",
+      "id": "shinzawa",
+      "image": "shinzawa_nao_2022"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2022"
+    },
+    {
+      "name": "南羽諒",
+      "display": "南",
+      "id": "minami",
+      "image": "minami_haasa_2022"
+    },
+    {
+      "name": "山本望叶",
+      "display": "山本",
+      "id": "yamamoto",
+      "image": "yamamoto_mikana_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "1994年の雷鳴",
+      "file": "1994nennoraimei.json"
+    },
+    {
+      "name": "メロスの道",
+      "file": "merosunomichi.json"
+    },
+    {
+      "name": "重力シンパシー",
+      "file": "juryokusympathy.json"
+    },
+    {
+      "name": "人魚のバカンス",
+      "file": "ningyonovacance.json"
+    },
+    {
+      "name": "GAGAGA",
+      "file": "gagaga.json"
+    },
+    {
+      "name": "伝説の魚",
+      "file": "densetsunosakana.json"
+    },
+    {
+      "name": "休戦協定",
+      "file": "kyusenteikyotei.json"
+    },
+    {
+      "name": "ダンシングハイ",
+      "file": "dancinghigh.json"
+    },
+    {
+      "name": "靴紐の結び方",
+      "file": "kutsuhimonomusubikata.json"
+    },
+    {
+      "name": "夢中人",
+      "file": "muchujin.json"
+    },
+    {
+      "name": "挑発の青空",
+      "file": "chohatsunoaozora.json"
+    },
+    {
+      "name": "正義の味方じゃないヒーロー",
+      "file": "seiginomikatajanaihero.json"
+    },
+    {
+      "name": "抱きしめちゃいけない",
+      "file": "dakishimechaikenai.json"
+    }
+  ]
+}
