@@ -1,0 +1,29 @@
+{
+  "title": "僕らのユリイカ",
+
+  "memo": [
+    "① 佐月坂田瓶野、浅尾/黒田、早川隅野田中",
+    "李始燕芳野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -4.5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "yoshino", "x": 4.5, "y": 3 },
+
+        { "name": "sumino", "x": -6, "y": 2 },
+        { "name": "asao", "x": -1.5, "y": 2 },
+        { "name": "kuroda", "x": 1.5, "y": 2 },
+        { "name": "tanaka", "x": 6, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
