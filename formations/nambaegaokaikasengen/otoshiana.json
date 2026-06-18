@@ -10,45 +10,7 @@
 
   "parts": [
     {
-      "title": "イントロサビ",
-      "lyrics": "",
-      "members": [
-        { "name": "yoshino", "x": -4.5, "y": 3 },
-        { "name": "hayakawa", "x": -1.5, "y": 3 },
-        { "name": "tanaka", "x": 1.5, "y": 3 },
-        { "name": "siyeon", "x": 4.5, "y": 3 },
-
-        { "name": "asao", "x": -2.25, "y": 2 },
-        { "name": "sumino", "x": -0.75, "y": 2 },
-        { "name": "kuroda", "x": 2.25, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "sakata", "x": 0, "y": 1 },
-        { "name": "kameno", "x": 3, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "1番サビ",
-      "lyrics": "",
-      "members": [
-        { "name": "yoshino", "x": -4.5, "y": 3 },
-        { "name": "hayakawa", "x": -1.5, "y": 3 },
-        { "name": "tanaka", "x": 1.5, "y": 3 },
-        { "name": "siyeon", "x": 4.5, "y": 3 },
-
-        { "name": "asao", "x": -2.25, "y": 2 },
-        { "name": "sumino", "x": -0.75, "y": 2 },
-        { "name": "kuroda", "x": 2.25, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "sakata", "x": 0, "y": 1 },
-        { "name": "kameno", "x": 3, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "2番Aメロ①",
+      "title": "2番Aメロ ①",
       "lyrics": "音楽や映画やファッションの好みも合わないのに〜",
       "members": [
         { "name": "hayakawa", "x": 0, "y": 5 },
@@ -69,7 +31,7 @@
     },
 
     {
-      "title": "2番Aメロ②",
+      "title": "2番Aメロ ②",
       "lyrics": "きっと私が面白がっているだけかも〜",
       "members": [
         { "name": "tanaka", "x": 0, "y": 4 },
@@ -85,44 +47,6 @@
         { "name": "satsuki", "x": -1, "y": 1 },
         { "name": "sakata", "x": 1, "y": 1 },
         { "name": "kuroda", "x": 3, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "2番サビ",
-      "lyrics": "",
-      "members": [
-        { "name": "yoshino", "x": -4.5, "y": 3 },
-        { "name": "hayakawa", "x": -1.5, "y": 3 },
-        { "name": "tanaka", "x": 1.5, "y": 3 },
-        { "name": "siyeon", "x": 4.5, "y": 3 },
-
-        { "name": "asao", "x": -2.25, "y": 2 },
-        { "name": "sumino", "x": -0.75, "y": 2 },
-        { "name": "kuroda", "x": 2.25, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "sakata", "x": 0, "y": 1 },
-        { "name": "kameno", "x": 3, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "ラストサビ",
-      "lyrics": "",
-      "members": [
-        { "name": "yoshino", "x": -4.5, "y": 3 },
-        { "name": "hayakawa", "x": -1.5, "y": 3 },
-        { "name": "tanaka", "x": 1.5, "y": 3 },
-        { "name": "siyeon", "x": 4.5, "y": 3 },
-
-        { "name": "asao", "x": -2.25, "y": 2 },
-        { "name": "sumino", "x": -0.75, "y": 2 },
-        { "name": "kuroda", "x": 2.25, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "sakata", "x": 0, "y": 1 },
-        { "name": "kameno", "x": 3, "y": 1 }
       ]
     }
   ]
