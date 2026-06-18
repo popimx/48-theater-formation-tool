@@ -1,0 +1,272 @@
+{
+  "title": "靴紐の結び方",
+
+  "memo": [
+    "① 小嶋渋谷加藤、貞野山本、新澤/平山",
+    "泉石田南、小嶋渋谷加藤",
+    "② 新澤/平山、貞野/山本、小嶋渋谷加藤",
+    "貞野/山本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -3, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "yamamoto", "x": 1, "y": 2 },
+        { "name": "hirayama", "x": 3, "y": 2 },
+
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "道の上に転がっていた 片方だけの靴は落し物〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -3, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "yamamoto", "x": 1, "y": 2 },
+        { "name": "hirayama", "x": 3, "y": 2 },
+
+        { "name": "kojima", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "脱ぎ捨てたのか? 脱げてしまったか?〜",
+      "members": [
+        { "name": "ishida", "x": 0, "y": 4 },
+
+        { "name": "izumi", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "kojima", "x": -2, "y": 2 },
+        { "name": "shibuya", "x": 0, "y": 2 },
+        { "name": "kato", "x": 2, "y": 2 },
+
+        { "name": "shinzawa", "x": -3, "y": 1 },
+        { "name": "sadano", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -5.25, "y": 2 },
+        { "name": "sadano", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "kato", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "shinzawa", "x": -6.75, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "minami", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "shinzawa", "x": -6.75, "y": 2 },
+        { "name": "kojima", "x": -3.75, "y": 2 },
+        { "name": "shibuya", "x": -0.75, "y": 2 },
+        { "name": "yamamoto", "x": 2.25, "y": 2 },
+        { "name": "minami", "x": 5.25, "y": 2 },
+
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "sadano", "x": -2.25, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "kato", "x": 3.75, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ④",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -5.25, "y": 2 },
+        { "name": "sadano", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "kato", "x": 3.75, "y": 2 },
+        { "name": "hirayama", "x": 6.75, "y": 2 },
+
+        { "name": "shinzawa", "x": -6.75, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "minami", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ⑤",
+      "lyrics": "",
+      "members": [
+        { "name": "shinzawa", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -2.25, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "kato", "x": 3.75, "y": 1 },
+        { "name": "minami", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "靴紐 どうやって結ぶのか？〜",
+      "members": [
+        { "name": "shinzawa", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -2.25, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "kato", "x": 3.75, "y": 1 },
+        { "name": "minami", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "誰かに教わったわけじゃないだろう〜",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -6, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "minami", "x": 6, "y": 3 },
+
+        { "name": "shinzawa", "x": -8, "y": 2 },
+        { "name": "sadano", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "hirayama", "x": 8, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kato", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
