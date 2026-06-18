@@ -1,0 +1,175 @@
+{
+  "title": "メロスの道",
+
+  "memo": [
+    "① 平山石田、南泉、山本貞野新澤、渋谷小嶋加藤",
+    "② 山本貞野新澤、加藤小嶋渋谷、平山石田、泉/南"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -5.5, "y": 3 },
+        { "name": "minami", "x": -2.5, "y": 3 },
+        { "name": "yamamoto", "x": 2.5, "y": 3 },
+        { "name": "shinzawa", "x": 5.5, "y": 3 },
+
+        { "name": "izumi", "x": -7, "y": 2 },
+        { "name": "shibuya", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+        { "name": "ishida", "x": 7, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "耳をすませば聞こえる 声にならない叫びを…",
+      "members": [
+        { "name": "minami", "x": -5, "y": 2 },
+        { "name": "izumi", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
+        { "name": "ishida", "x": 6, "y": 2 },
+
+        { "name": "shibuya", "x": -6, "y": 1 },
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "kato", "x": -2, "y": 1 },
+        { "name": "sadano", "x": 3, "y": 1 },
+        { "name": "hirayama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -6.75, "y": 2 },
+        { "name": "shinzawa", "x": -3.75, "y": 2 },
+        { "name": "ishida", "x": -0.75, "y": 2 },
+        { "name": "minami", "x": 2.25, "y": 2 },
+        { "name": "izumi", "x": 5.25, "y": 2 },
+
+        { "name": "sadano", "x": -5.25, "y": 1 },
+        { "name": "hirayama", "x": -2.25, "y": 1 },
+        { "name": "shibuya", "x": 0.75, "y": 1 },
+        { "name": "kojima", "x": 3.75, "y": 1 },
+        { "name": "kato", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shinzawa", "x": -0.5, "y": 3 },
+        { "name": "kojima", "x": 0.5, "y": 3 },
+
+        { "name": "yamamoto", "x": -6.5, "y": 2 },
+        { "name": "minami", "x": -5.5, "y": 2 },
+        { "name": "ishida", "x": 5.5, "y": 2 },
+        { "name": "izumi", "x": 6.5, "y": 2 },
+
+        { "name": "sadano", "x": -3.5, "y": 1 },
+        { "name": "shibuya", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 },
+        { "name": "kato", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "リタイアは楽だけど 裏切れないだろう",
+      "members": [
+        { "name": "shinzawa", "x": -0.5, "y": 3 },
+        { "name": "shibuya", "x": 0.5, "y": 3 },
+
+        { "name": "yamamoto", "x": -6.5, "y": 2 },
+        { "name": "izumi", "x": -5.5, "y": 2 },
+        { "name": "ishida", "x": 5.5, "y": 2 },
+        { "name": "minami", "x": 6.5, "y": 2 },
+
+        { "name": "sadano", "x": -3.5, "y": 1 },
+        { "name": "kato", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 },
+        { "name": "kojima", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shinzawa", "x": -0.5, "y": 3 },
+        { "name": "shibuya", "x": 0.5, "y": 3 },
+
+        { "name": "yamamoto", "x": -6.5, "y": 2 },
+        { "name": "izumi", "x": -5.5, "y": 2 },
+        { "name": "ishida", "x": 5.5, "y": 2 },
+        { "name": "minami", "x": 6.5, "y": 2 },
+
+        { "name": "sadano", "x": -3.5, "y": 1 },
+        { "name": "kato", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 },
+        { "name": "kojima", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shibuya", "x": 0.75, "y": 3 },
+
+        { "name": "yamamoto", "x": -6.75, "y": 2 },
+        { "name": "izumi", "x": -3.75, "y": 2 },
+        { "name": "shinzawa", "x": -0.75, "y": 2 },
+        { "name": "ishida", "x": 3.75, "y": 2 },
+        { "name": "minami", "x": 6.75, "y": 2 },
+
+        { "name": "sadano", "x": -5.25, "y": 1 },
+        { "name": "kato", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "kojima", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "地を蹴って 風を切って 無我夢中で走り抜けろ！",
+      "members": [
+        { "name": "izumi", "x": -6.75, "y": 1 },
+        { "name": "yamamoto", "x": -5.25, "y": 1 },
+        { "name": "kato", "x": -3.75, "y": 1 },
+        { "name": "ishida", "x": -2.25, "y": 1 },
+        { "name": "hirayama", "x": -0.75, "y": 1 },
+        { "name": "sadano", "x": 0.75, "y": 1 },
+        { "name": "kojima", "x": 2.25, "y": 1 },
+        { "name": "shibuya", "x": 3.75, "y": 1 },
+        { "name": "shinzawa", "x": 5.25, "y": 1 },
+        { "name": "minami", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "疲れ果て倒れたって 何回でも起き上がれよ",
+      "members": [
+        { "name": "sadano", "x": -6.75, "y": 1 },
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "shibuya", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -2.25, "y": 1 },
+        { "name": "minami", "x": -0.75, "y": 1 },
+        { "name": "izumi", "x": 0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "kato", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
