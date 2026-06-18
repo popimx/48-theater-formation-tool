@@ -31,26 +31,7 @@
     },
 
     {
-      "title": "1番サビ ①",
-      "lyrics": "太陽が坂道をゆっくりと昇る頃〜",
-      "members": [
-        { "name": "kuroda", "x": -5.25, "y": 3 },
-        { "name": "kameno", "x": 0.75, "y": 3 },
-        { "name": "hayakawa", "x": 5.25, "y": 3 },
-
-        { "name": "tanaka", "x": -6.75, "y": 2 },
-        { "name": "satsuki", "x": -2.25, "y": 2 },
-        { "name": "sakata", "x": 2.25, "y": 2 },
-        { "name": "yoshino", "x": 6.75, "y": 2 },
-
-        { "name": "sumino", "x": -3.75, "y": 1 },
-        { "name": "asao", "x": -0.75, "y": 1 },
-        { "name": "siyeon", "x": 3.75, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "1番サビ ②",
+      "title": "1番サビ",
       "lyrics": "いつもよりも早く 坂の上まで来てしまった〜",
       "members": [
         { "name": "tanaka", "x": -6.75, "y": 3 },
@@ -89,26 +70,7 @@
     },
 
     {
-      "title": "2番サビ ①",
-      "lyrics": "太陽が坂道をゆっくりと沈む頃〜",
-      "members": [
-        { "name": "kuroda", "x": -5.25, "y": 3 },
-        { "name": "kameno", "x": 0.75, "y": 3 },
-        { "name": "hayakawa", "x": 5.25, "y": 3 },
-
-        { "name": "tanaka", "x": -6.75, "y": 2 },
-        { "name": "satsuki", "x": -2.25, "y": 2 },
-        { "name": "sakata", "x": 2.25, "y": 2 },
-        { "name": "yoshino", "x": 6.75, "y": 2 },
-
-        { "name": "sumino", "x": -3.75, "y": 1 },
-        { "name": "asao", "x": -0.75, "y": 1 },
-        { "name": "siyeon", "x": 3.75, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "2番サビ ②",
+      "title": "2番サビ",
       "lyrics": "僕はまだ学校で 練習が終わっていないよ〜",
       "members": [
         { "name": "tanaka", "x": -6.75, "y": 3 },
