@@ -1,0 +1,89 @@
+{
+  "title": "伝説の魚",
+
+  "memo": [
+    "① 小嶋貞野、加藤渋谷、山本泉、新澤/石田",
+    "南/平山",
+    "② 山本/泉、新澤石田、南/平山、貞野小嶋",
+    "加藤渋谷"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": -5.5, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 5.5, "y": 3 },
+
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "sadano", "x": 1.5, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "kato", "x": -2.5, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": -1.5, "y": 4 },
+        { "name": "hirayama", "x": 1.5, "y": 4 },
+
+        { "name": "shinzawa", "x": -3, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "shibuya", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+
+        { "name": "kato", "x": -3, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "sadano", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "minami", "x": 1.5, "y": 4 },
+
+        { "name": "shinzawa", "x": -3, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "shibuya", "x": -1.5, "y": 2 },
+        { "name": "yamamoto", "x": 1.5, "y": 2 },
+
+        { "name": "sadano", "x": -3, "y": 1 },
+        { "name": "kojima", "x": 0, "y": 1 },
+        { "name": "kato", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -5.25, "y": 2 },
+        { "name": "kato", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "minami", "x": 3.75, "y": 2 },
+        { "name": "sadano", "x": 6.75, "y": 2 },
+
+        { "name": "hirayama", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "shibuya", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
