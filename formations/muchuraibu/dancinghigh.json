@@ -102,25 +102,6 @@
     },
 
     {
-      "title": "1番Aメロ",
-      "lyrics": "LOVE 言葉なら知ってる〜",
-      "members": [
-        { "name": "shinzawa", "x": -4, "y": 3 },
-        { "name": "kojima", "x": -1, "y": 3 },
-        { "name": "yamamoto", "x": 1, "y": 3 },
-        { "name": "kato", "x": 4, "y": 3 },
-
-        { "name": "hirayama", "x": -3.25, "y": 2 },
-        { "name": "izumi", "x": -1.75, "y": 2 },
-        { "name": "shibuya", "x": 1.75, "y": 2 },
-        { "name": "minami", "x": 3.25, "y": 2 },
-
-        { "name": "sadano", "x": -2.5, "y": 1 },
-        { "name": "ishida", "x": 2.5, "y": 1 }
-      ]
-    },
-
-    {
       "title": "1番Bメロ",
       "lyrics": "ちょっとそこ行くナイスガイ (ナイスガイ) 〜",
       "members": [
