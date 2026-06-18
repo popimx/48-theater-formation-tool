@@ -1,0 +1,198 @@
+{
+  "title": "休戦協定",
+
+  "memo": [
+    "① 加藤山本、小嶋/南、平山石田、加藤山本",
+    "新澤/渋谷",
+    "② 平山石田 (新澤/渋谷)、新澤平山/石田渋谷",
+    "泉貞野 (小嶋/南)、小嶋泉/貞野南",
+    "加藤山本、新澤/渋谷",
+    "ラストサビ前 山本加藤新澤、南渋谷小嶋",
+    "平山泉/貞野石田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "僕だって そりゃあカッと来ちゃって 見てないテレビ ボリューム上げて〜",
+      "members": [
+        { "name": "hirayama", "x": -1, "y": 5 },
+        { "name": "ishida", "x": 1, "y": 5 },
+
+        { "name": "shinzawa", "x": -2, "y": 4 },
+        { "name": "shibuya", "x": 2, "y": 4 },
+
+        { "name": "kato", "x": -3, "y": 3 },
+        { "name": "yamamoto", "x": 3, "y": 3 },
+
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "minami", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -5, "y": 1 },
+        { "name": "sadano", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "あれから一人の暮らしが続いて〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "ishida", "x": 2, "y": 2 },
+        { "name": "sadano", "x": 4, "y": 2 },
+
+        { "name": "kojima", "x": -5, "y": 1 },
+        { "name": "shinzawa", "x": -3, "y": 1 },
+        { "name": "kato", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 },
+        { "name": "shibuya", "x": 3, "y": 1 },
+        { "name": "minami", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "いつまで強がり 言ってるつもりさ？〜",
+      "members": [
+        { "name": "kojima", "x": -5, "y": 2 },
+        { "name": "shinzawa", "x": -3, "y": 2 },
+        { "name": "kato", "x": -1, "y": 2 },
+        { "name": "yamamoto", "x": 1, "y": 2 },
+        { "name": "shibuya", "x": 3, "y": 2 },
+        { "name": "minami", "x": 5, "y": 2 },
+
+        { "name": "izumi", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "ishida", "x": 2, "y": 1 },
+        { "name": "sadano", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kojima", "x": -6.75, "y": 1 },
+        { "name": "izumi", "x": -5.25, "y": 1 },
+        { "name": "shinzawa", "x": -3.75, "y": 1 },
+        { "name": "hirayama", "x": -2.25, "y": 1 },
+        { "name": "kato", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "shibuya", "x": 3.75, "y": 1 },
+        { "name": "sadano", "x": 5.25, "y": 1 },
+        { "name": "minami", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "自由なのに なぜか楽しくない むかつくことないのにね〜",
+      "members": [
+        { "name": "shinzawa", "x": -6.75, "y": 1 },
+        { "name": "hirayama", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "izumi", "x": -2.25, "y": 1 },
+        { "name": "kato", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 0.75, "y": 1 },
+        { "name": "sadano", "x": 2.25, "y": 1 },
+        { "name": "minami", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 5.25, "y": 1 },
+        { "name": "shibuya", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "女の子をナンパしたって 嘘つく必要もない〜",
+      "members": [
+        { "name": "shibuya", "x": -6.75, "y": 1 },
+        { "name": "hirayama", "x": -5.25, "y": 1 },
+        { "name": "kojima", "x": -3.75, "y": 1 },
+        { "name": "izumi", "x": -2.25, "y": 1 },
+        { "name": "kato", "x": -0.75, "y": 1 },
+        { "name": "yamamoto", "x": 0.75, "y": 1 },
+        { "name": "sadano", "x": 2.25, "y": 1 },
+        { "name": "minami", "x": 3.75, "y": 1 },
+        { "name": "ishida", "x": 5.25, "y": 1 },
+        { "name": "shinzawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "壊れたギターは直せばいいけど〜",
+      "members": [
+        { "name": "shibuya", "x": -7, "y": 3 },
+        { "name": "kato", "x": -1, "y": 3 },
+        { "name": "yamamoto", "x": 1, "y": 3 },
+        { "name": "shinzawa", "x": 7, "y": 3 },
+
+        { "name": "hirayama", "x": -5.5, "y": 2 },
+        { "name": "izumi", "x": -2.5, "y": 2 },
+        { "name": "sadano", "x": 2.5, "y": 2 },
+        { "name": "ishida", "x": 5.5, "y": 2 },
+
+        { "name": "kojima", "x": -4, "y": 1 },
+        { "name": "minami", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "電話を掛けても呼び出し音だけ〜",
+      "members": [
+        { "name": "kojima", "x": -4, "y": 3 },
+        { "name": "minami", "x": 4, "y": 3 },
+
+        { "name": "hirayama", "x": -5.5, "y": 2 },
+        { "name": "izumi", "x": -2.5, "y": 2 },
+        { "name": "sadano", "x": 2.5, "y": 2 },
+        { "name": "ishida", "x": 5.5, "y": 2 },
+
+        { "name": "shibuya", "x": -7, "y": 1 },
+        { "name": "kato", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "そろそろいいんじゃない そろそろいいんじゃない〜",
+      "members": [
+        { "name": "shinzawa", "x": -6.75, "y": 2 },
+        { "name": "hirayama", "x": -5.25, "y": 2 },
+        { "name": "izumi", "x": -3.75, "y": 2 },
+        { "name": "kojima", "x": -2.25, "y": 2 },
+        { "name": "sadano", "x": -0.75, "y": 2 },
+        { "name": "shibuya", "x": 0.75, "y": 2 },
+        { "name": "ishida", "x": 2.25, "y": 2 },
+        { "name": "yamamoto", "x": 3.75, "y": 2 },
+        { "name": "minami", "x": 5.25, "y": 2 },
+        { "name": "kato", "x": 6.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "ねえ 帰っておいでよ〜",
+      "members": [
+        { "name": "shinzawa", "x": -3, "y": 4 },
+        { "name": "kojima", "x": -1, "y": 4 },
+        { "name": "yamamoto", "x": 1, "y": 4 },
+        { "name": "kato", "x": 3, "y": 4 },
+
+        { "name": "hirayama", "x": -2, "y": 3 },
+        { "name": "shibuya", "x": 0, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "ishida", "x": 1, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
