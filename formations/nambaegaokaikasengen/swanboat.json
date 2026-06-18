@@ -1,0 +1,186 @@
+{
+  "title": "スワンボート",
+
+  "memo": [
+    "① 坂田/佐月 (瓶野浅尾)、黒田/隅野 (田中/早川)",
+    "李始燕芳野 (坂田/佐月)、瓶野/浅尾 (黒田/隅野)",
+    "坂田瓶野浅尾佐月、田中黒田李始燕芳野隅野早川"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "スワンボート(スワンボート) 湖のその上(スイ～スイ～) 〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+        { "name": "hayakawa", "x": 6, "y": 2 },
+
+        { "name": "kuroda", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "sumino", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "スワンボート(スワンボート) 少し疲れたけど(Go Go) 〜",
+      "members": [
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "siyeon", "x": -1, "y": 3 },
+        { "name": "yoshino", "x": 1, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "sumino", "x": 2, "y": 2 },
+
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "sakata", "x": -4, "y": 1 },
+        { "name": "satsuki", "x": 4, "y": 1 },
+        { "name": "yoshino", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "天国まで 漕ぎ続けて〜",
+      "members": [
+        { "name": "siyeon", "x": -3.5, "y": 3 },
+        { "name": "sumino", "x": 0, "y": 3 },
+        { "name": "yoshino", "x": 3.5, "y": 3 },
+
+        { "name": "kuroda", "x": -4.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "asao", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "satsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -3.5, "y": 3 },
+        { "name": "sumino", "x": 0, "y": 3 },
+        { "name": "yoshino", "x": 3.5, "y": 3 },
+
+        { "name": "kuroda", "x": -4.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "asao", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "satsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "スワンボート(スワンボート) スピードはゆっくり(さざなみ) 〜",
+      "members": [
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "siyeon", "x": -1, "y": 3 },
+        { "name": "yoshino", "x": 1, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "sumino", "x": 2, "y": 2 },
+
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "sakata", "x": -4, "y": 1 },
+        { "name": "satsuki", "x": 4, "y": 1 },
+        { "name": "yoshino", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "スワンボート(スワンボート) どっちがペダル漕ぐ？(スパート) 〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+        { "name": "hayakawa", "x": 6, "y": 2 },
+
+        { "name": "kuroda", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "sumino", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "スワンボート(スワンボート) どっちがペダル漕ぐ？(スパート) 〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "tanaka", "x": -6, "y": 2 },
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+        { "name": "hayakawa", "x": 6, "y": 2 },
+
+        { "name": "kuroda", "x": -4, "y": 1 },
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "sumino", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "ロマンティックな スワンボート〜",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 5 },
+        { "name": "hayakawa", "x": 5, "y": 5 },
+
+        { "name": "siyeon", "x": -4, "y": 4 },
+        { "name": "yoshino", "x": 4, "y": 4 },
+
+        { "name": "kuroda", "x": -3, "y": 3 },
+        { "name": "sumino", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 5 },
+        { "name": "hayakawa", "x": 5, "y": 5 },
+
+        { "name": "siyeon", "x": -4, "y": 4 },
+        { "name": "yoshino", "x": 4, "y": 4 },
+
+        { "name": "kuroda", "x": -3, "y": 3 },
+        { "name": "sumino", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
