@@ -1,0 +1,262 @@
+{
+  "title": "人魚のバカンス",
+
+  "memo": [
+    "① 山本、新澤平山、南/泉",
+    "② 南泉、新澤、山本/平山",
+    "ラストサビ前 新澤平山山本、泉/南"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": 0, "y": 5 },
+        { "name": "izumi", "x": 0, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "minami", "x": 0, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": 0, "y": 3 },
+
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+
+        { "name": "minami", "x": -2, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "人魚のバカンスみたいに〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "陸まで上がって 日光浴して〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "yamamoto", "x": 0, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "人魚のバカンスみたいに〜",
+      "members": [
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "yamamoto", "x": 2, "y": 3 },
+
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "minami", "x": 1, "y": 2 },
+
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "誰からも忘れられた ひとときを過ごしたい〜",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "shinzawa", "x": -1, "y": 2 },
+        { "name": "yamamoto", "x": 1, "y": 2 },
+
+        { "name": "izumi", "x": -2, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "shinzawa", "x": -1, "y": 2 },
+        { "name": "yamamoto", "x": 1, "y": 2 },
+
+        { "name": "izumi", "x": -2, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 5 },
+        { "name": "yamamoto", "x": 0, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 0, "y": 2 },
+        { "name": "minami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "島の上空 ヘリコプターが飛んでる〜",
+      "members": [
+        { "name": "hirayama", "x": 2.5, "y": 5 },
+        { "name": "yamamoto", "x": 1.25, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "izumi", "x": -1.25, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "必ず帰るよ 約束〜",
+      "members": [
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "minami", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "夕陽が沈めば 海の底まで〜",
+      "members": [
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 0, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "必ず帰るよ 約束〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "minami", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "時間をゆっくり 過ごせたなら〜",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 2, "y": 3 },
+
+        { "name": "minami", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "頭の中がいっぱいになると ここへ〜",
+      "members": [
+        { "name": "shinzawa", "x": -2, "y": 5 },
+        { "name": "izumi", "x": -1, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 3 },
+        { "name": "minami", "x": 1, "y": 2 },
+        { "name": "yamamoto", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "人魚のバカンスみたいに〜",
+      "members": [
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "hirayama", "x": 2, "y": 3 },
+
+        { "name": "yamamoto", "x": 0, "y": 2 },
+
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "陸まで上がって 日光浴して〜",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "izumi", "x": -2, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 },
+        { "name": "hirayama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "ひとときを過ごしたい (Cool down! 〜)",
+      "members": [
+        { "name": "izumi", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "shinzawa", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -2, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": 0, "y": 5 },
+        { "name": "izumi", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 3 },
+        { "name": "shinzawa", "x": 0, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
