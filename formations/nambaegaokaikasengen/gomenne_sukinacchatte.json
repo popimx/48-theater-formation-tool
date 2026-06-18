@@ -1,0 +1,542 @@
+{
+  "title": "ごめんね、君を好きになっちゃって…",
+
+  "memo": [
+    "① 坂田、佐月瓶野、黒田/浅尾、田中隅野",
+    "芳野早川李始燕、黒田佐月坂田瓶野浅尾",
+    "② 隅野田中、芳野早川李始燕、佐月坂田瓶野",
+    "黒田/浅尾"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "ごめんね 君を好きになっちゃって (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "気を遣わないで (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "悪いのは〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ④",
+      "lyrics": "僕だ〜",
+      "members": [
+        { "name": "hayakawa", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "sumino", "x": 2, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -6, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "siyeon", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "sumino", "x": 2, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -6, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "siyeon", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "みんなの前ではっきりと言ってくれよ〜",
+      "members": [
+        { "name": "kuroda", "x": -6, "y": 3 },
+        { "name": "yoshino", "x": -4.5, "y": 3 },
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": -1.5, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "asao", "x": 1.5, "y": 3 },
+        { "name": "sumino", "x": 3, "y": 3 },
+        { "name": "tanaka", "x": 4.5, "y": 3 },
+        { "name": "siyeon", "x": 6, "y": 3 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "ごめんね 君を好きになっちゃって (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "身の程知らずな (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "あぁ 君を好きになっちゃって (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "でも楽しかった (ベイビー ベイビー)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ⑤",
+      "lyrics": "泣きたいくらい〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ⑥",
+      "lyrics": "好きだ〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "他の誰かに気づかれたくなかったから〜",
+      "members": [
+        { "name": "yoshino", "x": -7, "y": 5 },
+        { "name": "asao", "x": 7, "y": 5 },
+
+        { "name": "kuroda", "x": -5.5, "y": 4 },
+        { "name": "siyeon", "x": 5.5, "y": 4 },
+
+        { "name": "hayakawa", "x": -4, "y": 3 },
+        { "name": "kameno", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2.5, "y": 2 },
+        { "name": "sakata", "x": 2.5, "y": 2 },
+
+        { "name": "sumino", "x": -1, "y": 1 },
+        { "name": "tanaka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "でも 君はいつだって やさしくしてくれたよね〜",
+      "members": [
+        { "name": "kuroda", "x": -5, "y": 3 },
+        { "name": "yoshino", "x": -2.5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "siyeon", "x": 2.5, "y": 3 },
+        { "name": "asao", "x": 5, "y": 3 },
+
+        { "name": "sumino", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "今でも 僕の愛は変わらない (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "出会えただけで (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "あぁ 僕の愛は変わらない (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "叶わなくたって (ベイビー ベイビー)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ⑤",
+      "lyrics": "大好きだった〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ⑥",
+      "lyrics": "君だ〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 5 },
+        { "name": "siyeon", "x": 3, "y": 5 },
+
+        { "name": "kuroda", "x": -1, "y": 4 },
+        { "name": "sumino", "x": 1, "y": 4 },
+
+        { "name": "hayakawa", "x": -4, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "tanaka", "x": 4, "y": 3 },
+
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "asao", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "遠くで見ていた (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "あぁ 君を好きになっちゃって (ドゥイ ドゥイ ドゥイ)",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "ずっと永遠に… (ベイビー ベイビー)",
+      "members": [
+        { "name": "kuroda", "x": -5.25, "y": 2 },
+        { "name": "satsuki", "x": -2.25, "y": 2 },
+        { "name": "sakata", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+        { "name": "asao", "x": 6.75, "y": 2 },
+
+        { "name": "yoshino", "x": -6.75, "y": 1 },
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "sumino", "x": -0.75, "y": 1 },
+        { "name": "tanaka", "x": 2.25, "y": 1 },
+        { "name": "siyeon", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "泣きたいくらい〜",
+      "members": [
+        { "name": "yoshino", "x": -6.75, "y": 2 },
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "tanaka", "x": 2.25, "y": 2 },
+        { "name": "siyeon", "x": 5.25, "y": 2 },
+
+        { "name": "kuroda", "x": -5.25, "y": 1 },
+        { "name": "satsuki", "x": -2.25, "y": 1 },
+        { "name": "sakata", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ⑤",
+      "lyrics": "好きだ〜",
+      "members": [
+        { "name": "kuroda", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "sumino", "x": 2, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "hayakawa", "x": -6, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "siyeon", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -2, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "sumino", "x": 2, "y": 3 },
+
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "hayakawa", "x": -6, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "siyeon", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -4.5, "y": 3 },
+        { "name": "hayakawa", "x": -1.5, "y": 3 },
+        { "name": "tanaka", "x": 1.5, "y": 3 },
+        { "name": "siyeon", "x": 4.5, "y": 3 },
+
+        { "name": "asao", "x": -2.25, "y": 2 },
+        { "name": "sumino", "x": -0.75, "y": 2 },
+        { "name": "kuroda", "x": 2.25, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "sakata", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
