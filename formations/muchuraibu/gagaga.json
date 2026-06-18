@@ -1,0 +1,161 @@
+{
+  "title": "GAGAGA",
+
+  "memo": [
+    "① 渋谷、山本小嶋、新澤/加藤、貞野/平山",
+    "南石田泉",
+    "② 貞野平山、南石田泉、山本渋谷小嶋、加藤/新澤",
+    "貞野/平山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "izumi", "x": 3, "y": 3 },
+
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+        { "name": "kato", "x": 4, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "shibuya", "x": 0, "y": 1 },
+        { "name": "kojima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "言葉を交わさずに GAGAGA いきなりの GAGAGA〜",
+      "members": [
+        { "name": "sadano", "x": -5.5, "y": 4 },
+        { "name": "minami", "x": -2.5, "y": 4 },
+        { "name": "izumi", "x": 2.5, "y": 4 },
+        { "name": "hirayama", "x": 5.5, "y": 4 },
+
+        { "name": "shinzawa", "x": -4, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "kato", "x": 4, "y": 3 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "女はいつだって 奇跡を求めてる〜",
+      "members": [
+        { "name": "sadano", "x": -3, "y": 4 },
+        { "name": "minami", "x": -1, "y": 4 },
+        { "name": "izumi", "x": 1, "y": 4 },
+        { "name": "hirayama", "x": 3, "y": 4 },
+
+        { "name": "shinzawa", "x": -2, "y": 3 },
+        { "name": "ishida", "x": 0, "y": 3 },
+        { "name": "kato", "x": 2, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "キスのその温度で 溶けてゆくモラル〜",
+      "members": [
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "shibuya", "x": 0, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+
+        { "name": "kato", "x": -4.5, "y": 1 },
+        { "name": "sadano", "x": -3, "y": 1 },
+        { "name": "minami", "x": -1.5, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 1.5, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "shinzawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -4.5, "y": 2 },
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "shibuya", "x": 0, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+        { "name": "shinzawa", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": -6, "y": 1 },
+        { "name": "minami", "x": -3, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 },
+        { "name": "hirayama", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -4.5, "y": 2 },
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "shibuya", "x": 0, "y": 2 },
+        { "name": "kojima", "x": 1.5, "y": 2 },
+        { "name": "shinzawa", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": -6, "y": 1 },
+        { "name": "minami", "x": -3, "y": 1 },
+        { "name": "ishida", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 },
+        { "name": "hirayama", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "いきなりの GAGAGA 女はいつだって 奇跡を求めてる〜",
+      "members": [
+        { "name": "minami", "x": -6.75, "y": 1 },
+        { "name": "sadano", "x": -5.25, "y": 1 },
+        { "name": "kato", "x": -3.75, "y": 1 },
+        { "name": "yamamoto", "x": -2.25, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+
+        { "name": "kojima", "x": 0.75, "y": 1 },
+        { "name": "shinzawa", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 },
+        { "name": "ishida", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sadano", "x": -5.25, "y": 2 },
+        { "name": "yamamoto", "x": -2.25, "y": 2 },
+        { "name": "kojima", "x": 0.75, "y": 2 },
+        { "name": "hirayama", "x": 3.75, "y": 2 },
+        { "name": "ishida", "x": 6.75, "y": 2 },
+
+        { "name": "minami", "x": -6.75, "y": 1 },
+        { "name": "kato", "x": -3.75, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "shinzawa", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
