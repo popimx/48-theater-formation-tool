@@ -1,0 +1,223 @@
+{
+  "title": "1994年の雷鳴",
+
+  "memo": [
+    "① 渋谷小嶋、貞野加藤、新澤山本、平山石田",
+    "② 泉南、小嶋渋谷、貞野/加藤、新澤山本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -1.5, "y": 5 },
+        { "name": "minami", "x": 1.5, "y": 5 },
+
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "ishida", "x": 3, "y": 4 },
+
+        { "name": "sadano", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "kato", "x": 2, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "シャツが汗ばんで 息苦しくなる〜",
+      "members": [
+        { "name": "hirayama", "x": -5, "y": 5 },
+        { "name": "ishida", "x": 5, "y": 5 },
+
+        { "name": "izumi", "x": -4, "y": 4 },
+        { "name": "minami", "x": 4, "y": 4 },
+
+        { "name": "kato", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 3, "y": 3 },
+
+        { "name": "shibuya", "x": -2, "y": 2 },
+        { "name": "kojima", "x": 2, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "yamamoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "2人の若さは不器用で 見つめ合うことさえできなくて〜",
+      "members": [
+        { "name": "izumi", "x": -6.75, "y": 3 },
+        { "name": "hirayama", "x": -2.25, "y": 3 },
+        { "name": "ishida", "x": 2.25, "y": 3 },
+        { "name": "minami", "x": 6.75, "y": 3 },
+
+        { "name": "shinzawa", "x": -5.25, "y": 2 },
+        { "name": "kojima", "x": 0.75, "y": 2 },
+        { "name": "yamamoto", "x": 5.25, "y": 2 },
+
+        { "name": "kato", "x": -3.75, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "sadano", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "胸の奥のその片隅に 気づかれないように隠してた〜",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 4 },
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "ishida", "x": 1.5, "y": 4 },
+        { "name": "minami", "x": 4, "y": 4 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "yamamoto", "x": 2.5, "y": 3 },
+
+        { "name": "kato", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "2人の若さは不器用で 見つめ合うことさえできなくて〜",
+      "members": [
+        { "name": "minami", "x": -3.75, "y": 3 },
+        { "name": "sadano", "x": -0.75, "y": 3 },
+        { "name": "izumi", "x": 3.75, "y": 3 },
+
+        { "name": "kojima", "x": -5.25, "y": 2 },
+        { "name": "kato", "x": 0.75, "y": 2 },
+        { "name": "shibuya", "x": 5.25, "y": 2 },
+
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "shinzawa", "x": -2.25, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "僕はそっと耳を塞いで 大人の足音 拒否したんだ〜",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 3 },
+        { "name": "shinzawa", "x": -2.25, "y": 3 },
+        { "name": "yamamoto", "x": 2.25, "y": 3 },
+        { "name": "hirayama", "x": 6.75, "y": 3 },
+
+        { "name": "minami", "x": -3.75, "y": 2 },
+        { "name": "sadano", "x": -0.75, "y": 2 },
+        { "name": "izumi", "x": 3.75, "y": 2 },
+
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "kato", "x": 0.75, "y": 1 },
+        { "name": "shibuya", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "吐き出せない何かにいじけてた〜",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "minami", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -2.25, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "kato", "x": 0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 3.75, "y": 1 },
+        { "name": "shibuya", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "ishida", "x": -6.75, "y": 1 },
+        { "name": "kojima", "x": -5.25, "y": 1 },
+        { "name": "minami", "x": -3.75, "y": 1 },
+        { "name": "shinzawa", "x": -2.25, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "kato", "x": 0.75, "y": 1 },
+        { "name": "yamamoto", "x": 2.25, "y": 1 },
+        { "name": "izumi", "x": 3.75, "y": 1 },
+        { "name": "shibuya", "x": 5.25, "y": 1 },
+        { "name": "hirayama", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -4, "y": 4 },
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "ishida", "x": 1.5, "y": 4 },
+        { "name": "minami", "x": 4, "y": 4 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 3 },
+        { "name": "sadano", "x": 0, "y": 3 },
+        { "name": "yamamoto", "x": 2.5, "y": 3 },
+
+        { "name": "kato", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "まるで神に指を差されて 見えない愛しさに怯えてた〜",
+      "members": [
+        { "name": "izumi", "x": -6.75, "y": 3 },
+        { "name": "hirayama", "x": -2.25, "y": 3 },
+        { "name": "ishida", "x": 2.25, "y": 3 },
+        { "name": "minami", "x": 6.75, "y": 3 },
+
+        { "name": "shinzawa", "x": -5.25, "y": 2 },
+        { "name": "kojima", "x": 0.75, "y": 2 },
+        { "name": "yamamoto", "x": 5.25, "y": 2 },
+
+        { "name": "kato", "x": -3.75, "y": 1 },
+        { "name": "shibuya", "x": -0.75, "y": 1 },
+        { "name": "sadano", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -1.5, "y": 5 },
+        { "name": "minami", "x": 1.5, "y": 5 },
+
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "ishida", "x": 3, "y": 4 },
+
+        { "name": "sadano", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 0, "y": 3 },
+        { "name": "kato", "x": 2, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "kojima", "x": 1, "y": 2 },
+
+        { "name": "shibuya", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
