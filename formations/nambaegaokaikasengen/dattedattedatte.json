@@ -1,0 +1,133 @@
+{
+  "title": "だってだってだって",
+
+  "memo": [
+    "① 坂田佐月、浅尾/瓶野、隅野黒田、田中/早川",
+    "李始燕芳野、坂田佐月、浅尾隅野瓶野黒田",
+    "ラストサビ前 坂田/佐月、浅尾隅野瓶野黒田",
+    "李始燕田中/早川芳野",
+    "ラストサビ 坂田/佐月、浅尾/瓶野、隅野/黒田",
+    "李始燕田中早川芳野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "だってだってだってだって だってしょうがないでしょ？〜",
+      "members": [
+        { "name": "siyeon", "x": -4, "y": 4 },
+        { "name": "sumino", "x": 0, "y": 4 },
+        { "name": "yoshino", "x": 4, "y": 4 },
+
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "asao", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 0, "y": 2 },
+        { "name": "kuroda", "x": 2, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "だってだってだってだって ドキドキしちゃったんだもん〜",
+      "members": [
+        { "name": "siyeon", "x": -5.5, "y": 4 },
+        { "name": "sumino", "x": 0, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "hayakawa", "x": 4, "y": 3 },
+
+        { "name": "asao", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 0, "y": 2 },
+        { "name": "kuroda", "x": 2.5, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "なんでなんでなんでなんで いつもこうなっちゃうの？〜",
+      "members": [
+        { "name": "siyeon", "x": -5.5, "y": 4 },
+        { "name": "sumino", "x": 0, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "hayakawa", "x": 4, "y": 3 },
+
+        { "name": "asao", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 0, "y": 2 },
+        { "name": "kuroda", "x": 2.5, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "siyeon", "x": -6, "y": 4 },
+        { "name": "yoshino", "x": 6, "y": 4 },
+
+        { "name": "tanaka", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 5, "y": 3 },
+
+        { "name": "asao", "x": -4, "y": 2 },
+        { "name": "sumino", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "sakata", "x": -3, "y": 1 },
+        { "name": "satsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "なんでなんでなんでなんで いつもこうなっちゃうの？〜",
+      "members": [
+        { "name": "siyeon", "x": -5.5, "y": 4 },
+        { "name": "sumino", "x": 0, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "hayakawa", "x": 4, "y": 3 },
+
+        { "name": "asao", "x": -2.5, "y": 2 },
+        { "name": "kameno", "x": 0, "y": 2 },
+        { "name": "kuroda", "x": 2.5, "y": 2 },
+
+        { "name": "sakata", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "なんでなんでなんでなんで 素直になれないのかな〜",
+      "members": [
+        { "name": "siyeon", "x": -5, "y": 3 },
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+        { "name": "yoshino", "x": 5, "y": 3 },
+
+        { "name": "asao", "x": -4, "y": 2 },
+        { "name": "sumino", "x": -1, "y": 2 },
+        { "name": "kameno", "x": 1, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "sakata", "x": -2.5, "y": 1 },
+        { "name": "satsuki", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
