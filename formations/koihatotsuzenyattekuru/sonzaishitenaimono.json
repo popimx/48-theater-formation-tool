@@ -1,0 +1,158 @@
+{
+  "title": "存在してないもの",
+  
+  "memo": [
+    "① 川上梅山上西、前田/安部/出口、本郷塩月、堀原"
+  ],
+  
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hongo", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3.5, "y": 3 },
+
+        { "name": "maeda", "x": -4.5, "y": 2 },
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "deguchi", "x": 1.5, "y": 2 },
+        { "name": "shiotsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 3, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "1番Aメロ",
+      "lyrics": "窓にぶら下がる 気弱な月を〜",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hongo", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3.5, "y": 3 },
+
+        { "name": "maeda", "x": -4.5, "y": 2 },
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "deguchi", "x": 1.5, "y": 2 },
+        { "name": "shiotsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 3, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "1番Bメロ",
+      "lyrics": "そう 君は 薄れ消えて行く残像〜",
+      "members": [
+        { "name": "hongo", "x": -1, "y": 5 },
+        { "name": "shiotsuki", "x": 1, "y": 5 },
+
+        { "name": "hori", "x": -1.75, "y": 4 },
+        { "name": "hara", "x": 1.75, "y": 4 },
+
+        { "name": "kawakami", "x": -2.5, "y": 3 },
+        { "name": "jonishi", "x": 2.5, "y": 3 },
+
+        { "name": "umeyama", "x": -3.25, "y": 2 },
+        { "name": "abe", "x": 3.25, "y": 2 },
+
+        { "name": "maeda", "x": -4, "y": 1 },
+        { "name": "deguchi", "x": 4, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hongo", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3.5, "y": 3 },
+
+        { "name": "maeda", "x": -4.5, "y": 2 },
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "deguchi", "x": 1.5, "y": 2 },
+        { "name": "shiotsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 3, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "記憶の空白〜",
+      "members": [
+        { "name": "hori", "x": -6.75, "y": 2 },
+        { "name": "maeda", "x": -5.25, "y": 2 },
+        { "name": "hongo", "x": -3.75, "y": 2 },
+        { "name": "kawakami", "x": -2.25, "y": 2 },
+        { "name": "abe", "x": -0.75, "y": 2 },
+        { "name": "umeyama", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 2.25, "y": 2 },
+        { "name": "jonishi", "x": 3.75, "y": 2 },
+        { "name": "shiotsuki", "x": 5.25, "y": 2 },
+        { "name": "hara", "x": 6.75, "y": 2 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "存在してない 愛し合ったことも〜",
+      "members": [
+        { "name": "hori", "x": -6.75, "y": 2 },
+        { "name": "maeda", "x": -5.25, "y": 2 },
+        { "name": "hongo", "x": -3.75, "y": 2 },
+        { "name": "kawakami", "x": -2.25, "y": 2 },
+        { "name": "abe", "x": -0.75, "y": 2 },
+        { "name": "umeyama", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 2.25, "y": 2 },
+        { "name": "jonishi", "x": 3.75, "y": 2 },
+        { "name": "shiotsuki", "x": 5.25, "y": 2 },
+        { "name": "hara", "x": 6.75, "y": 2 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "曲がればいい 運命〜",
+      "members": [
+        { "name": "hori", "x": -6.75, "y": 2 },
+        { "name": "hongo", "x": -3.75, "y": 2 },
+        { "name": "abe", "x": -0.75, "y": 2 },
+        { "name": "deguchi", "x": 2.25, "y": 2 },
+        { "name": "shiotsuki", "x": 5.25, "y": 2 },
+
+        { "name": "maeda", "x": -5.25, "y": 1 },
+        { "name": "kawakami", "x": -2.25, "y": 1 },
+        { "name": "umeyama", "x": 0.75, "y": 1 },
+        { "name": "jonishi", "x": 3.75, "y": 1 },
+        { "name": "hara", "x": 6.75, "y": 1 }
+      ]
+    },
+    
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hongo", "x": 0, "y": 3 },
+        { "name": "hara", "x": 3.5, "y": 3 },
+
+        { "name": "maeda", "x": -4.5, "y": 2 },
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "deguchi", "x": 1.5, "y": 2 },
+        { "name": "shiotsuki", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
