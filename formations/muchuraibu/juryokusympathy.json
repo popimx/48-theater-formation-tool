@@ -85,28 +85,8 @@
     },
 
     {
-      "title": "2番サビ後",
-      "lyrics": "",
-      "members": [
-        { "name": "izumi", "x": -1.5, "y": 4 },
-        { "name": "minami", "x": 1.5, "y": 4 },
-
-        { "name": "hirayama", "x": -3, "y": 3 },
-        { "name": "shinzawa", "x": 0, "y": 3 },
-        { "name": "ishida", "x": 3, "y": 3 },
-
-        { "name": "yamamoto", "x": -1, "y": 2 },
-        { "name": "sadano", "x": 1, "y": 2 },
-
-        { "name": "kato", "x": -2, "y": 1 },
-        { "name": "shibuya", "x": 0, "y": 1 },
-        { "name": "kojima", "x": 2, "y": 1 }
-      ]
-    },
-
-    {
       "title": "ラストサビ ①",
-      "lyrics": "君に重力シンパシー 何も話せなくても",
+      "lyrics": "君に重力シンパシー 何も話せなくても〜",
       "members": [
         { "name": "izumi", "x": -5.5, "y": 2 },
         { "name": "hirayama", "x": -2.5, "y": 2 },
@@ -124,7 +104,7 @@
 
     {
       "title": "ラストサビ ②",
-      "lyrics": "君に重力シンパシー いつか 同じ重さで",
+      "lyrics": "君に重力シンパシー いつか 同じ重さで〜",
       "members": [
         { "name": "izumi", "x": -4.5, "y": 3 },
         { "name": "ishida", "x": 0, "y": 3 },
