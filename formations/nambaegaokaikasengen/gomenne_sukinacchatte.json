@@ -518,25 +518,6 @@
         { "name": "sakata", "x": 0, "y": 1 },
         { "name": "siyeon", "x": 6, "y": 1 }
       ]
-    },
-
-    {
-      "title": "ラスト",
-      "lyrics": "",
-      "members": [
-        { "name": "yoshino", "x": -4.5, "y": 3 },
-        { "name": "hayakawa", "x": -1.5, "y": 3 },
-        { "name": "tanaka", "x": 1.5, "y": 3 },
-        { "name": "siyeon", "x": 4.5, "y": 3 },
-
-        { "name": "asao", "x": -2.25, "y": 2 },
-        { "name": "sumino", "x": -0.75, "y": 2 },
-        { "name": "kuroda", "x": 2.25, "y": 2 },
-
-        { "name": "satsuki", "x": -3, "y": 1 },
-        { "name": "sakata", "x": 0, "y": 1 },
-        { "name": "kameno", "x": 3, "y": 1 }
-      ]
     }
   ]
 }
