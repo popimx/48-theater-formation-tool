@@ -1,0 +1,231 @@
+{
+  "title": "Generation Change",
+
+  "memo": [
+    "① 青原和芳賀板垣、田中青原優渋谷池田",
+    "古川二瓶西田、青原和芳賀板垣、田中青原優渋谷池田",
+    "② 渋谷青原優、池田田中、青原和芳賀板垣",
+    "古川二瓶西田",
+    "ラストサビ前 青原和芳賀板垣、青原優/渋谷",
+    "田中/池田、古川田中二瓶池田西田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -4, "y": 5 },
+        { "name": "nihei", "x": 0, "y": 5 },
+        { "name": "nishida", "x": 4, "y": 5 },
+
+        { "name": "yuka", "x": -2, "y": 4 },
+        { "name": "shibutani", "x": 2, "y": 4 },
+
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": 3, "y": 3 },
+
+        { "name": "waka", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+
+        { "name": "haga", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "僕が行かなくちゃ 誰が行くと言うんだよ〜",
+      "members": [
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "nihei", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -5.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "ikeda", "x": 5.5, "y": 2 },
+
+        { "name": "waka", "x": -4, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "放っておこう 何も動かない奴らは... 〜",
+      "members": [
+        { "name": "furukawa", "x": -4, "y": 4 },
+        { "name": "nihei", "x": 0, "y": 4 },
+        { "name": "nishida", "x": 4, "y": 4 },
+
+        { "name": "yuka", "x": -2, "y": 3 },
+        { "name": "shibutani", "x": 2, "y": 3 },
+
+        { "name": "tanaka", "x": -3, "y": 2 },
+        { "name": "haga", "x": 0, "y": 2 },
+        { "name": "ikeda", "x": 3, "y": 2 },
+
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "itagaki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "僕がやらなくちゃ 誰も本気になれない〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 1 },
+        { "name": "shibutani", "x": -5.25, "y": 1 },
+        { "name": "itagaki", "x": -3.75, "y": 1 },
+        { "name": "nishida", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "waka", "x": 0.75, "y": 1 },
+        { "name": "nihei", "x": 2.25, "y": 1 },
+        { "name": "ikeda", "x": 3.75, "y": 1 },
+        { "name": "yuka", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "置いて行こうか 未来 語れない奴らを〜",
+      "members": [
+        { "name": "itagaki", "x": -1, "y": 5 },
+        { "name": "haga", "x": 1, "y": 5 },
+
+        { "name": "nihei", "x": -2.5, "y": 4 },
+        { "name": "waka", "x": 2.5, "y": 4 },
+
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "yuka", "x": 4, "y": 3 },
+
+        { "name": "nishida", "x": -5.5, "y": 2 },
+        { "name": "tanaka", "x": 5.5, "y": 2 },
+
+        { "name": "shibutani", "x": -7, "y": 1 },
+        { "name": "furukawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "確信したんだ 世代交代の時〜",
+      "members": [
+        { "name": "shibutani", "x": -7, "y": 5 },
+        { "name": "furukawa", "x": 7, "y": 5 },
+
+        { "name": "nishida", "x": -5.5, "y": 4 },
+        { "name": "tanaka", "x": 5.5, "y": 4 },
+
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "yuka", "x": 4, "y": 3 },
+
+        { "name": "nihei", "x": -2.5, "y": 2 },
+        { "name": "waka", "x": 2.5, "y": 2 },
+
+        { "name": "itagaki", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -2, "y": 5 },
+        { "name": "shibutani", "x": 2, "y": 5 },
+
+        { "name": "waka", "x": -1, "y": 4 },
+        { "name": "itagaki", "x": 1, "y": 4 },
+
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "ikeda", "x": 1.5, "y": 2 },
+
+        { "name": "nihei", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "上を変えなくちゃ ずっと今のままだろう〜",
+      "members": [
+        { "name": "yuka", "x": -2, "y": 5 },
+        { "name": "shibutani", "x": 2, "y": 5 },
+
+        { "name": "waka", "x": -1, "y": 4 },
+        { "name": "itagaki", "x": 1, "y": 4 },
+
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "ikeda", "x": 1.5, "y": 2 },
+
+        { "name": "nihei", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "行かなくちゃ 誰が行くと言うんだよ〜",
+      "members": [
+        { "name": "furukawa", "x": -6, "y": 5 },
+        { "name": "nishida", "x": 6, "y": 5 },
+
+        { "name": "tanaka", "x": -4.5, "y": 4 },
+        { "name": "nihei", "x": 0, "y": 4 },
+        { "name": "ikeda", "x": 4.5, "y": 4 },
+
+        { "name": "yuka", "x": -3, "y": 3 },
+        { "name": "shibutani", "x": 3, "y": 3 },
+
+        { "name": "waka", "x": -1.5, "y": 2 },
+        { "name": "itagaki", "x": 1.5, "y": 2 },
+
+        { "name": "haga", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "放っておこう 何も動かない奴らは... 〜",
+      "members": [
+        { "name": "furukawa", "x": -3.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "nihei", "x": 0.5, "y": 2 },
+        { "name": "shibutani", "x": 2.5, "y": 2 },
+        { "name": "nishida", "x": 4.5, "y": 2 },
+
+        { "name": "tanaka", "x": -4.5, "y": 1 },
+        { "name": "waka", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": -0.5, "y": 1 },
+        { "name": "itagaki", "x": 1.5, "y": 1 },
+        { "name": "ikeda", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "新しい夜明けだ 世代交代させろ〜",
+      "members": [
+        { "name": "tanaka", "x": -6.75, "y": 1 },
+        { "name": "furukawa", "x": -5.25, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "yuka", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "nihei", "x": 0.75, "y": 1 },
+        { "name": "itagaki", "x": 2.25, "y": 1 },
+        { "name": "shibutani", "x": 3.75, "y": 1 },
+        { "name": "ikeda", "x": 5.25, "y": 1 },
+        { "name": "nishida", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
