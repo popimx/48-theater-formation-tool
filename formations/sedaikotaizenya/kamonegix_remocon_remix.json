@@ -1,0 +1,100 @@
+{
+  "title": "カモネギックス <Remo-Con REMIX>",
+
+  "memo": [
+    "① 田中青原和二瓶西田、渋谷芳賀、板垣青原優",
+    "古川池田",
+    "② 渋谷芳賀、板垣青原優、古川池田",
+    "田中青原和/西田二瓶"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -6, "y": 1 },
+        { "name": "shibutani", "x": -3, "y": 1 },
+        { "name": "nishida", "x": 0, "y": 1 },
+        { "name": "waka", "x": 3, "y": 1 },
+        { "name": "nihei", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -5, "y": 3 },
+        { "name": "ikeda", "x": 0, "y": 3 },
+        { "name": "yuka", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -6, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "nihei", "x": 2, "y": 2 },
+        { "name": "haga", "x": 6, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "waka", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "カモネギックス！You're so cool ! ロマンティックタイミング 狙われて〜",
+      "members": [
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": 3, "y": 3 },
+
+        { "name": "itagaki", "x": -5, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "haga", "x": 2, "y": 2 },
+        { "name": "yuka", "x": 5, "y": 2 },
+
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "nishida", "x": 1, "y": 1 },
+        { "name": "nihei", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "カモネギックス！… 〜",
+      "members": [
+        { "name": "shibutani", "x": -3, "y": 4 },
+        { "name": "furukawa", "x": -1, "y": 4 },
+        { "name": "nihei", "x": 1, "y": 4 },
+        { "name": "haga", "x": 3, "y": 4 },
+
+        { "name": "tanaka", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 0, "y": 3 },
+        { "name": "yuka", "x": 2, "y": 3 },
+
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "nishida", "x": 1, "y": 2 },
+
+        { "name": "waka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "カモネギックス！カモネギックス！カモネギックス！〜",
+      "members": [
+        { "name": "shibutani", "x": -6.75, "y": 1 },
+        { "name": "itagaki", "x": -5.25, "y": 1 },
+        { "name": "furukawa", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "waka", "x": -0.75, "y": 1 },
+
+        { "name": "nishida", "x": 0.75, "y": 1 },
+        { "name": "nihei", "x": 2.25, "y": 1 },
+        { "name": "ikeda", "x": 3.75, "y": 1 },
+        { "name": "yuka", "x": 5.25, "y": 1 },
+        { "name": "haga", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
