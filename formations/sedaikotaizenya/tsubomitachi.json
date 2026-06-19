@@ -1,0 +1,161 @@
+{
+  "title": "蕾たち",
+
+  "memo": [
+    "① 板垣芳賀/青原和青原優、池田渋谷田中二瓶",
+    "古川/西田、池田渋谷/田中二瓶",
+    "② 池田古川/西田二瓶、芳賀青原和",
+    "板垣/青原優、渋谷池田/二瓶田中"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "nihei", "x": 4, "y": 2 },
+
+        { "name": "furukawa", "x": -5, "y": 1 },
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 },
+        { "name": "nishida", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "あなたに咲かせて欲しい 大きな夢の蕾〜",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "nihei", "x": 4, "y": 2 },
+
+        { "name": "furukawa", "x": -5, "y": 1 },
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 },
+        { "name": "nishida", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "大地に根を張って待つから〜",
+      "members": [
+        { "name": "ikeda", "x": -3, "y": 3 },
+        { "name": "nihei", "x": 3, "y": 3 },
+
+        { "name": "furukawa", "x": -3, "y": 2 },
+        { "name": "shibutani", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+        { "name": "nishida", "x": 3, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "名前を覚えて欲しい 植物図鑑の中〜",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "furukawa", "x": -1, "y": 3 },
+        { "name": "nishida", "x": 1, "y": 3 },
+        { "name": "nihei", "x": 4, "y": 3 },
+
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "あなたに咲かせて欲しい 大きな夢の蕾〜",
+      "members": [
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "furukawa", "x": -1, "y": 3 },
+        { "name": "nishida", "x": 1, "y": 3 },
+        { "name": "nihei", "x": 4, "y": 3 },
+
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "大地に根を張って待つから〜",
+      "members": [
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "ikeda", "x": -3, "y": 2 },
+        { "name": "shibutani", "x": -1, "y": 2 },
+        { "name": "tanaka", "x": 1, "y": 2 },
+        { "name": "nihei", "x": 3, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "いつかください 太陽を…",
+      "members": [
+        { "name": "furukawa", "x": -5, "y": 3 },
+        { "name": "nishida", "x": 5, "y": 3 },
+
+        { "name": "ikeda", "x": -4, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "tanaka", "x": 2, "y": 2 },
+        { "name": "nihei", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -3, "y": 1 },
+        { "name": "haga", "x": -1, "y": 1 },
+        { "name": "waka", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "有名じゃないけど こういう花もあるって〜",
+      "members": [
+        { "name": "haga", "x": -6.75, "y": 1 },
+        { "name": "itagaki", "x": -5.25, "y": 1 },
+        { "name": "furukawa", "x": -3.75, "y": 1 },
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "shibutani", "x": -0.75, "y": 1 },
+
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "nihei", "x": 2.25, "y": 1 },
+        { "name": "nishida", "x": 3.75, "y": 1 },
+        { "name": "yuka", "x": 5.25, "y": 1 },
+        { "name": "waka", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
