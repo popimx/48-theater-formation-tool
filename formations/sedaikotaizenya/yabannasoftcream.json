@@ -1,0 +1,117 @@
+{
+  "title": "野蛮なソフトクリーム",
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "どこかでハグをして キスもしたい〜",
+      "members": [
+        { "name": "nihei", "x": -5.5, "y": 2 },
+        { "name": "shibutani", "x": -4.5, "y": 2 },
+        { "name": "tanaka", "x": -0.5, "y": 2 },
+        { "name": "ikeda", "x": 0.5, "y": 2 },
+        { "name": "nishida", "x": 4.5, "y": 2 },
+        { "name": "waka", "x": 5.5, "y": 2 },
+
+        { "name": "yuka", "x": -3, "y": 1 },
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "furukawa", "x": 2, "y": 1 },
+        { "name": "haga", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "※ 基本 立ち位置",
+      "members": [
+        { "name": "nihei", "x": -5, "y": 3 },
+        { "name": "tanaka", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 5, "y": 3 },
+
+        { "name": "shibutani", "x": -6, "y": 2 },
+        { "name": "ikeda", "x": -2, "y": 2 },
+        { "name": "furukawa", "x": 2, "y": 2 },
+        { "name": "waka", "x": 6, "y": 2 },
+
+        { "name": "itagaki", "x": -4, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "パーキングエリアにしゃがみこんで〜",
+      "members": [
+        { "name": "shibutani", "x": -2, "y": 4 },
+        { "name": "nihei", "x": 2, "y": 4 },
+
+        { "name": "ikeda", "x": -3, "y": 3 },
+        { "name": "waka", "x": -1, "y": 3 },
+        { "name": "tanaka", "x": 1, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "itagaki", "x": -4, "y": 2 },
+        { "name": "furukawa", "x": 4, "y": 2 },
+
+        { "name": "yuka", "x": -5, "y": 1 },
+        { "name": "haga", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "今は やりたいこと何もやれないけど〜",
+      "members": [
+        { "name": "yuka", "x": -5, "y": 3 },
+        { "name": "ikeda", "x": -3, "y": 3 },
+        { "name": "waka", "x": -1, "y": 3 },
+        { "name": "tanaka", "x": 1, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+        { "name": "haga", "x": 5, "y": 3 },
+
+        { "name": "itagaki", "x": -4, "y": 2 },
+        { "name": "shibutani", "x": -2, "y": 2 },
+        { "name": "nihei", "x": 2, "y": 2 },
+        { "name": "furukawa", "x": 4, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "ソフトクリーム 舐めようよ カッコつけたって味わえない〜",
+      "members": [
+        { "name": "shibutani", "x": -6.75, "y": 1 },
+        { "name": "nihei", "x": -5.25, "y": 1 },
+        { "name": "tanaka", "x": -3.75, "y": 1 },
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "itagaki", "x": -0.75, "y": 1 },
+
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "furukawa", "x": 2.25, "y": 1 },
+        { "name": "haga", "x": 3.75, "y": 1 },
+        { "name": "nishida", "x": 5.25, "y": 1 },
+        { "name": "waka", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nihei", "x": -4, "y": 3 },
+        { "name": "tanaka", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 4, "y": 3 },
+
+        { "name": "shibutani", "x": -3, "y": 2 },
+        { "name": "ikeda", "x": -1, "y": 2 },
+        { "name": "furukawa", "x": 1, "y": 2 },
+        { "name": "waka", "x": 3, "y": 2 },
+
+        { "name": "itagaki", "x": -2, "y": 1 },
+        { "name": "yuka", "x": 0, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
