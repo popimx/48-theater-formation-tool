@@ -1,0 +1,298 @@
+{
+  "title": "不毛の土地を満開に...",
+
+  "memo": [
+    "① 青原和芳賀 (古川)、青原優/板垣 (西田)",
+    "田中/渋谷、二瓶/池田 (青原和青原優)",
+    "② 田中渋谷 (池田)、西田/古川 (二瓶)",
+    "青原和/芳賀、青原優板垣 (田中/渋谷)",
+    "ラストサビ前 青原和/芳賀、青原優板垣",
+    "田中/渋谷、二瓶/池田、西田/古川",
+    "ラストサビ 青原和芳賀、青原優/板垣、田中/渋谷",
+    "二瓶/池田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "N！M！B！ Here we are〜",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 1 },
+        { "name": "nihei", "x": -5.25, "y": 1 },
+        { "name": "tanaka", "x": -3.75, "y": 1 },
+        { "name": "yuka", "x": -2.25, "y": 1 },
+        { "name": "waka", "x": -0.75, "y": 1 },
+        { "name": "haga", "x": 0.75, "y": 1 },
+        { "name": "itagaki", "x": 2.25, "y": 1 },
+        { "name": "shibutani", "x": 3.75, "y": 1 },
+        { "name": "ikeda", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "ここには花は咲かない ずっと言われ続けて来た〜",
+      "members": [
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+
+        { "name": "nihei", "x": -5, "y": 2 },
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "itagaki", "x": 2, "y": 2 },
+        { "name": "ikeda", "x": 5, "y": 2 },
+
+        { "name": "nishida", "x": -6, "y": 1 },
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 },
+        { "name": "furukawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "水や光を与えても 花びらを見ることはない〜",
+      "members": [
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+
+        { "name": "nihei", "x": -5, "y": 2 },
+        { "name": "waka", "x": -1, "y": 2 },
+        { "name": "haga", "x": 1, "y": 2 },
+        { "name": "ikeda", "x": 5, "y": 2 },
+
+        { "name": "nishida", "x": -6, "y": 1 },
+        { "name": "yuka", "x": -2, "y": 1 },
+        { "name": "itagaki", "x": 2, "y": 1 },
+        { "name": "furukawa", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "shibutani", "x": 3, "y": 3 },
+
+        { "name": "nihei", "x": -4, "y": 2 },
+        { "name": "yuka", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+        { "name": "ikeda", "x": 4, "y": 2 },
+
+        { "name": "nishida", "x": -5, "y": 1 },
+        { "name": "waka", "x": -2, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 },
+        { "name": "furukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tanaka", "x": -3, "y": 3 },
+        { "name": "shibutani", "x": 3, "y": 3 },
+
+        { "name": "nihei", "x": -4, "y": 2 },
+        { "name": "yuka", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+        { "name": "ikeda", "x": 4, "y": 2 },
+
+        { "name": "nishida", "x": -5, "y": 1 },
+        { "name": "waka", "x": -2, "y": 1 },
+        { "name": "haga", "x": 2, "y": 1 },
+        { "name": "furukawa", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "咲かない花などない 子供の頃は思ってた〜",
+      "members": [
+        { "name": "yuka", "x": -4, "y": 3 },
+        { "name": "itagaki", "x": 4, "y": 3 },
+
+        { "name": "nihei", "x": -5, "y": 2 },
+        { "name": "nishida", "x": -2, "y": 2 },
+        { "name": "furukawa", "x": 2, "y": 2 },
+        { "name": "ikeda", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -6, "y": 1 },
+        { "name": "tanaka", "x": -1, "y": 1 },
+        { "name": "shibutani", "x": 1, "y": 1 },
+        { "name": "haga", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "だけど世界のどこかには 報われぬ花もあるのか？〜",
+      "members": [
+        { "name": "yuka", "x": -4, "y": 3 },
+        { "name": "itagaki", "x": 4, "y": 3 },
+
+        { "name": "nihei", "x": -5, "y": 2 },
+        { "name": "tanaka", "x": -1, "y": 2 },
+        { "name": "shibutani", "x": 1, "y": 2 },
+        { "name": "ikeda", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -6, "y": 1 },
+        { "name": "nishida", "x": -2, "y": 1 },
+        { "name": "furukawa", "x": 2, "y": 1 },
+        { "name": "haga", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "nihei", "x": -2, "y": 4 },
+        { "name": "ikeda", "x": 2, "y": 4 },
+
+        { "name": "waka", "x": -3.5, "y": 3 },
+        { "name": "yuka", "x": -1, "y": 3 },
+        { "name": "itagaki", "x": 1, "y": 3 },
+        { "name": "haga", "x": 3.5, "y": 3 },
+
+        { "name": "tanaka", "x": -5, "y": 2 },
+        { "name": "shibutani", "x": 5, "y": 2 },
+
+        { "name": "nishida", "x": -6.5, "y": 1 },
+        { "name": "furukawa", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "涙 涙拭え！ 泣いていてもしょうがない〜",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 3 },
+        { "name": "shibutani", "x": 5, "y": 3 },
+
+        { "name": "nishida", "x": -6, "y": 2 },
+        { "name": "nihei", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+        { "name": "furukawa", "x": 6, "y": 2 },
+
+        { "name": "waka", "x": -4, "y": 1 },
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "itagaki", "x": 1, "y": 1 },
+        { "name": "haga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "そこで立ち上がるんだ 雨や風なんて乗り越えろ！〜",
+      "members": [
+        { "name": "tanaka", "x": -5, "y": 3 },
+        { "name": "shibutani", "x": 5, "y": 3 },
+
+        { "name": "nishida", "x": -6, "y": 2 },
+        { "name": "waka", "x": -4, "y": 2 },
+        { "name": "yuka", "x": -1, "y": 2 },
+        { "name": "itagaki", "x": 1, "y": 2 },
+        { "name": "haga", "x": 4, "y": 2 },
+        { "name": "furukawa", "x": 6, "y": 2 },
+
+        { "name": "nihei", "x": -2, "y": 1 },
+        { "name": "ikeda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -5, "y": 4 },
+        { "name": "furukawa", "x": 5, "y": 4 },
+
+        { "name": "nihei", "x": -6, "y": 3 },
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+        { "name": "ikeda", "x": 6, "y": 3 },
+
+        { "name": "waka", "x": -2, "y": 2 },
+        { "name": "haga", "x": 2, "y": 2 },
+
+        { "name": "yuka", "x": -1, "y": 1 },
+        { "name": "itagaki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "汗を 汗を流せ！ 歌い踊り 額から〜",
+      "members": [
+        { "name": "tanaka", "x": -4, "y": 3 },
+        { "name": "nihei", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+        { "name": "shibutani", "x": 4, "y": 3 },
+
+        { "name": "nishida", "x": -5, "y": 2 },
+        { "name": "yuka", "x": -3, "y": 2 },
+        { "name": "itagaki", "x": 3, "y": 2 },
+        { "name": "furukawa", "x": 5, "y": 2 },
+
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "涙 涙拭え！ 泣いていてもしょうがない〜",
+      "members": [
+        { "name": "nishida", "x": -7, "y": 2 },
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "nihei", "x": -1, "y": 2 },
+        { "name": "ikeda", "x": 1, "y": 2 },
+        { "name": "shibutani", "x": 4, "y": 2 },
+        { "name": "furukawa", "x": 7, "y": 2 },
+
+        { "name": "yuka", "x": -5.5, "y": 1 },
+        { "name": "waka", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": 2.5, "y": 1 },
+        { "name": "itagaki", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "そこで立ち上がるんだ 雨や風なんて乗り越えろ！〜",
+      "members": [
+        { "name": "yuka", "x": -5.5, "y": 2 },
+        { "name": "waka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 5.5, "y": 2 },
+
+        { "name": "nishida", "x": -7, "y": 1 },
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "nihei", "x": -1, "y": 1 },
+        { "name": "ikeda", "x": 1, "y": 1 },
+        { "name": "shibutani", "x": 4, "y": 1 },
+        { "name": "furukawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "N！M！B！ Here we are〜",
+      "members": [
+        { "name": "yuka", "x": -5.5, "y": 2 },
+        { "name": "waka", "x": -2.5, "y": 2 },
+        { "name": "haga", "x": 2.5, "y": 2 },
+        { "name": "itagaki", "x": 5.5, "y": 2 },
+
+        { "name": "nishida", "x": -7, "y": 1 },
+        { "name": "tanaka", "x": -4, "y": 1 },
+        { "name": "nihei", "x": -1, "y": 1 },
+        { "name": "ikeda", "x": 1, "y": 1 },
+        { "name": "shibutani", "x": 4, "y": 1 },
+        { "name": "furukawa", "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
