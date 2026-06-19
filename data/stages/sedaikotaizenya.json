@@ -1,0 +1,106 @@
+{
+  "stage": "NMB48「世代交代前夜」",
+  "stageId": "sedaikotaizenya",
+
+  "members": [
+    {
+      "name": "青原優花",
+      "display": "優花",
+      "id": "yuka",
+      "image": "aobara_yuka_2023"
+    },
+    {
+      "name": "青原和花",
+      "display": "和花",
+      "id": "waka",
+      "image": "aobara_waka_2023"
+    },
+    {
+      "name": "池田典愛",
+      "display": "池田",
+      "id": "ikeda",
+      "image": "ikeda_hana_2023"
+    },
+    {
+      "name": "板垣心和",
+      "display": "板垣",
+      "id": "itagaki",
+      "image": "itagaki_koyori_2023"
+    },
+    {
+      "name": "渋谷紗雪",
+      "display": "渋谷",
+      "id": "shibutani",
+      "image": "shibutani_sayuki_2023"
+    },
+    {
+      "name": "田中美空",
+      "display": "田中",
+      "id": "tanaka",
+      "image": "tanaka_misora_2023"
+    },
+    {
+      "name": "西田帆花",
+      "display": "西田",
+      "id": "nishida",
+      "image": "nishida_honoka_2023"
+    },
+    {
+      "name": "二瓶愛美",
+      "display": "二瓶",
+      "id": "nihei",
+      "image": "nihei_manami_2023"
+    },
+    {
+      "name": "芳賀礼",
+      "display": "芳賀",
+      "id": "haga",
+      "image": "haga_rei_2023"
+    },
+    {
+      "name": "古川雪乃",
+      "display": "古川",
+      "id": "furukawa",
+      "image": "furukawa_yukino_2023"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "Generation Change",
+      "file": "generationchange.json"
+    },
+    {
+      "name": "命のへそ",
+      "file": "inochinoheso.json"
+    },
+    {
+      "name": "思春期のアドレナリン",
+      "file": "shishunkinoadrenalin.json"
+    },
+    {
+      "name": "黄金センター",
+      "file": "ougoncenter.json"
+    },
+    {
+      "name": "野蛮なソフトクリーム",
+      "file": "yabannasoftcream.json"
+    },
+    {
+      "name": "カモネギックス <Remo-Con REMIX>",
+      "file": "kamonegix_remocon_remix.json"
+    },
+    {
+      "name": "不毛の土地を満開に...",
+      "file": "fumounotochiwomankaini.json"
+    },
+    {
+      "name": "蕾たち",
+      "file": "tsubomitachi.json"
+    },
+    {
+      "name": "タンポポの決心",
+      "file": "tanpoponokesshin.json"
+    }
+  ]
+}
