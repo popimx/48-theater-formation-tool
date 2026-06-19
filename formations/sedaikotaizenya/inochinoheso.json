@@ -1,0 +1,107 @@
+{
+  "title": "命のへそ",
+
+  "memo": [
+    "① 青原和芳賀板垣、田中青原優渋谷池田、芳賀",
+    "古川/二瓶西田",
+    "② 田中二瓶池田渋谷、青原優古川/西田板垣、青原和",
+    "田中二瓶池田渋谷"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -2.5, "y": 3 },
+        { "name": "nihei", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 2.5, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "ikeda", "x": 4.5, "y": 2 },
+
+        { "name": "waka", "x": -3, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "※ 基本 立ち位置",
+      "members": [
+        { "name": "furukawa", "x": -3.5, "y": 2 },
+        { "name": "tanaka", "x": -1.5, "y": 2 },
+        { "name": "ikeda", "x": 0.5, "y": 2 },
+        { "name": "nihei", "x": 2.5, "y": 2 },
+        { "name": "nishida", "x": 4.5, "y": 2 },
+
+        { "name": "yuka", "x": -4.5, "y": 1 },
+        { "name": "waka", "x": -2.5, "y": 1 },
+        { "name": "haga", "x": -0.5, "y": 1 },
+        { "name": "itagaki", "x": 1.5, "y": 1 },
+        { "name": "shibutani", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "やりたいこと一つも 見つけられず俯く者よ〜",
+      "members": [
+        { "name": "waka", "x": -1.5, "y": 4 },
+        { "name": "haga", "x": 1.5, "y": 4 },
+
+        { "name": "furukawa", "x": -3, "y": 3 },
+        { "name": "nishida", "x": 3, "y": 3 },
+
+        { "name": "yuka", "x": -4.5, "y": 2 },
+        { "name": "tanaka", "x": -2, "y": 2 },
+        { "name": "shibutani", "x": 2, "y": 2 },
+        { "name": "itagaki", "x": 4.5, "y": 2 },
+
+        { "name": "nihei", "x": -1, "y": 1 },
+        { "name": "ikeda", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "命のへそ そっと目を閉じて 希望 ため込めよ〜",
+      "members": [
+        { "name": "waka", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "ikeda", "x": 4.5, "y": 2 },
+
+        { "name": "furukawa", "x": -3.5, "y": 1 },
+        { "name": "nihei", "x": 0, "y": 1 },
+        { "name": "nishida", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "大事なのは 正面 向くこと どんな風も受けるんだ〜",
+      "members": [
+        { "name": "furukawa", "x": -3.5, "y": 3 },
+        { "name": "nihei", "x": 0, "y": 3 },
+        { "name": "nishida", "x": 3.5, "y": 3 },
+
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "shibutani", "x": 1.5, "y": 2 },
+        { "name": "ikeda", "x": 4.5, "y": 2 },
+
+        { "name": "waka", "x": -3, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
