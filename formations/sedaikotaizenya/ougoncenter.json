@@ -1,0 +1,183 @@
+{
+  "title": "黄金センター",
+
+  "memo": [
+    "① 青原優青原和芳賀板垣、田中/渋谷、二瓶/池田",
+    "西田古川",
+    "② 青原優板垣、田中渋谷、二瓶池田",
+    "西田青原和/芳賀古川",
+    "ラストサビ前 板垣青原和芳賀青原優"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "センター行くぜ〜！！",
+      "members": [
+        { "name": "nishida", "x": -4.5, "y": 2 },
+        { "name": "nihei", "x": -2.5, "y": 2 },
+        { "name": "tanaka", "x": -0.5, "y": 2 },
+        { "name": "ikeda", "x": 1.5, "y": 2 },
+        { "name": "furukawa", "x": 3.5, "y": 2 },
+
+        { "name": "yuka", "x": -3.5, "y": 1 },
+        { "name": "waka", "x": -1.5, "y": 1 },
+        { "name": "haga", "x": 0.5, "y": 1 },
+        { "name": "itagaki", "x": 2.5, "y": 1 },
+        { "name": "shibutani", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -3.5, "y": 2 },
+        { "name": "waka", "x": -1.5, "y": 2 },
+        { "name": "haga", "x": 0.5, "y": 2 },
+        { "name": "itagaki", "x": 2.5, "y": 2 },
+        { "name": "shibutani", "x": 4.5, "y": 2 },
+
+        { "name": "nishida", "x": -4.5, "y": 1 },
+        { "name": "nihei", "x": -2.5, "y": 1 },
+        { "name": "tanaka", "x": -0.5, "y": 1 },
+        { "name": "ikeda", "x": 1.5, "y": 1 },
+        { "name": "furukawa", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "furukawa", "x": 3, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "yuka", "x": -2, "y": 2 },
+        { "name": "itagaki", "x": 2, "y": 2 },
+        { "name": "shibutani", "x": 4, "y": 2 },
+
+        { "name": "nihei", "x": -5, "y": 1 },
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 },
+        { "name": "ikeda", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "ずっと 夢見てた NMB (48)〜",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "waka", "x": -2, "y": 3 },
+        { "name": "haga", "x": 2, "y": 3 },
+        { "name": "furukawa", "x": 3, "y": 3 },
+
+        { "name": "shibutani", "x": -5.5, "y": 2 },
+        { "name": "tanaka", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": 4.5, "y": 2 },
+        { "name": "itagaki", "x": 5.5, "y": 2 },
+
+        { "name": "nihei", "x": -0.5, "y": 1 },
+        { "name": "ikeda", "x": 0.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 3 },
+        { "name": "furukawa", "x": 3, "y": 3 },
+
+        { "name": "shibutani", "x": -4, "y": 2 },
+        { "name": "nihei", "x": -2, "y": 2 },
+        { "name": "ikeda", "x": 2, "y": 2 },
+        { "name": "tanaka", "x": 4, "y": 2 },
+
+        { "name": "itagaki", "x": -5, "y": 1 },
+        { "name": "waka", "x": -1, "y": 1 },
+        { "name": "haga", "x": 1, "y": 1 },
+        { "name": "yuka", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "itagaki", "x": -4.5, "y": 3 },
+        { "name": "waka", "x": -1.5, "y": 3 },
+        { "name": "haga", "x": 1.5, "y": 3 },
+        { "name": "yuka", "x": 4.5, "y": 3 },
+
+        { "name": "nishida", "x": -3, "y": 2 },
+        { "name": "furukawa", "x": 3, "y": 2 },
+
+        { "name": "shibutani", "x": -5, "y": 1 },
+        { "name": "nihei", "x": -1, "y": 1 },
+        { "name": "ikeda", "x": 1, "y": 1 },
+        { "name": "tanaka", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "私は宣言する あなたの推しでジャージャー〜",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 4 },
+        { "name": "shibutani", "x": -1, "y": 4 },
+        { "name": "tanaka", "x": 1, "y": 4 },
+        { "name": "furukawa", "x": 3, "y": 4 },
+
+        { "name": "nihei", "x": -2, "y": 3 },
+        { "name": "waka", "x": 0, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "yuka", "x": 1, "y": 2 },
+
+        { "name": "haga", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "タイガー！ファイヤー！サイバー！ファイバー！〜",
+      "members": [
+        { "name": "nishida", "x": -3, "y": 4 },
+        { "name": "shibutani", "x": -1, "y": 4 },
+        { "name": "tanaka", "x": 1, "y": 4 },
+        { "name": "furukawa", "x": 3, "y": 4 },
+
+        { "name": "nihei", "x": -2, "y": 3 },
+        { "name": "waka", "x": 0, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+
+        { "name": "itagaki", "x": -1, "y": 2 },
+        { "name": "yuka", "x": 1, "y": 2 },
+
+        { "name": "haga", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "haga", "x": -6.75, "y": 1 },
+        { "name": "yuka", "x": -5.25, "y": 1 },
+        { "name": "nishida", "x": -3.75, "y": 1 },
+        { "name": "nihei", "x": -2.25, "y": 1 },
+        { "name": "shibutani", "x": -0.75, "y": 1 },
+
+        { "name": "tanaka", "x": 0.75, "y": 1 },
+        { "name": "ikeda", "x": 2.25, "y": 1 },
+        { "name": "furukawa", "x": 3.75, "y": 1 },
+        { "name": "itagaki", "x": 5.25, "y": 1 },
+        { "name": "waka", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
