@@ -1,4 +1,4 @@
- [
+[
   {
     "stage": "AKB48「RESET」",
     "stageId": "akb48_reset_2025",
@@ -113,5 +113,10 @@
     "stage": "NMB48「無限大ノック」",
     "stageId": "mugendaiknock",
     "file": "stages/mugendaiknock.json"
+  },
+  {
+    "stage": "NMB48「世代交代前夜」",
+    "stageId": "sedaikotaizenya",
+    "file": "stages/sedaikotaizenya.json"
   }
 ]
