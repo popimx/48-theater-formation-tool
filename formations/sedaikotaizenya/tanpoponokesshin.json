@@ -1,0 +1,244 @@
+{
+  "title": "タンポポの決心",
+
+  "memo": [
+    "① 芳賀池田西田青原優、青原和渋谷二瓶",
+    "古川田中板垣",
+    "② 板垣田中古川、二瓶渋谷青原和",
+    "池田芳賀青原優西田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "itagaki", "x": -3.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "shibutani", "x": 5.25, "y": 2 },
+        { "name": "nihei", "x": 6.75, "y": 2 },
+
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "itagaki", "x": -3.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "shibutani", "x": 5.25, "y": 2 },
+        { "name": "nihei", "x": 6.75, "y": 2 },
+
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "itagaki", "x": -3.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "shibutani", "x": 5.25, "y": 2 },
+        { "name": "nihei", "x": 6.75, "y": 2 },
+
+        { "name": "haga", "x": -2.25, "y": 1 },
+        { "name": "ikeda", "x": -0.75, "y": 1 },
+        { "name": "nishida", "x": 0.75, "y": 1 },
+        { "name": "yuka", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "itagaki", "x": -3.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "shibutani", "x": 5.25, "y": 2 },
+        { "name": "nihei", "x": 6.75, "y": 2 },
+
+        { "name": "haga", "x": -2.25, "y": 1 },
+        { "name": "ikeda", "x": -0.75, "y": 1 },
+        { "name": "nishida", "x": 0.75, "y": 1 },
+        { "name": "yuka", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "furukawa", "x": -6.75, "y": 2 },
+        { "name": "tanaka", "x": -5.25, "y": 2 },
+        { "name": "itagaki", "x": -3.75, "y": 2 },
+        { "name": "waka", "x": 3.75, "y": 2 },
+        { "name": "shibutani", "x": 5.25, "y": 2 },
+        { "name": "nihei", "x": 6.75, "y": 2 },
+
+        { "name": "haga", "x": -2.25, "y": 1 },
+        { "name": "ikeda", "x": -0.75, "y": 1 },
+        { "name": "nishida", "x": 0.75, "y": 1 },
+        { "name": "yuka", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "shibutani", "x": -5.25, "y": 2 },
+        { "name": "ikeda", "x": -2.25, "y": 2 },
+        { "name": "yuka", "x": 0.75, "y": 2 },
+        { "name": "itagaki", "x": 3.75, "y": 2 },
+        { "name": "furukawa", "x": 6.75, "y": 2 },
+
+        { "name": "nihei", "x": -6.75, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "shibutani", "x": -5.25, "y": 2 },
+        { "name": "ikeda", "x": -2.25, "y": 2 },
+        { "name": "yuka", "x": 0.75, "y": 2 },
+        { "name": "itagaki", "x": 3.75, "y": 2 },
+        { "name": "furukawa", "x": 6.75, "y": 2 },
+
+        { "name": "nihei", "x": -6.75, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nihei", "x": -6.75, "y": 2 },
+        { "name": "waka", "x": -3.75, "y": 2 },
+        { "name": "haga", "x": -0.75, "y": 2 },
+        { "name": "nishida", "x": 2.25, "y": 2 },
+        { "name": "tanaka", "x": 5.25, "y": 2 },
+
+        { "name": "shibutani", "x": -5.25, "y": 1 },
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "itagaki", "x": 3.75, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nihei", "x": -6.75, "y": 1 },
+        { "name": "shibutani", "x": -5.25, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 },
+        { "name": "itagaki", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "こんな場所にタンポポが咲くなんて 生命力の強さと〜",
+      "members": [
+        { "name": "nihei", "x": -6.75, "y": 1 },
+        { "name": "shibutani", "x": -5.25, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "ikeda", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "nishida", "x": 2.25, "y": 1 },
+        { "name": "itagaki", "x": 3.75, "y": 1 },
+        { "name": "tanaka", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "気づかなかったタンポポが揺れている 誰の心の中にも〜",
+      "members": [
+        { "name": "yuka", "x": -6.75, "y": 1 },
+        { "name": "nishida", "x": -5.25, "y": 1 },
+        { "name": "itagaki", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "furukawa", "x": -0.75, "y": 1 },
+
+        { "name": "nihei", "x": 0.75, "y": 1 },
+        { "name": "shibutani", "x": 2.25, "y": 1 },
+        { "name": "waka", "x": 3.75, "y": 1 },
+        { "name": "ikeda", "x": 5.25, "y": 1 },
+        { "name": "haga", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -6.75, "y": 1 },
+        { "name": "nishida", "x": -5.25, "y": 1 },
+        { "name": "itagaki", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "furukawa", "x": -0.75, "y": 1 },
+
+        { "name": "nihei", "x": 0.75, "y": 1 },
+        { "name": "shibutani", "x": 2.25, "y": 1 },
+        { "name": "waka", "x": 3.75, "y": 1 },
+        { "name": "ikeda", "x": 5.25, "y": 1 },
+        { "name": "haga", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yuka", "x": -6.75, "y": 1 },
+        { "name": "nishida", "x": -5.25, "y": 1 },
+        { "name": "itagaki", "x": -3.75, "y": 1 },
+        { "name": "tanaka", "x": -2.25, "y": 1 },
+        { "name": "furukawa", "x": -0.75, "y": 1 },
+
+        { "name": "nihei", "x": 0.75, "y": 1 },
+        { "name": "shibutani", "x": 2.25, "y": 1 },
+        { "name": "waka", "x": 3.75, "y": 1 },
+        { "name": "ikeda", "x": 5.25, "y": 1 },
+        { "name": "haga", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
