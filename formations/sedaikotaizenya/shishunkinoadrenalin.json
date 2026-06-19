@@ -1,0 +1,173 @@
+{
+  "title": "思春期のアドレナリン",
+
+  "memo": [
+    "① 青原和芳賀板垣 (青原優/渋谷)、二瓶田中池田",
+    "西田/古川",
+    "② 田中/板垣 (青原和/池田)、青原優二瓶渋谷",
+    "西田芳賀古川、青原和/板垣"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 1 },
+        { "name": "haga", "x": -5.25, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "nihei", "x": -2.25, "y": 1 },
+        { "name": "tanaka", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "ikeda", "x": 2.25, "y": 1 },
+        { "name": "shibutani", "x": 3.75, "y": 1 },
+        { "name": "itagaki", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 2 },
+        { "name": "waka", "x": -3.75, "y": 2 },
+        { "name": "tanaka", "x": -0.75, "y": 2 },
+        { "name": "ikeda", "x": 2.25, "y": 2 },
+        { "name": "itagaki", "x": 5.25, "y": 2 },
+
+        { "name": "haga", "x": -5.25, "y": 1 },
+        { "name": "nihei", "x": -2.25, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "shibutani", "x": 3.75, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 1 },
+        { "name": "haga", "x": -5.25, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "nihei", "x": -2.25, "y": 1 },
+        { "name": "tanaka", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "ikeda", "x": 2.25, "y": 1 },
+        { "name": "shibutani", "x": 3.75, "y": 1 },
+        { "name": "itagaki", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "waka", "x": -3, "y": 3 },
+        { "name": "haga", "x": 0, "y": 3 },
+        { "name": "itagaki", "x": 3, "y": 3 },
+
+        { "name": "nihei", "x": -4.5, "y": 2 },
+        { "name": "yuka", "x": -1.5, "y": 2 },
+        { "name": "tanaka", "x": 1.5, "y": 2 },
+        { "name": "ikeda", "x": 4.5, "y": 2 },
+
+        { "name": "nishida", "x": -3.5, "y": 1 },
+        { "name": "shibutani", "x": 0, "y": 1 },
+        { "name": "furukawa", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "急げ 力を試すんだ 急げ 切れるぞ 賞味期限〜",
+      "members": [
+        { "name": "nishida", "x": -5.25, "y": 2 },
+        { "name": "nihei", "x": -2.25, "y": 2 },
+        { "name": "tanaka", "x": 0.75, "y": 2 },
+        { "name": "ikeda", "x": 3.75, "y": 2 },
+        { "name": "furukawa", "x": 6.75, "y": 2 },
+
+        { "name": "yuka", "x": -6.75, "y": 1 },
+        { "name": "waka", "x": -3.75, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "itagaki", "x": 2.25, "y": 1 },
+        { "name": "shibutani", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "月に向かって 向かって 叫ぶだけ〜",
+      "members": [
+        { "name": "nishida", "x": -6, "y": 3 },
+        { "name": "nihei", "x": -2, "y": 3 },
+        { "name": "ikeda", "x": 2, "y": 3 },
+        { "name": "furukawa", "x": 6, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "yuka", "x": 0, "y": 2 },
+        { "name": "shibutani", "x": 4, "y": 2 },
+
+        { "name": "waka", "x": -4, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6, "y": 3 },
+        { "name": "nihei", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": 3, "y": 3 },
+        { "name": "furukawa", "x": 6, "y": 3 },
+
+        { "name": "tanaka", "x": -4, "y": 2 },
+        { "name": "yuka", "x": 0, "y": 2 },
+        { "name": "shibutani", "x": 4, "y": 2 },
+
+        { "name": "waka", "x": -2, "y": 1 },
+        { "name": "haga", "x": 0, "y": 1 },
+        { "name": "itagaki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 1 },
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "nihei", "x": -3.75, "y": 1 },
+        { "name": "waka", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "itagaki", "x": 2.25, "y": 1 },
+        { "name": "ikeda", "x": 3.75, "y": 1 },
+        { "name": "shibutani", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "nishida", "x": -6.75, "y": 1 },
+        { "name": "tanaka", "x": -5.25, "y": 1 },
+        { "name": "nihei", "x": -3.75, "y": 1 },
+        { "name": "waka", "x": -2.25, "y": 1 },
+        { "name": "haga", "x": -0.75, "y": 1 },
+        { "name": "yuka", "x": 0.75, "y": 1 },
+        { "name": "itagaki", "x": 2.25, "y": 1 },
+        { "name": "ikeda", "x": 3.75, "y": 1 },
+        { "name": "shibutani", "x": 5.25, "y": 1 },
+        { "name": "furukawa", "x": 6.75, "y": 1 }
+      ]
+    }
+  ]
+}
