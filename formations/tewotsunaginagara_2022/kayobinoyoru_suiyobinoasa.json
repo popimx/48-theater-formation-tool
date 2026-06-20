@@ -1,0 +1,79 @@
+{
+  "title": "火曜日の夜、水曜日の朝",
+
+  "memo": [
+    "① 竹内上村石黒、田辺青木、赤堀荒野中坂",
+    "都築鈴木/倉島井田",
+    "② 赤堀荒野中坂、倉島鈴木、都築/井田",
+    "竹内田辺上村青木石黒"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "家路を急ぐ人の群れから逸れるみたいに〜",
+      "members": [
+        { "name": "tsuzuki", "x": -1.5, "y": 5 },
+        { "name": "ida", "x": 1.5, "y": 5 },
+
+        { "name": "arano", "x": -3, "y": 4 },
+        { "name": "suzuki", "x": 0, "y": 4 },
+        { "name": "kurashima", "x": 3, "y": 4 },
+
+        { "name": "akahori", "x": -4.5, "y": 3 },
+        { "name": "nakasaka", "x": 4.5, "y": 3 },
+
+        { "name": "tanabe", "x": -2, "y": 2 },
+        { "name": "aoki", "x": 2, "y": 2 },
+
+        { "name": "takeuchi", "x": -4, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "ishiguro", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tanabe", "x": -2.5, "y": 4 },
+        { "name": "kamimura", "x": 2.5, "y": 4 },
+
+        { "name": "tsuzuki", "x": -3.5, "y": 3 },
+        { "name": "aoki", "x": 0, "y": 3 },
+        { "name": "ida", "x": 3.5, "y": 3 },
+
+        { "name": "takeuchi", "x": -4.5, "y": 2 },
+        { "name": "suzuki", "x": -1.5, "y": 2 },
+        { "name": "kurashima", "x": 1.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "akahori", "x": -3, "y": 1 },
+        { "name": "arano", "x": 0, "y": 1 },
+        { "name": "nakasaka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -5.5, "y": 4 },
+        { "name": "ishiguro", "x": 5.5, "y": 4 },
+
+        { "name": "tanabe", "x": -3.5, "y": 3 },
+        { "name": "arano", "x": 0, "y": 3 },
+        { "name": "aoki", "x": 3.5, "y": 3 },
+
+        { "name": "akahori", "x": -4.5, "y": 2 },
+        { "name": "kurashima", "x": -1.5, "y": 2 },
+        { "name": "nakasaka", "x": 1.5, "y": 2 },
+        { "name": "ida", "x": 4.5, "y": 2 },
+
+        { "name": "tsuzuki", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "suzuki", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
