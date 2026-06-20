@@ -1,0 +1,73 @@
+{
+  "title": "ロープの友情",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "見下ろす谷底は 大きな口を開けて〜",
+      "members": [
+        { "name": "ishiguro", "x": -2, "y": 3 },
+        { "name": "suzuki", "x": 0, "y": 3 },
+        { "name": "takeuchi", "x": 2, "y": 3 },
+
+        { "name": "tsuzuki", "x": -3, "y": 2 },
+        { "name": "kurashima", "x": -1, "y": 2 },
+        { "name": "arano", "x": 1, "y": 2 },
+        { "name": "nakasaka", "x": 3, "y": 2 },
+
+        { "name": "aoki", "x": -4, "y": 1 },
+        { "name": "tanabe", "x": -2, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "akahori", "x": 2, "y": 1 },
+        { "name": "ida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "静まり返った 辺りに風が泣く〜",
+      "members": [
+        { "name": "arano", "x": -5, "y": 4 },
+        { "name": "ida", "x": -1, "y": 4 },
+        { "name": "takeuchi", "x": 1, "y": 4 },
+        { "name": "kurashima", "x": 5, "y": 4 },
+
+        { "name": "akahori", "x": -4, "y": 3 },
+        { "name": "ishiguro", "x": 4, "y": 3 },
+
+        { "name": "nakasaka", "x": -6, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "tanabe", "x": 2, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "kurashima", "x": -3, "y": 1 },
+        { "name": "aoki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -4, "y": 5 },
+        { "name": "arano", "x": -2, "y": 5 },
+        { "name": "suzuki", "x": 2, "y": 5 },
+        { "name": "nakasaka", "x": 4, "y": 5 },
+
+        { "name": "aoki", "x": -3, "y": 4 },
+        { "name": "tsuzuki", "x": 0, "y": 4 },
+        { "name": "ishiguro", "x": 3, "y": 4 },
+
+        { "name": "tanabe", "x": -2, "y": 3 },
+        { "name": "ida", "x": 2, "y": 3 },
+
+        { "name": "akahori", "x": -1, "y": 2 },
+        { "name": "kurashima", "x": 1, "y": 2 },
+
+        { "name": "kamimura", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
