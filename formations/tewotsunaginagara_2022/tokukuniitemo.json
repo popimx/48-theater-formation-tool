@@ -1,0 +1,94 @@
+{
+  "title": "遠くにいても",
+
+  "memo": [
+    "① 中坂石黒上村/赤堀青木鈴木",
+    "井田都築田辺倉島荒野竹内",
+    "② 井田都築倉島/田辺荒野竹内",
+    "石黒中坂上村赤堀鈴木青木"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ida", "x": -3, "y": 4 },
+        { "name": "takeuchi", "x": 3, "y": 4 },
+
+        { "name": "tsuzuki", "x": -2, "y": 3 },
+        { "name": "arano", "x": 2, "y": 3 },
+
+        { "name": "nakasaka", "x": -6, "y": 2 },
+        { "name": "kamimura", "x": -4, "y": 2 },
+        { "name": "tanabe", "x": -1, "y": 2 },
+        { "name": "kurashima", "x": 1, "y": 2 },
+        { "name": "akahori", "x": 4, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "ishiguro", "x": -5, "y": 1 },
+        { "name": "aoki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiguro", "x": -6, "y": 2 },
+        { "name": "ida", "x": -4, "y": 2 },
+        { "name": "tsuzuki", "x": -2, "y": 2 },
+        { "name": "arano", "x": 2, "y": 2 },
+        { "name": "takeuchi", "x": 4, "y": 2 },
+        { "name": "aoki", "x": 6, "y": 2 },
+
+        { "name": "nakasaka", "x": -5, "y": 1 },
+        { "name": "kamimura", "x": -3, "y": 1 },
+        { "name": "tanabe", "x": -1, "y": 1 },
+        { "name": "kurashima", "x": 1, "y": 1 },
+        { "name": "akahori", "x": 3, "y": 1 },
+        { "name": "suzuki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiguro", "x": -5, "y": 2 },
+        { "name": "nakasaka", "x": -3, "y": 2 },
+        { "name": "kamimura", "x": -1, "y": 2 },
+        { "name": "akahori", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+        { "name": "aoki", "x": 5, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "tsuzuki", "x": -4, "y": 1 },
+        { "name": "kurashima", "x": -2, "y": 1 },
+        { "name": "tanabe", "x": 2, "y": 1 },
+        { "name": "arano", "x": 4, "y": 1 },
+        { "name": "takeuchi", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ida", "x": -6, "y": 2 },
+        { "name": "tsuzuki", "x": -4, "y": 2 },
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "tanabe", "x": 2, "y": 2 },
+        { "name": "arano", "x": 4, "y": 2 },
+        { "name": "takeuchi", "x": 6, "y": 2 },
+
+        { "name": "ishiguro", "x": -5, "y": 1 },
+        { "name": "nakasaka", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 },
+        { "name": "suzuki", "x": 3, "y": 1 },
+        { "name": "aoki", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
