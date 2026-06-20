@@ -1,0 +1,77 @@
+{
+  "title": "チャイムはLOVE SONG",
+
+  "memo": [
+    "① 上村田辺、赤堀倉島、竹内青木、中坂荒野",
+    "② 竹内青木、都築井田、石黒鈴木、赤堀倉島",
+    "上村/田辺"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "向かいの校舎の2F 左端の教室〜",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 4 },
+        { "name": "arano", "x": 3, "y": 4 },
+
+        { "name": "ishiguro", "x": -4, "y": 3 },
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "ida", "x": 1.5, "y": 3 },
+        { "name": "suzuki", "x": 4, "y": 3 },
+
+        { "name": "tsuzuki", "x": -5, "y": 2 },
+        { "name": "akahori", "x": -2.5, "y": 2 },
+        { "name": "kurashima", "x": 2.5, "y": 2 },
+        { "name": "aoki", "x": 5, "y": 2 },
+
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "tanabe", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiguro", "x": -6, "y": 4 },
+        { "name": "suzuki", "x": 6, "y": 4 },
+
+        { "name": "tsuzuki", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -1, "y": 3 },
+        { "name": "arano", "x": 1, "y": 3 },
+        { "name": "aoki", "x": 5, "y": 3 },
+
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "takeuchi", "x": -2, "y": 2 },
+        { "name": "ida", "x": 2, "y": 2 },
+        { "name": "kurashima", "x": 4, "y": 2 },
+
+        { "name": "kamimura", "x": -3, "y": 1 },
+        { "name": "tanabe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "あなたはいない どこにいるのかな〜",
+      "members": [
+        { "name": "tsuzuki", "x": -1.5, "y": 4 },
+        { "name": "aoki", "x": 1.5, "y": 4 },
+
+        { "name": "nakasaka", "x": -3.5, "y": 3 },
+        { "name": "arano", "x": 3.5, "y": 3 },
+
+        { "name": "kamimura", "x": -5.5, "y": 2 },
+        { "name": "takeuchi", "x": -2.5, "y": 2 },
+        { "name": "ida", "x": 2.5, "y": 2 },
+        { "name": "tanabe", "x": 5.5, "y": 2 },
+
+        { "name": "ishiguro", "x": -4, "y": 1 },
+        { "name": "akahori", "x": -1, "y": 1 },
+        { "name": "kurashima", "x": 1, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
