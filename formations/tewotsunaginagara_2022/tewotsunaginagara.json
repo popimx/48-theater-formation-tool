@@ -33,27 +33,6 @@
     },
 
     {
-      "title": "1番サビ後",
-      "lyrics": "",
-      "members": [
-        { "name": "ida", "x": -5, "y": 3 },
-        { "name": "nakasaka", "x": -2.5, "y": 3 },
-        { "name": "arano", "x": 2.5, "y": 3 },
-        { "name": "ishiguro", "x": 5, "y": 3 },
-
-        { "name": "aoki", "x": -3, "y": 2 },
-        { "name": "akahori", "x": -1, "y": 2 },
-        { "name": "kamimura", "x": 1, "y": 2 },
-        { "name": "suzuki", "x": 3, "y": 2 },
-
-        { "name": "tanabe", "x": -4, "y": 1 },
-        { "name": "takeuchi", "x": -2, "y": 1 },
-        { "name": "tsuzuki", "x": 2, "y": 1 },
-        { "name": "kurashima", "x": 4, "y": 1 }
-      ]
-    },
-
-    {
       "title": "2番Aメロ",
       "lyrics": "不安だったのは私だけじゃない〜",
       "members": [
