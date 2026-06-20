@@ -1,0 +1,201 @@
+{
+  "title": "手をつなぎながら",
+
+  "memo": [
+    "① 田辺/倉島、石黒中坂、荒野井田、都築竹内",
+    "青木赤堀/上村鈴木",
+    "② 竹内都築、青木赤堀上村鈴木、田辺/倉島",
+    "井田/荒野、中坂/石黒"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiguro", "x": -4.5, "y": 1 },
+        { "name": "nakasaka", "x": -1.5, "y": 1 },
+        { "name": "tanabe", "x": 1.5, "y": 1 },
+        { "name": "kurashima", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "一人だけ 自信がなかった〜",
+      "members": [
+        { "name": "ishiguro", "x": -4, "y": 2 },
+        { "name": "nakasaka", "x": -2, "y": 2 },
+
+        { "name": "tanabe", "x": 2, "y": 1 },
+        { "name": "kurashima", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ida", "x": -5, "y": 3 },
+        { "name": "nakasaka", "x": -2.5, "y": 3 },
+        { "name": "arano", "x": 2.5, "y": 3 },
+        { "name": "ishiguro", "x": 5, "y": 3 },
+
+        { "name": "aoki", "x": -3, "y": 2 },
+        { "name": "akahori", "x": -1, "y": 2 },
+        { "name": "kamimura", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+
+        { "name": "tanabe", "x": -4, "y": 1 },
+        { "name": "takeuchi", "x": -2, "y": 1 },
+        { "name": "tsuzuki", "x": 2, "y": 1 },
+        { "name": "kurashima", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "不安だったのは私だけじゃない〜",
+      "members": [
+        { "name": "tanabe", "x": -5, "y": 4 },
+        { "name": "kurashima", "x": 5, "y": 4 },
+
+        { "name": "ida", "x": -6, "y": 3 },
+        { "name": "nakasaka", "x": -4, "y": 3 },
+        { "name": "arano", "x": 4, "y": 3 },
+        { "name": "ishiguro", "x": 6, "y": 3 },
+
+        { "name": "takeuchi", "x": -2, "y": 2 },
+        { "name": "tsuzuki", "x": 2, "y": 2 },
+
+        { "name": "aoki", "x": -3, "y": 1 },
+        { "name": "akahori", "x": -1, "y": 1 },
+        { "name": "kamimura", "x": 1, "y": 1 },
+        { "name": "suzuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "テストに落ちこぼれそうで 凹み〜",
+      "members": [
+        { "name": "suzuki", "x": -5, "y": 4 },
+        { "name": "kamimura", "x": -3, "y": 4 },
+        { "name": "akahori", "x": -1, "y": 4 },
+        { "name": "aoki", "x": 1, "y": 4 },
+        { "name": "tsuzuki", "x": 3, "y": 4 },
+        { "name": "takeuchi", "x": 5, "y": 4 },
+
+        { "name": "ida", "x": -4.5, "y": 2 },
+        { "name": "nakasaka", "x": -2.5, "y": 2 },
+        { "name": "arano", "x": 2.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "tanabe", "x": -3.5, "y": 1 },
+        { "name": "kurashima", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "何回も 学校辞めたくなった〜",
+      "members": [
+        { "name": "suzuki", "x": -5, "y": 4 },
+        { "name": "kamimura", "x": -3, "y": 4 },
+        { "name": "akahori", "x": -1, "y": 4 },
+        { "name": "aoki", "x": 1, "y": 4 },
+        { "name": "tsuzuki", "x": 3, "y": 4 },
+        { "name": "takeuchi", "x": 5, "y": 4 },
+
+        { "name": "nakasaka", "x": -4.5, "y": 2 },
+        { "name": "tanabe", "x": -2.5, "y": 2 },
+        { "name": "ishiguro", "x": 2.5, "y": 2 },
+        { "name": "kurashima", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -3.5, "y": 1 },
+        { "name": "arano", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ③",
+      "lyrics": "心のロッカー片付け 今すぐ 帰りたくなったけど〜",
+      "members": [
+        { "name": "suzuki", "x": -5, "y": 4 },
+        { "name": "kamimura", "x": -3, "y": 4 },
+        { "name": "akahori", "x": -1, "y": 4 },
+        { "name": "aoki", "x": 1, "y": 4 },
+        { "name": "tsuzuki", "x": 3, "y": 4 },
+        { "name": "takeuchi", "x": 5, "y": 4 },
+
+        { "name": "tanabe", "x": -4.5, "y": 2 },
+        { "name": "ida", "x": -2.5, "y": 2 },
+        { "name": "kurashima", "x": 2.5, "y": 2 },
+        { "name": "arano", "x": 4.5, "y": 2 },
+
+        { "name": "nakasaka", "x": -3.5, "y": 1 },
+        { "name": "ishiguro", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "みんなで目指すんだ あのステージへ〜",
+      "members": [
+        { "name": "ida", "x": -4.5, "y": 2 },
+        { "name": "suzuki", "x": -2.5, "y": 2 },
+        { "name": "aoki", "x": -0.5, "y": 2 },
+        { "name": "tsuzuki", "x": 1.5, "y": 2 },
+        { "name": "arano", "x": 3.5, "y": 2 },
+        { "name": "takeuchi", "x": 5.5, "y": 2 },
+
+        { "name": "tanabe", "x": -5.5, "y": 1 },
+        { "name": "nakasaka", "x": -3.5, "y": 1 },
+        { "name": "akahori", "x": -1.5, "y": 1 },
+        { "name": "kamimura", "x": 0.5, "y": 1 },
+        { "name": "kurashima", "x": 2.5, "y": 1 },
+        { "name": "ishiguro", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "どんなにつらくても 負けずにピース〜",
+      "members": [
+        { "name": "tanabe", "x": -5.5, "y": 2 },
+        { "name": "nakasaka", "x": -3.5, "y": 2 },
+        { "name": "akahori", "x": -1.5, "y": 2 },
+        { "name": "kamimura", "x": 0.5, "y": 2 },
+        { "name": "kurashima", "x": 2.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -4.5, "y": 1 },
+        { "name": "suzuki", "x": -2.5, "y": 1 },
+        { "name": "aoki", "x": -0.5, "y": 1 },
+        { "name": "tsuzuki", "x": 1.5, "y": 1 },
+        { "name": "arano", "x": 3.5, "y": 1 },
+        { "name": "takeuchi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "tanabe", "x": -5.5, "y": 2 },
+        { "name": "nakasaka", "x": -3.5, "y": 2 },
+        { "name": "akahori", "x": -1.5, "y": 2 },
+        { "name": "kamimura", "x": 0.5, "y": 2 },
+        { "name": "kurashima", "x": 2.5, "y": 2 },
+        { "name": "ishiguro", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -4.5, "y": 1 },
+        { "name": "suzuki", "x": -2.5, "y": 1 },
+        { "name": "aoki", "x": -0.5, "y": 1 },
+        { "name": "tsuzuki", "x": 1.5, "y": 1 },
+        { "name": "arano", "x": 3.5, "y": 1 },
+        { "name": "takeuchi", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
