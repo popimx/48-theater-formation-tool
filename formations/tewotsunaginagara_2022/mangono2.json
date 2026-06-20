@@ -1,0 +1,44 @@
+{
+  "title": "マンゴーNo.2",
+
+  "memo": [
+    "① 中坂上村、井田田辺、赤堀倉島、石黒都築",
+    "荒野青木、竹内鈴木",
+    "② 石黒/青木、竹内都築、鈴木井田中坂",
+    "倉島荒野赤堀、上村田辺"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "マンゴー・マンボー No.2で行こう 甘い 甘い フルーツのリズム〜",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 2 },
+        { "name": "arano", "x": -1, "y": 2 },
+        { "name": "tsuzuki", "x": 1, "y": 2 },
+        { "name": "aoki", "x": 3, "y": 2 },
+
+        { "name": "akahori", "x": -4, "y": 1 },
+        { "name": "kamimura", "x": -2, "y": 1 },
+        { "name": "suzuki", "x": 2, "y": 1 },
+        { "name": "ida", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "マンゴー・マンボー No.2で行こう 早く 早く 大人になりたい〜",
+      "members": [
+        { "name": "akahori", "x": -4, "y": 2 },
+        { "name": "kamimura", "x": -2, "y": 2 },
+        { "name": "suzuki", "x": 2, "y": 2 },
+        { "name": "ida", "x": 4, "y": 2 },
+
+        { "name": "takeuchi", "x": -3, "y": 1 },
+        { "name": "arano", "x": -1, "y": 1 },
+        { "name": "tsuzuki", "x": 1, "y": 1 },
+        { "name": "aoki", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
