@@ -1,0 +1,77 @@
+{
+  "title": "恋の傾向と対策",
+
+  "memo": [
+    "① 倉島、田辺、中坂、赤堀井田、上村",
+    "② 青木、荒野/石黒、鈴木、竹内、都築"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "恋の傾向と対策 教えて どんな言葉かければいい？〜",
+      "members": [
+        { "name": "takeuchi", "x": -5, "y": 5 },
+        { "name": "ishiguro", "x": 5, "y": 5 },
+
+        { "name": "tsuzuki", "x": -4, "y": 4 },
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "aoki", "x": 1.5, "y": 4 },
+        { "name": "arano", "x": 4, "y": 4 },
+
+        { "name": "tanabe", "x": -3, "y": 3 },
+        { "name": "ida", "x": 3, "y": 3 },
+
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "kamimura", "x": 2, "y": 2 },
+
+        { "name": "nakasaka", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "恋の傾向と対策 教えて どんな参考書がいいの？〜",
+      "members": [
+        { "name": "ishiguro", "x": -3, "y": 4 },
+        { "name": "takeuchi", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -4, "y": 3 },
+        { "name": "tanabe", "x": -2, "y": 3 },
+        { "name": "nakasaka", "x": 0, "y": 3 },
+        { "name": "akahori", "x": 2, "y": 3 },
+        { "name": "aoki", "x": 4, "y": 3 },
+
+        { "name": "tsuzuki", "x": -5, "y": 2 },
+        { "name": "kurashima", "x": -1, "y": 2 },
+        { "name": "ida", "x": 1, "y": 2 },
+        { "name": "arano", "x": 5, "y": 2 },
+
+        { "name": "kamimura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "恋の傾向と対策 教えて どんな言葉かければいい？〜",
+      "members": [
+        { "name": "ishiguro", "x": -3, "y": 4 },
+        { "name": "takeuchi", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -4, "y": 3 },
+        { "name": "nakasaka", "x": 0, "y": 3 },
+        { "name": "aoki", "x": 4, "y": 3 },
+
+        { "name": "tsuzuki", "x": -5, "y": 2 },
+        { "name": "kurashima", "x": -1, "y": 2 },
+        { "name": "ida", "x": 1, "y": 2 },
+        { "name": "arano", "x": 5, "y": 2 },
+
+        { "name": "tanabe", "x": -2, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "akahori", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
