@@ -1,0 +1,312 @@
+{
+  "title": "僕らの風",
+
+  "memo": [
+    "① 井田荒野上村/赤堀青木倉島",
+    "竹内中坂鈴木/石黒田辺都築",
+    "井田上村赤堀倉島、荒野/青木",
+    "② 鈴木中坂竹内都築石黒田辺、井田赤堀上村倉島",
+    "荒野/青木、竹内鈴木/石黒、中坂/田辺都築"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -2, "y": 3 },
+        { "name": "suzuki", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 2, "y": 3 },
+
+        { "name": "arano", "x": -3, "y": 2 },
+        { "name": "aoki", "x": -1, "y": 2 },
+        { "name": "nakasaka", "x": 1, "y": 2 },
+        { "name": "tsuzuki", "x": 3, "y": 2 },
+
+        { "name": "ida", "x": -4, "y": 1 },
+        { "name": "akahori", "x": -2, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "tanabe", "x": 2, "y": 1 },
+        { "name": "kurashima", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "arano", "x": -5.5, "y": 2 },
+        { "name": "takeuchi", "x": -3.5, "y": 2 },
+        { "name": "aoki", "x": -1.5, "y": 2 },
+        { "name": "suzuki", "x": 0.5, "y": 2 },
+        { "name": "ishiguro", "x": 2.5, "y": 2 },
+        { "name": "tsuzuki", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -4.5, "y": 1 },
+        { "name": "akahori", "x": -2.5, "y": 1 },
+        { "name": "kamimura", "x": -0.5, "y": 1 },
+        { "name": "nakasaka", "x": 1.5, "y": 1 },
+        { "name": "tanabe", "x": 3.5, "y": 1 },
+        { "name": "kurashima", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 4 },
+        { "name": "suzuki", "x": 0, "y": 4 },
+        { "name": "ishiguro", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -1.5, "y": 3 },
+        { "name": "tsuzuki", "x": 1.5, "y": 3 },
+
+        { "name": "arano", "x": -2.5, "y": 2 },
+        { "name": "tanabe", "x": 0, "y": 2 },
+        { "name": "aoki", "x": 2.5, "y": 2 },
+
+        { "name": "ida", "x": -4, "y": 1 },
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 },
+        { "name": "kurashima", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "大空のキャンパスを 青く塗りつぶして〜",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 4 },
+        { "name": "suzuki", "x": -1, "y": 4 },
+        { "name": "ishiguro", "x": 1, "y": 4 },
+        { "name": "tsuzuki", "x": 3, "y": 4 },
+
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "tanabe", "x": 2, "y": 3 },
+
+        { "name": "arano", "x": -5, "y": 2 },
+        { "name": "aoki", "x": 5, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "kamimura", "x": -4, "y": 1 },
+        { "name": "akahori", "x": 4, "y": 1 },
+        { "name": "kurashima", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "雲が流れるように 夢を描いてみよう〜",
+      "members": [
+        { "name": "takeuchi", "x": -6, "y": 4 },
+        { "name": "suzuki", "x": -4, "y": 4 },
+        { "name": "ishiguro", "x": 4, "y": 4 },
+        { "name": "tsuzuki", "x": 6, "y": 4 },
+
+        { "name": "nakasaka", "x": -5, "y": 3 },
+        { "name": "tanabe", "x": 5, "y": 3 },
+
+        { "name": "arano", "x": -2, "y": 2 },
+        { "name": "aoki", "x": 2, "y": 2 },
+
+        { "name": "ida", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 },
+        { "name": "kurashima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "果てしない地平線 鳥は自由に飛び〜",
+      "members": [
+        { "name": "arano", "x": -2, "y": 4 },
+        { "name": "aoki", "x": 2, "y": 4 },
+
+        { "name": "ida", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": -1, "y": 3 },
+        { "name": "akahori", "x": 1, "y": 3 },
+        { "name": "kurashima", "x": 3, "y": 3 },
+
+        { "name": "takeuchi", "x": -6, "y": 2 },
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "ishiguro", "x": 4, "y": 2 },
+        { "name": "tsuzuki", "x": 6, "y": 2 },
+
+        { "name": "nakasaka", "x": -5, "y": 1 },
+        { "name": "tanabe", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "掌は〜",
+      "members": [
+        { "name": "arano", "x": -2, "y": 4 },
+        { "name": "aoki", "x": 2, "y": 4 },
+
+        { "name": "takeuchi", "x": -6, "y": 2 },
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "ishiguro", "x": 4, "y": 2 },
+        { "name": "tsuzuki", "x": 6, "y": 2 },
+
+        { "name": "nakasaka", "x": -5, "y": 1 },
+        { "name": "ida", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": -1, "y": 1 },
+        { "name": "akahori", "x": 1, "y": 1 },
+        { "name": "kurashima", "x": 3, "y": 1 },
+        { "name": "tanabe", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "いつだって〜",
+      "members": [
+        { "name": "ida", "x": -3, "y": 3 },
+        { "name": "kamimura", "x": -1, "y": 3 },
+        { "name": "akahori", "x": 1, "y": 3 },
+        { "name": "kurashima", "x": 3, "y": 3 },
+
+        { "name": "takeuchi", "x": -6, "y": 2 },
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "ishiguro", "x": 4, "y": 2 },
+        { "name": "tsuzuki", "x": 6, "y": 2 },
+
+        { "name": "nakasaka", "x": -5, "y": 1 },
+        { "name": "arano", "x": -2, "y": 1 },
+        { "name": "aoki", "x": 2, "y": 1 },
+        { "name": "tanabe", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 3 },
+        { "name": "arano", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -4.5, "y": 2 },
+        { "name": "nakasaka", "x": -1.5, "y": 2 },
+        { "name": "kurashima", "x": 1.5, "y": 2 },
+        { "name": "aoki", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "akahori", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "tanabe", "x": 3, "y": 1 },
+        { "name": "tsuzuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -3, "y": 3 },
+        { "name": "arano", "x": 0, "y": 3 },
+        { "name": "ishiguro", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -4.5, "y": 2 },
+        { "name": "nakasaka", "x": -1.5, "y": 2 },
+        { "name": "aoki", "x": 1.5, "y": 2 },
+        { "name": "kurashima", "x": 4.5, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "akahori", "x": -3, "y": 1 },
+        { "name": "kamimura", "x": 0, "y": 1 },
+        { "name": "tanabe", "x": 3, "y": 1 },
+        { "name": "tsuzuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "takeuchi", "x": -1, "y": 4 },
+        { "name": "arano", "x": 1, "y": 4 },
+
+        { "name": "suzuki", "x": -6, "y": 3 },
+        { "name": "nakasaka", "x": -2, "y": 3 },
+        { "name": "aoki", "x": 2, "y": 3 },
+        { "name": "ishiguro", "x": 6, "y": 3 },
+
+        { "name": "ida", "x": -5, "y": 2 },
+        { "name": "kamimura", "x": -3, "y": 2 },
+        { "name": "tanabe", "x": 3, "y": 2 },
+        { "name": "kurashima", "x": 5, "y": 2 },
+
+        { "name": "akahori", "x": -4, "y": 1 },
+        { "name": "tsuzuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "arano", "x": -7, "y": 4 },
+        { "name": "takeuchi", "x": 7, "y": 4 },
+
+        { "name": "aoki", "x": -6, "y": 3 },
+        { "name": "ishiguro", "x": -2, "y": 3 },
+        { "name": "suzuki", "x": 2, "y": 3 },
+        { "name": "nakasaka", "x": 6, "y": 3 },
+
+        { "name": "tanabe", "x": -5, "y": 2 },
+        { "name": "kurashima", "x": -3, "y": 2 },
+        { "name": "ida", "x": 3, "y": 2 },
+        { "name": "kamimura", "x": 5, "y": 2 },
+
+        { "name": "tsuzuki", "x": -4, "y": 1 },
+        { "name": "akahori", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今 僕らは風になる 遮るもの なにもないんだ〜",
+      "members": [
+        { "name": "tsuzuki", "x": -2, "y": 3 },
+        { "name": "ishiguro", "x": 0, "y": 3 },
+        { "name": "takeuchi", "x": 2, "y": 3 },
+
+        { "name": "arano", "x": -3, "y": 2 },
+        { "name": "kurashima", "x": -1, "y": 2 },
+        { "name": "suzuki", "x": 1, "y": 2 },
+        { "name": "nakasaka", "x": 3, "y": 2 },
+
+        { "name": "tanabe", "x": -4, "y": 1 },
+        { "name": "aoki", "x": -2, "y": 1 },
+        { "name": "ida", "x": 0, "y": 1 },
+        { "name": "akahori", "x": 2, "y": 1 },
+        { "name": "kamimura", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tsuzuki", "x": -2, "y": 3 },
+        { "name": "ishiguro", "x": 0, "y": 3 },
+        { "name": "takeuchi", "x": 2, "y": 3 },
+
+        { "name": "arano", "x": -3, "y": 2 },
+        { "name": "kurashima", "x": -1, "y": 2 },
+        { "name": "suzuki", "x": 1, "y": 2 },
+        { "name": "nakasaka", "x": 3, "y": 2 },
+
+        { "name": "tanabe", "x": -4, "y": 1 },
+        { "name": "aoki", "x": -2, "y": 1 },
+        { "name": "ida", "x": 0, "y": 1 },
+        { "name": "akahori", "x": 2, "y": 1 },
+        { "name": "kamimura", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
