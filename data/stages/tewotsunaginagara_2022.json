@@ -1,0 +1,118 @@
+{
+  "stage": "SKE48「手をつなぎながら」",
+  "stageId": "tewotsunaginagara_2022",
+
+  "members": [
+    {
+      "name": "赤堀君江",
+      "display": "赤堀",
+      "id": "akahori",
+      "image": "akahori_kimie_2022"
+    },
+    {
+      "name": "荒野姫楓",
+      "display": "荒野",
+      "id": "arano",
+      "image": "arano_himeka_2022"
+    },
+    {
+      "name": "石黒友月",
+      "display": "石黒",
+      "id": "ishiguro",
+      "image": "ishiguro_yuzuki_2022"
+    },
+    {
+      "name": "上村亜柚香",
+      "display": "上村",
+      "id": "kamimura",
+      "image": "kamimura_ayuka_2022"
+    },
+    {
+      "name": "竹内ななみ",
+      "display": "竹内",
+      "id": "takeuchi",
+      "image": "takeuchi_nanami_2022"
+    },
+    {
+      "name": "都築里佳",
+      "display": "都築",
+      "id": "tsuzuki",
+      "image": "tsuzuki_rika_2022"
+    },
+    {
+      "name": "中坂美祐",
+      "display": "中坂",
+      "id": "nakasaka",
+      "image": "nakasaka_miyu_2022"
+    },
+    {
+      "name": "青木詩織",
+      "display": "青木",
+      "id": "aoki",
+      "image": "aoki_shiori_2022"
+    },
+    {
+      "name": "井田玲音名",
+      "display": "井田",
+      "id": "ida",
+      "image": "ida_reona_2022"
+    },
+    {
+      "name": "倉島杏実",
+      "display": "倉島",
+      "id": "kurashima",
+      "image": "kurashima_ami_2022"
+    },
+    {
+      "name": "鈴木恋奈",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_kokona_2022"
+    },
+    {
+      "name": "田辺美月",
+      "display": "田辺",
+      "id": "tanabe",
+      "image": "tanabe_mizuki_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "僕らの風",
+      "file": "bokuranokaze.json"
+    },
+    {
+      "name": "マンゴーNo.2",
+      "file": "mangono2.json"
+    },
+    {
+      "name": "手をつなぎながら",
+      "file": "tewotsunaginagara.json"
+    },
+    {
+      "name": "チャイムはLOVE SONG",
+      "file": "chimewalovesong.json"
+    },
+    {
+      "name": "ロマンスロケット",
+      "file": "romancerocket.json"
+    },
+    {
+      "name": "恋の傾向と対策",
+      "file": "koinokeikototaisaku.json"
+    },
+    {
+      "name": "ロープの友情",
+      "file": "ropenoyujo.json"
+    },
+    {
+      "name": "火曜日の夜、水曜日の朝",
+      "file": "kayobinoyoru_suiyobinoasa.json"
+    },
+    {
+      "name": "遠くにいても",
+      "file": "tokukuniitemo.json"
+    }
+  ]
+}
