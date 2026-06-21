@@ -1,0 +1,146 @@
+{
+  "stage": "SKE48「時間がない」",
+  "stageId": "jikanganai",
+
+  "members": [
+    {
+      "name": "青木詩織",
+      "display": "詩織",
+      "id": "shiori",
+      "image": "aoki_shiori_2022"
+    },
+    {
+      "name": "青木莉樺",
+      "display": "莉樺",
+      "id": "rika",
+      "image": "aoki_rika_2022"
+    },
+    {
+      "name": "荒井優希",
+      "display": "荒井",
+      "id": "arai",
+      "image": "arai_yuki_2022"
+    },
+    {
+      "name": "伊藤実希",
+      "display": "伊藤",
+      "id": "ito",
+      "image": "ito_miki_2022"
+    },
+    {
+      "name": "入内嶋涼",
+      "display": "入内嶋",
+      "id": "irinaijima",
+      "image": "irinaijima_sayaka_2022"
+    },
+    {
+      "name": "江籠裕奈",
+      "display": "江籠",
+      "id": "ego",
+      "image": "ego_yuna_2022"
+    },
+    {
+      "name": "太田彩夏",
+      "display": "太田",
+      "id": "ota",
+      "image": "ota_ayaka_2022"
+    },
+    {
+      "name": "岡本彩夏",
+      "display": "岡本",
+      "id": "okamoto",
+      "image": "okamoto_ayaka_2022"
+    },
+    {
+      "name": "川嶋美晴",
+      "display": "川嶋",
+      "id": "kawashima",
+      "image": "kawashima_miharu_2022"
+    },
+    {
+      "name": "北野瑠華",
+      "display": "北野",
+      "id": "kitano",
+      "image": "kitano_ruka_2022"
+    },
+    {
+      "name": "鈴木愛菜",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_ena_2022"
+    },
+    {
+      "name": "中野愛理",
+      "display": "中野",
+      "id": "nakano",
+      "image": "nakano_airi_2022"
+    },
+    {
+      "name": "西井美桜",
+      "display": "西井",
+      "id": "nishii",
+      "image": "nishii_mio_2022"
+    },
+    {
+      "name": "日高優月",
+      "display": "日高",
+      "id": "hidaka",
+      "image": "hidaka_yuzuki_2022"
+    },
+    {
+      "name": "藤本冬香",
+      "display": "藤本",
+      "id": "fujimoto",
+      "image": "fujimoto_fuyuka_2022"
+    },
+    {
+      "name": "水野愛理",
+      "display": "水野",
+      "id": "mizuno",
+      "image": "mizuno_airi_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "異形のダンス",
+      "file": "igyounodance.json"
+    },
+    {
+      "name": "時間がない",
+      "file": "jikanganai.json"
+    },
+    {
+      "name": "ドント・ストップ・ミュージック",
+      "file": "dont_stop_music.json"
+    },
+    {
+      "name": "君は未来に試されている",
+      "file": "kimihamirainitamesareteiru.json"
+    },
+    {
+      "name": "瞳の中のアップル",
+      "file": "hitominonakanoapple.json"
+    },
+    {
+      "name": "ハートブレイカーズ",
+      "file": "heartbreakers.json"
+    },
+    {
+      "name": "Over the Top",
+      "file": "over_the_top.json"
+    },
+    {
+      "name": "We Don't Have A Time!!",
+      "file": "we_dont_have_a_time.json"
+    },
+    {
+      "name": "いいね、それいいね",
+      "file": "iine_soreiine.json"
+    },
+    {
+      "name": "消えない虹を心にかけて",
+      "file": "kienainijiwokokoronikakete.json"
+    }
+  ]
+}
