@@ -1,0 +1,64 @@
+{
+  "title": "We Don't Have A Time!!",
+
+  "memo": [
+    "① 江籠/日高、青木莉/太田、岡本青木詩(伊藤/北野)",
+    "② 入内嶋/荒井、藤本中野(水野/西井)",
+    "ラストサビ前 江籠鈴木川嶋",
+    "ラストサビ 青木詩江籠日高、太田/北野/岡本",
+    "荒井/伊藤/青木莉、西井/入内嶋/水野",
+    "川嶋/中野/藤本/鈴木"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fujimoto", "x": -4.5, "y": 4 },
+        { "name": "nishii", "x": -1, "y": 4 },
+        { "name": "suzuki", "x": 1, "y": 4 },
+        { "name": "nakano", "x": 4.5, "y": 4 },
+
+        { "name": "iriuchijima", "x": -5.5, "y": 3 },
+        { "name": "mizuno", "x": -2, "y": 3 },
+        { "name": "shiori", "x": 2, "y": 3 },
+        { "name": "arai", "x": 5.5, "y": 3 },
+
+        { "name": "rika", "x": -6.5, "y": 2 },
+        { "name": "okamoto", "x": -3, "y": 2 },
+        { "name": "kawashima", "x": 3, "y": 2 },
+        { "name": "ota", "x": 6.5, "y": 2 },
+
+        { "name": "ego", "x": -7.5, "y": 1 },
+        { "name": "ito", "x": -4, "y": 1 },
+        { "name": "kitano", "x": 4, "y": 1 },
+        { "name": "hidaka", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今しか出来ないことがあるから〜",
+      "members": [
+        { "name": "nakano", "x": -6, "y": 3 },
+        { "name": "kawashima", "x": -4.5, "y": 3 },
+        { "name": "arai", "x": -3, "y": 3 },
+        { "name": "nishii", "x": -1.5, "y": 3 },
+        { "name": "iriuchijima", "x": 1.5, "y": 3 },
+        { "name": "mizuno", "x": 3, "y": 3 },
+        { "name": "fujimoto", "x": 4.5, "y": 3 },
+        { "name": "suzuki", "x": 6, "y": 3 },
+
+        { "name": "ota", "x": -5.25, "y": 1 },
+        { "name": "kitano", "x": -3.75, "y": 1 },
+        { "name": "ego", "x": -2.25, "y": 1 },
+        { "name": "shiori", "x": -0.75, "y": 1 },
+        { "name": "hidaka", "x": 0.75, "y": 1 },
+        { "name": "okamoto", "x": 2.25, "y": 1 },
+        { "name": "rika", "x": 3.75, "y": 1 },
+        { "name": "ito", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
