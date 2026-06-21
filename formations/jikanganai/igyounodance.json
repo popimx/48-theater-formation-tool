@@ -1,0 +1,64 @@
+{
+  "title": "異形のダンス",
+
+  "memo": [
+    "イントロ 江籠、中野、青木莉、藤本、日高、岡本",
+    "① 水野、伊藤、太田、江籠、北野、日高",
+    "荒井、水野、荒井、水野",
+    "② 荒井、水野/藤本、岡本/青木莉、川嶋",
+    "ラスト 江籠"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "なにが \"ふつう\" か語ることは 僕たちを切り離すknife〜",
+      "members": [
+        { "name": "suzuki", "x": -6, "y": 3 },
+        { "name": "ito", "x": -4, "y": 3 },
+        { "name": "okamoto", "x": -2, "y": 3 },
+        { "name": "kitano", "x": 0, "y": 3 },
+        { "name": "nishii", "x": 2, "y": 3 },
+        { "name": "fujimoto", "x": 4, "y": 3 },
+        { "name": "kawashima", "x": 6, "y": 3 },
+
+        { "name": "shiori", "x": -5, "y": 2 },
+        { "name": "nakano", "x": -3, "y": 2 },
+        { "name": "arai", "x": -1, "y": 2 },
+        { "name": "mizuno", "x": 1, "y": 2 },
+        { "name": "rika", "x": 3, "y": 2 },
+        { "name": "iriuchijima", "x": 5, "y": 2 },
+
+        { "name": "ota", "x": -2, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "これが \"奇妙\" で哀れに見えると言うの？〜",
+      "members": [
+        { "name": "mizuno", "x": -4, "y": 4 },
+        { "name": "ito", "x": -2, "y": 4 },
+        { "name": "rika", "x": 0, "y": 4 },
+        { "name": "okamoto", "x": 2, "y": 4 },
+        { "name": "nishii", "x": 4, "y": 4 },
+
+        { "name": "suzuki", "x": -5, "y": 3 },
+        { "name": "shiori", "x": -3, "y": 3 },
+        { "name": "nakano", "x": -1, "y": 3 },
+        { "name": "iriuchijima", "x": 1, "y": 3 },
+        { "name": "fujimoto", "x": 3, "y": 3 },
+        { "name": "kawashima", "x": 5, "y": 3 },
+
+        { "name": "ota", "x": -4, "y": 2 },
+        { "name": "ego", "x": -2, "y": 2 },
+        { "name": "kitano", "x": 2, "y": 2 },
+        { "name": "hidaka", "x": 4, "y": 2 },
+
+        { "name": "arai", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
