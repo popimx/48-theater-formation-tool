@@ -1,0 +1,186 @@
+{
+  "title": "ドント・ストップ・ミュージック",
+
+  "memo": [
+    "① 中野岡本、鈴木水野伊藤、青木詩西井北野",
+    "② 川嶋日高、藤本江籠荒井、太田青木莉入内嶋",
+    "ラストサビ前 水野鈴木伊藤、中野岡本"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ota", "x": -5, "y": 1 },
+        { "name": "rika", "x": -3, "y": 1 },
+        { "name": "ego", "x": -1, "y": 1 },
+        { "name": "hidaka", "x": 1, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 },
+        { "name": "arai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "夕月夜に無性にSo lonely 理由もなく踊りたい〜",
+      "members": [
+        { "name": "nakano", "x": -1, "y": 1 },
+        { "name": "okamoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "罪深い恋以上に非情に 激しく抱き合いたい〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "浮かぶ月のミラーボール 舞い踊る光 on the stage〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 1 },
+        { "name": "suzuki", "x": -2, "y": 1 },
+        { "name": "mizuno", "x": 0, "y": 1 },
+        { "name": "ito", "x": 2, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "今夜 奇跡を起こそうか〜",
+      "members": [
+        { "name": "rika", "x": -5.5, "y": 4 },
+        { "name": "fujimoto", "x": -2, "y": 4 },
+        { "name": "kawashima", "x": 0, "y": 4 },
+        { "name": "arai", "x": 2, "y": 4 },
+        { "name": "iriuchijima", "x": 5.5, "y": 4 },
+
+        { "name": "ota", "x": -7, "y": 3 },
+        { "name": "shiori", "x": -4, "y": 3 },
+        { "name": "ego", "x": -1, "y": 3 },
+        { "name": "nishii", "x": 1, "y": 3 },
+        { "name": "kitano", "x": 4, "y": 3 },
+        { "name": "hidaka", "x": 7, "y": 3 },
+
+        { "name": "suzuki", "x": -2.5, "y": 2 },
+        { "name": "mizuno", "x": 0, "y": 2 },
+        { "name": "ito", "x": 2.5, "y": 2 },
+
+        { "name": "nakano", "x": -1, "y": 1 },
+        { "name": "okamoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "そんな夢を見たの〜",
+      "members": [
+        { "name": "shiori", "x": -5.5, "y": 4 },
+        { "name": "mizuno", "x": -2.5, "y": 4 },
+        { "name": "nakano", "x": 0, "y": 4 },
+        { "name": "nishii", "x": 2.5, "y": 4 },
+        { "name": "kitano", "x": 5.5, "y": 4 },
+
+        { "name": "suzuki", "x": -4, "y": 3 },
+        { "name": "rika", "x": -1, "y": 3 },
+        { "name": "okamoto", "x": 1, "y": 3 },
+        { "name": "ito", "x": 4, "y": 3 },
+
+        { "name": "fujimoto", "x": -3, "y": 2 },
+        { "name": "ego", "x": 0, "y": 2 },
+        { "name": "arai", "x": 3, "y": 2 },
+
+        { "name": "ota", "x": -4.5, "y": 1 },
+        { "name": "kawashima", "x": -1.5, "y": 1 },
+        { "name": "hidaka", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "そうさ 朝日が昇るまで〜",
+      "members": [
+        { "name": "ego", "x": -1.5, "y": 5 },
+        { "name": "iriuchijima", "x": 1.5, "y": 5 },
+
+        { "name": "mizuno", "x": -3, "y": 4 },
+        { "name": "fujimoto", "x": 3, "y": 4 },
+
+        { "name": "shiori", "x": -4.5, "y": 3 },
+        { "name": "suzuki", "x": 4.5, "y": 3 },
+
+        { "name": "ito", "x": -6, "y": 2 },
+        { "name": "nishii", "x": -3.5, "y": 2 },
+        { "name": "nakano", "x": -1, "y": 2 },
+        { "name": "okamoto", "x": 1, "y": 2 },
+        { "name": "kitano", "x": 3.5, "y": 2 },
+        { "name": "arai", "x": 6, "y": 2 },
+
+        { "name": "ota", "x": -4.5, "y": 1 },
+        { "name": "kawashima", "x": -2.5, "y": 1 },
+        { "name": "hidaka", "x": 2.5, "y": 1 },
+        { "name": "rika", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今夜 奇跡を起こそうか〜",
+      "members": [
+        { "name": "rika", "x": -5.5, "y": 4 },
+        { "name": "fujimoto", "x": -2, "y": 4 },
+        { "name": "kawashima", "x": 0, "y": 4 },
+        { "name": "arai", "x": 2, "y": 4 },
+        { "name": "iriuchijima", "x": 5.5, "y": 4 },
+
+        { "name": "ota", "x": -7, "y": 3 },
+        { "name": "shiori", "x": -4, "y": 3 },
+        { "name": "ego", "x": -1, "y": 3 },
+        { "name": "nishii", "x": 1, "y": 3 },
+        { "name": "kitano", "x": 4, "y": 3 },
+        { "name": "hidaka", "x": 7, "y": 3 },
+
+        { "name": "suzuki", "x": -2.5, "y": 2 },
+        { "name": "mizuno", "x": 0, "y": 2 },
+        { "name": "ito", "x": 2.5, "y": 2 },
+
+        { "name": "nakano", "x": -1, "y": 1 },
+        { "name": "okamoto", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "夜が明けるまで〜",
+      "members": [
+        { "name": "ota", "x": -5, "y": 5 },
+        { "name": "hidaka", "x": 5, "y": 5 },
+
+        { "name": "rika", "x": -4, "y": 4 },
+        { "name": "fujimoto", "x": -2, "y": 4 },
+        { "name": "kawashima", "x": 0, "y": 4 },
+        { "name": "arai", "x": 2, "y": 4 },
+        { "name": "iriuchijima", "x": 4, "y": 4 },
+
+        { "name": "shiori", "x": -3, "y": 3 },
+        { "name": "suzuki", "x": -1, "y": 3 },
+        { "name": "ito", "x": 1, "y": 3 },
+        { "name": "nishii", "x": 3, "y": 3 },
+
+        { "name": "mizuno", "x": -2, "y": 2 },
+        { "name": "ego", "x": 0, "y": 2 },
+        { "name": "kitano", "x": 2, "y": 2 },
+
+        { "name": "nakano", "x": -1, "y": 1 },
+        { "name": "okamoto", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
