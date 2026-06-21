@@ -1,0 +1,206 @@
+{
+  "title": "瞳の中のアップル",
+
+  "memo": [
+    "① 太田、川嶋青木詩、(藤本/入内嶋)、太田",
+    "② 太田、川嶋青木詩"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "You're the Apple, love me do キミと創りたいの歴史〜",
+      "members": [
+        { "name": "fujimoto", "x": -2.5, "y": 2 },
+        { "name": "kawashima", "x": -1.25, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "shiori", "x": 1.25, "y": 2 },
+        { "name": "iriuchijima", "x": 2.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "見たことない景色 I want you!〜",
+      "members": [
+        { "name": "kawashima", "x": -1.5, "y": 2 },
+        { "name": "shiori", "x": 1.5, "y": 2 },
+
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawashima", "x": -1.5, "y": 2 },
+        { "name": "shiori", "x": 1.5, "y": 2 },
+
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "ビビ!って感じたの 気がついたらもうfall in〜",
+      "members": [
+        { "name": "fujimoto", "x": -2, "y": 3 },
+        { "name": "iriuchijima", "x": 2, "y": 3 },
+
+        { "name": "kawashima", "x": -1, "y": 2 },
+        { "name": "shiori", "x": 1, "y": 2 },
+
+        { "name": "ota", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "甘そうな この恋の中にいた〜",
+      "members": [
+        { "name": "ota", "x": 0, "y": 3 },
+
+        { "name": "fujimoto", "x": -2, "y": 2 },
+        { "name": "iriuchijima", "x": 2, "y": 2 },
+
+        { "name": "kawashima", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "もはや よもや 肩ぶつかって あとに引けないかも〜",
+      "members": [
+        { "name": "fujimoto", "x": -2, "y": 2 },
+        { "name": "ota", "x": 0, "y": 2 },
+        { "name": "iriuchijima", "x": 2, "y": 2 },
+
+        { "name": "kawashima", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ④",
+      "lyrics": "眩しい 笑顔 触れた 指が 身体中でkiss＆cry〜",
+      "members": [
+        { "name": "kawashima", "x": -1, "y": 2 },
+        { "name": "shiori", "x": 1, "y": 2 },
+
+        { "name": "fujimoto", "x": -2, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "iriuchijima", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "DADADA 大好きって言うなら ここで ここでキスしてよ〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "kawashima", "x": 3, "y": 3 },
+
+        { "name": "shiori", "x": -1.5, "y": 2 },
+        { "name": "iriuchijima", "x": 1.5, "y": 2 },
+
+        { "name": "ota", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "愛しい 愛しい キミが〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "kawashima", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "shiori", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "iriuchijima", "x": 3, "y": 3 },
+
+        { "name": "kawashima", "x": -1.5, "y": 2 },
+        { "name": "shiori", "x": 1.5, "y": 2 },
+
+        { "name": "ota", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "You're the Apple, love me do キミと奏でたいのMelody〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "iriuchijima", "x": 3, "y": 3 },
+
+        { "name": "kawashima", "x": -1.5, "y": 2 },
+        { "name": "shiori", "x": 1.5, "y": 2 },
+
+        { "name": "ota", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "重ねてくMemory I want you!〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "kawashima", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "shiori", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "DADADA 大好きって言うなら ここで ここでキスしてよ〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "kawashima", "x": 3, "y": 3 },
+
+        { "name": "shiori", "x": -1.5, "y": 2 },
+        { "name": "iriuchijima", "x": 1.5, "y": 2 },
+
+        { "name": "ota", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "愛しい 愛しい キミが〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "kawashima", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "shiori", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "DADADA 大好きって言うなら〜",
+      "members": [
+        { "name": "fujimoto", "x": -3, "y": 1 },
+        { "name": "kawashima", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0, "y": 1 },
+        { "name": "shiori", "x": 1.5, "y": 1 },
+        { "name": "iriuchijima", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
