@@ -12,60 +12,6 @@
 
   "parts": [
     {
-      "title": "1番Aメロ ①",
-      "lyrics": "それが本当の望んでいた理想？〜",
-      "members": [
-        { "name": "suzuki", "x": -7, "y": 5 },
-        { "name": "nishii", "x": 7, "y": 5 },
-
-        { "name": "mizuno", "x": -7, "y": 4 },
-        { "name": "ito", "x": -5, "y": 4 },
-        { "name": "kitano", "x": 5, "y": 4 },
-        { "name": "kawashima", "x": 7, "y": 4 },
-
-        { "name": "shiori", "x": -5, "y": 3 },
-        { "name": "nakano", "x": -3, "y": 3 },
-        { "name": "arai", "x": 3, "y": 3 },
-        { "name": "fujimoto", "x": 5, "y": 3 },
-
-        { "name": "ota", "x": -3, "y": 2 },
-        { "name": "okamoto", "x": -1, "y": 2 },
-        { "name": "iriuchijima", "x": 1, "y": 2 },
-        { "name": "hidaka", "x": 3, "y": 2 },
-
-        { "name": "rika", "x": -1, "y": 1 },
-        { "name": "ego", "x": 1, "y": 1 }
-      ]
-    },
-
-    {
-      "title": "1番Aメロ ②",
-      "lyrics": "誰も言わずに流れる〜",
-      "members": [
-        { "name": "mizuno", "x": -7, "y": 5 },
-        { "name": "kawashima", "x": 7, "y": 5 },
-
-        { "name": "suzuki", "x": -7, "y": 4 },
-        { "name": "shiori", "x": -5, "y": 4 },
-        { "name": "fujimoto", "x": 5, "y": 4 },
-        { "name": "nishii", "x": 7, "y": 4 },
-
-        { "name": "ito", "x": -5, "y": 3 },
-        { "name": "ota", "x": -3, "y": 3 },
-        { "name": "hidaka", "x": 3, "y": 3 },
-        { "name": "kitano", "x": 5, "y": 3 },
-
-        { "name": "nakano", "x": -3, "y": 2 },
-        { "name": "rika", "x": -1, "y": 2 },
-        { "name": "ego", "x": 1, "y": 2 },
-        { "name": "arai", "x": 3, "y": 2 },
-
-        { "name": "okamoto", "x": -1, "y": 1 },
-        { "name": "iriuchijima", "x": 1, "y": 1 }
-      ]
-    },
-
-    {
       "title": "1番サビ",
       "lyrics": "時間が ah ない ない 時間が ah ない ない〜",
       "members": [
