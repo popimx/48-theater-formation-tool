@@ -1,0 +1,259 @@
+{
+  "title": "君は未来に試されている",
+
+  "memo": [
+    "① 太田江籠日高、中野荒井入内嶋青木莉藤本",
+    "② 青木詩北野岡本、水野伊藤西井",
+    "鈴木太田江籠日高川嶋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -7, "y": 3 },
+        { "name": "mizuno", "x": -4.5, "y": 3 },
+        { "name": "ito", "x": -2, "y": 3 },
+        { "name": "kitano", "x": 2, "y": 3 },
+        { "name": "nishii", "x": 4.5, "y": 3 },
+        { "name": "kawashima", "x": 7, "y": 3 },
+
+        { "name": "shiori", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -3.5, "y": 2 },
+        { "name": "iriuchijima", "x": 1, "y": 2 },
+        { "name": "fujimoto", "x": 3.5, "y": 2 },
+        { "name": "okamoto", "x": 6, "y": 2 },
+
+        { "name": "arai", "x": -5, "y": 1 },
+        { "name": "ota", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2.5, "y": 1 },
+        { "name": "rika", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "もう終わりと決めつけるなよ〜",
+      "members": [
+        { "name": "ito", "x": 0, "y": 5 },
+
+        { "name": "ego", "x": -1, "y": 4 },
+        { "name": "kitano", "x": 1, "y": 4 },
+
+        { "name": "mizuno", "x": -4, "y": 3 },
+        { "name": "ota", "x": -2, "y": 3 },
+        { "name": "iriuchijima", "x": 0, "y": 3 },
+        { "name": "hidaka", "x": 2, "y": 3 },
+        { "name": "nishii", "x": 4, "y": 3 },
+
+        { "name": "shiori", "x": -7, "y": 2 },
+        { "name": "suzuki", "x": -5, "y": 2 },
+        { "name": "arai", "x": -3, "y": 2 },
+        { "name": "rika", "x": 3, "y": 2 },
+        { "name": "kawashima", "x": 5, "y": 2 },
+        { "name": "okamoto", "x": 7, "y": 2 },
+
+        { "name": "nakano", "x": -6, "y": 1 },
+        { "name": "fujimoto", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -5.5, "y": 3 },
+        { "name": "mizuno", "x": -3.5, "y": 3 },
+        { "name": "ito", "x": -1.5, "y": 3 },
+        { "name": "kitano", "x": 1.5, "y": 3 },
+        { "name": "nishii", "x": 3.5, "y": 3 },
+        { "name": "kawashima", "x": 5.5, "y": 3 },
+
+        { "name": "shiori", "x": -4.75, "y": 2 },
+        { "name": "nakano", "x": -2.75, "y": 2 },
+        { "name": "iriuchijima", "x": 0.75, "y": 2 },
+        { "name": "fujimoto", "x": 2.75, "y": 2 },
+        { "name": "okamoto", "x": 4.75, "y": 2 },
+
+        { "name": "arai", "x": -4, "y": 1 },
+        { "name": "ota", "x": -2, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2, "y": 1 },
+        { "name": "rika", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "ねえ 何度も始められるよ〜",
+      "members": [
+        { "name": "arai", "x": -5, "y": 3 },
+        { "name": "nakano", "x": -2.5, "y": 3 },
+        { "name": "iriuchijima", "x": 0, "y": 3 },
+        { "name": "fujimoto", "x": 2.5, "y": 3 },
+        { "name": "rika", "x": 5, "y": 3 },
+
+        { "name": "mizuno", "x": -6.25, "y": 2 },
+        { "name": "shiori", "x": -3.75, "y": 2 },
+        { "name": "ito", "x": -1.25, "y": 2 },
+        { "name": "kitano", "x": 1.25, "y": 2 },
+        { "name": "nishii", "x": 3.75, "y": 2 },
+        { "name": "okamoto", "x": 6.25, "y": 2 },
+
+        { "name": "suzuki", "x": -5, "y": 1 },
+        { "name": "ota", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2.5, "y": 1 },
+        { "name": "kawashima", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -5.5, "y": 3 },
+        { "name": "mizuno", "x": -3.5, "y": 3 },
+        { "name": "ito", "x": -1.5, "y": 3 },
+        { "name": "kitano", "x": 1.5, "y": 3 },
+        { "name": "nishii", "x": 3.5, "y": 3 },
+        { "name": "kawashima", "x": 5.5, "y": 3 },
+
+        { "name": "shiori", "x": -4.75, "y": 2 },
+        { "name": "nakano", "x": -2.75, "y": 2 },
+        { "name": "iriuchijima", "x": 0.75, "y": 2 },
+        { "name": "fujimoto", "x": 2.75, "y": 2 },
+        { "name": "okamoto", "x": 4.75, "y": 2 },
+
+        { "name": "arai", "x": -4, "y": 1 },
+        { "name": "ota", "x": -2, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2, "y": 1 },
+        { "name": "rika", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuno", "x": -6.5, "y": 2 },
+        { "name": "shiori", "x": -4.5, "y": 2 },
+        { "name": "arai", "x": -2.5, "y": 2 },
+        { "name": "ego", "x": -0.5, "y": 2 },
+        { "name": "rika", "x": 1.5, "y": 2 },
+        { "name": "fujimoto", "x": 3.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+        { "name": "kawashima", "x": 7.5, "y": 2 },
+
+        { "name": "suzuki", "x": -7.5, "y": 1 },
+        { "name": "ito", "x": -5.5, "y": 1 },
+        { "name": "nakano", "x": -3.5, "y": 1 },
+        { "name": "ota", "x": -1.5, "y": 1 },
+        { "name": "hidaka", "x": 0.5, "y": 1 },
+        { "name": "iriuchijima", "x": 2.5, "y": 1 },
+        { "name": "kitano", "x": 4.5, "y": 1 },
+        { "name": "nishii", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -7.5, "y": 2 },
+        { "name": "ito", "x": -5.5, "y": 2 },
+        { "name": "nakano", "x": -3.5, "y": 2 },
+        { "name": "ota", "x": -1.5, "y": 2 },
+        { "name": "hidaka", "x": 0.5, "y": 2 },
+        { "name": "iriuchijima", "x": 2.5, "y": 2 },
+        { "name": "kitano", "x": 4.5, "y": 2 },
+        { "name": "nishii", "x": 6.5, "y": 2 },
+
+        { "name": "mizuno", "x": -6.5, "y": 1 },
+        { "name": "shiori", "x": -4.5, "y": 1 },
+        { "name": "arai", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": -0.5, "y": 1 },
+        { "name": "rika", "x": 1.5, "y": 1 },
+        { "name": "fujimoto", "x": 3.5, "y": 1 },
+        { "name": "okamoto", "x": 5.5, "y": 1 },
+        { "name": "kawashima", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "mizuno", "x": -6.5, "y": 2 },
+        { "name": "shiori", "x": -4.5, "y": 2 },
+        { "name": "arai", "x": -2.5, "y": 2 },
+        { "name": "ego", "x": -0.5, "y": 2 },
+        { "name": "rika", "x": 1.5, "y": 2 },
+        { "name": "fujimoto", "x": 3.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+        { "name": "kawashima", "x": 7.5, "y": 2 },
+
+        { "name": "suzuki", "x": -7.5, "y": 1 },
+        { "name": "ito", "x": -5.5, "y": 1 },
+        { "name": "nakano", "x": -3.5, "y": 1 },
+        { "name": "ota", "x": -1.5, "y": 1 },
+        { "name": "hidaka", "x": 0.5, "y": 1 },
+        { "name": "iriuchijima", "x": 2.5, "y": 1 },
+        { "name": "kitano", "x": 4.5, "y": 1 },
+        { "name": "nishii", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ④",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -7.5, "y": 2 },
+        { "name": "ito", "x": -5.5, "y": 2 },
+        { "name": "nakano", "x": -3.5, "y": 2 },
+        { "name": "ota", "x": -1.5, "y": 2 },
+        { "name": "hidaka", "x": 0.5, "y": 2 },
+        { "name": "iriuchijima", "x": 2.5, "y": 2 },
+        { "name": "kitano", "x": 4.5, "y": 2 },
+        { "name": "nishii", "x": 6.5, "y": 2 },
+
+        { "name": "mizuno", "x": -6.5, "y": 1 },
+        { "name": "shiori", "x": -4.5, "y": 1 },
+        { "name": "arai", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": -0.5, "y": 1 },
+        { "name": "rika", "x": 1.5, "y": 1 },
+        { "name": "fujimoto", "x": 3.5, "y": 1 },
+        { "name": "okamoto", "x": 5.5, "y": 1 },
+        { "name": "kawashima", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ⑤",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -7, "y": 3 },
+        { "name": "mizuno", "x": -4.5, "y": 3 },
+        { "name": "ito", "x": -2, "y": 3 },
+        { "name": "kitano", "x": 2, "y": 3 },
+        { "name": "nishii", "x": 4.5, "y": 3 },
+        { "name": "kawashima", "x": 7, "y": 3 },
+
+        { "name": "shiori", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -3.5, "y": 2 },
+        { "name": "iriuchijima", "x": 1, "y": 2 },
+        { "name": "fujimoto", "x": 3.5, "y": 2 },
+        { "name": "okamoto", "x": 6, "y": 2 },
+
+        { "name": "arai", "x": -5, "y": 1 },
+        { "name": "ota", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "hidaka", "x": 2.5, "y": 1 },
+        { "name": "rika", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
