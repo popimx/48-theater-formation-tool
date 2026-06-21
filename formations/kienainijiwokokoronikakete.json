@@ -1,0 +1,212 @@
+{
+  "title": "消えない虹を心にかけて",
+
+  "memo": [
+    "① 川嶋西井伊藤水野鈴木、藤本入内嶋青木莉荒井中野",
+    "北野岡本青木詩、日高江籠太田",
+    "② 藤本日高江籠太田中野、岡本川嶋水野青木詩北野",
+    "西井伊藤鈴木愛、青木莉入内嶋荒井",
+    "ラストサビ前 岡本日高青木莉、太田江籠荒井"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kitano", "x": -4, "y": 3 },
+        { "name": "okamoto", "x": -2, "y": 3 },
+        { "name": "hidaka", "x": 0, "y": 3 },
+        { "name": "ota", "x": 2, "y": 3 },
+        { "name": "ego", "x": 4, "y": 3 },
+
+        { "name": "fujimoto", "x": -5, "y": 2 },
+        { "name": "iriuchijima", "x": -3, "y": 2 },
+        { "name": "rika", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "nakano", "x": 3, "y": 2 },
+        { "name": "shiori", "x": 5, "y": 2 },
+
+        { "name": "kawashima", "x": -4, "y": 1 },
+        { "name": "nishii", "x": -2, "y": 1 },
+        { "name": "ito", "x": 0, "y": 1 },
+        { "name": "mizuno", "x": 2, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "胸が高鳴る 未来はどんなに愛しい色に染まるだろう〜",
+      "members": [
+        { "name": "kawashima", "x": -5.5, "y": 3 },
+        { "name": "nishii", "x": -3, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "mizuno", "x": 3, "y": 3 },
+        { "name": "suzuki", "x": 5.5, "y": 3 },
+
+        { "name": "okamoto", "x": -6.5, "y": 2 },
+        { "name": "fujimoto", "x": -4, "y": 2 },
+        { "name": "iriuchijima", "x": -1.5, "y": 2 },
+        { "name": "nakano", "x": 1.5, "y": 2 },
+        { "name": "shiori", "x": 4, "y": 2 },
+        { "name": "kitano", "x": 6.5, "y": 2 },
+
+        { "name": "rika", "x": -5, "y": 1 },
+        { "name": "hidaka", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "ota", "x": 2.5, "y": 1 },
+        { "name": "arai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawashima", "x": -4, "y": 3 },
+        { "name": "nishii", "x": -2, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "mizuno", "x": 2, "y": 3 },
+        { "name": "suzuki", "x": 4, "y": 3 },
+
+        { "name": "okamoto", "x": -5, "y": 2 },
+        { "name": "fujimoto", "x": -3, "y": 2 },
+        { "name": "iriuchijima", "x": -1, "y": 2 },
+        { "name": "nakano", "x": 1, "y": 2 },
+        { "name": "shiori", "x": 3, "y": 2 },
+        { "name": "kitano", "x": 5, "y": 2 },
+
+        { "name": "rika", "x": -4, "y": 1 },
+        { "name": "hidaka", "x": -2, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "ota", "x": 2, "y": 1 },
+        { "name": "arai", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "前だけ見て走ってた 視線も汗も忘れるほど〜",
+      "members": [
+        { "name": "rika", "x": -4, "y": 3 },
+        { "name": "nishii", "x": -2, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "arai", "x": 2, "y": 3 },
+        { "name": "suzuki", "x": 4, "y": 3 },
+
+        { "name": "fujimoto", "x": -5, "y": 2 },
+        { "name": "hidaka", "x": -3, "y": 2 },
+        { "name": "iriuchijima", "x": -1, "y": 2 },
+        { "name": "ego", "x": 1, "y": 2 },
+        { "name": "ota", "x": 3, "y": 2 },
+        { "name": "nakano", "x": 5, "y": 2 },
+
+        { "name": "okamoto", "x": -4, "y": 1 },
+        { "name": "kawashima", "x": -2, "y": 1 },
+        { "name": "mizuno", "x": 0, "y": 1 },
+        { "name": "shiori", "x": 2, "y": 1 },
+        { "name": "kitano", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "練習 スマイル さあ行こう〜",
+      "members": [
+        { "name": "kawashima", "x": -6, "y": 3 },
+        { "name": "hidaka", "x": -4, "y": 3 },
+        { "name": "ito", "x": -2, "y": 3 },
+        { "name": "mizuno", "x": 2, "y": 3 },
+        { "name": "ego", "x": 4, "y": 3 },
+        { "name": "shiori", "x": 6, "y": 3 },
+        { "name": "kitano", "x": 8, "y": 3 },
+
+        { "name": "okamoto", "x": -7, "y": 2 },
+        { "name": "fujimoto", "x": -5, "y": 2 },
+        { "name": "nishii", "x": -3, "y": 2 },
+        { "name": "rika", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+        { "name": "nakano", "x": 5, "y": 2 },
+        { "name": "ota", "x": 7, "y": 2 },
+
+        { "name": "iriuchijima", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "胸が高鳴る 未来はどんなに愛しい色に染まるだろう〜",
+      "members": [
+        { "name": "kawashima", "x": -5.5, "y": 3 },
+        { "name": "nishii", "x": -3, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "mizuno", "x": 3, "y": 3 },
+        { "name": "suzuki", "x": 5.5, "y": 3 },
+
+        { "name": "okamoto", "x": -6.5, "y": 2 },
+        { "name": "fujimoto", "x": -4, "y": 2 },
+        { "name": "iriuchijima", "x": -1.5, "y": 2 },
+        { "name": "nakano", "x": 1.5, "y": 2 },
+        { "name": "shiori", "x": 4, "y": 2 },
+        { "name": "kitano", "x": 6.5, "y": 2 },
+
+        { "name": "rika", "x": -5, "y": 1 },
+        { "name": "hidaka", "x": -2.5, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "ota", "x": 2.5, "y": 1 },
+        { "name": "arai", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "胸が高鳴る 願いは叶うさ 今こそ壁に立ち向かえ〜",
+      "members": [
+        { "name": "fujimoto", "x": -6.5, "y": 2 },
+        { "name": "iriuchijima", "x": -4.5, "y": 2 },
+        { "name": "okamoto", "x": -2.5, "y": 2 },
+        { "name": "hidaka", "x": -0.5, "y": 2 },
+        { "name": "ota", "x": 1.5, "y": 2 },
+        { "name": "nakano", "x": 3.5, "y": 2 },
+        { "name": "mizuno", "x": 5.5, "y": 2 },
+        { "name": "kitano", "x": 7.5, "y": 2 },
+
+        { "name": "kawashima", "x": -7.5, "y": 1 },
+        { "name": "nishii", "x": -5.5, "y": 1 },
+        { "name": "ito", "x": -3.5, "y": 1 },
+        { "name": "rika", "x": -1.5, "y": 1 },
+        { "name": "ego", "x": 0.5, "y": 1 },
+        { "name": "arai", "x": 2.5, "y": 1 },
+        { "name": "shiori", "x": 4.5, "y": 1 },
+        { "name": "suzuki", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "震える手はぎゅっと繋いで〜",
+      "members": [
+        { "name": "kawashima", "x": -4, "y": 3 },
+        { "name": "nishii", "x": -2, "y": 3 },
+        { "name": "ito", "x": 0, "y": 3 },
+        { "name": "mizuno", "x": 2, "y": 3 },
+        { "name": "suzuki", "x": 4, "y": 3 },
+
+        { "name": "okamoto", "x": -5, "y": 2 },
+        { "name": "fujimoto", "x": -3, "y": 2 },
+        { "name": "iriuchijima", "x": -1, "y": 2 },
+        { "name": "nakano", "x": 1, "y": 2 },
+        { "name": "shiori", "x": 3, "y": 2 },
+        { "name": "kitano", "x": 5, "y": 2 },
+
+        { "name": "rika", "x": -4, "y": 1 },
+        { "name": "hidaka", "x": -2, "y": 1 },
+        { "name": "ego", "x": 0, "y": 1 },
+        { "name": "ota", "x": 2, "y": 1 },
+        { "name": "arai", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
