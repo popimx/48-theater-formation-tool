@@ -30,6 +30,11 @@
     "file": "stages/zuttokimiwosagashiteiru.json"
   },
   {
+    "stage": "SKE48「時間がない」",
+    "stageId": "jikanganai",
+    "file": "stages/jikanganai.json"
+  },
+  {
     "stage": "SKE48「シアターの女神」",
     "stageId": "ske48_theaternoMegami_2025",
     "file": "stages/ske48_theaternoMegami_2025.json"
