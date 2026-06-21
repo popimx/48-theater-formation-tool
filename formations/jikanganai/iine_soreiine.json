@@ -1,0 +1,190 @@
+{
+  "title": "いいね、それいいね",
+
+  "memo": [
+    "① 太田青木詩、伊藤岡本、川嶋北野水野鈴木",
+    "①サビ (鈴木)、(伊藤)、(江籠)",
+    "② 中野西井、藤本/江籠、荒井入内嶋青木莉日高",
+    "②サビ (西井)、(日高)",
+    "ラストサビ前 川嶋水野鈴木、北野伊藤岡本",
+    "ラストサビ 藤本中野西井、青木詩太田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "arai", "x": -7, "y": 3 },
+        { "name": "iriuchijima", "x": -5, "y": 3 },
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "nakano", "x": -1, "y": 3 },
+        { "name": "nishii", "x": 1, "y": 3 },
+        { "name": "ego", "x": 3, "y": 3 },
+        { "name": "rika", "x": 5, "y": 3 },
+        { "name": "hidaka", "x": 7, "y": 3 },
+
+        { "name": "kawashima", "x": -6, "y": 2 },
+        { "name": "kitano", "x": -2, "y": 2 },
+        { "name": "mizuno", "x": 2, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "ito", "x": -4, "y": 1 },
+        { "name": "ota", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "君のためなら どんなことでも〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 4 },
+        { "name": "iriuchijima", "x": -2, "y": 4 },
+        { "name": "ego", "x": 2, "y": 4 },
+        { "name": "hidaka", "x": 4, "y": 4 },
+
+        { "name": "fujimoto", "x": -5, "y": 3 },
+        { "name": "kawashima", "x": -3, "y": 3 },
+        { "name": "mizuno", "x": 3, "y": 3 },
+        { "name": "nishii", "x": 5, "y": 3 },
+
+        { "name": "arai", "x": -6, "y": 2 },
+        { "name": "ito", "x": -2, "y": 2 },
+        { "name": "okamoto", "x": 2, "y": 2 },
+        { "name": "rika", "x": 6, "y": 2 },
+
+        { "name": "kitano", "x": -4, "y": 1 },
+        { "name": "ota", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 },
+        { "name": "suzuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "arai", "x": -7, "y": 3 },
+        { "name": "iriuchijima", "x": -5, "y": 3 },
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "nakano", "x": -1, "y": 3 },
+        { "name": "nishii", "x": 1, "y": 3 },
+        { "name": "ego", "x": 3, "y": 3 },
+        { "name": "rika", "x": 5, "y": 3 },
+        { "name": "hidaka", "x": 7, "y": 3 },
+
+        { "name": "kawashima", "x": -6, "y": 2 },
+        { "name": "kitano", "x": -2, "y": 2 },
+        { "name": "mizuno", "x": 2, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "ito", "x": -4, "y": 1 },
+        { "name": "ota", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawashima", "x": -4.5, "y": 4 },
+        { "name": "iriuchijima", "x": -1.5, "y": 4 },
+        { "name": "rika", "x": 1.5, "y": 4 },
+        { "name": "suzuki", "x": 4.5, "y": 4 },
+
+        { "name": "arai", "x": -4.5, "y": 3 },
+        { "name": "fujimoto", "x": -1.5, "y": 3 },
+        { "name": "ego", "x": 1.5, "y": 3 },
+        { "name": "hidaka", "x": 4.5, "y": 3 },
+
+        { "name": "ito", "x": -4.5, "y": 2 },
+        { "name": "nakano", "x": -1.5, "y": 2 },
+        { "name": "nishii", "x": 1.5, "y": 2 },
+        { "name": "okamoto", "x": 4.5, "y": 2 },
+
+        { "name": "ota", "x": -4.5, "y": 1 },
+        { "name": "kitano", "x": -1.5, "y": 1 },
+        { "name": "mizuno", "x": 1.5, "y": 1 },
+        { "name": "shiori", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawashima", "x": -7, "y": 3 },
+        { "name": "ito", "x": -5, "y": 3 },
+        { "name": "kitano", "x": -3, "y": 3 },
+        { "name": "ota", "x": -1, "y": 3 },
+        { "name": "shiori", "x": 1, "y": 3 },
+        { "name": "mizuno", "x": 3, "y": 3 },
+        { "name": "okamoto", "x": 5, "y": 3 },
+        { "name": "suzuki", "x": 7, "y": 3 },
+
+        { "name": "fujimoto", "x": -6, "y": 2 },
+        { "name": "arai", "x": -2, "y": 2 },
+        { "name": "hidaka", "x": 2, "y": 2 },
+        { "name": "ego", "x": 6, "y": 2 },
+
+        { "name": "nakano", "x": -4, "y": 1 },
+        { "name": "iriuchijima", "x": -1, "y": 1 },
+        { "name": "rika", "x": 1, "y": 1 },
+        { "name": "nishii", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "いいねいいねそれいいね 弱さも涙も強がりね〜",
+      "members": [
+        { "name": "arai", "x": -7, "y": 3 },
+        { "name": "iriuchijima", "x": -5, "y": 3 },
+        { "name": "fujimoto", "x": -3, "y": 3 },
+        { "name": "nakano", "x": -1, "y": 3 },
+        { "name": "nishii", "x": 1, "y": 3 },
+        { "name": "ego", "x": 3, "y": 3 },
+        { "name": "rika", "x": 5, "y": 3 },
+        { "name": "hidaka", "x": 7, "y": 3 },
+
+        { "name": "kawashima", "x": -6, "y": 2 },
+        { "name": "kitano", "x": -2, "y": 2 },
+        { "name": "mizuno", "x": 2, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "ito", "x": -4, "y": 1 },
+        { "name": "ota", "x": -1, "y": 1 },
+        { "name": "shiori", "x": 1, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nishii", "x": -6.5, "y": 2 },
+        { "name": "okamoto", "x": -4.5, "y": 2 },
+        { "name": "iriuchijima", "x": -2.5, "y": 2 },
+        { "name": "rika", "x": -0.5, "y": 2 },
+        { "name": "ego", "x": 1.5, "y": 2 },
+        { "name": "nakano", "x": 3.5, "y": 2 },
+        { "name": "ito", "x": 5.5, "y": 2 },
+        { "name": "suzuki", "x": 7.5, "y": 2 },
+
+        { "name": "kawashima", "x": -7.5, "y": 1 },
+        { "name": "kitano", "x": -5.5, "y": 1 },
+        { "name": "fujimoto", "x": -3.5, "y": 1 },
+        { "name": "hidaka", "x": -1.5, "y": 1 },
+        { "name": "ota", "x": 0.5, "y": 1 },
+        { "name": "arai", "x": 2.5, "y": 1 },
+        { "name": "shiori", "x": 4.5, "y": 1 },
+        { "name": "mizuno", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
