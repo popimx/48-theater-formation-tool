@@ -52,8 +52,8 @@
         { "name": "aikawa", "x": 5, "y": 3 },
 
         { "name": "kurashima", "x": -4, "y": 2 },
-        { "name": "takahata", "x": -2, "y": 2 },
-        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "takahata", "x": -1.5, "y": 2 },
+        { "name": "sato", "x": 1.5, "y": 2 },
         { "name": "kamata", "x": 4, "y": 2 },
 
         { "name": "suenaga", "x": -3, "y": 1 },
@@ -78,8 +78,8 @@
         { "name": "aikawa", "x": 5, "y": 3 },
 
         { "name": "kurashima", "x": -4, "y": 2 },
-        { "name": "takahata", "x": -2, "y": 2 },
-        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "takahata", "x": -1.5, "y": 2 },
+        { "name": "sato", "x": 1.5, "y": 2 },
         { "name": "kamata", "x": 4, "y": 2 },
 
         { "name": "suenaga", "x": -3, "y": 1 },
@@ -104,8 +104,8 @@
         { "name": "aikawa", "x": 5, "y": 3 },
 
         { "name": "kurashima", "x": -4, "y": 2 },
-        { "name": "takahata", "x": -2, "y": 2 },
-        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "takahata", "x": -1.5, "y": 2 },
+        { "name": "sato", "x": 1.5, "y": 2 },
         { "name": "kamata", "x": 4, "y": 2 },
 
         { "name": "suenaga", "x": -3, "y": 1 },
