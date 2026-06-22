@@ -1,0 +1,90 @@
+{
+  "title": "Long long way home",
+
+  "memo": [
+    "① 林倉島、熊崎/福士、末永/澤田、相川/鈴木",
+    "② 佐藤池田、谷鎌田、菅原斉藤、高畑井田",
+    "ラストサビ前 林"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "それじゃまた明日と手を振って〜",
+      "members": [
+        { "name": "sugawara", "x": -6, "y": 5 },
+        { "name": "takahata", "x": 0, "y": 5 },
+        { "name": "ida", "x": 6, "y": 5 },
+
+        { "name": "tani", "x": -7, "y": 4 },
+        { "name": "kamata", "x": 7, "y": 4 },
+
+        { "name": "sato", "x": -8, "y": 3 },
+        { "name": "aikawa", "x": -3, "y": 3 },
+        { "name": "saito", "x": 0, "y": 3 },
+        { "name": "suzuki", "x": 3, "y": 3 },
+        { "name": "ikeda", "x": 8, "y": 3 },
+
+        { "name": "kumazaki", "x": -4, "y": 2 },
+        { "name": "fukushi", "x": 4, "y": 2 },
+
+        { "name": "suenaga", "x": -5, "y": 1 },
+        { "name": "hayashi", "x": -1, "y": 1 },
+        { "name": "kurashima", "x": 1, "y": 1 },
+        { "name": "sawada", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "切なくなるのだろう 僕らは〜",
+      "members": [
+        { "name": "tani", "x": -7, "y": 4 },
+        { "name": "saito", "x": -3, "y": 4 },
+        { "name": "takahata", "x": 3, "y": 4 },
+        { "name": "kamata", "x": 7, "y": 4 },
+
+        { "name": "sugawara", "x": -8, "y": 3 },
+        { "name": "sato", "x": -5, "y": 3 },
+        { "name": "ikeda", "x": 5, "y": 3 },
+        { "name": "ida", "x": 8, "y": 3 },
+
+        { "name": "aikawa", "x": -6, "y": 2 },
+        { "name": "suenaga", "x": -2, "y": 2 },
+        { "name": "sawada", "x": 2, "y": 2 },
+        { "name": "suzuki", "x": 6, "y": 2 },
+
+        { "name": "kumazaki", "x": -4, "y": 1 },
+        { "name": "hayashi", "x": -1, "y": 1 },
+        { "name": "kurashima", "x": 1, "y": 1 },
+        { "name": "fukushi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sugawara", "x": -6.5, "y": 4 },
+        { "name": "tani", "x": -2.5, "y": 4 },
+        { "name": "kamata", "x": 2.5, "y": 4 },
+        { "name": "ida", "x": 6.5, "y": 4 },
+
+        { "name": "saito", "x": -4.5, "y": 3 },
+        { "name": "sato", "x": -1, "y": 3 },
+        { "name": "ikeda", "x": 1, "y": 3 },
+        { "name": "takahata", "x": 4.5, "y": 3 },
+
+        { "name": "aikawa", "x": -7.5, "y": 2 },
+        { "name": "suenaga", "x": -3.5, "y": 2 },
+        { "name": "sawada", "x": 3.5, "y": 2 },
+        { "name": "suzuki", "x": 7.5, "y": 2 },
+
+        { "name": "kumazaki", "x": -5.5, "y": 1 },
+        { "name": "hayashi", "x": -1.5, "y": 1 },
+        { "name": "kurashima", "x": 1.5, "y": 1 },
+        { "name": "fukushi", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
