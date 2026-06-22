@@ -1,0 +1,236 @@
+{
+  "title": "貴方へ",
+
+  "memo": [
+    "① 末永熊崎林、鎌田佐藤鈴木、井田高畑菅原倉島",
+    "② 谷斉藤福士、池田相川澤田、佐藤菅原熊崎末永林"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "世界で1番美しい言葉〜",
+      "members": [
+        { "name": "sawada", "x": -7.5, "y": 2 },
+        { "name": "takahata", "x": -5.5, "y": 2 },
+        { "name": "ida", "x": -3.5, "y": 2 },
+        { "name": "tani", "x": -1.5, "y": 2 },
+        { "name": "fukushi", "x": 0.5, "y": 2 },
+        { "name": "kamata", "x": 2.5, "y": 2 },
+        { "name": "hayashi", "x": 4.5, "y": 2 },
+        { "name": "kurashima", "x": 6.5, "y": 2 },
+
+        { "name": "suenaga", "x": -6.5, "y": 1 },
+        { "name": "saito", "x": -4.5, "y": 1 },
+        { "name": "aikawa", "x": -2.5, "y": 1 },
+        { "name": "sato", "x": -0.5, "y": 1 },
+        { "name": "kumazaki", "x": 1.5, "y": 1 },
+        { "name": "sugawara", "x": 3.5, "y": 1 },
+        { "name": "suzuki", "x": 5.5, "y": 1 },
+        { "name": "ikeda", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kamata", "x": 0, "y": 4 },
+
+        { "name": "sawada", "x": -7, "y": 3 },
+        { "name": "tani", "x": -5, "y": 3 },
+        { "name": "saito", "x": -1, "y": 3 },
+        { "name": "sato", "x": 1, "y": 3 },
+        { "name": "sugawara", "x": 5, "y": 3 },
+        { "name": "suzuki", "x": 7, "y": 3 },
+
+        { "name": "aikawa", "x": -8, "y": 2 },
+        { "name": "takahata", "x": -4, "y": 2 },
+        { "name": "suenaga", "x": -2, "y": 2 },
+        { "name": "hayashi", "x": 2, "y": 2 },
+        { "name": "ikeda", "x": 4, "y": 2 },
+        { "name": "fukushi", "x": 8, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "kurashima", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "世界で1番泣いていた時 見つけてくれた〜",
+      "members": [
+        { "name": "tani", "x": -4.5, "y": 4 },
+        { "name": "sawada", "x": -1.5, "y": 4 },
+        { "name": "ikeda", "x": 1.5, "y": 4 },
+        { "name": "fukushi", "x": 4.5, "y": 4 },
+
+        { "name": "ida", "x": -6, "y": 3 },
+        { "name": "suzuki", "x": -3, "y": 3 },
+        { "name": "aikawa", "x": 0, "y": 3 },
+        { "name": "kurashima", "x": 3, "y": 3 },
+        { "name": "saito", "x": 6, "y": 3 },
+
+        { "name": "takahata", "x": -4, "y": 2 },
+        { "name": "sugawara", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "kamata", "x": 4, "y": 2 },
+
+        { "name": "suenaga", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hayashi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "世界で1番大きな愛をくれる貴方へ〜",
+      "members": [
+        { "name": "suzuki", "x": -2.5, "y": 5 },
+        { "name": "sato", "x": 0, "y": 5 },
+        { "name": "kamata", "x": 2.5, "y": 5 },
+
+        { "name": "ida", "x": -4.5, "y": 4 },
+        { "name": "suenaga", "x": -1.5, "y": 4 },
+        { "name": "hayashi", "x": 1.5, "y": 4 },
+        { "name": "kurashima", "x": 4.5, "y": 4 },
+
+        { "name": "sawada", "x": -6.5, "y": 3 },
+        { "name": "takahata", "x": -3.5, "y": 3 },
+        { "name": "kumazaki", "x": 0, "y": 3 },
+        { "name": "sugawara", "x": 3.5, "y": 3 },
+        { "name": "fukushi", "x": 6.5, "y": 3 },
+
+        { "name": "tani", "x": -5.5, "y": 2 },
+        { "name": "saito", "x": 5.5, "y": 2 },
+
+        { "name": "aikawa", "x": -7.5, "y": 1 },
+        { "name": "ikeda", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "心からの ありがとう〜",
+      "members": [
+        { "name": "sawada", "x": -6.5, "y": 2 },
+        { "name": "tani", "x": -4.5, "y": 2 },
+        { "name": "suzuki", "x": -2.5, "y": 2 },
+        { "name": "sato", "x": -0.5, "y": 2 },
+        { "name": "sugawara", "x": 1.5, "y": 2 },
+        { "name": "kurashima", "x": 3.5, "y": 2 },
+        { "name": "fukushi", "x": 5.5, "y": 2 },
+        { "name": "ikeda", "x": 7.5, "y": 2 },
+
+        { "name": "aikawa", "x": -7.5, "y": 1 },
+        { "name": "ida", "x": -5.5, "y": 1 },
+        { "name": "takahata", "x": -3.5, "y": 1 },
+        { "name": "suenaga", "x": -1.5, "y": 1 },
+        { "name": "kumazaki", "x": 0.5, "y": 1 },
+        { "name": "hayashi", "x": 2.5, "y": 1 },
+        { "name": "kamata", "x": 4.5, "y": 1 },
+        { "name": "saito", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sawada", "x": -6.5, "y": 2 },
+        { "name": "tani", "x": -4.5, "y": 2 },
+        { "name": "suzuki", "x": -2.5, "y": 2 },
+        { "name": "sato", "x": -0.5, "y": 2 },
+        { "name": "sugawara", "x": 1.5, "y": 2 },
+        { "name": "kurashima", "x": 3.5, "y": 2 },
+        { "name": "fukushi", "x": 5.5, "y": 2 },
+        { "name": "ikeda", "x": 7.5, "y": 2 },
+
+        { "name": "aikawa", "x": -7.5, "y": 1 },
+        { "name": "ida", "x": -5.5, "y": 1 },
+        { "name": "takahata", "x": -3.5, "y": 1 },
+        { "name": "suenaga", "x": -1.5, "y": 1 },
+        { "name": "kumazaki", "x": 0.5, "y": 1 },
+        { "name": "hayashi", "x": 2.5, "y": 1 },
+        { "name": "kamata", "x": 4.5, "y": 1 },
+        { "name": "saito", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": 0, "y": 4 },
+
+        { "name": "sawada", "x": -7, "y": 3 },
+        { "name": "tani", "x": -5, "y": 3 },
+        { "name": "suzuki", "x": -1, "y": 3 },
+        { "name": "sugawara", "x": 1, "y": 3 },
+        { "name": "kurashima", "x": 5, "y": 3 },
+        { "name": "fukushi", "x": 7, "y": 3 },
+
+        { "name": "aikawa", "x": -8, "y": 2 },
+        { "name": "takahata", "x": -4, "y": 2 },
+        { "name": "suenaga", "x": -2, "y": 2 },
+        { "name": "hayashi", "x": 2, "y": 2 },
+        { "name": "kamata", "x": 4, "y": 2 },
+        { "name": "ikeda", "x": 8, "y": 2 },
+
+        { "name": "ida", "x": -6, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "saito", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "愛も夢も時間も全部 貴方が私にくれた宝物〜",
+      "members": [
+        { "name": "ikeda", "x": -5, "y": 4 },
+        { "name": "tani", "x": -3, "y": 4 },
+        { "name": "suzuki", "x": -1, "y": 4 },
+        { "name": "kamata", "x": 1, "y": 4 },
+        { "name": "ida", "x": 3, "y": 4 },
+        { "name": "sawada", "x": 5, "y": 4 },
+
+        { "name": "aikawa", "x": -4, "y": 3 },
+        { "name": "saito", "x": -2, "y": 3 },
+        { "name": "takahata", "x": 0, "y": 3 },
+        { "name": "kurashima", "x": 2, "y": 3 },
+        { "name": "fukushi", "x": 4, "y": 3 },
+
+        { "name": "sato", "x": -6, "y": 1 },
+        { "name": "sugawara", "x": -3, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "suenaga", "x": 3, "y": 1 },
+        { "name": "hayashi", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "世界で1番孤独だった日 寄り添ってくれた〜",
+      "members": [
+        { "name": "tani", "x": -6.5, "y": 2 },
+        { "name": "sugawara", "x": -4.5, "y": 2 },
+        { "name": "ikeda", "x": -2.5, "y": 2 },
+        { "name": "sato", "x": -0.5, "y": 2 },
+        { "name": "hayashi", "x": 1.5, "y": 2 },
+        { "name": "suzuki", "x": 3.5, "y": 2 },
+        { "name": "ida", "x": 5.5, "y": 2 },
+        { "name": "sawada", "x": 7.5, "y": 2 },
+
+        { "name": "saito", "x": -7.5, "y": 1 },
+        { "name": "takahata", "x": -5.5, "y": 1 },
+        { "name": "aikawa", "x": -3.5, "y": 1 },
+        { "name": "suenaga", "x": -1.5, "y": 1 },
+        { "name": "kumazaki", "x": 0.5, "y": 1 },
+        { "name": "kamata", "x": 2.5, "y": 1 },
+        { "name": "kurashima", "x": 4.5, "y": 1 },
+        { "name": "fukushi", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
