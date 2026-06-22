@@ -1,0 +1,166 @@
+{
+  "title": "声出していこーぜ!!!",
+
+  "memo": [
+    "① 末永熊崎林、菅原佐藤、倉島高畑鎌田",
+    "鈴木斉藤井田、池田福士谷相川澤田",
+    "② 鎌田、末永、菅原、高畑",
+    "ラストサビ 佐藤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "女の子はおしとやかがいいとかまじ時代錯誤 うぉい〜",
+      "members": [
+        { "name": "ikeda", "x": -2.5, "y": 5 },
+        { "name": "sawada", "x": 2.5, "y": 5 },
+
+        { "name": "suzuki", "x": -2.5, "y": 4 },
+        { "name": "aikawa", "x": 2.5, "y": 4 },
+
+        { "name": "kurashima", "x": -2.5, "y": 3 },
+        { "name": "tani", "x": 2.5, "y": 3 },
+
+        { "name": "fukushi", "x": -5, "y": 2 },
+        { "name": "takahata", "x": -2.5, "y": 2 },
+        { "name": "saito", "x": 0, "y": 2 },
+        { "name": "kamata", "x": 2.5, "y": 2 },
+        { "name": "ida", "x": 5, "y": 2 },
+
+        { "name": "suenaga", "x": -5, "y": 1 },
+        { "name": "sugawara", "x": -2.5, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "sato", "x": 2.5, "y": 1 },
+        { "name": "hayashi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "声出していこーぜ！ 人生は一度だ〜",
+      "members": [
+        { "name": "ikeda", "x": -6, "y": 4 },
+        { "name": "saito", "x": -3.5, "y": 4 },
+        { "name": "suzuki", "x": -1, "y": 4 },
+        { "name": "ida", "x": 1, "y": 4 },
+        { "name": "tani", "x": 3.5, "y": 4 },
+        { "name": "sawada", "x": 6, "y": 4 },
+
+        { "name": "fukushi", "x": -5, "y": 3 },
+        { "name": "sugawara", "x": 0, "y": 3 },
+        { "name": "aikawa", "x": 5, "y": 3 },
+
+        { "name": "kurashima", "x": -4, "y": 2 },
+        { "name": "takahata", "x": -2, "y": 2 },
+        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "kamata", "x": 4, "y": 2 },
+
+        { "name": "suenaga", "x": -3, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hayashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "SKE！〜",
+      "members": [
+        { "name": "ikeda", "x": -6, "y": 4 },
+        { "name": "tani", "x": -3.5, "y": 4 },
+        { "name": "suzuki", "x": -1, "y": 4 },
+        { "name": "ida", "x": 1, "y": 4 },
+        { "name": "saito", "x": 3.5, "y": 4 },
+        { "name": "sawada", "x": 6, "y": 4 },
+
+        { "name": "fukushi", "x": -5, "y": 3 },
+        { "name": "sugawara", "x": 0, "y": 3 },
+        { "name": "aikawa", "x": 5, "y": 3 },
+
+        { "name": "kurashima", "x": -4, "y": 2 },
+        { "name": "takahata", "x": -2, "y": 2 },
+        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "kamata", "x": 4, "y": 2 },
+
+        { "name": "suenaga", "x": -3, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hayashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "だって 一緒に夢の先へ 駆け抜けたい！〜",
+      "members": [
+        { "name": "ikeda", "x": -6, "y": 4 },
+        { "name": "tani", "x": -3.5, "y": 4 },
+        { "name": "suzuki", "x": -1, "y": 4 },
+        { "name": "ida", "x": 1, "y": 4 },
+        { "name": "saito", "x": 3.5, "y": 4 },
+        { "name": "sawada", "x": 6, "y": 4 },
+
+        { "name": "fukushi", "x": -5, "y": 3 },
+        { "name": "sugawara", "x": 0, "y": 3 },
+        { "name": "aikawa", "x": 5, "y": 3 },
+
+        { "name": "kurashima", "x": -4, "y": 2 },
+        { "name": "takahata", "x": -2, "y": 2 },
+        { "name": "sato", "x": 2, "y": 2 },
+        { "name": "kamata", "x": 4, "y": 2 },
+
+        { "name": "suenaga", "x": -3, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hayashi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ikeda", "x": -5.25, "y": 3 },
+        { "name": "fukushi", "x": -3.75, "y": 3 },
+        { "name": "tani", "x": -2.25, "y": 3 },
+        { "name": "suzuki", "x": -0.75, "y": 3 },
+        { "name": "ida", "x": 0.75, "y": 3 },
+        { "name": "saito", "x": 2.25, "y": 3 },
+        { "name": "aikawa", "x": 3.75, "y": 3 },
+        { "name": "sawada", "x": 5.25, "y": 3 },
+
+        { "name": "kurashima", "x": -5.25, "y": 2 },
+        { "name": "takahata", "x": -3.75, "y": 2 },
+        { "name": "sugawara", "x": -2.25, "y": 2 },
+        { "name": "suenaga", "x": -0.75, "y": 2 },
+        { "name": "kumazaki", "x": 0.75, "y": 2 },
+        { "name": "hayashi", "x": 2.25, "y": 2 },
+        { "name": "sato", "x": 3.75, "y": 2 },
+        { "name": "kamata", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "声出していこーぜ！ 叶えたいから めちゃ大声で叫ぶんだ〜",
+      "members": [
+        { "name": "ikeda", "x": -6.5, "y": 3 },
+        { "name": "fukushi", "x": -4, "y": 3 },
+        { "name": "tani", "x": -1.5, "y": 3 },
+        { "name": "saito", "x": 1.5, "y": 3 },
+        { "name": "aikawa", "x": 4, "y": 3 },
+        { "name": "sawada", "x": 6.5, "y": 3 },
+
+        { "name": "suzuki", "x": -5.75, "y": 2 },
+        { "name": "kurashima", "x": -3.25, "y": 2 },
+        { "name": "takahata", "x": -0.75, "y": 2 },
+        { "name": "kamata", "x": 3.25, "y": 2 },
+        { "name": "ida", "x": 5.75, "y": 2 },
+
+        { "name": "sato", "x": -5, "y": 1 },
+        { "name": "suenaga", "x": -2.5, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "hayashi", "x": 2.5, "y": 1 },
+        { "name": "sugawara", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
