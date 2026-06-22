@@ -1,0 +1,84 @@
+{
+  "title": "あなたへ",
+
+  "memo": [
+    "① 高畑菅原佐藤、鎌田倉島鈴木、池田相川澤田",
+    "斉藤井田谷福士",
+    "ラストサビ前 熊崎林末永"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "saito", "x": -6, "y": 3 },
+        { "name": "kurashima", "x": -4, "y": 3 },
+        { "name": "kamata", "x": -2, "y": 3 },
+        { "name": "aikawa", "x": 0, "y": 3 },
+        { "name": "sawada", "x": 2, "y": 3 },
+        { "name": "fukushi", "x": 4, "y": 3 },
+        { "name": "suenaga", "x": 6, "y": 3 },
+
+        { "name": "ida", "x": -3, "y": 2 },
+        { "name": "suzuki", "x": -1, "y": 2 },
+        { "name": "ikeda", "x": 1, "y": 2 },
+        { "name": "tani", "x": 3, "y": 2 },
+
+        { "name": "sugawara", "x": -4, "y": 1 },
+        { "name": "takahata", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "sato", "x": 2, "y": 1 },
+        { "name": "hayashi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "世界で1番泣いていた時 見つけてくれた〜",
+      "members": [
+        { "name": "takahata", "x": -6.5, "y": 2 },
+        { "name": "sugawara", "x": -4.5, "y": 2 },
+        { "name": "ida", "x": -2.5, "y": 2 },
+        { "name": "tani", "x": -0.5, "y": 2 },
+        { "name": "aikawa", "x": 1.5, "y": 2 },
+        { "name": "kurashima", "x": 3.5, "y": 2 },
+        { "name": "sawada", "x": 5.5, "y": 2 },
+        { "name": "suenaga", "x": 7.5, "y": 2 },
+
+        { "name": "ikeda", "x": -7.5, "y": 1 },
+        { "name": "saito", "x": -5.5, "y": 1 },
+        { "name": "sato", "x": -3.5, "y": 1 },
+        { "name": "kumazaki", "x": -1.5, "y": 1 },
+        { "name": "kamata", "x": 0.5, "y": 1 },
+        { "name": "fukushi", "x": 2.5, "y": 1 },
+        { "name": "suzuki", "x": 4.5, "y": 1 },
+        { "name": "hayashi", "x": 6.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "世界で1番泣いていた時 見つけてくれた〜",
+      "members": [
+        { "name": "ida", "x": -6.5, "y": 2 },
+        { "name": "tani", "x": -4.5, "y": 2 },
+        { "name": "takahata", "x": -2.5, "y": 2 },
+        { "name": "sugawara", "x": -0.5, "y": 2 },
+        { "name": "sawada", "x": 1.5, "y": 2 },
+        { "name": "aikawa", "x": 3.5, "y": 2 },
+        { "name": "kurashima", "x": 5.5, "y": 2 },
+        { "name": "suenaga", "x": 7.5, "y": 2 },
+
+        { "name": "kumazaki", "x": -7.5, "y": 1 },
+        { "name": "hayashi", "x": -5.5, "y": 1 },
+        { "name": "ikeda", "x": -3.5, "y": 1 },
+        { "name": "saito", "x": -1.5, "y": 1 },
+        { "name": "sato", "x": 0.5, "y": 1 },
+        { "name": "kamata", "x": 2.5, "y": 1 },
+        { "name": "fukushi", "x": 4.5, "y": 1 },
+        { "name": "suzuki", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
