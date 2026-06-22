@@ -1,0 +1,305 @@
+{
+  "title": "誰しもいつか止まる心臓を",
+
+  "memo": [
+    "① 福士/鎌田、谷/斉藤",
+    "倉島佐藤林 (相川/熊崎)、倉島熊崎佐藤相川林",
+    "② 澤田菅原、池田高畑",
+    "井田鎌田末永 (鈴木佐藤)、鈴木佐藤井田鎌田末永",
+    "ラストサビ前 斉藤鎌田福士",
+    "ラストサビ 佐藤、倉島佐藤谷、鎌田佐藤"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "suenaga", "x": -2, "y": 2 },
+        { "name": "suzuki", "x": 0, "y": 2 },
+        { "name": "takahata", "x": 2, "y": 2 },
+
+        { "name": "ikeda", "x": -3, "y": 1 },
+        { "name": "sawada", "x": -1, "y": 1 },
+        { "name": "ida", "x": 1, "y": 1 },
+        { "name": "sugawara", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -1.5, "y": 4 },
+        { "name": "suenaga", "x": 1.5, "y": 4 },
+
+        { "name": "ikeda", "x": -4, "y": 3 },
+        { "name": "sugawara", "x": 4, "y": 3 },
+
+        { "name": "sawada", "x": -2, "y": 1 },
+        { "name": "takahata", "x": 2, "y": 1 },
+
+        { "name": "ida", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "この選択肢 まだ不安だけど〜",
+      "members": [
+        { "name": "kamata", "x": -3, "y": 2 },
+        { "name": "saito", "x": -1, "y": 2 },
+        { "name": "tani", "x": 1, "y": 2 },
+        { "name": "fukushi", "x": 3, "y": 2 },
+
+        { "name": "kurashima", "x": -4, "y": 1 },
+        { "name": "kumazaki", "x": -2, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "aikawa", "x": 2, "y": 1 },
+        { "name": "hayashi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "誰しも いつか止まる心臓を 今 熱く 強く 動かせ〜",
+      "members": [
+        { "name": "suzuki", "x": -7.5, "y": 5 },
+        { "name": "ikeda", "x": -3.5, "y": 5 },
+        { "name": "kamata", "x": 0, "y": 5 },
+        { "name": "sugawara", "x": 3.5, "y": 5 },
+        { "name": "suenaga", "x": 7.5, "y": 5 },
+
+        { "name": "ida", "x": -5.5, "y": 4 },
+        { "name": "sawada", "x": -1.5, "y": 4 },
+        { "name": "aikawa", "x": 1.5, "y": 4 },
+        { "name": "takahata", "x": 5.5, "y": 4 },
+
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+
+        { "name": "kurashima", "x": -4.5, "y": 2 },
+        { "name": "fukushi", "x": 4.5, "y": 2 },
+
+        { "name": "saito", "x": -6, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "tani", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "臆病風に 負けそうになっても 後悔だけはしたくないから〜",
+      "members": [
+        { "name": "suzuki", "x": -3, "y": 5 },
+        { "name": "kamata", "x": 0, "y": 5 },
+        { "name": "suenaga", "x": 3, "y": 5 },
+
+        { "name": "sawada", "x": -4, "y": 4 },
+        { "name": "ida", "x": -2, "y": 4 },
+        { "name": "takahata", "x": 2, "y": 4 },
+        { "name": "aikawa", "x": 4, "y": 4 },
+
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": -1, "y": 3 },
+        { "name": "sugawara", "x": 1, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "sato", "x": 0, "y": 2 },
+        { "name": "fukushi", "x": 2, "y": 2 },
+
+        { "name": "saito", "x": -1, "y": 1 },
+        { "name": "tani", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "強がって転んで立ち上がって それが「生きる」ってことだ〜",
+      "members": [
+        { "name": "kamata", "x": 0, "y": 5 },
+
+        { "name": "sawada", "x": -4, "y": 4 },
+        { "name": "aikawa", "x": 4, "y": 4 },
+
+        { "name": "suzuki", "x": -6.5, "y": 3 },
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+        { "name": "suenaga", "x": 6.5, "y": 3 },
+
+        { "name": "ida", "x": -5.5, "y": 2 },
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "sato", "x": 0, "y": 2 },
+        { "name": "fukushi", "x": 2, "y": 2 },
+        { "name": "takahata", "x": 5.5, "y": 2 },
+
+        { "name": "ikeda", "x": -4.5, "y": 1 },
+        { "name": "saito", "x": -1, "y": 1 },
+        { "name": "tani", "x": 1, "y": 1 },
+        { "name": "sugawara", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "絶対 自分を誇れるように〜",
+      "members": [
+        { "name": "sawada", "x": -4, "y": 5 },
+        { "name": "kamata", "x": 0, "y": 5 },
+        { "name": "aikawa", "x": 4, "y": 5 },
+
+        { "name": "kumazaki", "x": -3, "y": 4 },
+        { "name": "hayashi", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -6.5, "y": 3 },
+        { "name": "kurashima", "x": -2, "y": 3 },
+        { "name": "fukushi", "x": 2, "y": 3 },
+        { "name": "suenaga", "x": 6.5, "y": 3 },
+
+        { "name": "ida", "x": -5.5, "y": 2 },
+        { "name": "saito", "x": -1, "y": 2 },
+        { "name": "tani", "x": 1, "y": 2 },
+        { "name": "takahata", "x": 5.5, "y": 2 },
+
+        { "name": "ikeda", "x": -4.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "sugawara", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tani", "x": -3, "y": 4 },
+        { "name": "fukushi", "x": -1, "y": 4 },
+        { "name": "hayashi", "x": 1, "y": 4 },
+        { "name": "aikawa", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -3, "y": 3 },
+        { "name": "kumazaki", "x": -1, "y": 3 },
+        { "name": "kurashima", "x": 1, "y": 3 },
+        { "name": "kamata", "x": 3, "y": 3 },
+
+        { "name": "sugawara", "x": -3, "y": 2 },
+        { "name": "sato", "x": -1, "y": 2 },
+        { "name": "suenaga", "x": 1, "y": 2 },
+        { "name": "takahata", "x": 3, "y": 2 },
+
+        { "name": "sawada", "x": -3, "y": 1 },
+        { "name": "ida", "x": -1, "y": 1 },
+        { "name": "saito", "x": 1, "y": 1 },
+        { "name": "ikeda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "suzuki", "x": -7.5, "y": 5 },
+        { "name": "ikeda", "x": -3.5, "y": 5 },
+        { "name": "sato", "x": 0, "y": 5 },
+        { "name": "sugawara", "x": 3.5, "y": 5 },
+        { "name": "suenaga", "x": 7.5, "y": 5 },
+
+        { "name": "ida", "x": -5.5, "y": 4 },
+        { "name": "sawada", "x": -1.5, "y": 4 },
+        { "name": "aikawa", "x": 1.5, "y": 4 },
+        { "name": "takahata", "x": 5.5, "y": 4 },
+
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+
+        { "name": "kurashima", "x": -4.5, "y": 2 },
+        { "name": "fukushi", "x": 4.5, "y": 2 },
+
+        { "name": "saito", "x": -6, "y": 1 },
+        { "name": "kamata", "x": 0, "y": 1 },
+        { "name": "tani", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "後悔だけはしたくないから〜",
+      "members": [
+        { "name": "suzuki", "x": -3, "y": 5 },
+        { "name": "kamata", "x": 0, "y": 5 },
+        { "name": "suenaga", "x": 3, "y": 5 },
+
+        { "name": "sawada", "x": -4, "y": 4 },
+        { "name": "ida", "x": -2, "y": 4 },
+        { "name": "takahata", "x": 2, "y": 4 },
+        { "name": "aikawa", "x": 4, "y": 4 },
+
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": -1, "y": 3 },
+        { "name": "sugawara", "x": 1, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "sato", "x": 0, "y": 2 },
+        { "name": "fukushi", "x": 2, "y": 2 },
+
+        { "name": "saito", "x": -1, "y": 1 },
+        { "name": "tani", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "強がって転んで立ち上がって それが「生きる」ってことだ〜",
+      "members": [
+        { "name": "kamata", "x": 0, "y": 5 },
+
+        { "name": "sawada", "x": -4, "y": 4 },
+        { "name": "aikawa", "x": 4, "y": 4 },
+
+        { "name": "suzuki", "x": -6.5, "y": 3 },
+        { "name": "kumazaki", "x": -3, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+        { "name": "suenaga", "x": 6.5, "y": 3 },
+
+        { "name": "ida", "x": -5.5, "y": 2 },
+        { "name": "kurashima", "x": -2, "y": 2 },
+        { "name": "sato", "x": 0, "y": 2 },
+        { "name": "fukushi", "x": 2, "y": 2 },
+        { "name": "takahata", "x": 5.5, "y": 2 },
+
+        { "name": "ikeda", "x": -4.5, "y": 1 },
+        { "name": "saito", "x": -1, "y": 1 },
+        { "name": "tani", "x": 1, "y": 1 },
+        { "name": "sugawara", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "絶対 自分を誇れるように〜",
+      "members": [
+        { "name": "sawada", "x": -4, "y": 5 },
+        { "name": "kamata", "x": 0, "y": 5 },
+        { "name": "aikawa", "x": 4, "y": 5 },
+
+        { "name": "kumazaki", "x": -3, "y": 4 },
+        { "name": "hayashi", "x": 3, "y": 4 },
+
+        { "name": "suzuki", "x": -6.5, "y": 3 },
+        { "name": "kurashima", "x": -2, "y": 3 },
+        { "name": "fukushi", "x": 2, "y": 3 },
+        { "name": "suenaga", "x": 6.5, "y": 3 },
+
+        { "name": "ida", "x": -5.5, "y": 2 },
+        { "name": "saito", "x": -1, "y": 2 },
+        { "name": "tani", "x": 1, "y": 2 },
+        { "name": "takahata", "x": 5.5, "y": 2 },
+
+        { "name": "ikeda", "x": -4.5, "y": 1 },
+        { "name": "sato", "x": 0, "y": 1 },
+        { "name": "sugawara", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
