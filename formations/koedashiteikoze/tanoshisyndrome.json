@@ -1,0 +1,89 @@
+{
+  "title": "単推しシンドローム",
+
+  "memo": [
+    "① 末永、井田、鈴木池田谷鎌田熊崎",
+    "② 高畑、菅原、澤田倉島相川斉藤林",
+    "ラストサビ 福士佐藤、末永高畑"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurashima", "x": -4, "y": 4 },
+        { "name": "sawada", "x": -2, "y": 4 },
+        { "name": "sato", "x": 0, "y": 4 },
+        { "name": "saito", "x": 2, "y": 4 },
+        { "name": "fukushi", "x": 4, "y": 4 },
+
+        { "name": "aikawa", "x": -3, "y": 3 },
+        { "name": "ikeda", "x": -1, "y": 3 },
+        { "name": "kamata", "x": 1, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+
+        { "name": "suzuki", "x": -2, "y": 2 },
+        { "name": "tani", "x": 0, "y": 2 },
+        { "name": "kumazaki", "x": 2, "y": 2 },
+
+        { "name": "suenaga", "x": -7, "y": 1 },
+        { "name": "sugawara", "x": -1, "y": 1 },
+        { "name": "ida", "x": 1, "y": 1 },
+        { "name": "takahata", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "ファボリツリプは欠かさないで〜",
+      "members": [
+        { "name": "sawada", "x": -2.5, "y": 5 },
+        { "name": "suenaga", "x": 0, "y": 5 },
+        { "name": "kamata", "x": 2.5, "y": 5 },
+
+        { "name": "tani", "x": -4, "y": 4 },
+        { "name": "sugawara", "x": -1.5, "y": 4 },
+        { "name": "kumazaki", "x": 1.5, "y": 4 },
+        { "name": "sato", "x": 4, "y": 4 },
+
+        { "name": "ikeda", "x": -5.5, "y": 3 },
+        { "name": "suzuki", "x": -3, "y": 3 },
+        { "name": "hayashi", "x": 3, "y": 3 },
+        { "name": "saito", "x": 5.5, "y": 3 },
+
+        { "name": "aikawa", "x": -4.5, "y": 2 },
+        { "name": "fukushi", "x": 4.5, "y": 2 },
+
+        { "name": "kurashima", "x": -6, "y": 1 },
+        { "name": "ida", "x": 0, "y": 1 },
+        { "name": "takahata", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "単推し推し単 君はずっと 私だけ見ててよ〜",
+      "members": [
+        { "name": "kurashima", "x": -5, "y": 3 },
+        { "name": "aikawa", "x": -3, "y": 3 },
+        { "name": "suenaga", "x": -1, "y": 3 },
+        { "name": "takahata", "x": 1, "y": 3 },
+        { "name": "saito", "x": 3, "y": 3 },
+        { "name": "sato", "x": 5, "y": 3 },
+
+        { "name": "sawada", "x": -3.75, "y": 2 },
+        { "name": "tani", "x": -1.75, "y": 2 },
+        { "name": "hayashi", "x": 1.75, "y": 2 },
+        { "name": "fukushi", "x": 3.75, "y": 2 },
+
+        { "name": "ikeda", "x": -6.5, "y": 1 },
+        { "name": "suzuki", "x": -4.5, "y": 1 },
+        { "name": "ida", "x": -2.5, "y": 1 },
+        { "name": "sugawara", "x": 2.5, "y": 1 },
+        { "name": "kumazaki", "x": 4.5, "y": 1 },
+        { "name": "kamata", "x": 6.5, "y": 1 }
+      ]
+    }
+  ]
+}
