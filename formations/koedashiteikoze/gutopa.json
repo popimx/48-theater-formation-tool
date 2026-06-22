@@ -1,0 +1,83 @@
+{
+  "title": "グーとパー",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "大丈夫 何回も立ち上がろうぜ〜",
+      "members": [
+        { "name": "ikeda", "x": -7, "y": 4 },
+        { "name": "tani", "x": -4, "y": 4 },
+        { "name": "sawada", "x": -1, "y": 4 },
+        { "name": "saito", "x": 1, "y": 4 },
+        { "name": "suzuki", "x": 4, "y": 4 },
+        { "name": "aikawa", "x": 7, "y": 4 },
+
+        { "name": "sato", "x": -6, "y": 3 },
+        { "name": "kurashima", "x": -3, "y": 3 },
+        { "name": "kamata", "x": 0, "y": 3 },
+        { "name": "fukushi", "x": 3, "y": 3 },
+        { "name": "sugawara", "x": 6, "y": 3 },
+
+        { "name": "takahata", "x": -5, "y": 2 },
+        { "name": "suenaga", "x": -2, "y": 2 },
+        { "name": "ida", "x": 2, "y": 2 },
+        { "name": "hayashi", "x": 5, "y": 2 },
+
+        { "name": "kumazaki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "そう簡単に感じるまでTry & Try〜",
+      "members": [
+        { "name": "tani", "x": -6, "y": 4 },
+        { "name": "kurashima", "x": -3, "y": 4 },
+        { "name": "ida", "x": 0, "y": 4 },
+        { "name": "fukushi", "x": 3, "y": 4 },
+        { "name": "suzuki", "x": 6, "y": 4 },
+
+        { "name": "sawada", "x": -5, "y": 3 },
+        { "name": "saito", "x": 5, "y": 3 },
+
+        { "name": "ikeda", "x": -7, "y": 2 },
+        { "name": "sato", "x": -4, "y": 2 },
+        { "name": "suenaga", "x": -1, "y": 2 },
+        { "name": "hayashi", "x": 1, "y": 2 },
+        { "name": "sugawara", "x": 4, "y": 2 },
+        { "name": "aikawa", "x": 7, "y": 2 },
+
+        { "name": "takahata", "x": -2.5, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "kamata", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "運命を さあ捧げましょう〜",
+      "members": [
+        { "name": "ikeda", "x": -7.5, "y": 2 },
+        { "name": "sawada", "x": -5.5, "y": 2 },
+        { "name": "kurashima", "x": -3.5, "y": 2 },
+        { "name": "suenaga", "x": -1.5, "y": 2 },
+        { "name": "ida", "x": 0.5, "y": 2 },
+        { "name": "kamata", "x": 2.5, "y": 2 },
+        { "name": "sugawara", "x": 4.5, "y": 2 },
+        { "name": "suzuki", "x": 6.5, "y": 2 },
+
+        { "name": "tani", "x": -6.5, "y": 1 },
+        { "name": "sato", "x": -4.5, "y": 1 },
+        { "name": "takahata", "x": -2.5, "y": 1 },
+        { "name": "kumazaki", "x": -0.5, "y": 1 },
+        { "name": "hayashi", "x": 1.5, "y": 1 },
+        { "name": "fukushi", "x": 3.5, "y": 1 },
+        { "name": "saito", "x": 5.5, "y": 1 },
+        { "name": "aikawa", "x": 7.5, "y": 1 }
+      ]
+    }
+  ]
+}
