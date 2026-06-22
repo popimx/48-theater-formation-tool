@@ -36,8 +36,8 @@
         { "name": "ikeda", "x": -4, "y": 3 },
         { "name": "sugawara", "x": 4, "y": 3 },
 
-        { "name": "sawada", "x": -2, "y": 1 },
-        { "name": "takahata", "x": 2, "y": 1 },
+        { "name": "sawada", "x": -2, "y": 2 },
+        { "name": "takahata", "x": 2, "y": 2 },
 
         { "name": "ida", "x": 0, "y": 1 }
       ]
