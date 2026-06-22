@@ -40,6 +40,11 @@
     "file": "stages/ske48_theaternoMegami_2025.json"
   },
   {
+    "stage": "SKE48「声出していこーぜ!!!」",
+    "stageId": "koedashiteikoze",
+    "file": "stages/koedashiteikoze.json"
+  },
+  {
     "stage": "SKE48「RESET」",
     "stageId": "ske48_reset_2025",
     "file": "stages/ske48_reset_2025.json"
