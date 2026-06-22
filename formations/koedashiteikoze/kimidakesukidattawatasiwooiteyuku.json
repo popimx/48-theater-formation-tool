@@ -1,0 +1,62 @@
+{
+  "title": "君ダケ好キダッタ私ヲ置イテユク",
+
+  "memo": [
+    "① 菅原末永佐藤、高畑福士谷、鎌田斉藤井田、末永",
+    "② 相川熊崎鈴木、池田林倉島、菅原末永澤田、佐藤",
+    "ラストサビ 井田斉藤鎌田、福士末永谷"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "kurashima", "x": -4, "y": 3 },
+        { "name": "fukushi", "x": -2, "y": 3 },
+        { "name": "hayashi", "x": 0, "y": 3 },
+        { "name": "kamata", "x": 2, "y": 3 },
+        { "name": "sawada", "x": 4, "y": 3 },
+
+        { "name": "sugawara", "x": -5, "y": 2 },
+        { "name": "takahata", "x": -3, "y": 2 },
+        { "name": "suenaga", "x": -1, "y": 2 },
+        { "name": "saito", "x": 1, "y": 2 },
+        { "name": "suzuki", "x": 3, "y": 2 },
+        { "name": "sato", "x": 5, "y": 2 },
+
+        { "name": "aikawa", "x": -4, "y": 1 },
+        { "name": "ida", "x": -2, "y": 1 },
+        { "name": "kumazaki", "x": 0, "y": 1 },
+        { "name": "tani", "x": 2, "y": 1 },
+        { "name": "ikeda", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "始まるのは 私ひとりの 新しい世界〜",
+      "members": [
+        { "name": "kurashima", "x": -5, "y": 4 },
+        { "name": "fukushi", "x": -3, "y": 4 },
+        { "name": "hayashi", "x": 0, "y": 4 },
+        { "name": "kamata", "x": 3, "y": 4 },
+        { "name": "sawada", "x": 5, "y": 4 },
+
+        { "name": "takahata", "x": -2, "y": 3 },
+        { "name": "suzuki", "x": 2, "y": 3 },
+
+        { "name": "aikawa", "x": -6, "y": 2 },
+        { "name": "ida", "x": -4, "y": 2 },
+        { "name": "kumazaki", "x": -1, "y": 2 },
+        { "name": "saito", "x": 1, "y": 2 },
+        { "name": "tani", "x": 4, "y": 2 },
+        { "name": "ikeda", "x": 6, "y": 2 },
+
+        { "name": "sugawara", "x": -3, "y": 1 },
+        { "name": "suenaga", "x": 0, "y": 1 },
+        { "name": "sato", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
