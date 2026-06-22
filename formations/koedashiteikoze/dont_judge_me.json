@@ -1,0 +1,66 @@
+{
+  "title": "Don’t judge me",
+
+  "memo": [
+    "① 福士菅原谷、高畑佐藤鎌田、池田末永相川",
+    "福士菅原谷、(菅原)",
+    "①サビ (高畑/佐藤)、(末永鎌田)",
+    "② 林鈴木斉藤、澤田倉島熊崎、井田谷福士、(谷)",
+    "②サビ (鈴木林)、(澤田斉藤)",
+    "ラストサビ前 福士谷佐藤",
+    "ラストサビ 菅原"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "ヒントのない喜怒哀楽 見て見ぬ振りして怠惰〜",
+      "members": [
+        { "name": "ida", "x": -2, "y": 5 },
+        { "name": "tani", "x": 0, "y": 5 },
+        { "name": "fukushi", "x": 2, "y": 5 },
+
+        { "name": "sugawara", "x": -1, "y": 4 },
+        { "name": "saito", "x": 1, "y": 4 },
+
+        { "name": "ikeda", "x": -7, "y": 3 },
+        { "name": "takahata", "x": -3, "y": 3 },
+        { "name": "kurashima", "x": 0, "y": 3 },
+        { "name": "suenaga", "x": 3, "y": 3 },
+        { "name": "aikawa", "x": 7, "y": 3 },
+
+        { "name": "kamata", "x": -6, "y": 2 },
+        { "name": "suzuki", "x": -4, "y": 2 },
+        { "name": "sato", "x": 4, "y": 2 },
+        { "name": "hayashi", "x": 6, "y": 2 },
+
+        { "name": "sawada", "x": -5, "y": 1 },
+        { "name": "kumazaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sawada", "x": -7, "y": 2 },
+        { "name": "kumazaki", "x": -5, "y": 2 },
+        { "name": "suenaga", "x": -3, "y": 2 },
+        { "name": "takahata", "x": -1, "y": 2 },
+        { "name": "tani", "x": 1, "y": 2 },
+        { "name": "kamata", "x": 3, "y": 2 },
+        { "name": "suzuki", "x": 5, "y": 2 },
+        { "name": "ida", "x": 7, "y": 2 },
+
+        { "name": "kurashima", "x": -6, "y": 1 },
+        { "name": "ikeda", "x": -4, "y": 1 },
+        { "name": "sato", "x": -2, "y": 1 },
+        { "name": "sugawara", "x": 0, "y": 1 },
+        { "name": "fukushi", "x": 2, "y": 1 },
+        { "name": "aikawa", "x": 4, "y": 1 },
+        { "name": "saito", "x": 6, "y": 1 },
+        { "name": "hayashi", "x": 8, "y": 1 }
+      ]
+    }
+  ]
+}
