@@ -1,0 +1,146 @@
+{
+  "stage": "SKE48「声出していこーぜ!!!」",
+  "stageId": "koedashiteikoze",
+
+  "members": [
+    {
+      "name": "相川暖花",
+      "display": "相川",
+      "id": "aikawa",
+      "image": "aikawa_honoka_2022"
+    },
+    {
+      "name": "池田楓",
+      "display": "池田",
+      "id": "ikeda",
+      "image": "ikeda_kaede_2022"
+    },
+    {
+      "name": "井田玲音名",
+      "display": "井田",
+      "id": "ida",
+      "image": "ida_reona_2022"
+    },
+    {
+      "name": "鎌田菜月",
+      "display": "鎌田",
+      "id": "kamata",
+      "image": "kamata_natsuki_2022"
+    },
+    {
+      "name": "熊崎晴香",
+      "display": "熊崎",
+      "id": "kumazaki",
+      "image": "kumazaki_haruka_2022"
+    },
+    {
+      "name": "倉島杏実",
+      "display": "倉島",
+      "id": "kurashima",
+      "image": "kurashima_ami_2022"
+    },
+    {
+      "name": "斉藤真木子",
+      "display": "斉藤",
+      "id": "saito",
+      "image": "saito_makiko_2022"
+    },
+    {
+      "name": "佐藤佳穂",
+      "display": "佐藤",
+      "id": "sato",
+      "image": "sato_kaho_2022"
+    },
+    {
+      "name": "澤田奏音",
+      "display": "澤田",
+      "id": "sawada",
+      "image": "sawada_kanon_2022"
+    },
+    {
+      "name": "末永桜花",
+      "display": "末永",
+      "id": "suenaga",
+      "image": "suenaga_oka_2022"
+    },
+    {
+      "name": "菅原茉椰",
+      "display": "菅原",
+      "id": "sugawara",
+      "image": "sugawara_maya_2022"
+    },
+    {
+      "name": "鈴木恋奈",
+      "display": "鈴木",
+      "id": "suzuki",
+      "image": "suzuki_kokona_2022"
+    },
+    {
+      "name": "髙畑結希",
+      "display": "髙畑",
+      "id": "takahata",
+      "image": "takahata_yuki_2022"
+    },
+    {
+      "name": "谷真理佳",
+      "display": "谷",
+      "id": "tani",
+      "image": "tani_marika_2022"
+    },
+    {
+      "name": "林美澪",
+      "display": "林",
+      "id": "hayashi",
+      "image": "hayashi_mirei_2022"
+    },
+    {
+      "name": "福士奈央",
+      "display": "福士",
+      "id": "fukushi",
+      "image": "fukushi_nao_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "貴方へ",
+      "file": "anatahe_start.json"
+    },
+    {
+      "name": "単推しシンドローム",
+      "file": "tanoshisyndrome.json"
+    },
+    {
+      "name": "誰しもいつか止まる心臓を",
+      "file": "dareshimoitsukatomarushinzouwo.json"
+    },
+    {
+      "name": "声出していこーぜ!!!",
+      "file": "koedashiteikoze.json"
+    },
+    {
+      "name": "Don’t judge me",
+      "file": "dont_judge_me.json"
+    },
+    {
+      "name": "グーとパー",
+      "file": "gutopa.json"
+    },
+    {
+      "name": "Long long way home",
+      "file": "long_long_way_home.json"
+    },
+    {
+      "name": "ぎゃぎゃぎゃわいい",
+      "file": "gyagyagyawaii.json"
+    },
+    {
+      "name": "君ダケ好キダッタ私ヲ置イテユク",
+      "file": "kimidakesukidattawatasiwooiteyuku.json"
+    },
+    {
+      "name": "あなたへ",
+      "file": "anatahe_end.json"
+    }
+  ]
+}
