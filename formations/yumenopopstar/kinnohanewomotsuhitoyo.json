@@ -1,0 +1,140 @@
+{
+  "title": "金の羽根を持つ人よ",
+
+  "memo": [
+    "① 山内山﨑坂川新井、山口倉野尾/久保髙橋",
+    "② 山口倉野尾久保髙橋、山﨑山内新井坂川",
+    "②サビ後 山﨑坂川 (山口髙橋)、山内/新井 (倉野尾久保)"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -5.25, "y": 2 },
+        { "name": "yamaguchi", "x": -3.75, "y": 2 },
+        { "name": "yamauchi", "x": -2.25, "y": 2 },
+        { "name": "yamazaki", "x": -0.75, "y": 2 },
+        { "name": "sakagawa", "x": 0.75, "y": 2 },
+        { "name": "arai", "x": 2.25, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+        { "name": "kubo", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -5.25, "y": 2 },
+        { "name": "yamaguchi", "x": -3.75, "y": 2 },
+        { "name": "yamauchi", "x": -2.25, "y": 2 },
+        { "name": "yamazaki", "x": -0.75, "y": 2 },
+        { "name": "sakagawa", "x": 0.75, "y": 2 },
+        { "name": "arai", "x": 2.25, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+        { "name": "kubo", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yamaguchi", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "yamazaki", "x": -1, "y": 2 },
+        { "name": "sakagawa", "x": 1, "y": 2 },
+        { "name": "kubo", "x": 4, "y": 2 },
+
+        { "name": "yamauchi", "x": -2, "y": 1 },
+        { "name": "arai", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "金の羽根を持つ人よ 今は大地で休んでも〜",
+      "members": [
+        { "name": "sakagawa", "x": -1, "y": 4 },
+        { "name": "yamazaki", "x": 1, "y": 4 },
+
+        { "name": "arai", "x": -2, "y": 3 },
+        { "name": "yamauchi", "x": 2, "y": 3 },
+
+        { "name": "kuranoo", "x": -3, "y": 2 },
+        { "name": "kubo", "x": 3, "y": 2 },
+
+        { "name": "yamaguchi", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "風が吹いて背を押され 高く羽ばたくよ〜",
+      "members": [
+        { "name": "yamaguchi", "x": -4, "y": 4 },
+        { "name": "takahashi", "x": 4, "y": 4 },
+
+        { "name": "kuranoo", "x": -3, "y": 3 },
+        { "name": "kubo", "x": 3, "y": 3 },
+
+        { "name": "arai", "x": -2, "y": 2 },
+        { "name": "yamauchi", "x": 2, "y": 2 },
+
+        { "name": "sakagawa", "x": -1, "y": 1 },
+        { "name": "yamazaki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "きっと行けるはず〜",
+      "members": [
+        { "name": "yamaguchi", "x": -3.5, "y": 2 },
+        { "name": "takahashi", "x": -2.5, "y": 2 },
+        { "name": "yamauchi", "x": -1.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "sakagawa", "x": 0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "kuranoo", "x": 2.5, "y": 2 },
+        { "name": "kubo", "x": 3.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamaguchi", "x": -3.5, "y": 2 },
+        { "name": "takahashi", "x": -2.5, "y": 2 },
+        { "name": "yamauchi", "x": -1.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "sakagawa", "x": 0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "kuranoo", "x": 2.5, "y": 2 },
+        { "name": "kubo", "x": 3.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "どんな羽根を信じれば きっと金になる〜",
+      "members": [
+        { "name": "takahashi", "x": -4, "y": 2 },
+        { "name": "yamazaki", "x": -1, "y": 2 },
+        { "name": "sakagawa", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -5.5, "y": 1 },
+        { "name": "yamauchi", "x": -2.5, "y": 1 },
+        { "name": "arai", "x": 2.5, "y": 1 },
+        { "name": "kubo", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
