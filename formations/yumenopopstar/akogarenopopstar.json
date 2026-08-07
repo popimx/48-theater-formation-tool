@@ -1,1 +1,241 @@
-あ
+{
+  "title": "憧れのポップスター",
+
+  "memo": [
+    "イントロ 新井",
+    "① 髙橋久保新井坂川、山内山﨑山口倉野尾",
+    "髙橋久保/新井坂川、山内山﨑山口倉野尾",
+    "② 久保山﨑新井山口、髙橋山内坂川倉野尾",
+    "新井山口/久保山﨑、坂川倉野尾髙橋山内"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -5.25, "y": 1 },
+        { "name": "yamazaki", "x": -3.75, "y": 1 },
+        { "name": "takahashi", "x": -2.25, "y": 1 },
+        { "name": "kubo", "x": -0.75, "y": 1 },
+        { "name": "arai", "x": 0.75, "y": 1 },
+        { "name": "sakagawa", "x": 2.25, "y": 1 },
+        { "name": "yamaguchi", "x": 3.75, "y": 1 },
+        { "name": "kuranoo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "寝ても覚めても 顔が浮かぶ〜",
+      "members": [
+        { "name": "yamauchi", "x": -5.25, "y": 1 },
+        { "name": "yamazaki", "x": -3.75, "y": 1 },
+        { "name": "takahashi", "x": -2.25, "y": 1 },
+        { "name": "kubo", "x": -0.75, "y": 1 },
+        { "name": "arai", "x": 0.75, "y": 1 },
+        { "name": "sakagawa", "x": 2.25, "y": 1 },
+        { "name": "yamaguchi", "x": 3.75, "y": 1 },
+        { "name": "kuranoo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "今の私 どうかしてる〜",
+      "members": [
+        { "name": "takahashi", "x": -4, "y": 2 },
+        { "name": "kubo", "x": -2, "y": 2 },
+        { "name": "arai", "x": 2, "y": 2 },
+        { "name": "sakagawa", "x": 4, "y": 2 },
+
+        { "name": "yamauchi", "x": -3, "y": 1 },
+        { "name": "yamazaki", "x": -1, "y": 1 },
+        { "name": "yamaguchi", "x": 1, "y": 1 },
+        { "name": "kuranoo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "あなたはポップスター 一人占めはできない〜",
+      "members": [
+        { "name": "yamauchi", "x": -3.75, "y": 2 },
+        { "name": "yamazaki", "x": -0.75, "y": 2 },
+        { "name": "yamaguchi", "x": 2.25, "y": 2 },
+        { "name": "kuranoo", "x": 5.25, "y": 2 },
+
+        { "name": "takahashi", "x": -5.25, "y": 1 },
+        { "name": "kubo", "x": -2.25, "y": 1 },
+        { "name": "arai", "x": 0.75, "y": 1 },
+        { "name": "sakagawa", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "あなたはポップスター ファンの一人でいいの〜",
+      "members": [
+        { "name": "takahashi", "x": -5.25, "y": 2 },
+        { "name": "kubo", "x": -2.25, "y": 2 },
+        { "name": "arai", "x": 0.75, "y": 2 },
+        { "name": "sakagawa", "x": 3.75, "y": 2 },
+
+        { "name": "yamauchi", "x": -3.75, "y": 1 },
+        { "name": "yamazaki", "x": -0.75, "y": 1 },
+        { "name": "yamaguchi", "x": 2.25, "y": 1 },
+        { "name": "kuranoo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -5.25, "y": 2 },
+        { "name": "kubo", "x": -2.25, "y": 2 },
+        { "name": "arai", "x": 0.75, "y": 2 },
+        { "name": "sakagawa", "x": 3.75, "y": 2 },
+
+        { "name": "yamauchi", "x": -3.75, "y": 1 },
+        { "name": "yamazaki", "x": -0.75, "y": 1 },
+        { "name": "yamaguchi", "x": 2.25, "y": 1 },
+        { "name": "kuranoo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "ハイスクールで憧れてた〜",
+      "members": [
+        { "name": "kubo", "x": -2, "y": 3 },
+        { "name": "yamaguchi", "x": 2, "y": 3 },
+
+        { "name": "takahashi", "x": -4, "y": 2 },
+        { "name": "yamazaki", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "yamauchi", "x": -3, "y": 1 },
+        { "name": "sakagawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "アイスホッケーの先輩以来よ〜",
+      "members": [
+        { "name": "arai", "x": -2, "y": 3 },
+        { "name": "yamazaki", "x": 2, "y": 3 },
+
+        { "name": "takahashi", "x": -4, "y": 2 },
+        { "name": "yamaguchi", "x": -1, "y": 2 },
+        { "name": "kubo", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "yamauchi", "x": -3, "y": 1 },
+        { "name": "sakagawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "素敵なポップスター そのしぐさがセクシー 〜",
+      "members": [
+        { "name": "sakagawa", "x": -3.75, "y": 2 },
+        { "name": "kuranoo", "x": -0.75, "y": 2 },
+        { "name": "takahashi", "x": 2.25, "y": 2 },
+        { "name": "yamauchi", "x": 5.25, "y": 2 },
+
+        { "name": "arai", "x": -5.25, "y": 1 },
+        { "name": "yamaguchi", "x": -2.25, "y": 1 },
+        { "name": "kubo", "x": 0.75, "y": 1 },
+        { "name": "yamazaki", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "素敵なポップスター トップテン入りした〜",
+      "members": [
+        { "name": "arai", "x": -5.25, "y": 2 },
+        { "name": "yamaguchi", "x": -2.25, "y": 2 },
+        { "name": "kubo", "x": 0.75, "y": 2 },
+        { "name": "yamazaki", "x": 3.75, "y": 2 },
+
+        { "name": "sakagawa", "x": -3.75, "y": 1 },
+        { "name": "kuranoo", "x": -0.75, "y": 1 },
+        { "name": "takahashi", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "あなたはポップスター 一人占めはできない〜",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 2 },
+        { "name": "kuranoo", "x": -2.25, "y": 2 },
+        { "name": "kubo", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3.75, "y": 1 },
+        { "name": "arai", "x": -0.75, "y": 1 },
+        { "name": "yamazaki", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "あなたはポップスター ファンの一人でいいの〜",
+      "members": [
+        { "name": "yamaguchi", "x": -3.75, "y": 2 },
+        { "name": "arai", "x": -0.75, "y": 2 },
+        { "name": "yamazaki", "x": 2.25, "y": 2 },
+        { "name": "yamauchi", "x": 5.25, "y": 2 },
+
+        { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "kuranoo", "x": -2.25, "y": 1 },
+        { "name": "kubo", "x": 0.75, "y": 1 },
+        { "name": "takahashi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamazaki", "x": 0, "y": 4 },
+
+        { "name": "yamaguchi", "x": -1, "y": 3 },
+        { "name": "takahashi", "x": 1, "y": 3 },
+
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "arai", "x": 0, "y": 2 },
+        { "name": "yamauchi", "x": 2, "y": 2 },
+
+        { "name": "kuranoo", "x": -1, "y": 1 },
+        { "name": "kubo", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yamazaki", "x": 0, "y": 4 },
+
+        { "name": "yamaguchi", "x": -1, "y": 3 },
+        { "name": "takahashi", "x": 1, "y": 3 },
+
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "arai", "x": 0, "y": 2 },
+        { "name": "yamauchi", "x": 2, "y": 2 },
+
+        { "name": "kuranoo", "x": -1, "y": 1 },
+        { "name": "kubo", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
