@@ -1,0 +1,46 @@
+{
+  "title": "109",
+
+  "memo": [
+    "① 山﨑、山内、山口、坂川、新井、倉野尾",
+    "①サビ 髙橋、久保",
+    "② 山内、山﨑、山口、坂川、久保、新井、髙橋",
+    "②サビ 倉野尾",
+    "ラストサビ前 山口新井倉野尾山﨑、久保坂川/山内髙橋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -3.5, "y": 2 },
+        { "name": "arai", "x": -1.5, "y": 2 },
+        { "name": "kuranoo", "x": 0.5, "y": 2 },
+        { "name": "takahashi", "x": 2.5, "y": 2 },
+
+        { "name": "yamazaki", "x": -2.5, "y": 1 },
+        { "name": "sakagawa", "x": -0.5, "y": 1 },
+        { "name": "yamauchi", "x": 1.5, "y": 1 },
+        { "name": "yamaguchi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2.5, "y": 3 },
+        { "name": "yamauchi", "x": 2.5, "y": 3 },
+
+        { "name": "kubo", "x": -3.5, "y": 2 },
+        { "name": "arai", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+        { "name": "takahashi", "x": 3.5, "y": 2 },
+
+        { "name": "yamaguchi", "x": -2, "y": 1 },
+        { "name": "yamazaki", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
