@@ -1,0 +1,160 @@
+{
+  "title": "涙の湘南",
+
+  "memo": [
+    "① 坂川、久保、倉野尾、山内、新井",
+    "② 坂川、倉野尾、久保、新井",
+    "ラストサビ前 山内"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 3 },
+        { "name": "kubo", "x": -1, "y": 3 },
+        { "name": "yamauchi", "x": 0, "y": 3 },
+        { "name": "arai", "x": 1, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 3 },
+        { "name": "kubo", "x": -1, "y": 3 },
+        { "name": "yamauchi", "x": 0, "y": 3 },
+        { "name": "arai", "x": 1, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 3 },
+        { "name": "kubo", "x": -1, "y": 3 },
+        { "name": "yamauchi", "x": 0, "y": 3 },
+        { "name": "arai", "x": 1, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 3 },
+        { "name": "kubo", "x": -1, "y": 3 },
+        { "name": "yamauchi", "x": 0, "y": 3 },
+        { "name": "arai", "x": 1, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "sakagawa", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 0, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "sakagawa", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 0, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "sakagawa", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 0, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "sakagawa", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 0, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "sakagawa", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 0, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "yamauchi", "x": 0, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "yamauchi", "x": 0, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 2 },
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "yamauchi", "x": 0, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 }
+      ]
+    }
+  ]
+}
