@@ -1,0 +1,41 @@
+{
+  "title": "イチニノサン",
+
+  "memo": [
+    "① 山口、山内、坂川倉野尾、山﨑髙橋、新井/久保",
+    "② 倉野尾、坂川、山﨑髙橋、新井/久保、山口/山内",
+    "②サビ後 山口/山内 (倉野尾/坂川)、久保髙橋/山﨑新井"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -5.25, "y": 2 },
+        { "name": "takahashi", "x": -3.75, "y": 2 },
+        { "name": "kuranoo", "x": -2.25, "y": 2 },
+        { "name": "yamauchi", "x": -0.75, "y": 2 },
+        { "name": "yamaguchi", "x": 0.75, "y": 2 },
+        { "name": "sakagawa", "x": 2.25, "y": 2 },
+        { "name": "yamazaki", "x": 3.75, "y": 2 },
+        { "name": "arai", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamaguchi", "x": -5.25, "y": 1 },
+        { "name": "sakagawa", "x": -3.75, "y": 1 },
+        { "name": "yamazaki", "x": -2.25, "y": 1 },
+        { "name": "arai", "x": -0.75, "y": 1 },
+        { "name": "kubo", "x": 0.75, "y": 1 },
+        { "name": "takahashi", "x": 2.25, "y": 1 },
+        { "name": "kuranoo", "x": 3.75, "y": 1 },
+        { "name": "yamauchi", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
