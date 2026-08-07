@@ -1,0 +1,92 @@
+{
+  "title": "必殺テレポート",
+
+  "memo": [
+    "イントロ 新井坂川久保山口、倉野尾髙橋山﨑山内",
+    "① 坂川久保 (倉野尾新井山内)、髙橋山﨑山口 (山﨑)",
+    "倉野尾新井山内 (久保)、髙橋/山﨑/山口 (新井)",
+    "坂川/久保 (山﨑)",
+    "② 山内新井倉野尾 (坂川)、山口髙橋山﨑 (山﨑)",
+    "久保坂川 (髙橋)、久保坂川 (山口)、山内/倉野尾新井 (久保)"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -3, "y": 2 },
+        { "name": "takahashi", "x": -1, "y": 2 },
+        { "name": "yamazaki", "x": 1, "y": 2 },
+        { "name": "yamauchi", "x": 3, "y": 2 },
+
+        { "name": "arai", "x": -3, "y": 1 },
+        { "name": "sakagawa", "x": -1, "y": 1 },
+        { "name": "kubo", "x": 1, "y": 1 },
+        { "name": "yamaguchi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "恋の引力に逆らえ！ Jump! Jump! Jump! 〜",
+      "members": [
+        { "name": "kuranoo", "x": -3.5, "y": 2 },
+        { "name": "takahashi", "x": -1.5, "y": 2 },
+        { "name": "yamazaki", "x": 0.5, "y": 2 },
+        { "name": "yamauchi", "x": 2.5, "y": 2 },
+
+        { "name": "arai", "x": -2.5, "y": 1 },
+        { "name": "sakagawa", "x": -0.5, "y": 1 },
+        { "name": "kubo", "x": 1.5, "y": 1 },
+        { "name": "yamaguchi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "ハート ちょっとだけ 浮いちゃえ！ Jump! Jump! Jump! 〜",
+      "members": [
+        { "name": "arai", "x": -2.5, "y": 2 },
+        { "name": "sakagawa", "x": -0.5, "y": 2 },
+        { "name": "kubo", "x": 1.5, "y": 2 },
+        { "name": "yamaguchi", "x": 3.5, "y": 2 },
+
+        { "name": "kuranoo", "x": -3.5, "y": 1 },
+        { "name": "takahashi", "x": -1.5, "y": 1 },
+        { "name": "yamazaki", "x": 0.5, "y": 1 },
+        { "name": "yamauchi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -5.25, "y": 1 },
+        { "name": "takahashi", "x": -3.75, "y": 1 },
+        { "name": "sakagawa", "x": -2.25, "y": 1 },
+        { "name": "yamaguchi", "x": -0.75, "y": 1 },
+        { "name": "kuranoo", "x": 0.75, "y": 1 },
+        { "name": "kubo", "x": 2.25, "y": 1 },
+        { "name": "arai", "x": 3.75, "y": 1 },
+        { "name": "yamazaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "ハート ちょっとだけ 浮いちゃえ！ Jump! Jump! Jump! 〜",
+      "members": [
+        { "name": "arai", "x": -5.25, "y": 1 },
+        { "name": "yamaguchi", "x": -3.75, "y": 1 },
+        { "name": "kuranoo", "x": -2.25, "y": 1 },
+        { "name": "kubo", "x": -0.75, "y": 1 },
+        { "name": "yamazaki", "x": 0.75, "y": 1 },
+        { "name": "yamauchi", "x": 2.25, "y": 1 },
+        { "name": "sakagawa", "x": 3.75, "y": 1 },
+        { "name": "takahashi", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
