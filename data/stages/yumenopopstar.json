@@ -1,0 +1,106 @@
+{
+  "stage": "AKB48「夢のポップスター」",
+  "stageId": "yumenopopstar",
+
+  "members": [
+    {
+      "name": "新井彩永",
+      "display": "新井",
+      "id": "arai",
+      "image": "arai_sae_2025"
+    },
+    {
+      "name": "久保姫菜乃",
+      "display": "久保",
+      "id": "kubo",
+      "image": "kubo_hinano_2025"
+    },
+    {
+      "name": "倉野尾成美",
+      "display": "倉野尾",
+      "id": "kuranoo",
+      "image": "kuranoo_narumi_2025"
+    },
+    {
+      "name": "坂川陽香",
+      "display": "坂川",
+      "id": "sakagawa",
+      "image": "sakagawa_hiyuka_2025"
+    },
+    {
+      "name": "髙橋彩音",
+      "display": "髙橋",
+      "id": "takahashi",
+      "image": "takahashi_ayane_2025"
+    },
+    {
+      "name": "山内瑞葵",
+      "display": "山内",
+      "id": "yamauchi",
+      "image": "yamauchi_mizuki_2025"
+    },
+    {
+      "name": "山口結愛",
+      "display": "山口",
+      "id": "yamaguchi",
+      "image": "yamaguchi_yuua_2025"
+    },
+    {
+      "name": "山﨑空",
+      "display": "山﨑",
+      "id": "yamazaki",
+      "image": "yamazaki_sora_2025"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "憧れのポップスター",
+      "file": "akogarenopopstar.json"
+    },
+    {
+      "name": "偶然の十字路",
+      "file": "guuzennojuujiro.json"
+    },
+    {
+      "name": "必殺テレポート",
+      "file": "hissatsuteleport.json"
+    },
+    {
+      "name": "Get you!",
+      "file": "get_you.json"
+    },
+    {
+      "name": "涙の湘南",
+      "file": "namidanosyonan.json"
+    },
+    {
+      "name": "109",
+      "file": "109.json"
+    },
+    {
+      "name": "イチニノサン",
+      "file": "ichininosan.json"
+    },
+    {
+      "name": "初恋は実らない",
+      "file": "hatsukoiwominoaranai.json"
+    },
+    {
+      "name": "あなたがいてくれたから",
+      "file": "anatagaitekuretakara.json"
+    },
+    {
+      "name": "金の羽根を持つ人よ",
+      "file": "kinnohanewomotsuhitoy o.json"
+    },
+    {
+      "name": "To be continued.",
+      "file": "to_be_continued.json"
+    },
+    {
+      "name": "やさしさの地図",
+      "file": "yasashisanomichi.json"
+    }
+  ]
+}
