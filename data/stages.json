@@ -5,6 +5,11 @@
     "file": "stages/akb48_reset_2025.json"
   },
   {
+    "stage": "AKB48「夢のポップスター」",
+    "stageId": "yumenopopstar",
+    "file": "stages/yumenopopstar.json"
+  },
+  {
     "stage": "AKB48「ただいま 恋愛中」",
     "stageId": "tadaimarenaichu_2022",
     "file": "stages/tadaimarenaichu_2022.json"
