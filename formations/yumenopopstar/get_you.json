@@ -1,0 +1,43 @@
+{
+  "title": "Get you!",
+
+  "memo": [
+    "① 山内、山口倉野尾久保、髙橋坂川新井山﨑",
+    "② 坂川久保、髙橋新井山﨑、山口倉野尾山内",
+    "ラストサビ前 山内、倉野尾、坂川山口久保、髙橋新井山﨑"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -2, "y": 3 },
+        { "name": "arai", "x": 0, "y": 3 },
+        { "name": "yamazaki", "x": 2, "y": 3 },
+
+        { "name": "takahashi", "x": -3, "y": 2 },
+        { "name": "yamaguchi", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+        { "name": "kubo", "x": 3, "y": 2 },
+
+        { "name": "yamauchi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "Get you! Get you! 君だけを Get you! Get you! 追いかけて〜",
+      "members": [
+        { "name": "takahashi", "x": -5.25, "y": 1 },
+        { "name": "yamaguchi", "x": -3.75, "y": 1 },
+        { "name": "sakagawa", "x": -2.25, "y": 1 },
+        { "name": "kuranoo", "x": -0.75, "y": 1 },
+        { "name": "yamauchi", "x": 0.75, "y": 1 },
+        { "name": "arai", "x": 2.25, "y": 1 },
+        { "name": "kubo", "x": 3.75, "y": 1 },
+        { "name": "yamazaki", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
