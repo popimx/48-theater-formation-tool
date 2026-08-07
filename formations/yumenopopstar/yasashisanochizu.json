@@ -1,0 +1,156 @@
+{
+  "title": "やさしさの地図",
+
+  "memo": [
+    "① 髙橋新井山口、倉野尾/山内、山﨑久保坂川",
+    "山口倉野尾髙橋新井、坂川山内/山﨑久保",
+    "② 山内倉野尾、坂川/久保/山﨑、髙橋新井山口",
+    "山内坂川山﨑久保、山口倉野尾髙橋新井",
+    "ラストサビ前 山口髙橋新井倉野尾、坂川久保山内山﨑"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 2 },
+        { "name": "yamauchi", "x": -3.75, "y": 2 },
+        { "name": "kuranoo", "x": -2.25, "y": 2 },
+        { "name": "yamaguchi", "x": -0.75, "y": 2 },
+        { "name": "arai", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 2.25, "y": 2 },
+        { "name": "kubo", "x": 3.75, "y": 2 },
+        { "name": "yamazaki", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 2 },
+        { "name": "yamauchi", "x": -3.75, "y": 2 },
+        { "name": "kuranoo", "x": -2.25, "y": 2 },
+        { "name": "yamaguchi", "x": -0.75, "y": 2 },
+        { "name": "arai", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 2.25, "y": 2 },
+        { "name": "kubo", "x": 3.75, "y": 2 },
+        { "name": "yamazaki", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "やさしさを生きてくヒントに 迷ってみようぜ〜",
+      "members": [
+        { "name": "yamaguchi", "x": -5.25, "y": 1 },
+        { "name": "kuranoo", "x": -3.75, "y": 1 },
+        { "name": "sakagawa", "x": -2.25, "y": 1 },
+        { "name": "yamauchi", "x": -0.75, "y": 1 },
+        { "name": "kubo", "x": 0.75, "y": 1 },
+        { "name": "yamazaki", "x": 2.25, "y": 1 },
+        { "name": "takahashi", "x": 3.75, "y": 1 },
+        { "name": "arai", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "人生は凸凹している坂道なんだ〜",
+      "members": [
+        { "name": "yamaguchi", "x": -5.25, "y": 2 },
+        { "name": "kuranoo", "x": -3.75, "y": 2 },
+        { "name": "sakagawa", "x": -2.25, "y": 2 },
+        { "name": "yamauchi", "x": -0.75, "y": 2 },
+        { "name": "kubo", "x": 0.75, "y": 2 },
+        { "name": "yamazaki", "x": 2.25, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+        { "name": "arai", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -3, "y": 4 },
+        { "name": "kubo", "x": 0, "y": 4 },
+        { "name": "yamazaki", "x": 3, "y": 4 },
+
+        { "name": "yamauchi", "x": -2, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 },
+
+        { "name": "arai", "x": -1, "y": 2 },
+        { "name": "takahashi", "x": 1, "y": 2 },
+
+        { "name": "yamaguchi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -3, "y": 4 },
+        { "name": "kubo", "x": 0, "y": 4 },
+        { "name": "yamazaki", "x": 3, "y": 4 },
+
+        { "name": "yamauchi", "x": -2, "y": 3 },
+        { "name": "kuranoo", "x": 2, "y": 3 },
+
+        { "name": "yamaguchi", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+
+        { "name": "takahashi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "今の僕にはまだまだ 見えないよ〜",
+      "members": [
+        { "name": "sakagawa", "x": -4, "y": 2 },
+        { "name": "kubo", "x": -2, "y": 2 },
+        { "name": "yamauchi", "x": 2, "y": 2 },
+        { "name": "yamazaki", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": -1, "y": 1 },
+        { "name": "arai", "x": 1, "y": 1 },
+        { "name": "kuranoo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "希望の先 輝いてる〜",
+      "members": [
+        { "name": "yamaguchi", "x": -3, "y": 2 },
+        { "name": "takahashi", "x": -1, "y": 2 },
+        { "name": "arai", "x": 1, "y": 2 },
+        { "name": "kuranoo", "x": 3, "y": 2 },
+
+        { "name": "sakagawa", "x": -4, "y": 1 },
+        { "name": "kubo", "x": -2, "y": 1 },
+        { "name": "yamauchi", "x": 2, "y": 1 },
+        { "name": "yamazaki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "あたたかな日向の 向こうに走り出そう〜",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "kubo", "x": -3.75, "y": 1 },
+        { "name": "kuranoo", "x": -2.25, "y": 1 },
+        { "name": "arai", "x": -0.75, "y": 1 },
+        { "name": "yamaguchi", "x": 0.75, "y": 1 },
+        { "name": "takahashi", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 },
+        { "name": "yamazaki", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
