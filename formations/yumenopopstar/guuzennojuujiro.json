@@ -1,0 +1,136 @@
+{
+  "title": "偶然の十字路",
+
+  "memo": [
+    "① 山﨑髙橋、山口山内、倉野尾/新井、久保/坂川",
+    "② 倉野尾新井、久保坂川、山﨑/髙橋、山口/山内",
+    "②サビ後 山﨑/髙橋、山口山内、倉野尾/新井、久保坂川"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ ①",
+      "lyrics": "偶然の十字路で 出会えるように 作戦中〜",
+      "members": [
+        { "name": "kubo", "x": -4, "y": 2 },
+        { "name": "kuranoo", "x": -3, "y": 2 },
+        { "name": "arai", "x": 3, "y": 2 },
+        { "name": "sakagawa", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -2, "y": 1 },
+        { "name": "yamazaki", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 },
+        { "name": "yamauchi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "君が微笑んでくれたら それだけでLucky〜",
+      "members": [
+        { "name": "kubo", "x": -5.25, "y": 1 },
+        { "name": "kuranoo", "x": -3.75, "y": 1 },
+        { "name": "yamaguchi", "x": -2.25, "y": 1 },
+        { "name": "yamazaki", "x": -0.75, "y": 1 },
+        { "name": "takahashi", "x": 0.75, "y": 1 },
+        { "name": "yamauchi", "x": 2.25, "y": 1 },
+        { "name": "arai", "x": 3.75, "y": 1 },
+        { "name": "sakagawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "さりげなく片思い 気づかなくていい 恋愛中〜",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "sakagawa", "x": 1, "y": 2 },
+        { "name": "arai", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -5.5, "y": 1 },
+        { "name": "yamazaki", "x": -2.5, "y": 1 },
+        { "name": "takahashi", "x": 2.5, "y": 1 },
+        { "name": "yamauchi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "さりげなく片想い 声を掛けて もしも振られたとしたって〜",
+      "members": [
+        { "name": "kuranoo", "x": -2, "y": 2 },
+        { "name": "kubo", "x": -1, "y": 2 },
+        { "name": "sakagawa", "x": 1, "y": 2 },
+        { "name": "arai", "x": 2, "y": 2 },
+
+        { "name": "yamaguchi", "x": -4, "y": 1 },
+        { "name": "yamazaki", "x": -3, "y": 1 },
+        { "name": "takahashi", "x": 3, "y": 1 },
+        { "name": "yamauchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "偶然の十字路で〜",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "kubo", "x": -3, "y": 2 },
+        { "name": "sakagawa", "x": 3, "y": 2 },
+        { "name": "arai", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -2, "y": 1 },
+        { "name": "yamazaki", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 },
+        { "name": "yamauchi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "出会えるように 作戦中〜",
+      "members": [
+        { "name": "kubo", "x": -4, "y": 2 },
+        { "name": "kuranoo", "x": -3, "y": 2 },
+        { "name": "arai", "x": 3, "y": 2 },
+        { "name": "sakagawa", "x": 4, "y": 2 },
+
+        { "name": "yamaguchi", "x": -2, "y": 1 },
+        { "name": "yamazaki", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 },
+        { "name": "yamauchi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "君が微笑んでくれたら それだけでLucky〜",
+      "members": [
+        { "name": "kubo", "x": -5.25, "y": 1 },
+        { "name": "kuranoo", "x": -3.75, "y": 1 },
+        { "name": "yamaguchi", "x": -2.25, "y": 1 },
+        { "name": "yamazaki", "x": -0.75, "y": 1 },
+        { "name": "takahashi", "x": 0.75, "y": 1 },
+        { "name": "yamauchi", "x": 2.25, "y": 1 },
+        { "name": "arai", "x": 3.75, "y": 1 },
+        { "name": "sakagawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kubo", "x": -5.25, "y": 1 },
+        { "name": "kuranoo", "x": -3.75, "y": 1 },
+        { "name": "yamaguchi", "x": -2.25, "y": 1 },
+        { "name": "yamazaki", "x": -0.75, "y": 1 },
+        { "name": "takahashi", "x": 0.75, "y": 1 },
+        { "name": "yamauchi", "x": 2.25, "y": 1 },
+        { "name": "arai", "x": 3.75, "y": 1 },
+        { "name": "sakagawa", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
