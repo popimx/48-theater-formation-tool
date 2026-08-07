@@ -1,0 +1,107 @@
+{
+  "title": "初恋は実らない",
+
+  "memo": [
+    "① 山口久保髙橋坂川、倉野尾山﨑新井山内",
+    "山口/久保髙橋/坂川、倉野尾山﨑/新井山内",
+    "② 久保山口髙橋坂川、倉野尾山﨑山内新井",
+    "山口久保髙橋坂川、倉野尾山﨑新井山内",
+    "ラストサビ前 新井/山﨑、山内倉野尾"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -3.5, "y": 1 },
+        { "name": "yamazaki", "x": -2.5, "y": 1 },
+        { "name": "yamaguchi", "x": -1.5, "y": 1 },
+        { "name": "kubo", "x": -0.5, "y": 1 },
+        { "name": "takahashi", "x": 0.5, "y": 1 },
+        { "name": "sakagawa", "x": 1.5, "y": 1 },
+        { "name": "arai", "x": 2.5, "y": 1 },
+        { "name": "yamauchi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -2.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "yamauchi", "x": 3.5, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3.5, "y": 1 },
+        { "name": "kubo", "x": -1.5, "y": 1 },
+        { "name": "takahashi", "x": 0.5, "y": 1 },
+        { "name": "sakagawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "君をずっと待ってたんだ 下校の時刻 過ぎたけど〜",
+      "members": [
+        { "name": "kuranoo", "x": -2.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "yamauchi", "x": 3.5, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3.5, "y": 1 },
+        { "name": "kubo", "x": -1.5, "y": 1 },
+        { "name": "takahashi", "x": 0.5, "y": 1 },
+        { "name": "sakagawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -2.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "yamauchi", "x": 3.5, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3.5, "y": 1 },
+        { "name": "kubo", "x": -1.5, "y": 1 },
+        { "name": "takahashi", "x": 0.5, "y": 1 },
+        { "name": "sakagawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -2.5, "y": 2 },
+        { "name": "yamazaki", "x": -0.5, "y": 2 },
+        { "name": "arai", "x": 1.5, "y": 2 },
+        { "name": "yamauchi", "x": 3.5, "y": 2 },
+
+        { "name": "yamaguchi", "x": -3.5, "y": 1 },
+        { "name": "kubo", "x": -1.5, "y": 1 },
+        { "name": "takahashi", "x": 0.5, "y": 1 },
+        { "name": "sakagawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sakagawa", "x": -5.25, "y": 1 },
+        { "name": "yamauchi", "x": -3.75, "y": 1 },
+        { "name": "takahashi", "x": -2.25, "y": 1 },
+        { "name": "arai", "x": -0.75, "y": 1 },
+        { "name": "kubo", "x": 0.75, "y": 1 },
+        { "name": "yamazaki", "x": 2.25, "y": 1 },
+        { "name": "yamaguchi", "x": 3.75, "y": 1 },
+        { "name": "kuranoo", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
