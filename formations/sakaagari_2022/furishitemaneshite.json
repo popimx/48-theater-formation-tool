@@ -1,0 +1,42 @@
+{
+  "title": "フリしてマネして",
+
+  "memo": [
+    "① 山内/茂木、田口市川、服部髙橋",
+    "② 山邊/下口、服部市川、田口髙橋"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "帰らないって言ったら  あなた (あなた) 困っちゃうでしょ〜",
+      "members": [
+        { "name": "yamabe", "x": -5.5, "y": 2 },
+        { "name": "hattori", "x": -2.5, "y": 2 },
+        { "name": "ichikawa", "x": 2.5, "y": 2 },
+        { "name": "shimoguchi", "x": 5.5, "y": 2 },
+
+        { "name": "mogi", "x": -4, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 },
+        { "name": "yamauchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "慰めるフリをして  引き留めるマネだけして〜",
+      "members": [
+        { "name": "yamabe", "x": -5.5, "y": 2 },
+        { "name": "hattori", "x": -2.5, "y": 2 },
+        { "name": "ichikawa", "x": 2.5, "y": 2 },
+        { "name": "shimoguchi", "x": 5.5, "y": 2 },
+
+        { "name": "mogi", "x": -4, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 },
+        { "name": "yamauchi", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
