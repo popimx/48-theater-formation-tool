@@ -1,0 +1,237 @@
+{
+  "title": "素敵な三角関係",
+
+  "memo": [
+    "① 中西福岡千葉武藤、本田込山向井地大竹",
+    "福岡武藤千葉、込山本田、中西大竹向井地",
+    "② 本田込山向井地大竹、中西武藤千葉福岡",
+    "向井地大竹中西、込山本田、福岡千葉武藤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "女と女と男の 不思議な友達〜",
+      "members": [
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "fukuoka", "x": -1.5, "y": 2 },
+        { "name": "chiba", "x": 0.5, "y": 2 },
+        { "name": "muto", "x": 2.5, "y": 2 },
+
+        { "name": "honda", "x": -2.5, "y": 1 },
+        { "name": "komiyama", "x": -0.5, "y": 1 },
+        { "name": "mukaichi", "x": 1.5, "y": 1 },
+        { "name": "otake", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "トホホ 素敵な三角関係  バランスの問題〜",
+      "members": [
+        { "name": "honda", "x": -3, "y": 4 },
+        { "name": "komiyama", "x": 0, "y": 4 },
+        { "name": "mukaichi", "x": 3, "y": 4 },
+
+        { "name": "nakanishi", "x": -2, "y": 3 },
+        { "name": "otake", "x": 2, "y": 3 },
+
+        { "name": "fukuoka", "x": -1, "y": 2 },
+        { "name": "chiba", "x": 1, "y": 2 },
+
+        { "name": "muto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "1分待ってから「おはよう」って  大きな声を出して 出て行こう〜",
+      "members": [
+        { "name": "honda", "x": -2, "y": 3 },
+        { "name": "komiyama", "x": 0, "y": 3 },
+        { "name": "mukaichi", "x": 2, "y": 3 },
+
+        { "name": "nakanishi", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "otake", "x": 3, "y": 2 },
+
+        { "name": "chiba", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "トホホ 思いもよらない現実  ちょっとショックだけど〜",
+      "members": [
+        { "name": "nakanishi", "x": -5, "y": 3 },
+        { "name": "honda", "x": -4, "y": 3 },
+        { "name": "mukaichi", "x": 4, "y": 3 },
+        { "name": "otake", "x": 5, "y": 3 },
+
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "muto", "x": -2, "y": 1 },
+        { "name": "chiba", "x": -1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "気づかぬふりしよう この関係  壊したくないから〜",
+      "members": [
+        { "name": "nakanishi", "x": -4, "y": 4 },
+        { "name": "otake", "x": 4, "y": 4 },
+
+        { "name": "honda", "x": -3, "y": 3 },
+        { "name": "mukaichi", "x": 3, "y": 3 },
+
+        { "name": "muto", "x": -2, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "chiba", "x": -1, "y": 1 },
+        { "name": "fukuoka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "muto", "x": -5, "y": 2 },
+        { "name": "fukuoka", "x": -3, "y": 2 },
+        { "name": "honda", "x": 3, "y": 2 },
+        { "name": "mukaichi", "x": 5, "y": 2 },
+
+        { "name": "nakanishi", "x": -6, "y": 1 },
+        { "name": "chiba", "x": -4, "y": 1 },
+        { "name": "komiyama", "x": 4, "y": 1 },
+        { "name": "otake", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "今も 素敵な三角関係  同じくらい大事〜",
+      "members": [
+        { "name": "honda", "x": -3, "y": 4 },
+        { "name": "komiyama", "x": 0, "y": 4 },
+        { "name": "mukaichi", "x": 3, "y": 4 },
+
+        { "name": "nakanishi", "x": -2, "y": 3 },
+        { "name": "otake", "x": 2, "y": 3 },
+
+        { "name": "fukuoka", "x": -1, "y": 2 },
+        { "name": "chiba", "x": 1, "y": 2 },
+
+        { "name": "muto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "何があったって 笑顔のまま  私が悲しまなきゃ いいことよ〜",
+      "members": [
+        { "name": "honda", "x": -2, "y": 3 },
+        { "name": "komiyama", "x": 0, "y": 3 },
+        { "name": "mukaichi", "x": 2, "y": 3 },
+
+        { "name": "nakanishi", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "otake", "x": 3, "y": 2 },
+
+        { "name": "chiba", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "今も 微妙な立ち位置と知って  無理に頑張ってるわ〜",
+      "members": [
+        { "name": "nakanishi", "x": -5, "y": 3 },
+        { "name": "honda", "x": -4, "y": 3 },
+        { "name": "mukaichi", "x": 4, "y": 3 },
+        { "name": "otake", "x": 5, "y": 3 },
+
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "muto", "x": -2, "y": 1 },
+        { "name": "chiba", "x": -1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "涙が溢れても この関係  失いたくないの〜",
+      "members": [
+        { "name": "nakanishi", "x": -4, "y": 4 },
+        { "name": "otake", "x": 4, "y": 4 },
+
+        { "name": "honda", "x": -3, "y": 3 },
+        { "name": "mukaichi", "x": 3, "y": 3 },
+
+        { "name": "muto", "x": -2, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "chiba", "x": -1, "y": 1 },
+        { "name": "fukuoka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "今も 微妙な立ち位置と知って  無理に頑張ってるわ〜",
+      "members": [
+        { "name": "nakanishi", "x": -5, "y": 3 },
+        { "name": "honda", "x": -4, "y": 3 },
+        { "name": "mukaichi", "x": 4, "y": 3 },
+        { "name": "otake", "x": 5, "y": 3 },
+
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "muto", "x": -2, "y": 1 },
+        { "name": "chiba", "x": -1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "涙が溢れても この関係  失いたくないの〜",
+      "members": [
+        { "name": "nakanishi", "x": -4, "y": 4 },
+        { "name": "otake", "x": 4, "y": 4 },
+
+        { "name": "honda", "x": -3, "y": 3 },
+        { "name": "mukaichi", "x": 3, "y": 3 },
+
+        { "name": "muto", "x": -2, "y": 2 },
+        { "name": "komiyama", "x": 2, "y": 2 },
+
+        { "name": "chiba", "x": -1, "y": 1 },
+        { "name": "fukuoka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "どうにか三角〜",
+      "members": [
+        { "name": "nakanishi", "x": -3, "y": 4 },
+        { "name": "komiyama", "x": 0, "y": 4 },
+        { "name": "otake", "x": 3, "y": 4 },
+
+        { "name": "honda", "x": -2, "y": 3 },
+        { "name": "mukaichi", "x": 2, "y": 3 },
+
+        { "name": "chiba", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+
+        { "name": "muto", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
