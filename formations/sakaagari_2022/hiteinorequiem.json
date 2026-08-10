@@ -1,0 +1,164 @@
+{
+  "title": "否定のレクイエム",
+
+  "memo": [
+    "① 山邊下口、服部市川、田口山内/茂木髙橋",
+    "② 市川/下口、山邊服部、髙橋田口/茂木山内"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -3.75, "y": 2 },
+        { "name": "taguchi", "x": -2.25, "y": 2 },
+        { "name": "mogi", "x": 2.25, "y": 2 },
+        { "name": "yamauchi", "x": 3.75, "y": 2 },
+
+        { "name": "yamabe", "x": -5.25, "y": 1 },
+        { "name": "ichikawa", "x": -0.75, "y": 1 },
+        { "name": "shimoguchi", "x": 0.75, "y": 1 },
+        { "name": "hattori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "しあわせとふしあわせ 一緒に運ぶ〜",
+      "members": [
+        { "name": "yamabe", "x": -5.25, "y": 1 },
+        { "name": "ichikawa", "x": -0.75, "y": 1 },
+        { "name": "shimoguchi", "x": 0.75, "y": 1 },
+        { "name": "hattori", "x": 5.25, "y": 1 },
+
+        { "name": "takahashi", "x": -3.75, "y": 2 },
+        { "name": "taguchi", "x": -2.25, "y": 2 },
+        { "name": "mogi", "x": 2.25, "y": 2 },
+        { "name": "yamauchi", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamabe", "x": -5.25, "y": 1 },
+        { "name": "ichikawa", "x": -0.75, "y": 1 },
+        { "name": "shimoguchi", "x": 0.75, "y": 1 },
+        { "name": "hattori", "x": 5.25, "y": 1 },
+
+        { "name": "takahashi", "x": -3.75, "y": 2 },
+        { "name": "taguchi", "x": -2.25, "y": 2 },
+        { "name": "mogi", "x": 2.25, "y": 2 },
+        { "name": "yamauchi", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yamabe", "x": -5.25, "y": 2 },
+        { "name": "ichikawa", "x": -0.75, "y": 2 },
+        { "name": "shimoguchi", "x": 0.75, "y": 2 },
+        { "name": "hattori", "x": 5.25, "y": 2 },
+
+        { "name": "takahashi", "x": -3.75, "y": 1 },
+        { "name": "taguchi", "x": -2.25, "y": 1 },
+        { "name": "mogi", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "ichikawa", "x": -1, "y": 4 },
+        { "name": "shimoguchi", "x": 1, "y": 4 },
+
+        { "name": "mogi", "x": -2, "y": 3 },
+        { "name": "taguchi", "x": 2, "y": 3 },
+
+        { "name": "yamauchi", "x": -3, "y": 2 },
+        { "name": "takahashi", "x": 3, "y": 2 },
+
+        { "name": "hattori", "x": -4, "y": 1 },
+        { "name": "yamabe", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "彼女が鳥になった日  何かの間違い〜",
+      "members": [
+        { "name": "ichikawa", "x": -1, "y": 4 },
+        { "name": "shimoguchi", "x": 1, "y": 4 },
+
+        { "name": "mogi", "x": -2, "y": 3 },
+        { "name": "taguchi", "x": 2, "y": 3 },
+
+        { "name": "yamauchi", "x": -3, "y": 2 },
+        { "name": "takahashi", "x": 3, "y": 2 },
+
+        { "name": "hattori", "x": -4, "y": 1 },
+        { "name": "yamabe", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "彼女が遺したものは 明日の青空〜",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 4 },
+        { "name": "yamabe", "x": 4, "y": 4 },
+
+        { "name": "yamauchi", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+
+        { "name": "mogi", "x": -2, "y": 2 },
+        { "name": "taguchi", "x": 2, "y": 2 },
+
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 4 },
+        { "name": "yamabe", "x": 4, "y": 4 },
+
+        { "name": "yamauchi", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+
+        { "name": "mogi", "x": -2, "y": 2 },
+        { "name": "taguchi", "x": 2, "y": 2 },
+
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 4 },
+        { "name": "yamabe", "x": 4, "y": 4 },
+
+        { "name": "yamauchi", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+
+        { "name": "mogi", "x": -2, "y": 2 },
+        { "name": "taguchi", "x": 2, "y": 2 },
+
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
