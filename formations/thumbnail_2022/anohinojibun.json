@@ -1,0 +1,97 @@
+{
+  "title": "あの日の自分",
+
+  "memo": [
+    "① 村山吉川吉田倉野尾、谷口黒須多田下尾",
+    "② 下尾多田黒須谷口、吉田倉野尾村山吉川",
+    "下尾多田黒須谷口",
+    "ラストサビ前 吉田吉川、倉野尾/村山",
+    "下尾多田/黒須谷口",
+    "ラストサビ 吉田吉川、倉野尾/村山",
+    "多田/黒須、下尾/谷口"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -1.5, "y": 4 },
+        { "name": "tada", "x": 1.5, "y": 4 },
+
+        { "name": "yoshikawa", "x": -1.5, "y": 3 },
+        { "name": "yoshida", "x": 1.5, "y": 3 },
+
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "shitao", "x": 4.5, "y": 2 },
+
+        { "name": "murayama", "x": -4.5, "y": 1 },
+        { "name": "kuranoo", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "陽の当たらぬ場所で  晴れ間を探した〜",
+      "members": [
+        { "name": "yoshida", "x": -4.5, "y": 2 },
+        { "name": "kuranoo", "x": -1.5, "y": 2 },
+        { "name": "murayama", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+
+        { "name": "shitao", "x": -4.5, "y": 1 },
+        { "name": "tada", "x": -1.5, "y": 1 },
+        { "name": "kurosu", "x": 1.5, "y": 1 },
+        { "name": "taniguchi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "夢の道は遠すぎて  挫けそうだった〜",
+      "members": [
+        { "name": "shitao", "x": -4.5, "y": 2 },
+        { "name": "tada", "x": -1.5, "y": 2 },
+        { "name": "kurosu", "x": 1.5, "y": 2 },
+        { "name": "taniguchi", "x": 4.5, "y": 2 },
+
+        { "name": "yoshida", "x": -4.5, "y": 1 },
+        { "name": "kuranoo", "x": -1.5, "y": 1 },
+        { "name": "murayama", "x": 1.5, "y": 1 },
+        { "name": "yoshikawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "あなたはそんなに弱くない  悲しみの河 渡れるはず〜",
+      "members": [
+        { "name": "shitao", "x": -5.5, "y": 2 },
+        { "name": "tada", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 5.5, "y": 2 },
+
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 },
+        { "name": "murayama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "shitao", "x": -5.5, "y": 2 },
+        { "name": "tada", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "taniguchi", "x": 5.5, "y": 2 },
+
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 },
+        { "name": "murayama", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
