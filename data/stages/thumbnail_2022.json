@@ -1,0 +1,102 @@
+{
+  "stage": "AKB48「サムネイル」",
+  "stageId": "thumbnail_2022",
+
+  "members": [
+    {
+      "name": "倉野尾成美",
+      "display": "倉野尾",
+      "id": "kuranoo",
+      "image": "kuranoo_narumi_2022"
+    },
+    {
+      "name": "黒須遥香",
+      "display": "黒須",
+      "id": "kurosu",
+      "image": "kurosu_haruka_2022"
+    },
+    {
+      "name": "下尾みう",
+      "display": "下尾",
+      "id": "shitao",
+      "image": "shitao_miu_2022"
+    },
+    {
+      "name": "多田京加",
+      "display": "多田",
+      "id": "tada",
+      "image": "tada_kyoka_2022"
+    },
+    {
+      "name": "谷口めぐ",
+      "display": "谷口",
+      "id": "taniguchi",
+      "image": "taniguchi_megu_2022"
+    },
+    {
+      "name": "村山彩希",
+      "display": "村山",
+      "id": "murayama",
+      "image": "murayama_yuiri_2022"
+    },
+    {
+      "name": "吉川七瀬",
+      "display": "吉川",
+      "id": "yoshikawa",
+      "image": "yoshikawa_nanase_2022"
+    },
+    {
+      "name": "吉田華恋",
+      "display": "吉田",
+      "id": "yoshida",
+      "image": "yoshida_karen_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "Get you!",
+      "file": "getyou.json"
+    },
+    {
+      "name": "青くさいロック",
+      "file": "aokusairock.json"
+    },
+    {
+      "name": "ランナーズハイ",
+      "file": "runnershigh.json"
+    },
+    {
+      "name": "唇にBe My Baby",
+      "file": "kuchibirunibe_my_baby.json"
+    },
+    {
+      "name": "誰が私を泣かせた？",
+      "file": "daregawatashiwonakaseta.json"
+    },
+    {
+      "name": "だから君が好きなのか",
+      "file": "dakarakimigasukinanoka.json"
+    },
+    {
+      "name": "LOVE TRIP",
+      "file": "lovetrip.json"
+    },
+    {
+      "name": "あの日の自分",
+      "file": "anohinojibun.json"
+    },
+    {
+      "name": "誕生日TANGO",
+      "file": "tanjyoubitango.json"
+    },
+    {
+      "name": "君はメロディー",
+      "file": "kimiwamelody.json"
+    },
+    {
+      "name": "翼はいらない",
+      "file": "tsubasawairanai.json"
+    }
+  ]
+}
