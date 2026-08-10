@@ -1,0 +1,28 @@
+{
+  "title": "道頓堀よ、泣かせてくれ！",
+
+  "memo": [
+    "① 白間",
+    "② 梅山、南/新澤、山崎黒田、岡本河野"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "umeyama", "x": -3, "y": 4 },
+        { "name": "shiroma", "x": 3, "y": 4 },
+
+        { "name": "minami", "x": -1, "y": 3 },
+        { "name": "shinzawa", "x": 1, "y": 3 },
+
+        { "name": "yamasaki", "x": -4, "y": 2 },
+        { "name": "kawano", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -2, "y": 1 },
+        { "name": "okamoto", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
