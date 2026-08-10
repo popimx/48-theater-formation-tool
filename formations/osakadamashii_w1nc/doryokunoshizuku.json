@@ -1,0 +1,82 @@
+{
+  "title": "努力の雫",
+
+  "memo": [
+    "① 前田川上石塚、出口/河野、岡本水田平山",
+    "② 出口/河野、岡本水田平山、前田川上石塚"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "hirayama", "x": 5.5, "y": 4 },
+
+        { "name": "deguchi", "x": -4, "y": 3 },
+        { "name": "mizuta", "x": 4, "y": 3 },
+
+        { "name": "maeda", "x": -2.5, "y": 2 },
+        { "name": "kawano", "x": 2.5, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "ishizuka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "この空も逃しはしない〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "hirayama", "x": 5.5, "y": 4 },
+
+        { "name": "deguchi", "x": -4, "y": 3 },
+        { "name": "mizuta", "x": 4, "y": 3 },
+
+        { "name": "maeda", "x": -2.5, "y": 2 },
+        { "name": "kawano", "x": 2.5, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "ishizuka", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -2, "y": 4 },
+        { "name": "hirayama", "x": 2, "y": 4 },
+
+        { "name": "deguchi", "x": -2, "y": 3 },
+        { "name": "mizuta", "x": 2, "y": 3 },
+
+        { "name": "maeda", "x": -2, "y": 2 },
+        { "name": "kawano", "x": 2, "y": 2 },
+
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "ishizuka", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "hirayama", "x": 5.5, "y": 4 },
+
+        { "name": "deguchi", "x": -4, "y": 3 },
+        { "name": "mizuta", "x": 4, "y": 3 },
+
+        { "name": "maeda", "x": -2.5, "y": 2 },
+        { "name": "kawano", "x": 2.5, "y": 2 },
+
+        { "name": "kawakami", "x": -1, "y": 1 },
+        { "name": "ishizuka", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
