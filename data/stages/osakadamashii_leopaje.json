@@ -1,0 +1,106 @@
+{
+  "stage": "LeopAje「大阪魂、捨てたらあかん」",
+  "stageId": "osakadamashii_leopaje",
+
+  "members": [
+    {
+      "name": "石田優美",
+      "display": "石田",
+      "id": "ishida",
+      "image": "ishida_yumi_2020"
+    },
+    {
+      "name": "貞野遥香",
+      "display": "貞野",
+      "id": "sadano",
+      "image": "sadano_haruka_2020"
+    },
+    {
+      "name": "菖蒲まりん",
+      "display": "菖蒲",
+      "id": "shobu",
+      "image": "shobu_marin_2020"
+    },
+    {
+      "name": "堀詩音",
+      "display": "堀",
+      "id": "hori",
+      "image": "hori_shion_2020"
+    },
+    {
+      "name": "和田海佑",
+      "display": "和田",
+      "id": "wada",
+      "image": "wada_miyu_2020"
+    },
+    {
+      "name": "出口結菜",
+      "display": "出口",
+      "id": "deguchi",
+      "image": "deguchi_yuina_2020"
+    },
+    {
+      "name": "黒田楓和",
+      "display": "黒田",
+      "id": "kuroda",
+      "image": "kuroda_fuwa_2020"
+    },
+    {
+      "name": "早川夢菜",
+      "display": "早川",
+      "id": "hayakawa",
+      "image": "hayakawa_yuna_2020"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "俺らとは",
+      "file": "oreratoha.json"
+    },
+    {
+      "name": "努力の雫",
+      "file": "doryokunoshizuku.json"
+    },
+    {
+      "name": "Don't look back!",
+      "file": "dont_look_back.json"
+    },
+    {
+      "name": "すべては途中経過",
+      "file": "subetehatochukeika.json"
+    },
+    {
+      "name": "ウィンクの銃弾",
+      "file": "winknojudan.json"
+    },
+    {
+      "name": "True Purpose",
+      "file": "true_purpose.json"
+    },
+    {
+      "name": "母校へ帰れ!",
+      "file": "bokouhekaere.json"
+    },
+    {
+      "name": "シダレヤナギ",
+      "file": "shidareyanagi.json"
+    },
+    {
+      "name": "道頓堀よ、泣かせてくれ!",
+      "file": "dotonboriyonakasetekure.json"
+    },
+    {
+      "name": "Ruby",
+      "file": "ruby.json"
+    },
+    {
+      "name": "サササ サイコー！",
+      "file": "sasasa_saiko.json"
+    },
+    {
+      "name": "ワロタピーポー",
+      "file": "warota_people.json"
+    }
+  ]
+}
