@@ -1,0 +1,111 @@
+{
+  "title": "横須賀カーブ",
+
+  "memo": [
+    "① 大盛石綿、浅井/左伴、坂口/徳永、佐藤稲垣",
+    "② 石綿坂口大盛徳永、佐藤浅井稲垣左伴",
+    "ラストサビ 徳永大盛、坂口石綿、浅井左伴",
+    "佐藤稲垣"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "asai", "x": -4, "y": 3 },
+        { "name": "hidaritomo", "x": 4, "y": 3 },
+
+        { "name": "inagaki", "x": -5.5, "y": 2 },
+        { "name": "sakaguchi", "x": -1, "y": 2 },
+        { "name": "tokunaga", "x": 1, "y": 2 },
+        { "name": "sato", "x": 5.5, "y": 2 },
+
+        { "name": "omori", "x": -2.5, "y": 1 },
+        { "name": "ishiwata", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "暗いコンビナート 眺めてた〜",
+      "members": [
+        { "name": "asai", "x": -2, "y": 4 },
+        { "name": "hidaritomo", "x": 2, "y": 4 },
+
+        { "name": "inagaki", "x": -2, "y": 3 },
+        { "name": "sato", "x": 2, "y": 3 },
+
+        { "name": "sakaguchi", "x": -2, "y": 2 },
+        { "name": "hidaritomo", "x": 2, "y": 2 },
+
+        { "name": "omori", "x": -2, "y": 1 },
+        { "name": "ishiwata", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "スピードを上げた 湾岸線 2人〜",
+      "members": [
+        { "name": "inagaki", "x": -2, "y": 4 },
+        { "name": "sato", "x": 2, "y": 4 },
+
+        { "name": "sakaguchi", "x": -2, "y": 3 },
+        { "name": "hidaritomo", "x": 2, "y": 3 },
+
+        { "name": "omori", "x": -2, "y": 2 },
+        { "name": "ishiwata", "x": 2, "y": 2 },
+
+        { "name": "asai", "x": -2, "y": 1 },
+        { "name": "hidaritomo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "レッドゾーンを振り切った 横須賀ハイウェイ〜",
+      "members": [
+        { "name": "inagaki", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": -2.25, "y": 1 },
+        { "name": "asai", "x": -0.75, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 },
+        { "name": "tokunaga", "x": 2.25, "y": 1 },
+        { "name": "ishiwata", "x": 3.75, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "私たちのカーブ  減速せずに 走り抜けて行く〜",
+      "members": [
+        { "name": "inagaki", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": -2.25, "y": 1 },
+        { "name": "asai", "x": -0.75, "y": 1 },
+        { "name": "sato", "x": 0.75, "y": 1 },
+        { "name": "tokunaga", "x": 2.25, "y": 1 },
+        { "name": "ishiwata", "x": 3.75, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "愛の答えなんて ひとつじゃないよ  行き止まりまで〜",
+      "members": [
+        { "name": "sato", "x": -5.25, "y": 2 },
+        { "name": "tokunaga", "x": -2.25, "y": 2 },
+        { "name": "ishiwata", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "inagaki", "x": -3.75, "y": 1 },
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "sakaguchi", "x": 2.25, "y": 1 },
+        { "name": "asai", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
