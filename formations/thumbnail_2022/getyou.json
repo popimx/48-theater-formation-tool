@@ -1,0 +1,62 @@
+{
+  "title": "Get you!",
+
+  "memo": [
+    "① 村山、下尾倉野尾谷口、多田吉川/黒須吉田",
+    "② 吉川谷口、多田黒須吉田、下尾倉野尾村山",
+    "ラストサビ前 村山、倉野尾、吉川下尾谷口",
+    "多田黒須吉田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -2.5, "y": 3 },
+        { "name": "kurosu", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 2.5, "y": 3 },
+
+        { "name": "tada", "x": -4, "y": 2 },
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "Get you! Get you! 君だけを  Get you! Get you! 追いかけて〜",
+      "members": [
+        { "name": "tada", "x": -5.25, "y": 1 },
+        { "name": "shitao", "x": -3.75, "y": 1 },
+        { "name": "yoshikawa", "x": -2.25, "y": 1 },
+        { "name": "kuranoo", "x": -0.75, "y": 1 },
+        { "name": "murayama", "x": 0.75, "y": 1 },
+        { "name": "kurosu", "x": 2.25, "y": 1 },
+        { "name": "taniguchi", "x": 3.75, "y": 1 },
+        { "name": "yoshida", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 4 },
+        { "name": "tada", "x": 3, "y": 4 },
+
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
