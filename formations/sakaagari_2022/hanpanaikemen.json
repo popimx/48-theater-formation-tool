@@ -1,0 +1,143 @@
+{
+  "title": "ハンパなイケメン",
+
+  "memo": [
+    "① 茂木市川、下口山邊、山内田口、髙橋服部",
+    "② 山内田口、髙橋服部、茂木市川、下口山邊"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -3.5, "y": 1 },
+        { "name": "yamabe", "x": -2.5, "y": 1 },
+        { "name": "taguchi", "x": -1.5, "y": 1 },
+        { "name": "shimoguchi", "x": -0.5, "y": 1 },
+        { "name": "ichikawa", "x": 0.5, "y": 1 },
+        { "name": "mogi", "x": 1.5, "y": 1 },
+        { "name": "takahashi", "x": 2.5, "y": 1 },
+        { "name": "hattori", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -2.5, "y": 3 },
+        { "name": "taguchi", "x": -1, "y": 3 },
+
+        { "name": "takahashi", "x": 4, "y": 2 },
+        { "name": "hattori", "x": 5.5, "y": 2 },
+
+        { "name": "shimoguchi", "x": -5.5, "y": 1 },
+        { "name": "yamabe", "x": -4, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "ichikawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -2.5, "y": 3 },
+        { "name": "taguchi", "x": -1, "y": 3 },
+
+        { "name": "takahashi", "x": 4, "y": 2 },
+        { "name": "hattori", "x": 5.5, "y": 2 },
+
+        { "name": "shimoguchi", "x": -5.5, "y": 1 },
+        { "name": "yamabe", "x": -4, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "ichikawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": -2.5, "y": 3 },
+        { "name": "taguchi", "x": -1, "y": 3 },
+
+        { "name": "takahashi", "x": 4, "y": 2 },
+        { "name": "hattori", "x": 5.5, "y": 2 },
+
+        { "name": "shimoguchi", "x": -5.5, "y": 1 },
+        { "name": "yamabe", "x": -4, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "ichikawa", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": 1, "y": 3 },
+        { "name": "taguchi", "x": 2.5, "y": 3 },
+
+        { "name": "takahashi", "x": 5.5, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "mogi", "x": 2.5, "y": 1 },
+        { "name": "ichikawa", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": -4, "y": 1 },
+        { "name": "yamabe", "x": -5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": 1, "y": 3 },
+        { "name": "taguchi", "x": 2.5, "y": 3 },
+
+        { "name": "takahashi", "x": 5.5, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "mogi", "x": 2.5, "y": 1 },
+        { "name": "ichikawa", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": -4, "y": 1 },
+        { "name": "yamabe", "x": -5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamauchi", "x": 1, "y": 3 },
+        { "name": "taguchi", "x": 2.5, "y": 3 },
+
+        { "name": "takahashi", "x": 5.5, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "mogi", "x": 2.5, "y": 1 },
+        { "name": "ichikawa", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": -4, "y": 1 },
+        { "name": "yamabe", "x": -5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -2.5, "y": 2 },
+        { "name": "takahashi", "x": -0.5, "y": 2 },
+        { "name": "taguchi", "x": 1.5, "y": 2 },
+        { "name": "ichikawa", "x": 3.5, "y": 2 },
+
+        { "name": "mogi", "x": -3.5, "y": 1 },
+        { "name": "yamauchi", "x": -1.5, "y": 1 },
+        { "name": "yamabe", "x": 0.5, "y": 1 },
+        { "name": "shimoguchi", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
