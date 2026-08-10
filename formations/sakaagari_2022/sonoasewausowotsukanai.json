@@ -1,0 +1,178 @@
+{
+  "title": "その汗は嘘をつかない",
+
+  "memo": [
+    "① 山邊山内、市川/髙橋、田口服部/茂木下口",
+    "② 服部/茂木、田口下口、市川山内山邊髙橋",
+    "ラストサビ前 山邊髙橋/市川山内",
+    "田口茂木服部下口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 4 },
+        { "name": "yamabe", "x": 4, "y": 4 },
+
+        { "name": "yamauchi", "x": -3, "y": 3 },
+        { "name": "takahashi", "x": 3, "y": 3 },
+
+        { "name": "mogi", "x": -2, "y": 2 },
+        { "name": "taguchi", "x": 2, "y": 2 },
+
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "野球部が目指すよ 甲子園〜",
+      "members": [
+        { "name": "ichikawa", "x": -1.5, "y": 3 },
+        { "name": "yamabe", "x": -0.5, "y": 3 },
+        { "name": "yamauchi", "x": 0.5, "y": 3 },
+        { "name": "takahashi", "x": 1.5, "y": 3 },
+
+        { "name": "taguchi", "x": -4, "y": 1 },
+        { "name": "hattori", "x": -3, "y": 1 },
+        { "name": "mogi", "x": 3, "y": 1 },
+        { "name": "shimoguchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "taguchi", "x": -2, "y": 3 },
+        { "name": "shimoguchi", "x": 2, "y": 3 },
+
+        { "name": "hattori", "x": -3.5, "y": 2 },
+        { "name": "mogi", "x": 3.5, "y": 2 },
+
+        { "name": "ichikawa", "x": -5, "y": 1 },
+        { "name": "yamabe", "x": -1, "y": 1 },
+        { "name": "yamauchi", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "taguchi", "x": -2, "y": 3 },
+        { "name": "shimoguchi", "x": 2, "y": 3 },
+
+        { "name": "hattori", "x": -3.5, "y": 2 },
+        { "name": "mogi", "x": 3.5, "y": 2 },
+
+        { "name": "ichikawa", "x": -5, "y": 1 },
+        { "name": "yamabe", "x": -1, "y": 1 },
+        { "name": "yamauchi", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "頑張った証拠に 君の灼けた肌〜",
+      "members": [
+        { "name": "taguchi", "x": -3.75, "y": 2 },
+        { "name": "mogi", "x": -0.75, "y": 2 },
+        { "name": "hattori", "x": 2.25, "y": 2 },
+        { "name": "shimoguchi", "x": 5.25, "y": 2 },
+
+        { "name": "ichikawa", "x": -5.25, "y": 1 },
+        { "name": "yamauchi", "x": -2.25, "y": 1 },
+        { "name": "yamabe", "x": 0.75, "y": 1 },
+        { "name": "takahashi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "taguchi", "x": -3.75, "y": 2 },
+        { "name": "mogi", "x": -0.75, "y": 2 },
+        { "name": "hattori", "x": 2.25, "y": 2 },
+        { "name": "shimoguchi", "x": 5.25, "y": 2 },
+
+        { "name": "ichikawa", "x": -5.25, "y": 1 },
+        { "name": "yamauchi", "x": -2.25, "y": 1 },
+        { "name": "yamabe", "x": 0.75, "y": 1 },
+        { "name": "takahashi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "その汗は嘘をつかないよ  キラキラ光る真実〜",
+      "members": [
+        { "name": "yamabe", "x": -1, "y": 3 },
+        { "name": "yamauchi", "x": 1, "y": 3 },
+
+        { "name": "takahashi", "x": -4, "y": 2 },
+        { "name": "ichikawa", "x": 4, "y": 2 },
+
+        { "name": "taguchi", "x": -5.5, "y": 1 },
+        { "name": "mogi", "x": -2.5, "y": 1 },
+        { "name": "hattori", "x": 2.5, "y": 1 },
+        { "name": "shimoguchi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "苦しんだ後 掴むだろう  真上の太陽が 君を見てるんだ〜",
+      "members": [
+        { "name": "taguchi", "x": -5.25, "y": 1 },
+        { "name": "takahashi", "x": -3.75, "y": 1 },
+        { "name": "mogi", "x": -2.25, "y": 1 },
+        { "name": "yamabe", "x": -0.75, "y": 1 },
+        { "name": "yamauchi", "x": 0.75, "y": 1 },
+        { "name": "hattori", "x": 2.25, "y": 1 },
+        { "name": "ichikawa", "x": 3.75, "y": 1 },
+        { "name": "shimoguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shimoguchi", "x": -2, "y": 3 },
+        { "name": "taguchi", "x": 2, "y": 3 },
+
+        { "name": "hattori", "x": -3, "y": 2 },
+        { "name": "mogi", "x": 3, "y": 2 },
+
+        { "name": "takahashi", "x": -4, "y": 1 },
+        { "name": "yamauchi", "x": -1, "y": 1 },
+        { "name": "yamabe", "x": 1, "y": 1 },
+        { "name": "ichikawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "shimoguchi", "x": -2, "y": 3 },
+        { "name": "taguchi", "x": 2, "y": 3 },
+
+        { "name": "hattori", "x": -3, "y": 2 },
+        { "name": "mogi", "x": 3, "y": 2 },
+
+        { "name": "takahashi", "x": -4, "y": 1 },
+        { "name": "yamauchi", "x": -1, "y": 1 },
+        { "name": "yamabe", "x": 1, "y": 1 },
+        { "name": "ichikawa", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
