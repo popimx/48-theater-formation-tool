@@ -1,0 +1,95 @@
+{
+  "title": "街角のパーティー",
+
+  "memo": [
+    "① 服部田口、山邊/髙橋、山内下口、市川茂木",
+    "山邊髙橋/服部田口",
+    "② 下口山内、市川茂木、服部/田口、山邊/髙橋",
+    "市川下口山内茂木"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "言葉の壁だって  宗教だって関係ないよ〜",
+      "members": [
+        { "name": "ichikawa", "x": -2, "y": 3 },
+        { "name": "mogi", "x": 2, "y": 3 },
+
+        { "name": "shimoguchi", "x": -3.5, "y": 2 },
+        { "name": "yamauchi", "x": 3.5, "y": 2 },
+
+        { "name": "yamabe", "x": -5, "y": 1 },
+        { "name": "hattori", "x": -1, "y": 1 },
+        { "name": "taguchi", "x": 1, "y": 1 },
+        { "name": "takahashi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "どこかのニュースショーが取り上げる  真夏の微笑ましい風物詩〜",
+      "members": [
+        { "name": "yamabe", "x": -4.5, "y": 2 },
+        { "name": "shimoguchi", "x": -1.5, "y": 2 },
+        { "name": "yamauchi", "x": 1.5, "y": 2 },
+        { "name": "takahashi", "x": 4.5, "y": 2 },
+
+        { "name": "hattori", "x": -4.5, "y": 1 },
+        { "name": "ichikawa", "x": -1.5, "y": 1 },
+        { "name": "mogi", "x": 1.5, "y": 1 },
+        { "name": "taguchi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "大国の軍事訓練なんかよりも〜",
+      "members": [
+        { "name": "hattori", "x": -4.5, "y": 2 },
+        { "name": "shimoguchi", "x": -1.5, "y": 2 },
+        { "name": "yamauchi", "x": 1.5, "y": 2 },
+        { "name": "taguchi", "x": 4.5, "y": 2 },
+
+        { "name": "yamabe", "x": -4.5, "y": 1 },
+        { "name": "ichikawa", "x": -1.5, "y": 1 },
+        { "name": "mogi", "x": 1.5, "y": 1 },
+        { "name": "takahashi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -2, "y": 3 },
+        { "name": "taguchi", "x": 2, "y": 3 },
+
+        { "name": "yamabe", "x": -3.5, "y": 2 },
+        { "name": "takahashi", "x": 3.5, "y": 2 },
+
+        { "name": "ichikawa", "x": -5, "y": 1 },
+        { "name": "shimoguchi", "x": -1, "y": 1 },
+        { "name": "yamauchi", "x": 1, "y": 1 },
+        { "name": "mogi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "世界中の街角で  ハッピー広がってゆくはず〜",
+      "members": [
+        { "name": "mogi", "x": -2, "y": 3 },
+        { "name": "ichikawa", "x": 2, "y": 3 },
+
+        { "name": "yamauchi", "x": -3.5, "y": 2 },
+        { "name": "shimoguchi", "x": 3.5, "y": 2 },
+
+        { "name": "takahashi", "x": -5, "y": 1 },
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "hattori", "x": 1, "y": 1 },
+        { "name": "yamabe", "x": 5, "y": 1 }
+      ]
+    }
+  ]
+}
