@@ -1,0 +1,240 @@
+{
+  "title": "アイドルの夜明け",
+
+  "memo": [],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -3, "y": 3 },
+        { "name": "sato", "x": 3, "y": 3 },
+
+        { "name": "sakaguchi", "x": -1, "y": 2 },
+        { "name": "asai", "x": 1, "y": 2 },
+
+        { "name": "tokunaga", "x": -4, "y": 1 },
+        { "name": "omori", "x": -2, "y": 1 },
+        { "name": "inagaki", "x": 2, "y": 1 },
+        { "name": "hidaritomo", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "強く！腕を振り歩け  立ち止まることなく... 〜",
+      "members": [
+        { "name": "ishiwata", "x": -5, "y": 3 },
+        { "name": "inagaki", "x": -2, "y": 3 },
+        { "name": "omori", "x": 2, "y": 3 },
+        { "name": "sato", "x": 5, "y": 3 },
+
+        { "name": "sakaguchi", "x": -3, "y": 2 },
+        { "name": "asai", "x": 3, "y": 2 },
+
+        { "name": "hidaritomo", "x": -1, "y": 1 },
+        { "name": "tokunaga", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "前へ！迷わずに行こう  目指せ！輝いた未来〜",
+      "members": [
+        { "name": "hidaritomo", "x": -2, "y": 3 },
+        { "name": "tokunaga", "x": 2, "y": 3 },
+
+        { "name": "inagaki", "x": -4, "y": 2 },
+        { "name": "ishiwata", "x": -1, "y": 2 },
+        { "name": "sato", "x": 1, "y": 2 },
+        { "name": "omori", "x": 4, "y": 2 },
+
+        { "name": "sakaguchi", "x": -3, "y": 1 },
+        { "name": "asai", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -3, "y": 3 },
+        { "name": "sato", "x": 0, "y": 3 },
+        { "name": "tokunaga", "x": 3, "y": 3 },
+
+        { "name": "inagaki", "x": -4.5, "y": 2 },
+        { "name": "ishiwata", "x": -1.5, "y": 2 },
+        { "name": "asai", "x": 1.5, "y": 2 },
+        { "name": "omori", "x": 4.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Ready! GO! GO! GO!  Ready! GO! GO! GO!  アイドルの夜明けが来た〜",
+      "members": [
+        { "name": "hidaritomo", "x": -3, "y": 3 },
+        { "name": "sato", "x": 0, "y": 3 },
+        { "name": "tokunaga", "x": 3, "y": 3 },
+
+        { "name": "inagaki", "x": -4.5, "y": 2 },
+        { "name": "ishiwata", "x": -1.5, "y": 2 },
+        { "name": "asai", "x": 1.5, "y": 2 },
+        { "name": "omori", "x": 4.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Ready! GO! GO! GO!  白んだ空は希望だ  あの太陽は私だ〜",
+      "members": [
+        { "name": "ishiwata", "x": -4, "y": 2 },
+        { "name": "sakaguchi", "x": -2, "y": 2 },
+        { "name": "asai", "x": 2, "y": 2 },
+        { "name": "omori", "x": 4, "y": 2 },
+
+        { "name": "inagaki", "x": -3, "y": 1 },
+        { "name": "tokunaga", "x": -1, "y": 1 },
+        { "name": "sato", "x": 1, "y": 1 },
+        { "name": "hidaritomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "asai", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "hidaritomo", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "inagaki", "x": 2.25, "y": 1 },
+        { "name": "ishiwata", "x": 3.75, "y": 1 },
+        { "name": "sakaguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "asai", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "hidaritomo", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "inagaki", "x": 2.25, "y": 1 },
+        { "name": "ishiwata", "x": 3.75, "y": 1 },
+        { "name": "sakaguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "Ready! GO! GO! GO!  あの太陽は私だ〜",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 3 },
+        { "name": "ishiwata", "x": -1.5, "y": 3 },
+        { "name": "omori", "x": 1.5, "y": 3 },
+        { "name": "sato", "x": 4, "y": 3 },
+
+        { "name": "inagaki", "x": -2.5, "y": 2 },
+        { "name": "hidaritomo", "x": 2.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 3 },
+        { "name": "ishiwata", "x": -1.5, "y": 3 },
+        { "name": "omori", "x": 1.5, "y": 3 },
+        { "name": "sato", "x": 4, "y": 3 },
+
+        { "name": "inagaki", "x": -2.5, "y": 2 },
+        { "name": "hidaritomo", "x": 2.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "A! K! B! 48!  A! K! B! 48! 〜",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 3 },
+        { "name": "ishiwata", "x": -1.5, "y": 3 },
+        { "name": "omori", "x": 1.5, "y": 3 },
+        { "name": "sato", "x": 4, "y": 3 },
+
+        { "name": "inagaki", "x": -2.5, "y": 2 },
+        { "name": "hidaritomo", "x": 2.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": -1, "y": 1 },
+        { "name": "asai", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "Ready! GO! GO! GO!  Ready! GO! GO! GO!  アイドルの夜明けが来た〜",
+      "members": [
+        { "name": "ishiwata", "x": -2, "y": 4 },
+        { "name": "sato", "x": 2, "y": 4 },
+
+        { "name": "tokunaga", "x": -2, "y": 3 },
+        { "name": "omori", "x": 2, "y": 3 },
+
+        { "name": "inagaki", "x": -2, "y": 2 },
+        { "name": "hidaritomo", "x": 2, "y": 2 },
+
+        { "name": "sakaguchi", "x": -2, "y": 1 },
+        { "name": "asai", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "Ready! GO! GO! GO!  Ready! GO! GO! GO!  白んだ空は希望だ〜",
+      "members": [
+        { "name": "tokunaga", "x": -5.5, "y": 2 },
+        { "name": "ishiwata", "x": -2.5, "y": 2 },
+        { "name": "sato", "x": 2.5, "y": 2 },
+        { "name": "hidaritomo", "x": 5.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": -4, "y": 1 },
+        { "name": "inagaki", "x": -1, "y": 1 },
+        { "name": "omori", "x": 1, "y": 1 },
+        { "name": "asai", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -3, "y": 3 },
+        { "name": "asai", "x": 0, "y": 3 },
+        { "name": "tokunaga", "x": 3, "y": 3 },
+
+        { "name": "omori", "x": -2, "y": 2 },
+        { "name": "inagaki", "x": 2, "y": 2 },
+
+        { "name": "sato", "x": -4, "y": 1 },
+        { "name": "sakaguchi", "x": 0, "y": 1 },
+        { "name": "ishiwata", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
