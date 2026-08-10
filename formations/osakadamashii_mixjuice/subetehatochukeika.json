@@ -1,0 +1,193 @@
+{
+  "title": "すべては途中経過",
+
+  "memo": [
+    "① 梅山、白間 (新澤)、白間/新澤、南山崎",
+    "河野岡本黒田",
+    "② 白間、新澤、南 (山崎)、南/山崎、黒田",
+    "河野岡本黒田、白間/梅山",
+    "②サビ後 南梅山白間新澤、河野岡本/山崎黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "yamasaki", "x": 2, "y": 2 },
+        { "name": "kawano", "x": 4, "y": 2 },
+
+        { "name": "minami", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "人生は何度でも ゼロから始められる〜",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 3 },
+        { "name": "shiroma", "x": 0, "y": 3 },
+        { "name": "minami", "x": 3, "y": 3 },
+
+        { "name": "kawano", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+        { "name": "yamasaki", "x": 4.5, "y": 2 },
+
+        { "name": "umeyama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shiroma", "x": -1, "y": 4 },
+        { "name": "umeyama", "x": 1, "y": 4 },
+
+        { "name": "kuroda", "x": -2.5, "y": 3 },
+        { "name": "shinzawa", "x": 2.5, "y": 3 },
+
+        { "name": "okamoto", "x": -4, "y": 2 },
+        { "name": "minami", "x": 4, "y": 2 },
+
+        { "name": "kawano", "x": -5.5, "y": 1 },
+        { "name": "yamasaki", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "誰かがいつでも (風の中で) ちゃんと見守って (片隅から) 〜",
+      "members": [
+        { "name": "kawano", "x": -3, "y": 3 },
+        { "name": "okamoto", "x": 0, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "shiroma", "x": -1, "y": 2 },
+        { "name": "umeyama", "x": 1, "y": 2 },
+
+        { "name": "minami", "x": -2, "y": 1 },
+        { "name": "shinzawa", "x": 0, "y": 1 },
+        { "name": "yamasaki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "出遅れたタイムなら この先で巻き返そう〜",
+      "members": [
+        { "name": "minami", "x": -4.5, "y": 4 },
+        { "name": "shinzawa", "x": 0, "y": 4 },
+        { "name": "yamasaki", "x": 4.5, "y": 4 },
+
+        { "name": "kawano", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "okamoto", "x": -1.5, "y": 2 },
+        { "name": "umeyama", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": -3.5, "y": 2 },
+        { "name": "okamoto", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 0.5, "y": 2 },
+        { "name": "kuroda", "x": 2.5, "y": 2 },
+
+        { "name": "kawano", "x": -2.5, "y": 1 },
+        { "name": "shiroma", "x": -0.5, "y": 1 },
+        { "name": "umeyama", "x": 1.5, "y": 1 },
+        { "name": "yamasaki", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "まだまだ先は長い やり直せるさ 走り続けろ！〜",
+      "members": [
+        { "name": "minami", "x": -7, "y": 1 },
+        { "name": "kawano", "x": -5, "y": 1 },
+        { "name": "okamoto", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "yamasaki", "x": 3, "y": 1 },
+        { "name": "kuroda", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "人生は何度でも ゼロから始められる〜",
+      "members": [
+        { "name": "minami", "x": -7, "y": 1 },
+        { "name": "kawano", "x": -5, "y": 1 },
+        { "name": "okamoto", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "yamasaki", "x": 3, "y": 1 },
+        { "name": "kuroda", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "ああすればよかったと 後悔をしているなら〜",
+      "members": [
+        { "name": "shiroma", "x": -7, "y": 1 },
+        { "name": "yamasaki", "x": -5, "y": 1 },
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 },
+        { "name": "kawano", "x": 3, "y": 1 },
+        { "name": "okamoto", "x": 5, "y": 1 },
+        { "name": "umeyama", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shiroma", "x": -7, "y": 1 },
+        { "name": "yamasaki", "x": -5, "y": 1 },
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 },
+        { "name": "kawano", "x": 3, "y": 1 },
+        { "name": "okamoto", "x": 5, "y": 1 },
+        { "name": "umeyama", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 4 },
+        { "name": "kawano", "x": 4, "y": 4 },
+
+        { "name": "kuroda", "x": -3, "y": 3 },
+        { "name": "okamoto", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -2, "y": 2 },
+        { "name": "shinzawa", "x": 2, "y": 2 },
+
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
