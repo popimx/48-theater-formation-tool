@@ -1,0 +1,220 @@
+{
+  "title": "True Purpose",
+
+  "memo": [
+    "① 菖蒲石田、黒田和田、貞野早川、堀出口",
+    "② 早川貞野、堀出口、菖蒲石田、黒田和田",
+    "ラストサビ前 菖蒲石田、黒田/和田、早川/貞野",
+    "堀/出口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+
+        { "name": "deguchi", "x": -2.5, "y": 2 },
+        { "name": "hayakawa", "x": 2.5, "y": 2 },
+
+        { "name": "hori", "x": -3.5, "y": 1 },
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "ishida", "x": 1, "y": 1 },
+        { "name": "sadano", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "春夏秋冬  季節って 思ったよりも短い〜",
+      "members": [
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+
+        { "name": "deguchi", "x": -2.5, "y": 2 },
+        { "name": "hayakawa", "x": 2.5, "y": 2 },
+
+        { "name": "hori", "x": -3.5, "y": 1 },
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "ishida", "x": 1, "y": 1 },
+        { "name": "sadano", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -4, "y": 2 },
+        { "name": "shobu", "x": -2, "y": 2 },
+        { "name": "ishida", "x": 2, "y": 2 },
+        { "name": "wada", "x": 4, "y": 2 },
+
+        { "name": "deguchi", "x": -3, "y": 1 },
+        { "name": "hori", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -4, "y": 3 },
+        { "name": "wada", "x": 4, "y": 3 },
+
+        { "name": "shobu", "x": -3, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "ishida", "x": 3, "y": 2 },
+
+        { "name": "deguchi", "x": -2, "y": 1 },
+        { "name": "hori", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "一分も一秒も 無駄になんてできないと〜",
+      "members": [
+        { "name": "kuroda", "x": -4, "y": 3 },
+        { "name": "wada", "x": 4, "y": 3 },
+
+        { "name": "shobu", "x": -3, "y": 2 },
+        { "name": "sadano", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "ishida", "x": 3, "y": 2 },
+
+        { "name": "deguchi", "x": -2, "y": 1 },
+        { "name": "hori", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 3.5, "y": 3 },
+
+        { "name": "kuroda", "x": -5, "y": 2 },
+        { "name": "shobu", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+        { "name": "sadano", "x": 5, "y": 2 },
+
+        { "name": "ishida", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hori", "x": -3, "y": 4 },
+        { "name": "deguchi", "x": 3, "y": 4 },
+
+        { "name": "shobu", "x": -1, "y": 3 },
+        { "name": "ishida", "x": 1, "y": 3 },
+
+        { "name": "kuroda", "x": -4, "y": 2 },
+        { "name": "wada", "x": 4, "y": 2 },
+
+        { "name": "hayakawa", "x": -2, "y": 1 },
+        { "name": "sadano", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "これが盛りならば 夢か現  yeah yeah yeah yeah 〜",
+      "members": [
+        { "name": "hori", "x": -3, "y": 4 },
+        { "name": "hayakawa", "x": 0, "y": 4 },
+        { "name": "deguchi", "x": 3, "y": 4 },
+
+        { "name": "kuroda", "x": -2, "y": 3 },
+        { "name": "sadano", "x": 2, "y": 3 },
+
+        { "name": "shobu", "x": -1, "y": 2 },
+        { "name": "wada", "x": 1, "y": 2 },
+
+        { "name": "ishida", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "遊びだって構わない そんな深く考えない〜",
+      "members": [
+        { "name": "hori", "x": -4, "y": 4 },
+        { "name": "deguchi", "x": 4, "y": 4 },
+
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "ishida", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "これが盛りならば 夢か現  yeah yeah yeah yeah 〜",
+      "members": [
+        { "name": "hayakawa", "x": -1.5, "y": 4 },
+        { "name": "deguchi", "x": 1.5, "y": 4 },
+
+        { "name": "hori", "x": -3, "y": 3 },
+        { "name": "sadano", "x": 3, "y": 3 },
+
+        { "name": "shobu", "x": -1, "y": 2 },
+        { "name": "ishida", "x": 1, "y": 2 },
+
+        { "name": "kuroda", "x": -2, "y": 1 },
+        { "name": "wada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "やがて醒めるまで 夢か現 Ah- 〜",
+      "members": [
+        { "name": "shobu", "x": 0, "y": 4 },
+
+        { "name": "hayakawa", "x": -2, "y": 3 },
+        { "name": "deguchi", "x": 2, "y": 3 },
+
+        { "name": "hori", "x": -3, "y": 2 },
+        { "name": "ishida", "x": 0, "y": 2 },
+        { "name": "sadano", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "wada", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "今が旬ならば 花よ喋よ  yeah yeah yeah yeah〜",
+      "members": [
+        { "name": "hori", "x": -3.5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 3.5, "y": 3 },
+
+        { "name": "kuroda", "x": -5, "y": 2 },
+        { "name": "shobu", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+        { "name": "sadano", "x": 5, "y": 2 },
+
+        { "name": "ishida", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
