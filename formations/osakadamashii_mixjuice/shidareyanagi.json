@@ -1,0 +1,205 @@
+{
+  "title": "シダレヤナギ",
+
+  "memo": [
+    "① 白間、梅山新澤、南/山崎、岡本黒田",
+    "梅山白間河野、南山崎新澤",
+    "② 梅山新澤、南山崎、岡本黒田、白間",
+    "梅山河野新澤、南/山崎",
+    "②サビ後 南梅山白間新澤、岡本黒田山崎河野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "kawano", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -4.5, "y": 2 },
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+        { "name": "yamasaki", "x": 4.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "川のその辺り 一人歩きながら〜",
+      "members": [
+        { "name": "kuroda", "x": 0, "y": 4 },
+
+        { "name": "okamoto", "x": -1.5, "y": 3 },
+        { "name": "kawano", "x": 1.5, "y": 3 },
+
+        { "name": "minami", "x": -3, "y": 2 },
+        { "name": "yamasaki", "x": 3, "y": 2 },
+
+        { "name": "umeyama", "x": -4.5, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "シダレヤナギ しな垂れかかるように〜",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "kawano", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -4.5, "y": 2 },
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+        { "name": "yamasaki", "x": 4.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "シダレヤナギ すべてがなし崩しに〜",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "yamasaki", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "そして突然 土砂降りの雨だなんて〜",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 4 },
+
+        { "name": "okamoto", "x": -4.5, "y": 3 },
+        { "name": "minami", "x": -1.5, "y": 3 },
+        { "name": "yamasaki", "x": 1.5, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+
+        { "name": "umeyama", "x": -3, "y": 2 },
+        { "name": "shinzawa", "x": 3, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "ヨゾラヤナギ 煌めく街の灯り〜",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 4 },
+
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "okamoto", "x": 1.5, "y": 3 },
+
+        { "name": "yamasaki", "x": -3, "y": 2 },
+        { "name": "minami", "x": 3, "y": 2 },
+
+        { "name": "shinzawa", "x": -4.5, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "umeyama", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "ヨゾラヤナギ 月日にたわみながら〜",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "yamasaki", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "kawano", "x": 4.5, "y": 3 },
+
+        { "name": "minami", "x": -1.5, "y": 2 },
+        { "name": "yamasaki", "x": 1.5, "y": 2 },
+
+        { "name": "umeyama", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "想う気持ちが折れないように 足元 踏ん張ってても〜",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 2 },
+        { "name": "kuroda", "x": -1, "y": 2 },
+        { "name": "yamasaki", "x": 1, "y": 2 },
+        { "name": "kawano", "x": 3, "y": 2 },
+
+        { "name": "minami", "x": -3, "y": 1 },
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "シダレヤナギ しな垂れかかるように〜",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "kawano", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -4.5, "y": 2 },
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+        { "name": "yamasaki", "x": 4.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "シダレヤナギ すべてがなし崩しに〜",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "yamasaki", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
