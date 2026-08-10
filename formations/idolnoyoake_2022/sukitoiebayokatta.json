@@ -16,7 +16,7 @@
         { "name": "inagaki", "x": -2.25, "y": 3 },
         { "name": "tokunaga", "x": 2.25, "y": 3 },
 
-        { "name": "oomori", "x": -5.25, "y": 2 },
+        { "name": "omori", "x": -5.25, "y": 2 },
         { "name": "asai", "x": -0.75, "y": 2 },
         { "name": "ishiwata", "x": 3.75, "y": 2 },
 
@@ -30,7 +30,7 @@
       "title": "2番サビ後",
       "lyrics": "好きですと サヨナラを  思うまま 言えました〜",
       "members": [
-        { "name": "oomori", "x": -3, "y": 3 },
+        { "name": "omori", "x": -3, "y": 3 },
         { "name": "asai", "x": -1, "y": 3 },
         { "name": "sakaguchi", "x": 1, "y": 3 },
         { "name": "hidaritomo", "x": 3, "y": 3 },
@@ -46,7 +46,7 @@
       "title": "ラストサビ前 ①",
       "lyrics": "",
       "members": [
-        { "name": "oomori", "x": -5.25, "y": 2 },
+        { "name": "omori", "x": -5.25, "y": 2 },
         { "name": "asai", "x": -2.25, "y": 2 },
         { "name": "sakaguchi", "x": 0.75, "y": 2 },
         { "name": "hidaritomo", "x": 3.75, "y": 2 },
@@ -67,7 +67,7 @@
         { "name": "tokunaga", "x": 2.25, "y": 2 },
         { "name": "ishiwata", "x": 5.25, "y": 2 },
 
-        { "name": "oomori", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -5.25, "y": 1 },
         { "name": "asai", "x": -2.25, "y": 1 },
         { "name": "sakaguchi", "x": 0.75, "y": 1 },
         { "name": "hidaritomo", "x": 3.75, "y": 1 }
@@ -83,7 +83,7 @@
         { "name": "tokunaga", "x": 2.25, "y": 2 },
         { "name": "ishiwata", "x": 5.25, "y": 2 },
 
-        { "name": "oomori", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -5.25, "y": 1 },
         { "name": "asai", "x": -2.25, "y": 1 },
         { "name": "sakaguchi", "x": 0.75, "y": 1 },
         { "name": "hidaritomo", "x": 3.75, "y": 1 }
@@ -99,7 +99,7 @@
         { "name": "sakaguchi", "x": 0.75, "y": 2 },
         { "name": "asai", "x": 3.75, "y": 2 },
 
-        { "name": "oomori", "x": -3.75, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
         { "name": "tokunaga", "x": -0.75, "y": 1 },
         { "name": "ishiwata", "x": 2.25, "y": 1 },
         { "name": "hidaritomo", "x": 5.25, "y": 1 }
@@ -110,7 +110,7 @@
       "title": "ラストサビ後 ②",
       "lyrics": "",
       "members": [
-        { "name": "oomori", "x": -3.75, "y": 2 },
+        { "name": "omori", "x": -3.75, "y": 2 },
         { "name": "tokunaga", "x": -0.75, "y": 2 },
         { "name": "ishiwata", "x": 2.25, "y": 2 },
         { "name": "hidaritomo", "x": 5.25, "y": 2 },
@@ -126,7 +126,7 @@
       "title": "ラスト",
       "lyrics": "",
       "members": [
-        { "name": "oomori", "x": -3.75, "y": 2 },
+        { "name": "omori", "x": -3.75, "y": 2 },
         { "name": "tokunaga", "x": -0.75, "y": 2 },
         { "name": "ishiwata", "x": 2.25, "y": 2 },
         { "name": "hidaritomo", "x": 5.25, "y": 2 },
