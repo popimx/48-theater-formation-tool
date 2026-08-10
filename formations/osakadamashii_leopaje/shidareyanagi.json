@@ -1,0 +1,205 @@
+{
+  "title": "シダレヤナギ",
+
+  "memo": [
+    "① 貞野、石田菖蒲、堀/和田、早川黒田",
+    "石田貞野出口、堀和田菖蒲",
+    "② 石田菖蒲、堀和田、早川黒田、貞野",
+    "石田出口菖蒲、堀/和田",
+    "②サビ後 堀石田貞野前田、早川黒田和田出口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 3, "y": 3 },
+
+        { "name": "hori", "x": -4.5, "y": 2 },
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+        { "name": "wada", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "川のその辺り 一人歩きながら〜",
+      "members": [
+        { "name": "kuroda", "x": 0, "y": 4 },
+
+        { "name": "hayakawa", "x": -1.5, "y": 3 },
+        { "name": "deguchi", "x": 1.5, "y": 3 },
+
+        { "name": "hori", "x": -3, "y": 2 },
+        { "name": "wada", "x": 3, "y": 2 },
+
+        { "name": "ishida", "x": -4.5, "y": 1 },
+        { "name": "sadano", "x": 0, "y": 1 },
+        { "name": "shobu", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "シダレヤナギ しな垂れかかるように〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 3, "y": 3 },
+
+        { "name": "hori", "x": -4.5, "y": 2 },
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+        { "name": "wada", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "シダレヤナギ すべてがなし崩しに〜",
+      "members": [
+        { "name": "hayakawa", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "deguchi", "x": 4.5, "y": 4 },
+
+        { "name": "hori", "x": -3, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "そして突然 土砂降りの雨だなんて〜",
+      "members": [
+        { "name": "deguchi", "x": 0, "y": 4 },
+
+        { "name": "hayakawa", "x": -4.5, "y": 3 },
+        { "name": "hori", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+
+        { "name": "ishida", "x": -3, "y": 2 },
+        { "name": "shobu", "x": 3, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "ヨゾラヤナギ 煌めく街の灯り〜",
+      "members": [
+        { "name": "deguchi", "x": 0, "y": 4 },
+
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "hayakawa", "x": 1.5, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "hori", "x": 3, "y": 2 },
+
+        { "name": "shobu", "x": -4.5, "y": 1 },
+        { "name": "sadano", "x": 0, "y": 1 },
+        { "name": "ishida", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "ヨゾラヤナギ 月日にたわみながら〜",
+      "members": [
+        { "name": "hayakawa", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "deguchi", "x": 4.5, "y": 4 },
+
+        { "name": "hori", "x": -3, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -4.5, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 4.5, "y": 3 },
+
+        { "name": "hori", "x": -1.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+
+        { "name": "ishida", "x": -3, "y": 1 },
+        { "name": "sadano", "x": 0, "y": 1 },
+        { "name": "shobu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "想う気持ちが折れないように  足元 踏ん張ってても〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 2 },
+        { "name": "kuroda", "x": -1, "y": 2 },
+        { "name": "wada", "x": 1, "y": 2 },
+        { "name": "deguchi", "x": 3, "y": 2 },
+
+        { "name": "hori", "x": -3, "y": 1 },
+        { "name": "ishida", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 },
+        { "name": "shobu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "シダレヤナギ しな垂れかかるように〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 3, "y": 3 },
+
+        { "name": "hori", "x": -4.5, "y": 2 },
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+        { "name": "wada", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "シダレヤナギ すべてがなし崩しに〜",
+      "members": [
+        { "name": "hayakawa", "x": -4.5, "y": 4 },
+        { "name": "kuroda", "x": 0, "y": 4 },
+        { "name": "deguchi", "x": 4.5, "y": 4 },
+
+        { "name": "hori", "x": -3, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "shobu", "x": 1.5, "y": 2 },
+
+        { "name": "sadano", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
