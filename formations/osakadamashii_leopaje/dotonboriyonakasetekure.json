@@ -1,0 +1,28 @@
+{
+  "title": "道頓堀よ、泣かせてくれ！",
+
+  "memo": [
+    "① 石田",
+    "② 貞野、堀/菖蒲、和田黒田、早川出口"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sadano", "x": -3, "y": 4 },
+        { "name": "ishida", "x": 3, "y": 4 },
+
+        { "name": "hori", "x": -1, "y": 3 },
+        { "name": "shobu", "x": 1, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "deguchi", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -2, "y": 1 },
+        { "name": "hayakawa", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
