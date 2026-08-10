@@ -1,0 +1,141 @@
+{
+  "title": "好きと言えばよかった",
+
+  "memo": [
+    "① 左伴大盛、石綿佐藤、坂口稲垣、徳永浅井",
+    "② 石綿/佐藤、大盛/左伴、浅井徳永、稲垣/坂口",
+    "ラストサビ前 大盛浅井/坂口左伴、佐藤稲垣徳永石綿",
+    "ラスト 浅井大盛坂口左伴、佐藤稲垣/徳永石綿"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -2.25, "y": 3 },
+        { "name": "tokunaga", "x": 2.25, "y": 3 },
+
+        { "name": "oomori", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 3.75, "y": 2 },
+
+        { "name": "sato", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "好きですと サヨナラを  思うまま 言えました〜",
+      "members": [
+        { "name": "oomori", "x": -3, "y": 3 },
+        { "name": "asai", "x": -1, "y": 3 },
+        { "name": "sakaguchi", "x": 1, "y": 3 },
+        { "name": "hidaritomo", "x": 3, "y": 3 },
+
+        { "name": "sato", "x": -4, "y": 1 },
+        { "name": "inagaki", "x": -2, "y": 1 },
+        { "name": "tokunaga", "x": 2, "y": 1 },
+        { "name": "ishiwata", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "oomori", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -2.25, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "sato", "x": -3.75, "y": 1 },
+        { "name": "inagaki", "x": -0.75, "y": 1 },
+        { "name": "tokunaga", "x": 2.25, "y": 1 },
+        { "name": "ishiwata", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -3.75, "y": 2 },
+        { "name": "inagaki", "x": -0.75, "y": 2 },
+        { "name": "tokunaga", "x": 2.25, "y": 2 },
+        { "name": "ishiwata", "x": 5.25, "y": 2 },
+
+        { "name": "oomori", "x": -5.25, "y": 1 },
+        { "name": "asai", "x": -2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -3.75, "y": 2 },
+        { "name": "inagaki", "x": -0.75, "y": 2 },
+        { "name": "tokunaga", "x": 2.25, "y": 2 },
+        { "name": "ishiwata", "x": 5.25, "y": 2 },
+
+        { "name": "oomori", "x": -5.25, "y": 1 },
+        { "name": "asai", "x": -2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -5.25, "y": 2 },
+        { "name": "inagaki", "x": -2.25, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "asai", "x": 3.75, "y": 2 },
+
+        { "name": "oomori", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": -0.75, "y": 1 },
+        { "name": "ishiwata", "x": 2.25, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "oomori", "x": -3.75, "y": 2 },
+        { "name": "tokunaga", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "hidaritomo", "x": 5.25, "y": 2 },
+
+        { "name": "sato", "x": -5.25, "y": 1 },
+        { "name": "inagaki", "x": -2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "asai", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "oomori", "x": -3.75, "y": 2 },
+        { "name": "tokunaga", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "hidaritomo", "x": 5.25, "y": 2 },
+
+        { "name": "sato", "x": -5.25, "y": 1 },
+        { "name": "inagaki", "x": -2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "asai", "x": 3.75, "y": 1 }
+      ]
+    }
+  ]
+}
