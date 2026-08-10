@@ -1,0 +1,182 @@
+{
+  "title": "ワロタピーポー",
+
+  "memo": [
+    "① 梅山白間新澤、南山崎、黒田岡本",
+    "梅山河野白間新澤、南黒田岡本山崎",
+    "② 黒田/岡本、山崎/南",
+    "河野新澤白間梅山、岡本山崎南黒田",
+    "②サビ後 河野新澤白間梅山、岡本山崎南黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "何かをやれば叩かれる 反論すれば大炎上〜",
+      "members": [
+        { "name": "kuroda", "x": -4.5, "y": 4 },
+        { "name": "kawano", "x": 0, "y": 4 },
+        { "name": "okamoto", "x": 4.5, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "yamasaki", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ① 終了後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawano", "x": -1, "y": 4 },
+        { "name": "shiroma", "x": 1, "y": 4 },
+
+        { "name": "umeyama", "x": -2, "y": 3 },
+        { "name": "shinzawa", "x": 2, "y": 3 },
+
+        { "name": "minami", "x": -3, "y": 2 },
+        { "name": "yamasaki", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -4, "y": 1 },
+        { "name": "okamoto", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "大切なことは 目立たない心がけ〜",
+      "members": [
+        { "name": "minami", "x": -5.5, "y": 2 },
+        { "name": "kuroda", "x": -2.5, "y": 2 },
+        { "name": "okamoto", "x": 2.5, "y": 2 },
+        { "name": "yamasaki", "x": 5.5, "y": 2 },
+
+        { "name": "umeyama", "x": -4, "y": 1 },
+        { "name": "kawano", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -4.5, "y": 4 },
+        { "name": "kawano", "x": 0, "y": 4 },
+        { "name": "okamoto", "x": 4.5, "y": 4 },
+
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "yamasaki", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "面倒な勇気 勘違いの偽善者〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 2 },
+        { "name": "yamasaki", "x": -2.5, "y": 2 },
+        { "name": "minami", "x": 2.5, "y": 2 },
+        { "name": "kuroda", "x": 5.5, "y": 2 },
+
+        { "name": "kawano", "x": -4, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "umeyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 3 },
+
+        { "name": "okamoto", "x": -6, "y": 2 },
+        { "name": "yamasaki", "x": -2, "y": 2 },
+        { "name": "minami", "x": 2, "y": 2 },
+        { "name": "kuroda", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "umeyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "笑え！ワロタ ワロタ ワロタ ワロタピーポー どこの誰か名前隠して騒げ！〜",
+      "members": [
+        { "name": "okamoto", "x": -7, "y": 1 },
+        { "name": "kawano", "x": -5, "y": 1 },
+        { "name": "yamasaki", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 },
+        { "name": "minami", "x": 3, "y": 1 },
+        { "name": "umeyama", "x": 5, "y": 1 },
+        { "name": "kuroda", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "何で生きてるのか教えてくれ！〜",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 3 },
+
+        { "name": "okamoto", "x": -6, "y": 2 },
+        { "name": "yamasaki", "x": -2, "y": 2 },
+        { "name": "minami", "x": 2, "y": 2 },
+        { "name": "kuroda", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "umeyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 3 },
+
+        { "name": "okamoto", "x": -6, "y": 2 },
+        { "name": "yamasaki", "x": -2, "y": 2 },
+        { "name": "minami", "x": 2, "y": 2 },
+        { "name": "kuroda", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "umeyama", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kawano", "x": 0, "y": 3 },
+
+        { "name": "okamoto", "x": -6, "y": 2 },
+        { "name": "yamasaki", "x": -2, "y": 2 },
+        { "name": "minami", "x": 2, "y": 2 },
+        { "name": "kuroda", "x": 6, "y": 2 },
+
+        { "name": "shinzawa", "x": -4, "y": 1 },
+        { "name": "shiroma", "x": 0, "y": 1 },
+        { "name": "umeyama", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
