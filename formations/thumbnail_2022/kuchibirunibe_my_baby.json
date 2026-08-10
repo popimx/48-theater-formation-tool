@@ -1,0 +1,101 @@
+{
+  "title": "唇にBe My Baby",
+
+  "memo": [
+    "① 倉野尾 (村山/下尾)、倉野尾 (下尾/村山)",
+    "谷口/吉川 (村山下尾)、谷口村山下尾吉川",
+    "黒須多田、倉野尾/吉田、黒須多田",
+    "② 村山吉川 (谷口/多田)、村山吉川 (谷口/多田)",
+    "黒須吉田 (谷口/多田)、谷口黒須吉田多田",
+    "倉野尾/下尾、村山吉川",
+    "ラストサビ後 村山倉野尾下尾 (谷口吉川)",
+    "黒須多田吉田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "tada", "x": 0, "y": 4 },
+        { "name": "kurosu", "x": -1.5, "y": 3 },
+        { "name": "yoshida", "x": 1.5, "y": 3 },
+        { "name": "murayama", "x": -3, "y": 2 },
+        { "name": "shitao", "x": 3, "y": 2 },
+        { "name": "taniguchi", "x": -4.5, "y": 1 },
+        { "name": "kuranoo", "x": 0, "y": 1 },
+        { "name": "yoshikawa", "x": 4.5, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3, "y": 3 },
+        { "name": "tada", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 3, "y": 3 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "murayama", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+        { "name": "kuranoo", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3, "y": 3 },
+        { "name": "tada", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 3, "y": 3 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "murayama", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+        { "name": "kuranoo", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3, "y": 3 },
+        { "name": "tada", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 3, "y": 3 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "murayama", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+        { "name": "kuranoo", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3, "y": 3 },
+        { "name": "tada", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 3, "y": 3 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "murayama", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+        { "name": "kuranoo", "x": 0, "y": 1 }
+      ]
+    },
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3, "y": 3 },
+        { "name": "tada", "x": 0, "y": 3 },
+        { "name": "yoshida", "x": 3, "y": 3 },
+        { "name": "taniguchi", "x": -4.5, "y": 2 },
+        { "name": "murayama", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 4.5, "y": 2 },
+        { "name": "kuranoo", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
