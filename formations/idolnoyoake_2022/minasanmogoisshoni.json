@@ -1,0 +1,156 @@
+{
+  "title": "みなさんもご一緒に",
+
+  "memo": [
+    "① 浅井坂口、稲垣大盛、徳永左伴、佐藤/石綿",
+    "② 佐藤/石綿、浅井左伴、徳永大盛稲垣、坂口/浅井"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -4, "y": 1 },
+        { "name": "sakaguchi", "x": 0, "y": 1 },
+        { "name": "ishiwata", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -2, "y": 2 },
+        { "name": "sakaguchi", "x": 0, "y": 2 },
+        { "name": "ishiwata", "x": 2, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -4, "y": 2 },
+        { "name": "inagaki", "x": 0, "y": 2 },
+        { "name": "hidaritomo", "x": 4, "y": 2 },
+
+        { "name": "asai", "x": -2, "y": 1 },
+        { "name": "omori", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "自分から 盛り上げよう！〜",
+      "members": [
+        { "name": "sato", "x": -2.5, "y": 2 },
+        { "name": "inagaki", "x": -0.5, "y": 2 },
+        { "name": "hidaritomo", "x": 1.5, "y": 2 },
+        { "name": "ishiwata", "x": 3.5, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.5, "y": 1 },
+        { "name": "asai", "x": -1.5, "y": 1 },
+        { "name": "sakaguchi", "x": 0.5, "y": 1 },
+        { "name": "omori", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -3, "y": 3 },
+        { "name": "asai", "x": 0, "y": 3 },
+        { "name": "hidaritomo", "x": 3, "y": 3 },
+
+        { "name": "sato", "x": -1.5, "y": 2 },
+        { "name": "ishiwata", "x": 1.5, "y": 2 },
+
+        { "name": "inagaki", "x": -4.5, "y": 1 },
+        { "name": "sakaguchi", "x": 0, "y": 1 },
+        { "name": "omori", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "だめだめチームも〜",
+      "members": [
+        { "name": "tokunaga", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": -2.25, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "ishiwata", "x": 0.75, "y": 1 },
+        { "name": "asai", "x": 2.25, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 },
+        { "name": "inagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "みなさんもご一緒に  AKBが 1番〜",
+      "members": [
+        { "name": "tokunaga", "x": -5.25, "y": 2 },
+        { "name": "omori", "x": -2.25, "y": 2 },
+        { "name": "ishiwata", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "sakaguchi", "x": -3.75, "y": 1 },
+        { "name": "sato", "x": -0.75, "y": 1 },
+        { "name": "asai", "x": 2.25, "y": 1 },
+        { "name": "inagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "照れないで  もっと 元気よく〜",
+      "members": [
+        { "name": "tokunaga", "x": -3.75, "y": 2 },
+        { "name": "omori", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "hidaritomo", "x": 5.25, "y": 2 },
+
+        { "name": "sakaguchi", "x": -5.25, "y": 1 },
+        { "name": "sato", "x": -2.25, "y": 1 },
+        { "name": "asai", "x": 0.75, "y": 1 },
+        { "name": "inagaki", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "なんとかなるさ〜",
+      "members": [
+        { "name": "sakaguchi", "x": -5.25, "y": 2 },
+        { "name": "sato", "x": -2.25, "y": 2 },
+        { "name": "asai", "x": 0.75, "y": 2 },
+        { "name": "inagaki", "x": 3.75, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.75, "y": 1 },
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "ishiwata", "x": 2.25, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -3, "y": 3 },
+        { "name": "hidaritomo", "x": 0, "y": 3 },
+        { "name": "ishiwata", "x": 3, "y": 3 },
+
+        { "name": "sakaguchi", "x": -4.5, "y": 2 },
+        { "name": "tokunaga", "x": -1.5, "y": 2 },
+        { "name": "omori", "x": 1.5, "y": 2 },
+        { "name": "inagaki", "x": 4.5, "y": 2 },
+
+        { "name": "asai", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
