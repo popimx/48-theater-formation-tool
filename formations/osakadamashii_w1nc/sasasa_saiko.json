@@ -125,7 +125,7 @@
       "title": "2番Aメロ ②",
       "lyrics": "不景気とか 少子化とか 格差社会  問題はいっぱいってこと〜",
       "members": [
-        { "name": "maeda", "x": -0.75, "y": 4 },
+        { "name": "maeda", "x": 0.75, "y": 4 },
         { "name": "kawano", "x": 5.25, "y": 4 },
 
         { "name": "kawakami", "x": 2.25, "y": 3 },
