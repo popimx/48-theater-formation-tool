@@ -1,0 +1,114 @@
+{
+  "title": "海を渡れ！",
+
+  "memo": [
+    "① 髙橋/下口、服部山内、市川山邊、茂木田口",
+    "② 茂木/田口、市川山邊、服部山内、髙橋下口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "mogi", "x": 0, "y": 3 },
+
+        { "name": "yamauchi", "x": -1, "y": 2 },
+        { "name": "taguchi", "x": 1, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": 0, "y": 3 },
+
+        { "name": "ichikawa", "x": -2, "y": 2 },
+        { "name": "yamabe", "x": 2, "y": 2 },
+
+        { "name": "shimoguchi", "x": -1, "y": 1 },
+        { "name": "hattori", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "ichikawa", "x": -3.75, "y": 2 },
+        { "name": "hattori", "x": -0.75, "y": 2 },
+        { "name": "yamauchi", "x": 2.25, "y": 2 },
+        { "name": "yamabe", "x": 5.25, "y": 2 },
+
+        { "name": "mogi", "x": -5.25, "y": 1 },
+        { "name": "takahashi", "x": -2.25, "y": 1 },
+        { "name": "shimoguchi", "x": 0.75, "y": 1 },
+        { "name": "taguchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ichikawa", "x": -3.75, "y": 2 },
+        { "name": "hattori", "x": -0.75, "y": 2 },
+        { "name": "yamauchi", "x": 2.25, "y": 2 },
+        { "name": "yamabe", "x": 5.25, "y": 2 },
+
+        { "name": "mogi", "x": -5.25, "y": 1 },
+        { "name": "takahashi", "x": -2.25, "y": 1 },
+        { "name": "shimoguchi", "x": 0.75, "y": 1 },
+        { "name": "taguchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "僕らは飛べるよ 今すぐに〜",
+      "members": [
+        { "name": "mogi", "x": -3.5, "y": 2 },
+        { "name": "takahashi", "x": -2.5, "y": 2 },
+        { "name": "ichikawa", "x": -1.5, "y": 2 },
+        { "name": "hattori", "x": -0.5, "y": 2 },
+        { "name": "yamauchi", "x": 0.5, "y": 2 },
+        { "name": "yamabe", "x": 1.5, "y": 2 },
+        { "name": "shimoguchi", "x": 2.5, "y": 2 },
+        { "name": "taguchi", "x": 3.5, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "本能が叫んでるよ  勇気は夢見ること〜",
+      "members": [
+        { "name": "shimoguchi", "x": -5.25, "y": 2 },
+        { "name": "yamauchi", "x": -2.25, "y": 2 },
+        { "name": "hattori", "x": 0.75, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+
+        { "name": "yamabe", "x": -3.75, "y": 1 },
+        { "name": "taguchi", "x": -0.75, "y": 1 },
+        { "name": "mogi", "x": 2.25, "y": 1 },
+        { "name": "ichikawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "水平線の彼方へ 自由はそこにある〜",
+      "members": [
+        { "name": "yamabe", "x": -5.25, "y": 2 },
+        { "name": "taguchi", "x": -2.25, "y": 2 },
+        { "name": "mogi", "x": 0.75, "y": 2 },
+        { "name": "ichikawa", "x": 3.75, "y": 2 },
+
+        { "name": "shimoguchi", "x": -3.75, "y": 1 },
+        { "name": "yamauchi", "x": -0.75, "y": 1 },
+        { "name": "hattori", "x": 2.25, "y": 1 },
+        { "name": "takahashi", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
