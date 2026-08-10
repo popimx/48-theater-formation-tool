@@ -1,0 +1,115 @@
+{
+  "title": "だから君が好きなのか",
+
+  "memo": [
+    "イントロサビ 吉川/谷口、多田/倉野尾、下尾/吉田",
+    "黒須/村山",
+    "① 吉川/谷口、多田/倉野尾、下尾吉田、黒須/村山",
+    "② 下尾/吉田、黒須/村山、多田谷口、吉川倉野尾",
+    "ラストサビ前 黒須/倉野尾、下尾谷口、多田吉田",
+    "村山 (吉川)、吉川/村山",
+    "ラストサビ 谷口倉野尾、下尾黒須、村山吉田",
+    "吉川/多田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "君のことをずっと見てた  他にいっぱいいても〜",
+      "members": [
+        { "name": "kurosu", "x": -2, "y": 3 },
+        { "name": "murayama", "x": 2, "y": 3 },
+
+        { "name": "tada", "x": -3, "y": 2 },
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+        { "name": "yoshida", "x": 3, "y": 2 },
+
+        { "name": "yoshikawa", "x": -2, "y": 1 },
+        { "name": "taniguchi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "僕と同じ匂いがする  似たようなタイプと〜",
+      "members": [
+        { "name": "shitao", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 2, "y": 3 },
+
+        { "name": "kurosu", "x": -3, "y": 2 },
+        { "name": "yoshikawa", "x": -1, "y": 2 },
+        { "name": "murayama", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 3, "y": 2 },
+
+        { "name": "tada", "x": -2, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "遠い場所から想像していた〜",
+      "members": [
+        { "name": "yoshikawa", "x": -2, "y": 3 },
+        { "name": "taniguchi", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -3, "y": 2 },
+        { "name": "kurosu", "x": -1, "y": 2 },
+        { "name": "yoshida", "x": 1, "y": 2 },
+        { "name": "murayama", "x": 3, "y": 2 },
+
+        { "name": "tada", "x": -2, "y": 1 },
+        { "name": "kuranoo", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "肩肘を張らずに 空を見上げている〜",
+      "members": [
+        { "name": "shitao", "x": -4, "y": 3 },
+        { "name": "yoshida", "x": 4, "y": 3 },
+
+        { "name": "kurosu", "x": -5.5, "y": 2 },
+        { "name": "kuranoo", "x": -2.5, "y": 2 },
+        { "name": "tada", "x": 2.5, "y": 2 },
+        { "name": "murayama", "x": 5.5, "y": 2 },
+
+        { "name": "yoshikawa", "x": -1, "y": 1 },
+        { "name": "taniguchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -5.25, "y": 1 },
+        { "name": "kurosu", "x": -3.75, "y": 1 },
+        { "name": "yoshikawa", "x": -2.25, "y": 1 },
+        { "name": "shitao", "x": -0.75, "y": 1 },
+        { "name": "taniguchi", "x": 0.75, "y": 1 },
+        { "name": "yoshida", "x": 2.25, "y": 1 },
+        { "name": "tada", "x": 3.75, "y": 1 },
+        { "name": "murayama", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kurosu", "x": -3.75, "y": 2 },
+        { "name": "shitao", "x": -0.75, "y": 2 },
+        { "name": "yoshida", "x": 2.25, "y": 2 },
+        { "name": "murayama", "x": 5.25, "y": 2 },
+
+        { "name": "kuranoo", "x": -5.25, "y": 1 },
+        { "name": "yoshikawa", "x": -2.25, "y": 1 },
+        { "name": "taniguchi", "x": 0.75, "y": 1 },
+        { "name": "tada", "x": 3.75, "y": 1 }
+      ]
+    }
+  ]
+}
