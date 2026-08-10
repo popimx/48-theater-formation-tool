@@ -1,0 +1,82 @@
+{
+  "title": "LOVE TRIP",
+
+  "memo": [
+    "① 村山、倉野尾下尾、谷口/黒須、吉川/村山",
+    "倉野尾/吉田多田/下尾、吉川/黒須",
+    "② 吉川/黒須、吉田/多田、谷口/下尾、倉野尾村山",
+    "谷口/下尾、吉田吉川/黒須多田",
+    "ラストサビ前 村山、倉野尾/下尾、吉川谷口黒須",
+    "吉田/多田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "I wanna go  LOVE TRIP  時間の彼方へ〜",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 3 },
+        { "name": "taniguchi", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 3, "y": 3 },
+
+        { "name": "yoshida", "x": -4.5, "y": 2 },
+        { "name": "kuranoo", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "tada", "x": 4.5, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "I wanna do  LOVE TRIP  君を探しに…〜",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 3 },
+        { "name": "taniguchi", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 3, "y": 3 },
+
+        { "name": "yoshida", "x": -4.5, "y": 2 },
+        { "name": "kuranoo", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "tada", "x": 4.5, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "大人になった僕はようやく 正直になれるのだろうか？〜",
+      "members": [
+        { "name": "yoshida", "x": -3, "y": 3 },
+        { "name": "murayama", "x": 0, "y": 3 },
+        { "name": "tada", "x": 3, "y": 3 },
+
+        { "name": "kuranoo", "x": -1, "y": 2 },
+        { "name": "shitao", "x": 1, "y": 2 },
+
+        { "name": "yoshikawa", "x": -2, "y": 1 },
+        { "name": "taniguchi", "x": 0, "y": 1 },
+        { "name": "kurosu", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "I wanna go  LOVE TRUP  時間の彼方へ〜",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 3 },
+        { "name": "taniguchi", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 3, "y": 3 },
+
+        { "name": "yoshida", "x": -4.5, "y": 2 },
+        { "name": "kuranoo", "x": -1.5, "y": 2 },
+        { "name": "shitao", "x": 1.5, "y": 2 },
+        { "name": "tada", "x": 4.5, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
