@@ -1,0 +1,101 @@
+{
+  "title": "デッサン",
+
+  "memo": [
+    "① 大竹、福岡、込山 (武藤/本田)、千葉",
+    "向井地 (武藤/本田)、中西",
+    "② 武藤、本田、中西 (福岡/大竹)、向井地",
+    "千葉 (福岡/大竹)、込山",
+    "ラストサビ前 大竹福岡、向井地武藤込山",
+    "千葉本田中西"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "muto", "x": -4, "y": 3 },
+        { "name": "honda", "x": 4, "y": 3 },
+
+        { "name": "otake", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 1 },
+        { "name": "komiyama", "x": -2.5, "y": 1 },
+        { "name": "chiba", "x": 2.5, "y": 1 },
+        { "name": "nakanishi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "これから先 僕たちは  ケンカもするだろう〜",
+      "members": [
+        { "name": "chiba", "x": 4, "y": 3 },
+        { "name": "honda", "x": 5, "y": 3 },
+        { "name": "nakanishi", "x": 6, "y": 3 },
+
+        { "name": "otake", "x": -0.5, "y": 2 },
+        { "name": "fukuoka", "x": 0.5, "y": 2 },
+
+        { "name": "mukaichi", "x": -6, "y": 1 },
+        { "name": "muto", "x": -5, "y": 1 },
+        { "name": "komiyama", "x": -4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "muto", "x": -2.5, "y": 3 },
+        { "name": "honda", "x": 2.5, "y": 3 },
+
+        { "name": "mukaichi", "x": -4, "y": 2 },
+        { "name": "nakanishi", "x": 4, "y": 2 },
+
+        { "name": "komiyama", "x": -5.5, "y": 1 },
+        { "name": "otake", "x": -1, "y": 1 },
+        { "name": "fukuoka", "x": 1, "y": 1 },
+        { "name": "chiba", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -1, "y": 4 },
+        { "name": "fukuoka", "x": 1, "y": 4 },
+
+        { "name": "muto", "x": -2.5, "y": 3 },
+        { "name": "honda", "x": 2.5, "y": 3 },
+
+        { "name": "mukaichi", "x": -4, "y": 2 },
+        { "name": "nakanishi", "x": 4, "y": 2 },
+
+        { "name": "komiyama", "x": -5.5, "y": 1 },
+        { "name": "chiba", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -1, "y": 4 },
+        { "name": "fukuoka", "x": 1, "y": 4 },
+
+        { "name": "muto", "x": -2.5, "y": 3 },
+        { "name": "honda", "x": 2.5, "y": 3 },
+
+        { "name": "mukaichi", "x": -4, "y": 2 },
+        { "name": "nakanishi", "x": 4, "y": 2 },
+
+        { "name": "komiyama", "x": -5.5, "y": 1 },
+        { "name": "chiba", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
