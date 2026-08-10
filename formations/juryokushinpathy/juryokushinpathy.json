@@ -1,0 +1,112 @@
+{
+  "title": "重力シンパシー",
+
+  "memo": [
+    "① 向井地千葉、武藤本田、大竹/福岡、中西込山",
+    "② 大竹福岡、中西込山、向井地千葉、武藤/本田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -3, "y": 3 },
+        { "name": "nakanishi", "x": 0, "y": 3 },
+        { "name": "komiyama", "x": 3, "y": 3 },
+
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+
+        { "name": "mukaichi", "x": -2, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "honda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakanishi", "x": 0, "y": 3 },
+
+        { "name": "otake", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "komiyama", "x": 1, "y": 2 },
+        { "name": "fukuoka", "x": 3, "y": 2 },
+
+        { "name": "mukaichi", "x": -2, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "honda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nakanishi", "x": 0, "y": 3 },
+
+        { "name": "otake", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "komiyama", "x": 1, "y": 2 },
+        { "name": "fukuoka", "x": 3, "y": 2 },
+
+        { "name": "mukaichi", "x": -2, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "honda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "バスが急に スピード 上げた瞬間〜",
+      "members": [
+        { "name": "nakanishi", "x": -2, "y": 3 },
+        { "name": "komiyama", "x": 2, "y": 3 },
+
+        { "name": "otake", "x": -3, "y": 2 },
+        { "name": "fukuoka", "x": 3, "y": 2 },
+
+        { "name": "muto", "x": -4, "y": 1 },
+        { "name": "mukaichi", "x": -1, "y": 1 },
+        { "name": "chiba", "x": 1, "y": 1 },
+        { "name": "honda", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakanishi", "x": 0, "y": 3 },
+
+        { "name": "muto", "x": -3, "y": 2 },
+        { "name": "otake", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+        { "name": "komiyama", "x": 3, "y": 2 },
+
+        { "name": "mukaichi", "x": -2, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "honda", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -2, "y": 3 },
+        { "name": "nakanishi", "x": 0, "y": 3 },
+        { "name": "komiyama", "x": 2, "y": 3 },
+
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "fukuoka", "x": 1, "y": 2 },
+
+        { "name": "mukaichi", "x": -2, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "honda", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
