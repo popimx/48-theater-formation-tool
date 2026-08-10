@@ -1,0 +1,89 @@
+{
+  "title": "ファンレター",
+
+  "memo": [
+    "① 茂木/山内、山邊/下口",
+    "② 田口髙橋、服部市川"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Bメロ",
+      "lyrics": "その度に届いたファンレター〜",
+      "members": [
+        { "name": "takahashi", "x": -5.25, "y": 3 },
+        { "name": "yamabe", "x": -3.75, "y": 3 },
+        { "name": "mogi", "x": -2.25, "y": 3 },
+        { "name": "hattori", "x": -0.75, "y": 3 },
+        { "name": "ichikawa", "x": 0.75, "y": 3 },
+        { "name": "yamauchi", "x": 2.25, "y": 3 },
+        { "name": "shimoguchi", "x": 3.75, "y": 3 },
+        { "name": "taguchi", "x": 5.25, "y": 3 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "ここまで来た 迷わなかった〜",
+      "members": [
+        { "name": "yamabe", "x": -4, "y": 2 },
+        { "name": "hattori", "x": -1, "y": 2 },
+        { "name": "ichikawa", "x": 1, "y": 2 },
+        { "name": "shimoguchi", "x": 4, "y": 2 },
+
+        { "name": "takahashi", "x": -5.5, "y": 1 },
+        { "name": "mogi", "x": -2.5, "y": 1 },
+        { "name": "yamauchi", "x": 2.5, "y": 1 },
+        { "name": "taguchi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "あの夢へと続く 長く険しい道のり〜",
+      "members": [
+        { "name": "hattori", "x": -5.5, "y": 3 },
+        { "name": "shimoguchi", "x": -4, "y": 3 },
+        { "name": "yamabe", "x": 4, "y": 3 },
+        { "name": "ichikawa", "x": 5.5, "y": 3 },
+
+        { "name": "takahashi", "x": -2.5, "y": 2 },
+        { "name": "taguchi", "x": 2.5, "y": 2 },
+
+        { "name": "mogi", "x": -1, "y": 1 },
+        { "name": "yamauchi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "木漏れ日のその下を 歩いて来た〜",
+      "members": [
+        { "name": "hattori", "x": -2.25, "y": 2 },
+        { "name": "shimoguchi", "x": -0.75, "y": 2 },
+        { "name": "yamabe", "x": 0.75, "y": 2 },
+        { "name": "ichikawa", "x": 2.25, "y": 2 },
+
+        { "name": "takahashi", "x": -5.25, "y": 1 },
+        { "name": "mogi", "x": -3.75, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 },
+        { "name": "taguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "やさしさに包まれて... 〜",
+      "members": [
+        { "name": "takahashi", "x": -5.25, "y": 1 },
+        { "name": "mogi", "x": -3.75, "y": 1 },
+        { "name": "hattori", "x": -2.25, "y": 1 },
+        { "name": "shimoguchi", "x": -0.75, "y": 1 },
+        { "name": "yamabe", "x": 0.75, "y": 1 },
+        { "name": "ichikawa", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 },
+        { "name": "taguchi", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
