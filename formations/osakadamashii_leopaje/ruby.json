@@ -1,0 +1,109 @@
+{
+  "title": "Ruby",
+
+  "memo": [
+    "① 石田堀、黒田菖蒲早川、貞野和田出口",
+    "黒田菖蒲早川",
+    "② 石田堀、黒田菖蒲、早川和田、貞野出口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "sadano", "x": -4.5, "y": 3 },
+        { "name": "wada", "x": 0, "y": 3 },
+        { "name": "deguchi", "x": 4.5, "y": 3 },
+
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "hori", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "shobu", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "確かめたいんだ 本当の石の色〜",
+      "members": [
+        { "name": "kuroda", "x": -6, "y": 2 },
+        { "name": "sadano", "x": -3, "y": 2 },
+        { "name": "wada", "x": 0, "y": 2 },
+        { "name": "deguchi", "x": 3, "y": 2 },
+
+        { "name": "shobu", "x": -4.5, "y": 1 },
+        { "name": "hori", "x": -1.5, "y": 1 },
+        { "name": "ishida", "x": 1.5, "y": 1 },
+        { "name": "hayakawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "性悪Ruby 持て余した “True Blood” 〜",
+      "members": [
+        { "name": "kuroda", "x": -7, "y": 2 },
+        { "name": "ishida", "x": -3, "y": 2 },
+        { "name": "hori", "x": 1, "y": 2 },
+        { "name": "shobu", "x": 5, "y": 2 },
+
+        { "name": "sadano", "x": -5, "y": 1 },
+        { "name": "hayakawa", "x": -1, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 },
+        { "name": "deguchi", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "AH〜 あの先人たちは 知っていたんだ〜",
+      "members": [
+        { "name": "sadano", "x": -5, "y": 2 },
+        { "name": "hayakawa", "x": -1, "y": 2 },
+        { "name": "wada", "x": 3, "y": 2 },
+        { "name": "deguchi", "x": 7, "y": 2 },
+
+        { "name": "kuroda", "x": -7, "y": 1 },
+        { "name": "ishida", "x": -3, "y": 1 },
+        { "name": "hori", "x": 1, "y": 1 },
+        { "name": "shobu", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "僕が嵌った光  君の冷たさは輝き〜",
+      "members": [
+        { "name": "ishida", "x": -1.5, "y": 3 },
+        { "name": "hori", "x": 1.5, "y": 3 },
+
+        { "name": "shobu", "x": -2.5, "y": 2 },
+        { "name": "hayakawa", "x": 0.5, "y": 2 },
+        { "name": "kuroda", "x": 3.5, "y": 2 },
+
+        { "name": "deguchi", "x": -3.5, "y": 1 },
+        { "name": "wada", "x": -0.5, "y": 1 },
+        { "name": "sadano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "確かめたいんだ 本当の石の色〜",
+      "members": [
+        { "name": "kuroda", "x": -6, "y": 2 },
+        { "name": "sadano", "x": -3, "y": 2 },
+        { "name": "wada", "x": 0, "y": 2 },
+        { "name": "deguchi", "x": 3, "y": 2 },
+
+        { "name": "shobu", "x": -4.5, "y": 1 },
+        { "name": "hori", "x": -1.5, "y": 1 },
+        { "name": "ishida", "x": 1.5, "y": 1 },
+        { "name": "hayakawa", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
