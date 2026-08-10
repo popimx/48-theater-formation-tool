@@ -1,0 +1,92 @@
+{
+  "title": "ハートのベクトル",
+
+  "memo": [
+    "① 福岡、込山、武藤中西",
+    "② 大竹、向井地、千葉/本田",
+    "ラストサビ前 込山福岡、中西/武藤",
+    "千葉向井地 / 大竹本田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "必死に ペダル漕いだけど  次第に遅れてくから〜",
+      "members": [
+        { "name": "otake", "x": -3, "y": 3 },
+        { "name": "chiba", "x": -1, "y": 3 },
+        { "name": "honda", "x": 1, "y": 3 },
+        { "name": "mukaichi", "x": 3, "y": 3 },
+
+        { "name": "komiyama", "x": -2, "y": 2 },
+        { "name": "fukuoka", "x": 2, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "nakanishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "chiba", "x": -3.75, "y": 2 },
+        { "name": "otake", "x": -0.75, "y": 2 },
+        { "name": "honda", "x": 2.25, "y": 2 },
+        { "name": "mukaichi", "x": 5.25, "y": 2 },
+
+        { "name": "muto", "x": -5.25, "y": 1 },
+        { "name": "komiyama", "x": -2.25, "y": 1 },
+        { "name": "fukuoka", "x": 0.75, "y": 1 },
+        { "name": "nakanishi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "chiba", "x": -3.75, "y": 2 },
+        { "name": "otake", "x": -0.75, "y": 2 },
+        { "name": "honda", "x": 2.25, "y": 2 },
+        { "name": "mukaichi", "x": 5.25, "y": 2 },
+
+        { "name": "muto", "x": -5.25, "y": 1 },
+        { "name": "komiyama", "x": -2.25, "y": 1 },
+        { "name": "fukuoka", "x": 0.75, "y": 1 },
+        { "name": "nakanishi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakanishi", "x": -3.75, "y": 2 },
+        { "name": "komiyama", "x": -0.75, "y": 2 },
+        { "name": "fukuoka", "x": 2.25, "y": 2 },
+        { "name": "muto", "x": 5.25, "y": 2 },
+
+        { "name": "chiba", "x": -5.25, "y": 1 },
+        { "name": "mukaichi", "x": -2.25, "y": 1 },
+        { "name": "otake", "x": 0.75, "y": 1 },
+        { "name": "honda", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "誰も知らない 2人の合図〜",
+      "members": [
+        { "name": "chiba", "x": -5.25, "y": 1 },
+        { "name": "mukaichi", "x": -3.75, "y": 1 },
+        { "name": "nakanishi", "x": -2.25, "y": 1 },
+        { "name": "komiyama", "x": -0.75, "y": 1 },
+        { "name": "fukuoka", "x": 0.75, "y": 1 },
+        { "name": "muto", "x": 2.25, "y": 1 },
+        { "name": "otake", "x": 3.75, "y": 1 },
+        { "name": "honda", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
