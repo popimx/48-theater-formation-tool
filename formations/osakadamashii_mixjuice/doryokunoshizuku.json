@@ -1,0 +1,82 @@
+{
+  "title": "努力の雫",
+
+  "memo": [
+    "① 新澤梅山白間、山崎/南、岡本黒田河野",
+    "② 山崎/南、岡本黒田河野、新澤梅山白間"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "kawano", "x": 5.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 2 },
+        { "name": "minami", "x": 2.5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "この空も逃しはしない〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "kawano", "x": 5.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 2 },
+        { "name": "minami", "x": 2.5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -2, "y": 4 },
+        { "name": "kawano", "x": 2, "y": 4 },
+
+        { "name": "yamasaki", "x": -2, "y": 3 },
+        { "name": "kuroda", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -2, "y": 2 },
+        { "name": "minami", "x": 2, "y": 2 },
+
+        { "name": "umeyama", "x": -2, "y": 1 },
+        { "name": "shiroma", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "okamoto", "x": -5.5, "y": 4 },
+        { "name": "kawano", "x": 5.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -2.5, "y": 2 },
+        { "name": "minami", "x": 2.5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "shiroma", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
