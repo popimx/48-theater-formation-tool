@@ -120,6 +120,21 @@
     "file": "stages/bokunoaoharu.json"
   },
   {
+    "stage": "NMB48「情熱！めっちゃ楽舞友」",
+    "stageId": "metcharabuyu",
+    "file": "stages/metcharabuyu.json"
+  },
+  {
+    "stage": "NMB48「青春！恋のDestination」",
+    "stageId": "koinodestination",
+    "file": "stages/koinodestination.json"
+  },
+  {
+    "stage": "NMB48「天使のユートピア」",
+    "stageId": "tenshinoutopia",
+    "file": "stages/tenshinoutopia.json"
+  },
+  {
     "stage": "LeopAje「大阪魂、捨てたらあかん」",
     "stageId": "osakadamashii_leopaje",
     "file": "stages/osakadamashii_leopaje.json"
@@ -143,21 +158,6 @@
     "stage": "FRONTIER「大阪魂、捨てたらあかん」",
     "stageId": "osakadamashii_frontier",
     "file": "stages/osakadamashii_frontier.json"
-  },
-  {
-    "stage": "NMB48「情熱！めっちゃ楽舞友」",
-    "stageId": "metcharabuyu",
-    "file": "stages/metcharabuyu.json"
-  },
-  {
-    "stage": "NMB48「青春！恋のDestination」",
-    "stageId": "koinodestination",
-    "file": "stages/koinodestination.json"
-  },
-  {
-    "stage": "NMB48「天使のユートピア」",
-    "stageId": "tenshinoutopia",
-    "file": "stages/tenshinoutopia.json"
   },
   {
     "stage": "NMB48「なんばらえてぃー」",
