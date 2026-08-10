@@ -1,0 +1,102 @@
+{
+  "stage": "AKB48「アイドルの夜明け」",
+  "stageId": "idolnoyoake_2022",
+
+  "members": [
+    {
+      "name": "浅井七海",
+      "display": "浅井",
+      "id": "asai",
+      "image": "asai_nanami_2022"
+    },
+    {
+      "name": "石綿星南",
+      "display": "石綿",
+      "id": "ishiwata",
+      "image": "ishiwata_sena_2022"
+    },
+    {
+      "name": "稲垣香織",
+      "display": "稲垣",
+      "id": "inagaki",
+      "image": "inagaki_kaori_2022"
+    },
+    {
+      "name": "大盛真歩",
+      "display": "大盛",
+      "id": "omori",
+      "image": "omori_maho_2022"
+    },
+    {
+      "name": "坂口渚沙",
+      "display": "坂口",
+      "id": "sakaguchi",
+      "image": "sakaguchi_nagisa_2022"
+    },
+    {
+      "name": "佐藤美波",
+      "display": "佐藤",
+      "id": "sato",
+      "image": "sato_minami_2022"
+    },
+    {
+      "name": "徳永羚海",
+      "display": "徳永",
+      "id": "tokunaga",
+      "image": "tokunaga_remi_2022"
+    },
+    {
+      "name": "左伴彩佳",
+      "display": "左伴",
+      "id": "hidaritomo",
+      "image": "hidaritomo_ayaka_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "アイドルの夜明け",
+      "file": "idolnoyoake.json"
+    },
+    {
+      "name": "みなさんもご一緒に",
+      "file": "minasanmogoisshoni.json"
+    },
+    {
+      "name": "春一番が吹く頃",
+      "file": "haruichibangafukukoro.json"
+    },
+    {
+      "name": "拳の正義",
+      "file": "kobushinoseigi.json"
+    },
+    {
+      "name": "女子高生はやめられない",
+      "file": "joshikouseiwayamerarenai.json"
+    },
+    {
+      "name": "好きと言えばよかった",
+      "file": "sukitoiebayokatta.json"
+    },
+    {
+      "name": "そばかすのキス",
+      "file": "sobakasunokiss.json"
+    },
+    {
+      "name": "タンポポの決心",
+      "file": "tanpoponokesshin.json"
+    },
+    {
+      "name": "B Stars",
+      "file": "bstars.json"
+    },
+    {
+      "name": "横須賀カーブ",
+      "file": "yokosukacurve.json"
+    },
+    {
+      "name": "アリガトウ",
+      "file": "arigatou.json"
+    }
+  ]
+}
