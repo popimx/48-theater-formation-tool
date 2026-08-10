@@ -1,0 +1,45 @@
+{
+  "title": "翼はいらない",
+
+  "memo": [
+    "① 村山、倉野尾下尾、谷口吉川、吉田黒須多田",
+    "② 吉田/多田、倉野尾/村山、谷口下尾、吉川/黒須",
+    "多田吉田",
+    "②サビ後 村山倉野尾、谷口/下尾 (吉川/黒須)",
+    "多田吉田",
+    "ラストサビ前 谷口下尾、倉野尾/村山"
+  ],
+
+  "parts": [
+    {
+      "title": "ラストサビ前",
+      "lyrics": "空を飛ばなくても 歩いて行けるから〜",
+      "members": [
+        { "name": "kuranoo", "x": -5.25, "y": 1 },
+        { "name": "yoshida", "x": -3.75, "y": 1 },
+        { "name": "taniguchi", "x": -2.25, "y": 1 },
+        { "name": "kurosu", "x": -0.75, "y": 1 },
+        { "name": "yoshikawa", "x": 0.75, "y": 1 },
+        { "name": "shitao", "x": 2.25, "y": 1 },
+        { "name": "tada", "x": 3.75, "y": 1 },
+        { "name": "murayama", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "夢見て歩こう〜",
+      "members": [
+        { "name": "yoshida", "x": -3.5, "y": 2 },
+        { "name": "kurosu", "x": -1.5, "y": 2 },
+        { "name": "yoshikawa", "x": 0.5, "y": 2 },
+        { "name": "tada", "x": 2.5, "y": 2 },
+
+        { "name": "taniguchi", "x": -2.5, "y": 1 },
+        { "name": "kuranoo", "x": -0.5, "y": 1 },
+        { "name": "murayama", "x": 1.5, "y": 1 },
+        { "name": "shitao", "x": 3.5, "y": 1 }
+      ]
+    }
+  ]
+}
