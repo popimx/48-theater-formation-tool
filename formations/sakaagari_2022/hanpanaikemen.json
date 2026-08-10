@@ -80,13 +80,13 @@
         { "name": "yamauchi", "x": 1, "y": 3 },
         { "name": "taguchi", "x": 2.5, "y": 3 },
 
-        { "name": "takahashi", "x": 5.5, "y": 2 },
-        { "name": "hattori", "x": 4, "y": 2 },
+        { "name": "takahashi", "x": -5.5, "y": 2 },
+        { "name": "hattori", "x": -4, "y": 2 },
 
-        { "name": "mogi", "x": 2.5, "y": 1 },
-        { "name": "ichikawa", "x": 1, "y": 1 },
-        { "name": "shimoguchi", "x": -4, "y": 1 },
-        { "name": "yamabe", "x": -5.5, "y": 1 }
+        { "name": "mogi", "x": -2.5, "y": 1 },
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 4, "y": 1 },
+        { "name": "yamabe", "x": 5.5, "y": 1 }
       ]
     },
 
@@ -97,13 +97,13 @@
         { "name": "yamauchi", "x": 1, "y": 3 },
         { "name": "taguchi", "x": 2.5, "y": 3 },
 
-        { "name": "takahashi", "x": 5.5, "y": 2 },
-        { "name": "hattori", "x": 4, "y": 2 },
+        { "name": "takahashi", "x": -5.5, "y": 2 },
+        { "name": "hattori", "x": -4, "y": 2 },
 
-        { "name": "mogi", "x": 2.5, "y": 1 },
-        { "name": "ichikawa", "x": 1, "y": 1 },
-        { "name": "shimoguchi", "x": -4, "y": 1 },
-        { "name": "yamabe", "x": -5.5, "y": 1 }
+        { "name": "mogi", "x": -2.5, "y": 1 },
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 4, "y": 1 },
+        { "name": "yamabe", "x": 5.5, "y": 1 }
       ]
     },
 
@@ -114,13 +114,13 @@
         { "name": "yamauchi", "x": 1, "y": 3 },
         { "name": "taguchi", "x": 2.5, "y": 3 },
 
-        { "name": "takahashi", "x": 5.5, "y": 2 },
-        { "name": "hattori", "x": 4, "y": 2 },
+        { "name": "takahashi", "x": -5.5, "y": 2 },
+        { "name": "hattori", "x": -4, "y": 2 },
 
-        { "name": "mogi", "x": 2.5, "y": 1 },
-        { "name": "ichikawa", "x": 1, "y": 1 },
-        { "name": "shimoguchi", "x": -4, "y": 1 },
-        { "name": "yamabe", "x": -5.5, "y": 1 }
+        { "name": "mogi", "x": -2.5, "y": 1 },
+        { "name": "ichikawa", "x": -1, "y": 1 },
+        { "name": "shimoguchi", "x": 4, "y": 1 },
+        { "name": "yamabe", "x": 5.5, "y": 1 }
       ]
     },
 
