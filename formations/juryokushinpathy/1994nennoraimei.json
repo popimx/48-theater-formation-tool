@@ -1,0 +1,177 @@
+{
+  "title": "1994年の雷鳴",
+
+  "memo": [
+    "① 大竹本田、武藤/中西、福岡込山、向井地千葉",
+    "② 中西、武藤、大竹、本田、向井地/千葉、福岡込山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "mukaichi", "x": -3, "y": 4 },
+        { "name": "fukuoka", "x": 0, "y": 4 },
+        { "name": "chiba", "x": 3, "y": 4 },
+
+        { "name": "muto", "x": -2, "y": 3 },
+        { "name": "nakanishi", "x": 2, "y": 3 },
+
+        { "name": "otake", "x": -1, "y": 2 },
+        { "name": "komiyama", "x": 1, "y": 2 },
+
+        { "name": "honda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": 0, "y": 3 },
+
+        { "name": "mukaichi", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "nakanishi", "x": 1, "y": 2 },
+        { "name": "chiba", "x": 3, "y": 2 },
+
+        { "name": "otake", "x": -2, "y": 1 },
+        { "name": "honda", "x": 0, "y": 1 },
+        { "name": "komiyama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "「帰れないね」って君が言った〜",
+      "members": [
+        { "name": "fukuoka", "x": -1, "y": 3 },
+        { "name": "komiyama", "x": 1, "y": 3 },
+
+        { "name": "mukaichi", "x": -3, "y": 2 },
+        { "name": "chiba", "x": 3, "y": 2 },
+
+        { "name": "otake", "x": -5, "y": 1 },
+        { "name": "muto", "x": -2, "y": 1 },
+        { "name": "nakanishi", "x": 2, "y": 1 },
+        { "name": "honda", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "胸の奥のその片隅に 気づかれないように隠してた〜",
+      "members": [
+        { "name": "chiba", "x": -3, "y": 4 },
+        { "name": "mukaichi", "x": 0, "y": 4 },
+        { "name": "komiyama", "x": 3, "y": 4 },
+
+        { "name": "fukuoka", "x": -2, "y": 3 },
+        { "name": "muto", "x": 2, "y": 3 },
+
+        { "name": "nakanishi", "x": -1, "y": 2 },
+        { "name": "otake", "x": 1, "y": 2 },
+
+        { "name": "honda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "2人の若さは不器用で  見つめ合うことさえできなくて〜",
+      "members": [
+        { "name": "nakanishi", "x": -3.75, "y": 2 },
+        { "name": "fukuoka", "x": -0.75, "y": 2 },
+        { "name": "honda", "x": 2.25, "y": 2 },
+        { "name": "otake", "x": 5.25, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.25, "y": 1 },
+        { "name": "muto", "x": -2.25, "y": 1 },
+        { "name": "komiyama", "x": 0.75, "y": 1 },
+        { "name": "chiba", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "僕はそっと耳を塞いで  大人の足音 拒否したんだ〜",
+      "members": [
+        { "name": "mukaichi", "x": -5.25, "y": 2 },
+        { "name": "muto", "x": -2.25, "y": 2 },
+        { "name": "komiyama", "x": 0.75, "y": 2 },
+        { "name": "chiba", "x": 3.75, "y": 2 },
+
+        { "name": "nakanishi", "x": -3.75, "y": 1 },
+        { "name": "fukuoka", "x": -0.75, "y": 1 },
+        { "name": "honda", "x": 2.25, "y": 1 },
+        { "name": "otake", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "吐き出せない何かにいじけてた〜",
+      "members": [
+        { "name": "mukaichi", "x": -5.25, "y": 1 },
+        { "name": "nakanishi", "x": -3.75, "y": 1 },
+        { "name": "muto", "x": -2.25, "y": 1 },
+        { "name": "fukuoka", "x": -0.75, "y": 1 },
+        { "name": "komiyama", "x": 0.75, "y": 1 },
+        { "name": "honda", "x": 2.25, "y": 1 },
+        { "name": "chiba", "x": 3.75, "y": 1 },
+        { "name": "otake", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "mukaichi", "x": -5.25, "y": 1 },
+        { "name": "nakanishi", "x": -3.75, "y": 1 },
+        { "name": "muto", "x": -2.25, "y": 1 },
+        { "name": "fukuoka", "x": -0.75, "y": 1 },
+        { "name": "komiyama", "x": 0.75, "y": 1 },
+        { "name": "honda", "x": 2.25, "y": 1 },
+        { "name": "chiba", "x": 3.75, "y": 1 },
+        { "name": "otake", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "mukaichi", "x": -3, "y": 4 },
+        { "name": "fukuoka", "x": 0, "y": 4 },
+        { "name": "chiba", "x": 3, "y": 4 },
+
+        { "name": "muto", "x": -2, "y": 3 },
+        { "name": "komiyama", "x": 2, "y": 3 },
+
+        { "name": "nakanishi", "x": -1, "y": 2 },
+        { "name": "otake", "x": 1, "y": 2 },
+
+        { "name": "honda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "まるで神に指を差されて  見えない愛しさに怯えてた〜",
+      "members": [
+        { "name": "fukuoka", "x": -4, "y": 3 },
+        { "name": "komiyama", "x": 4, "y": 3 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 2 },
+        { "name": "honda", "x": -1, "y": 2 },
+        { "name": "otake", "x": 1, "y": 2 },
+        { "name": "chiba", "x": 5.5, "y": 2 },
+
+        { "name": "muto", "x": -2.5, "y": 1 },
+        { "name": "nakanishi", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
