@@ -1,0 +1,155 @@
+{
+  "title": "春一番が吹く頃",
+
+  "memo": [
+    "① 徳永/石綿、左伴佐藤、大盛坂口、浅井/稲垣",
+    "② 坂口大盛、浅井稲垣、佐藤徳永、左伴石綿"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -5.25, "y": 3 },
+        { "name": "asai", "x": -2.25, "y": 3 },
+        { "name": "inagaki", "x": 0.75, "y": 3 },
+        { "name": "tokunaga", "x": 3.75, "y": 3 },
+
+        { "name": "hidaritomo", "x": -3.75, "y": 2 },
+        { "name": "sato", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -3.75, "y": 3 },
+        { "name": "sato", "x": -0.75, "y": 3 },
+        { "name": "sakaguchi", "x": 2.25, "y": 3 },
+        { "name": "omori", "x": 5.25, "y": 3 },
+
+        { "name": "ishiwata", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -2.25, "y": 2 },
+        { "name": "inagaki", "x": 0.75, "y": 2 },
+        { "name": "tokunaga", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -5.25, "y": 3 },
+        { "name": "asai", "x": -2.25, "y": 3 },
+        { "name": "inagaki", "x": 0.75, "y": 3 },
+        { "name": "tokunaga", "x": 3.75, "y": 3 },
+
+        { "name": "hidaritomo", "x": -3.75, "y": 2 },
+        { "name": "sato", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ④",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -3.75, "y": 3 },
+        { "name": "sato", "x": -0.75, "y": 3 },
+        { "name": "sakaguchi", "x": 2.25, "y": 3 },
+        { "name": "omori", "x": 5.25, "y": 3 },
+
+        { "name": "ishiwata", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -2.25, "y": 2 },
+        { "name": "inagaki", "x": 0.75, "y": 2 },
+        { "name": "tokunaga", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -3.75, "y": 3 },
+        { "name": "sato", "x": -0.75, "y": 3 },
+        { "name": "asai", "x": 2.25, "y": 3 },
+        { "name": "omori", "x": 5.25, "y": 3 },
+
+        { "name": "inagaki", "x": -5.25, "y": 2 },
+        { "name": "sakaguchi", "x": -2.25, "y": 2 },
+        { "name": "tokunaga", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -5.25, "y": 3 },
+        { "name": "sakaguchi", "x": -2.25, "y": 3 },
+        { "name": "tokunaga", "x": 0.75, "y": 3 },
+        { "name": "hidaritomo", "x": 3.75, "y": 3 },
+
+        { "name": "ishiwata", "x": -3.75, "y": 2 },
+        { "name": "sato", "x": -0.75, "y": 2 },
+        { "name": "asai", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ③",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -3.75, "y": 3 },
+        { "name": "sato", "x": -0.75, "y": 3 },
+        { "name": "asai", "x": 2.25, "y": 3 },
+        { "name": "omori", "x": 5.25, "y": 3 },
+
+        { "name": "inagaki", "x": -5.25, "y": 2 },
+        { "name": "sakaguchi", "x": -2.25, "y": 2 },
+        { "name": "tokunaga", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ④",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -5.25, "y": 3 },
+        { "name": "sakaguchi", "x": -2.25, "y": 3 },
+        { "name": "tokunaga", "x": 0.75, "y": 3 },
+        { "name": "hidaritomo", "x": 3.75, "y": 3 },
+
+        { "name": "ishiwata", "x": -3.75, "y": 2 },
+        { "name": "sato", "x": -0.75, "y": 2 },
+        { "name": "asai", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "思い出作りに 奇跡は起きない〜",
+      "members": [
+        { "name": "ishiwata", "x": -4, "y": 3 },
+        { "name": "hidaritomo", "x": 4, "y": 3 },
+
+        { "name": "inagaki", "x": -5.5, "y": 2 },
+        { "name": "sato", "x": -1, "y": 2 },
+        { "name": "tokunaga", "x": 1, "y": 2 },
+        { "name": "omori", "x": 5.5, "y": 2 },
+
+        { "name": "sakaguchi", "x": -2.5, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
