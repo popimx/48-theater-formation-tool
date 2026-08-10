@@ -1,0 +1,84 @@
+{
+  "title": "涙に沈む太陽",
+
+  "memo": [
+    "イントロサビ 込山/中西、向井地/千葉、本田/大竹",
+    "福岡武藤",
+    "① 中西、込山、向井地、込山中西向井地",
+    "千葉、大竹、本田",
+    "② 福岡、武藤、武藤/福岡、中西、込山、向井地",
+    "ラストサビ前 千葉、大竹、本田",
+    "ラストサビ 福岡、武藤"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "そっと噛んだ唇が あなたを忘れていない〜",
+      "members": [
+        { "name": "komiyama", "x": -2, "y": 3 },
+        { "name": "nakanishi", "x": 0, "y": 3 },
+        { "name": "mukaichi", "x": 2, "y": 3 },
+
+        { "name": "muto", "x": -3, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "otake", "x": 1.5, "y": 1 },
+        { "name": "fukuoka", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "胸の奥 切なさを しずめたいテトラポッド〜",
+      "members": [
+        { "name": "honda", "x": -2, "y": 4 },
+        { "name": "chiba", "x": 0, "y": 4 },
+        { "name": "otake", "x": 2, "y": 4 },
+
+        { "name": "muto", "x": -1, "y": 3 },
+        { "name": "fukuoka", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": 0, "y": 2 },
+
+        { "name": "komiyama", "x": -3, "y": 1 },
+        { "name": "mukaichi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "今は何も残らない  海の家も監視台も〜",
+      "members": [
+        { "name": "nakanishi", "x": 0, "y": 4 },
+
+        { "name": "honda", "x": -2, "y": 3 },
+        { "name": "otake", "x": 2, "y": 3 },
+
+        { "name": "komiyama", "x": -5, "y": 1 },
+        { "name": "muto", "x": -2.5, "y": 1 },
+        { "name": "chiba", "x": 0, "y": 1 },
+        { "name": "fukuoka", "x": 2.5, "y": 1 },
+        { "name": "mukaichi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "honda", "x": 0, "y": 4 },
+
+        { "name": "muto", "x": -1, "y": 3 },
+        { "name": "otake", "x": 1, "y": 3 },
+
+        { "name": "komiyama", "x": -2, "y": 2 },
+        { "name": "mukaichi", "x": 2, "y": 2 },
+
+        { "name": "chiba", "x": -3, "y": 1 },
+        { "name": "nakanishi", "x": 0, "y": 1 },
+        { "name": "fukuoka", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
