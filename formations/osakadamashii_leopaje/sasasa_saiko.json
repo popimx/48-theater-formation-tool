@@ -1,0 +1,240 @@
+{
+  "title": "サササ サイコー！",
+
+  "memo": [
+    "① 菖蒲貞野石田堀、早川和田黒田出口",
+    "② 早川和田黒田出口、菖蒲貞野石田堀",
+    "②サビ後 菖蒲貞野石田堀、早川和田黒田出口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 1 },
+        { "name": "wada", "x": -3.75, "y": 1 },
+        { "name": "shobu", "x": -2.25, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "hori", "x": 2.25, "y": 1 },
+        { "name": "kuroda", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "世の中 いろいろ揉めてるけど 自分で盛り上げて行くしかない〜",
+      "members": [
+        { "name": "hayakawa", "x": -4, "y": 3 },
+        { "name": "wada", "x": -1.5, "y": 3 },
+        { "name": "kuroda", "x": 1.5, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "shobu", "x": -2.5, "y": 2 },
+        { "name": "hori", "x": 2.5, "y": 2 },
+
+        { "name": "sadano", "x": -1, "y": 1 },
+        { "name": "ishida", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "さあ そんなに難しいことじゃない とにかくいい方に考えればいい〜",
+      "members": [
+        { "name": "shobu", "x": -4, "y": 3 },
+        { "name": "sadano", "x": -1.5, "y": 3 },
+        { "name": "ishida", "x": 1.5, "y": 3 },
+        { "name": "hori", "x": 4, "y": 3 },
+
+        { "name": "hayakawa", "x": -2.5, "y": 2 },
+        { "name": "deguchi", "x": 2.5, "y": 2 },
+
+        { "name": "wada", "x": -1, "y": 1 },
+        { "name": "kuroda", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "(サササ サイコー！) ああ 生きててよかった なんて素晴らしいんだ〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "wada", "x": -2.25, "y": 2 },
+        { "name": "kuroda", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 3.75, "y": 2 },
+
+        { "name": "shobu", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "ガンバレ！最高じゃなくても〜",
+      "members": [
+        { "name": "shobu", "x": -3.75, "y": 2 },
+        { "name": "sadano", "x": -0.75, "y": 2 },
+        { "name": "ishida", "x": 2.25, "y": 2 },
+        { "name": "hori", "x": 5.25, "y": 2 },
+
+        { "name": "hayakawa", "x": -5.25, "y": 1 },
+        { "name": "wada", "x": -2.25, "y": 1 },
+        { "name": "kuroda", "x": 0.75, "y": 1 },
+        { "name": "deguchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "ガンバレ！最高な気分で〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "wada", "x": -2.25, "y": 2 },
+        { "name": "kuroda", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 3.75, "y": 2 },
+
+        { "name": "shobu", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "これから どうなる？ 分かんないけど〜",
+      "members": [
+        { "name": "shobu", "x": -2.5, "y": 2 },
+        { "name": "sadano", "x": -0.5, "y": 2 },
+        { "name": "ishida", "x": 1.5, "y": 2 },
+        { "name": "hori", "x": 3.5, "y": 2 },
+
+        { "name": "hayakawa", "x": -3.5, "y": 1 },
+        { "name": "wada", "x": -1.5, "y": 1 },
+        { "name": "kuroda", "x": 0.5, "y": 1 },
+        { "name": "deguchi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "不景気とか 少子化とか 格差社会 問題はいっぱいってこと〜",
+      "members": [
+        { "name": "shobu", "x": 0.75, "y": 4 },
+        { "name": "hori", "x": 5.25, "y": 4 },
+
+        { "name": "sadano", "x": 2.25, "y": 3 },
+        { "name": "ishida", "x": 3.75, "y": 3 },
+
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "deguchi", "x": -0.75, "y": 2 },
+
+        { "name": "wada", "x": -3.75, "y": 1 },
+        { "name": "kuroda", "x": -2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "でも しかめっ面したってしょうがない 悩み忘れて仕舞えばいいんだ〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 4 },
+        { "name": "deguchi", "x": -0.75, "y": 4 },
+
+        { "name": "wada", "x": -3.75, "y": 3 },
+        { "name": "kuroda", "x": -2.25, "y": 3 },
+
+        { "name": "shobu", "x": 0.75, "y": 2 },
+        { "name": "hori", "x": 5.25, "y": 2 },
+
+        { "name": "sadano", "x": 2.25, "y": 1 },
+        { "name": "ishida", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "(ハハハ ハッピー！) ああ どうにかなるもんだ 今日も元気に行こう〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "wada", "x": -2.25, "y": 2 },
+        { "name": "kuroda", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 3.75, "y": 2 },
+
+        { "name": "shobu", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "ガンバレ！ハッピーじゃなくても〜",
+      "members": [
+        { "name": "shobu", "x": -3.75, "y": 2 },
+        { "name": "sadano", "x": -0.75, "y": 2 },
+        { "name": "ishida", "x": 2.25, "y": 2 },
+        { "name": "hori", "x": 5.25, "y": 2 },
+
+        { "name": "hayakawa", "x": -5.25, "y": 1 },
+        { "name": "wada", "x": -2.25, "y": 1 },
+        { "name": "kuroda", "x": 0.75, "y": 1 },
+        { "name": "deguchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "ガンバレ！ハッピーな気分で〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "wada", "x": -2.25, "y": 2 },
+        { "name": "kuroda", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 3.75, "y": 2 },
+
+        { "name": "shobu", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "たった一度の人生だってわかってる〜",
+      "members": [
+        { "name": "hayakawa", "x": -3.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "kuroda", "x": 0.5, "y": 2 },
+        { "name": "deguchi", "x": 2.5, "y": 2 },
+
+        { "name": "shobu", "x": -2.5, "y": 1 },
+        { "name": "sadano", "x": -0.5, "y": 1 },
+        { "name": "ishida", "x": 1.5, "y": 1 },
+        { "name": "hori", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "(ハハハ ハッピー！) ああ どうにかなるもんだ 今日も元気に行こう！〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 2 },
+        { "name": "wada", "x": -2.25, "y": 2 },
+        { "name": "kuroda", "x": 0.75, "y": 2 },
+        { "name": "deguchi", "x": 3.75, "y": 2 },
+
+        { "name": "shobu", "x": -3.75, "y": 1 },
+        { "name": "sadano", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
