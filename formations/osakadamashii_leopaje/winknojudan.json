@@ -1,0 +1,139 @@
+{
+  "title": "ウィンクの銃弾",
+
+  "memo": [
+    "① 貞野菖蒲和田早川、出口堀石田黒田",
+    "貞野菖蒲和田早川",
+    "② 出口堀石田黒田、貞野菖蒲和田早川",
+    "出口堀石田黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "deguchi", "x": -4.5, "y": 3 },
+        { "name": "hori", "x": 0, "y": 3 },
+        { "name": "kuroda", "x": 4.5, "y": 3 },
+
+        { "name": "ishida", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "sadano", "x": -3, "y": 1 },
+        { "name": "shobu", "x": 0, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "相性良いとか悪いとか そんなことどうでもいいぜ〜",
+      "members": [
+        { "name": "deguchi", "x": -5.25, "y": 2 },
+        { "name": "hori", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "kuroda", "x": 3.75, "y": 2 },
+
+        { "name": "sadano", "x": -3.75, "y": 1 },
+        { "name": "shobu", "x": -0.75, "y": 1 },
+        { "name": "wada", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "行儀の良い奴はいねえ  タトゥー見りゃわかるだろう〜",
+      "members": [
+        { "name": "sadano", "x": -3.75, "y": 2 },
+        { "name": "shobu", "x": -0.75, "y": 2 },
+        { "name": "wada", "x": 2.25, "y": 2 },
+        { "name": "hayakawa", "x": 5.25, "y": 2 },
+
+        { "name": "deguchi", "x": -5.25, "y": 1 },
+        { "name": "hori", "x": -2.25, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "kuroda", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ああやることやればいい (ビッチと呼ばれて) 〜",
+      "members": [
+        { "name": "deguchi", "x": -4.5, "y": 2 },
+        { "name": "hori", "x": -1.5, "y": 2 },
+        { "name": "ishida", "x": 1.5, "y": 2 },
+        { "name": "kuroda", "x": 4.5, "y": 2 },
+
+        { "name": "sadano", "x": -4.5, "y": 1 },
+        { "name": "shobu", "x": -1.5, "y": 1 },
+        { "name": "wada", "x": 1.5, "y": 1 },
+        { "name": "hayakawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -7, "y": 1 },
+        { "name": "hori", "x": -5, "y": 1 },
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "sadano", "x": -1, "y": 1 },
+        { "name": "hayakawa", "x": 1, "y": 1 },
+        { "name": "deguchi", "x": 3, "y": 1 },
+        { "name": "ishida", "x": 5, "y": 1 },
+        { "name": "shobu", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ウィンクの銃弾 くらってごらんよ〜",
+      "members": [
+        { "name": "deguchi", "x": -5.25, "y": 2 },
+        { "name": "hori", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "kuroda", "x": 3.75, "y": 2 },
+
+        { "name": "sadano", "x": -3.75, "y": 1 },
+        { "name": "shobu", "x": -0.75, "y": 1 },
+        { "name": "wada", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "邪魔をするなよ 愛してやる〜",
+      "members": [
+        { "name": "deguchi", "x": -5.25, "y": 1 },
+        { "name": "sadano", "x": -3.75, "y": 1 },
+        { "name": "hori", "x": -2.25, "y": 1 },
+        { "name": "shobu", "x": -0.75, "y": 1 },
+        { "name": "ishida", "x": 0.75, "y": 1 },
+        { "name": "wada", "x": 2.25, "y": 1 },
+        { "name": "kuroda", "x": 3.75, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "ヘイ ヘイ ヘイ 平和だよ stage is over〜",
+      "members": [
+        { "name": "deguchi", "x": -5.25, "y": 2 },
+        { "name": "hori", "x": -2.25, "y": 2 },
+        { "name": "ishida", "x": 0.75, "y": 2 },
+        { "name": "kuroda", "x": 3.75, "y": 2 },
+
+        { "name": "sadano", "x": -3.75, "y": 1 },
+        { "name": "shobu", "x": -0.75, "y": 1 },
+        { "name": "wada", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
