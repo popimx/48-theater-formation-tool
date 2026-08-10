@@ -1,0 +1,281 @@
+{
+  "title": "Don't look back!",
+
+  "memo": [
+    "① 菖蒲貞野石田、石田菖蒲貞野、貞野石田菖蒲",
+    "黒田堀早川、和田/出口",
+    "② 堀早川、黒田和田出口、菖蒲貞野石田",
+    "ラストサビ前 菖蒲貞野石田、黒田堀早川",
+    "和田/出口"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "振り向くな！昨日より前に出ろ！ (前に出ろ！〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "hori", "x": -2.5, "y": 3 },
+        { "name": "ishida", "x": 2.5, "y": 3 },
+        { "name": "hayakawa", "x": 5.5, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "deguchi", "x": 4, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "shobu", "x": -1, "y": 3 },
+        { "name": "sadano", "x": 1, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "hori", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "戦えよ！やられても前を向け！(前を向け！) 〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "hori", "x": -2.5, "y": 3 },
+        { "name": "ishida", "x": 2.5, "y": 3 },
+        { "name": "hayakawa", "x": 5.5, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "deguchi", "x": 4, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "つらけりゃ歯を食いしばれ！ Stick it out! 〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "shobu", "x": -1, "y": 3 },
+        { "name": "sadano", "x": 1, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "hori", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "You should be strong now! 〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -5.25, "y": 1 },
+        { "name": "kuroda", "x": -3.75, "y": 1 },
+        { "name": "deguchi", "x": -2.25, "y": 1 },
+        { "name": "shobu", "x": -0.75, "y": 1 },
+        { "name": "sadano", "x": 0.75, "y": 1 },
+        { "name": "ishida", "x": 2.25, "y": 1 },
+        { "name": "wada", "x": 3.75, "y": 1 },
+        { "name": "hori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -3, "y": 4 },
+        { "name": "deguchi", "x": 0, "y": 4 },
+        { "name": "wada", "x": 3, "y": 4 },
+
+        { "name": "hayakawa", "x": -2, "y": 3 },
+        { "name": "hori", "x": 2, "y": 3 },
+
+        { "name": "shobu", "x": -1, "y": 2 },
+        { "name": "sadano", "x": 1, "y": 2 },
+
+        { "name": "ishida", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！)  〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "hori", "x": -2.5, "y": 3 },
+        { "name": "ishida", "x": 2.5, "y": 3 },
+        { "name": "hayakawa", "x": 5.5, "y": 3 },
+
+        { "name": "wada", "x": -4, "y": 2 },
+        { "name": "deguchi", "x": 4, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "shobu", "x": -1, "y": 3 },
+        { "name": "sadano", "x": 1, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "hori", "x": -2.5, "y": 1 },
+        { "name": "ishida", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "wada", "x": -4, "y": 3 },
+        { "name": "deguchi", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "hori", "x": -2.5, "y": 2 },
+        { "name": "ishida", "x": 2.5, "y": 2 },
+        { "name": "hayakawa", "x": 5.5, "y": 2 },
+
+        { "name": "shobu", "x": -1, "y": 1 },
+        { "name": "sadano", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
