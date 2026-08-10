@@ -1,0 +1,279 @@
+{
+  "title": "俺らとは",
+
+  "memo": [
+    "① 白間南/新澤梅山、山崎岡本河野黒田",
+    "② 黒田河野岡本山崎、白間新澤南梅山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "shiroma", "x": -7, "y": 1 },
+        { "name": "minami", "x": -5, "y": 1 },
+        { "name": "kawano", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "yamasaki", "x": 1, "y": 1 },
+        { "name": "okamoto", "x": 3, "y": 1 },
+        { "name": "shinzawa", "x": 5, "y": 1 },
+        { "name": "umeyama", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "風の中で 匂い立つのは〜",
+      "members": [
+        { "name": "minami", "x": -4, "y": 2 },
+        { "name": "shiroma", "x": -1, "y": 2 },
+        { "name": "umeyama", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 4, "y": 2 },
+
+        { "name": "yamasaki", "x": -5.5, "y": 1 },
+        { "name": "okamoto", "x": -2.5, "y": 1 },
+        { "name": "kawano", "x": 2.5, "y": 1 },
+        { "name": "kuroda", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "花は咲いて 散るのが運命〜",
+      "members": [
+        { "name": "yamasaki", "x": -5.5, "y": 2 },
+        { "name": "okamoto", "x": -2.5, "y": 2 },
+        { "name": "kawano", "x": 2.5, "y": 2 },
+        { "name": "kuroda", "x": 5.5, "y": 2 },
+
+        { "name": "minami", "x": -4, "y": 1 },
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 },
+        { "name": "shinzawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "名乗り挙げたらしいが 笑わせるなよ〜",
+      "members": [
+        { "name": "minami", "x": -3.5, "y": 4 },
+        { "name": "shinzawa", "x": 3.5, "y": 4 },
+
+        { "name": "shiroma", "x": -1, "y": 3 },
+        { "name": "umeyama", "x": 1, "y": 3 },
+
+        { "name": "yamasaki", "x": -5, "y": 2 },
+        { "name": "kuroda", "x": 5, "y": 2 },
+
+        { "name": "okamoto", "x": -2.5, "y": 1 },
+        { "name": "kawano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "俺らとは 信じる者 心がぶれることはない〜",
+      "members": [
+        { "name": "minami", "x": -3.5, "y": 4 },
+        { "name": "shinzawa", "x": 3.5, "y": 4 },
+
+        { "name": "shiroma", "x": -1, "y": 3 },
+        { "name": "umeyama", "x": 1, "y": 3 },
+
+        { "name": "yamasaki", "x": -5, "y": 2 },
+        { "name": "kuroda", "x": 5, "y": 2 },
+
+        { "name": "okamoto", "x": -2.5, "y": 1 },
+        { "name": "kawano", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "日本一の旗 立てる〜",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "shiroma", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "umeyama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -3, "y": 3 },
+        { "name": "kawano", "x": 3, "y": 3 },
+
+        { "name": "yamasaki", "x": -5, "y": 2 },
+        { "name": "umeyama", "x": -1, "y": 2 },
+        { "name": "shiroma", "x": 1, "y": 2 },
+        { "name": "kuroda", "x": 5, "y": 2 },
+
+        { "name": "minami", "x": -3, "y": 1 },
+        { "name": "shinzawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "横殴りの〜",
+      "members": [
+        { "name": "yamasaki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -5, "y": 2 },
+        { "name": "okamoto", "x": -1, "y": 2 },
+        { "name": "kawano", "x": 1, "y": 2 },
+        { "name": "shinzawa", "x": 5, "y": 2 },
+
+        { "name": "umeyama", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "雨に打たれて〜",
+      "members": [
+        { "name": "minami", "x": -3, "y": 3 },
+        { "name": "shinzawa", "x": 3, "y": 3 },
+
+        { "name": "umeyama", "x": -5, "y": 2 },
+        { "name": "yamasaki", "x": -1, "y": 2 },
+        { "name": "kuroda", "x": 1, "y": 2 },
+        { "name": "shiroma", "x": 5, "y": 2 },
+
+        { "name": "okamoto", "x": -3, "y": 1 },
+        { "name": "kawano", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "葉まで揺さぶられても ここに立ってる〜",
+      "members": [
+        { "name": "umeyama", "x": -3, "y": 3 },
+        { "name": "shiroma", "x": 3, "y": 3 },
+
+        { "name": "okamoto", "x": -5, "y": 2 },
+        { "name": "minami", "x": -1, "y": 2 },
+        { "name": "shinzawa", "x": 1, "y": 2 },
+        { "name": "kawano", "x": 5, "y": 2 },
+
+        { "name": "yamasaki", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "この世は戦国だ 命 賭けぶつかり〜",
+      "members": [
+        { "name": "shiroma", "x": -4.5, "y": 2 },
+        { "name": "shinzawa", "x": -1.5, "y": 2 },
+        { "name": "minami", "x": 1.5, "y": 2 },
+        { "name": "umeyama", "x": 4.5, "y": 2 },
+
+        { "name": "kuroda", "x": -4.5, "y": 1 },
+        { "name": "kawano", "x": -1.5, "y": 1 },
+        { "name": "okamoto", "x": 1.5, "y": 1 },
+        { "name": "yamasaki", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "勝ち鬨の声を上げる〜",
+      "members": [
+        { "name": "kuroda", "x": -4.5, "y": 4 },
+        { "name": "umeyama", "x": 0, "y": 4 },
+        { "name": "yamasaki", "x": 4.5, "y": 4 },
+
+        { "name": "kawano", "x": -3, "y": 3 },
+        { "name": "okamoto", "x": 3, "y": 3 },
+
+        { "name": "shinzawa", "x": -1.5, "y": 2 },
+        { "name": "minami", "x": 1.5, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "minami", "x": -7, "y": 1 },
+        { "name": "yamasaki", "x": -5, "y": 1 },
+        { "name": "okamoto", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 },
+        { "name": "kawano", "x": 3, "y": 1 },
+        { "name": "kuroda", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "俺らとは 信じる者 心がぶれることはない〜",
+      "members": [
+        { "name": "minami", "x": -7, "y": 1 },
+        { "name": "yamasaki", "x": -5, "y": 1 },
+        { "name": "okamoto", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 },
+        { "name": "kawano", "x": 3, "y": 1 },
+        { "name": "kuroda", "x": 5, "y": 1 },
+        { "name": "shinzawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "日本一の旗 立てる〜",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "shiroma", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "umeyama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -4.5, "y": 4 },
+        { "name": "shiroma", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 4.5, "y": 4 },
+
+        { "name": "yamasaki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "minami", "x": -1.5, "y": 2 },
+        { "name": "shinzawa", "x": 1.5, "y": 2 },
+
+        { "name": "umeyama", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
