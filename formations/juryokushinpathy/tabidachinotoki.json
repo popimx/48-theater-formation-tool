@@ -1,0 +1,115 @@
+{
+  "title": "旅立ちのとき",
+
+  "memo": [
+    "① 本田/千葉、向井地/込山",
+    "② 福岡大竹、中西/武藤",
+    "ラストサビ前 本田/千葉、向井地込山、福岡/大竹",
+    "中西/武藤",
+    "ラスト 福岡中西/武藤大竹、本田向井地込山千葉"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": -1, "y": 3 },
+        { "name": "otake", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "komiyama", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": -1, "y": 3 },
+        { "name": "otake", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "komiyama", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": -1, "y": 3 },
+        { "name": "otake", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "komiyama", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": -1, "y": 3 },
+        { "name": "otake", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "mukaichi", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "komiyama", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "mukaichi", "x": -1, "y": 3 },
+        { "name": "komiyama", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "fukuoka", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "otake", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "mukaichi", "x": -1, "y": 3 },
+        { "name": "komiyama", "x": 1, "y": 3 },
+
+        { "name": "nakanishi", "x": -3.5, "y": 2 },
+        { "name": "muto", "x": 3.5, "y": 2 },
+
+        { "name": "fukuoka", "x": -5.5, "y": 1 },
+        { "name": "honda", "x": -1.5, "y": 1 },
+        { "name": "chiba", "x": 1.5, "y": 1 },
+        { "name": "otake", "x": 5.5, "y": 1 }
+      ]
+    }
+  ]
+}
