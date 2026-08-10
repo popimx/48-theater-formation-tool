@@ -1,0 +1,130 @@
+{
+  "title": "君はメロディー",
+
+  "memo": [
+    "① 下尾吉川、村山/倉野尾、多田/黒須、谷口/吉田",
+    "② 村山倉野尾、谷口吉田、多田黒須、下尾吉川",
+    "村山/倉野尾",
+    "ラストサビ前 下尾吉川、村山/倉野尾",
+    "谷口多田/黒須吉田",
+    "ラストサビ 下尾吉川"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "taniguchi", "x": -5.5, "y": 3 },
+        { "name": "tada", "x": -2.5, "y": 3 },
+        { "name": "kurosu", "x": 2.5, "y": 3 },
+        { "name": "yoshida", "x": 5.5, "y": 3 },
+
+        { "name": "murayama", "x": -4, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "遠い昔の記憶の彼方に  忘れかけてた2人の favorite song〜",
+      "members": [
+        { "name": "taniguchi", "x": -5.5, "y": 3 },
+        { "name": "tada", "x": -2.5, "y": 3 },
+        { "name": "kurosu", "x": 2.5, "y": 3 },
+        { "name": "yoshida", "x": 5.5, "y": 3 },
+
+        { "name": "murayama", "x": -4, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ノイズだらけのRadioが 聴こえて来たんだ〜",
+      "members": [
+        { "name": "tada", "x": -2.5, "y": 3 },
+        { "name": "kurosu", "x": 2.5, "y": 3 },
+
+        { "name": "murayama", "x": -4, "y": 2 },
+        { "name": "kuranoo", "x": 4, "y": 2 },
+
+        { "name": "taniguchi", "x": -5.5, "y": 1 },
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 },
+        { "name": "yoshida", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "taniguchi", "x": -5.5, "y": 4 },
+        { "name": "yoshida", "x": 5.5, "y": 4 },
+
+        { "name": "murayama", "x": -4, "y": 3 },
+        { "name": "kuranoo", "x": 4, "y": 3 },
+
+        { "name": "tada", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "振り返るように 君も思い出すだろうか？〜",
+      "members": [
+        { "name": "taniguchi", "x": -5.5, "y": 2 },
+        { "name": "tada", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "yoshida", "x": 5.5, "y": 2 },
+
+        { "name": "murayama", "x": -4, "y": 1 },
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 },
+        { "name": "kuranoo", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "君はメロディー メロディー  懐かしいハーモニー ハーモニー〜",
+      "members": [
+        { "name": "taniguchi", "x": -5.5, "y": 2 },
+        { "name": "tada", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "yoshida", "x": 5.5, "y": 2 },
+
+        { "name": "murayama", "x": -4, "y": 1 },
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "yoshikawa", "x": 1, "y": 1 },
+        { "name": "kuranoo", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "こんなメロディー メロディー  きっとどこかで君だって…〜",
+      "members": [
+        { "name": "taniguchi", "x": -5.25, "y": 1 },
+        { "name": "murayama", "x": -3.75, "y": 1 },
+        { "name": "tada", "x": -2.25, "y": 1 },
+        { "name": "shitao", "x": -0.75, "y": 1 },
+        { "name": "yoshikawa", "x": 0.75, "y": 1 },
+        { "name": "kurosu", "x": 2.25, "y": 1 },
+        { "name": "kuranoo", "x": 3.75, "y": 1 },
+        { "name": "yoshida", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
