@@ -1,0 +1,166 @@
+{
+  "title": "女神はどこで微笑む？",
+
+  "memo": [
+    "① 本田、向井地、千葉/中西",
+    "①サビ 大竹/武藤、込山/福岡",
+    "② 大竹武藤、込山福岡",
+    "②サビ 向井地本田、千葉/中西",
+    "ラストサビ前 本田、向井地、千葉/中西",
+    "ラストサビ 武藤/大竹、込山/福岡"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -3, "y": 2 },
+        { "name": "muto", "x": -1, "y": 2 },
+        { "name": "nakanishi", "x": 1, "y": 2 },
+        { "name": "komiyama", "x": 3, "y": 2 },
+
+        { "name": "fukuoka", "x": -3, "y": 1 },
+        { "name": "mukaichi", "x": -1, "y": 1 },
+        { "name": "honda", "x": 1, "y": 1 },
+        { "name": "chiba", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "otake", "x": -2.5, "y": 2 },
+        { "name": "muto", "x": -0.5, "y": 2 },
+        { "name": "nakanishi", "x": 1.5, "y": 2 },
+        { "name": "komiyama", "x": 3.5, "y": 2 },
+
+        { "name": "fukuoka", "x": -3.5, "y": 1 },
+        { "name": "mukaichi", "x": -1.5, "y": 1 },
+        { "name": "honda", "x": 0.5, "y": 1 },
+        { "name": "chiba", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ③",
+      "lyrics": "",
+      "members": [
+        { "name": "fukuoka", "x": -5.25, "y": 1 },
+        { "name": "otake", "x": -3.75, "y": 1 },
+        { "name": "mukaichi", "x": -2.25, "y": 1 },
+        { "name": "muto", "x": -0.75, "y": 1 },
+        { "name": "honda", "x": 0.75, "y": 1 },
+        { "name": "nakanishi", "x": 2.25, "y": 1 },
+        { "name": "chiba", "x": 3.75, "y": 1 },
+        { "name": "komiyama", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ④",
+      "lyrics": "You know, Where's goddess？〜",
+      "members": [
+        { "name": "fukuoka", "x": -5.5, "y": 4 },
+        { "name": "komiyama", "x": 5.5, "y": 4 },
+
+        { "name": "otake", "x": -4, "y": 3 },
+        { "name": "chiba", "x": 4, "y": 3 },
+
+        { "name": "mukaichi", "x": -2.5, "y": 2 },
+        { "name": "nakanishi", "x": 2.5, "y": 2 },
+
+        { "name": "muto", "x": -1, "y": 1 },
+        { "name": "honda", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ⑤",
+      "lyrics": "Is she smiling for me？〜",
+      "members": [
+        { "name": "komiyama", "x": -4.5, "y": 4 },
+        { "name": "honda", "x": 0, "y": 4 },
+        { "name": "muto", "x": 4.5, "y": 4 },
+
+        { "name": "mukaichi", "x": -3, "y": 3 },
+        { "name": "nakanishi", "x": 3, "y": 3 },
+
+        { "name": "chiba", "x": -1.5, "y": 2 },
+        { "name": "otake", "x": 1.5, "y": 2 },
+
+        { "name": "fukuoka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "聴こえたような Voice(Voice) そこに誰もいないけど〜",
+      "members": [
+        { "name": "komiyama", "x": -4.5, "y": 4 },
+        { "name": "honda", "x": 0, "y": 4 },
+        { "name": "muto", "x": 4.5, "y": 4 },
+
+        { "name": "mukaichi", "x": -3, "y": 3 },
+        { "name": "nakanishi", "x": 3, "y": 3 },
+
+        { "name": "chiba", "x": -1.5, "y": 2 },
+        { "name": "otake", "x": 1.5, "y": 2 },
+
+        { "name": "fukuoka", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "やっと巡ったChance (Chance) 〜",
+      "members": [
+        { "name": "komiyama", "x": -1.5, "y": 3 },
+        { "name": "fukuoka", "x": 1.5, "y": 3 },
+
+        { "name": "mukaichi", "x": -3, "y": 2 },
+        { "name": "chiba", "x": 3, "y": 2 },
+
+        { "name": "honda", "x": -4.5, "y": 1 },
+        { "name": "otake", "x": -1, "y": 1 },
+        { "name": "muto", "x": 1, "y": 1 },
+        { "name": "nakanishi", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "きっと 錯覚だろう〜",
+      "members": [
+        { "name": "mukaichi", "x": -3.5, "y": 2 },
+        { "name": "otake", "x": -1.5, "y": 2 },
+        { "name": "chiba", "x": 0.5, "y": 2 },
+        { "name": "muto", "x": 2.5, "y": 2 },
+
+        { "name": "honda", "x": -2.5, "y": 1 },
+        { "name": "komiyama", "x": -0.5, "y": 1 },
+        { "name": "fukuoka", "x": 1.5, "y": 1 },
+        { "name": "nakanishi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "Dear Goddess！ 女神はどこで微笑む？ 確かにいるはずだよ〜",
+      "members": [
+        { "name": "muto", "x": -1, "y": 4 },
+        { "name": "otake", "x": 4, "y": 4 },
+
+        { "name": "komiyama", "x": -2, "y": 3 },
+        { "name": "fukuoka", "x": 3, "y": 3 },
+
+        { "name": "mukaichi", "x": -3, "y": 2 },
+        { "name": "honda", "x": 2, "y": 2 },
+
+        { "name": "chiba", "x": -4, "y": 1 },
+        { "name": "nakanishi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
