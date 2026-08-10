@@ -1,0 +1,102 @@
+{
+  "stage": "AKB48「逆上がり」",
+  "stageId": "sakaagari_2022",
+
+  "members": [
+    {
+      "name": "市川愛美",
+      "display": "市川",
+      "id": "ichikawa",
+      "image": "ichikawa_manami_2022"
+    },
+    {
+      "name": "下口ひなな",
+      "display": "下口",
+      "id": "shimoguchi",
+      "image": "shimoguchi_hinana_2022"
+    },
+    {
+      "name": "髙橋彩音",
+      "display": "髙橋",
+      "id": "takahashi",
+      "image": "takahashi_ayane_2022"
+    },
+    {
+      "name": "田口愛佳",
+      "display": "田口",
+      "id": "taguchi",
+      "image": "taguchi_manaka_2022"
+    },
+    {
+      "name": "服部有菜",
+      "display": "服部",
+      "id": "hattori",
+      "image": "hattori_yuna_2022"
+    },
+    {
+      "name": "茂木忍",
+      "display": "茂木",
+      "id": "mogi",
+      "image": "mogi_shinobu_2022"
+    },
+    {
+      "name": "山内瑞葵",
+      "display": "山内",
+      "id": "yamauchi",
+      "image": "yamauchi_mizuki_2022"
+    },
+    {
+      "name": "山邊歩夢",
+      "display": "山邊",
+      "id": "yamabe",
+      "image": "yamabe_ayu_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "掌",
+      "file": "tenohira.json"
+    },
+    {
+      "name": "逆上がり",
+      "file": "sakaagari.json"
+    },
+    {
+      "name": "否定のレクイエム",
+      "file": "hiteinorequiem.json"
+    },
+    {
+      "name": "その汗は嘘をつかない",
+      "file": "sonoasewausowotsukanai.json"
+    },
+    {
+      "name": "フリしてマネして",
+      "file": "furishitemaneshite.json"
+    },
+    {
+      "name": "海を渡れ！",
+      "file": "umiwowatare.json"
+    },
+    {
+      "name": "街角のパーティー",
+      "file": "machikadonoparty.json"
+    },
+    {
+      "name": "ファンレター",
+      "file": "fanletter.json"
+    },
+    {
+      "name": "不義理",
+      "file": "fugiri.json"
+    },
+    {
+      "name": "ハンパなイケメン",
+      "file": "hanpanaikemen.json"
+    },
+    {
+      "name": "To be continued.",
+      "file": "to_be_continued.json"
+    }
+  ]
+}
