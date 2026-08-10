@@ -1,0 +1,281 @@
+{
+  "title": "Don't look back!",
+
+  "memo": [
+    "① 新澤梅山白間、白間新澤梅山、梅山白間新澤",
+    "黒田南岡本、山崎/河野",
+    "② 南岡本、黒田山崎河野、新澤梅山白間",
+    "ラストサビ前 新澤梅山白間、黒田南岡本",
+    "山崎/河野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "振り向くな！昨日より前に出ろ！ (前に出ろ！〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "minami", "x": -2.5, "y": 3 },
+        { "name": "shiroma", "x": 2.5, "y": 3 },
+        { "name": "okamoto", "x": 5.5, "y": 3 },
+
+        { "name": "yamasaki", "x": -4, "y": 2 },
+        { "name": "kawano", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -1, "y": 3 },
+        { "name": "umeyama", "x": 1, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "minami", "x": -2.5, "y": 1 },
+        { "name": "shiroma", "x": 2.5, "y": 1 },
+        { "name": "okamoto", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "戦えよ！やられても前を向け！(前を向け！) 〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "minami", "x": -2.5, "y": 3 },
+        { "name": "shiroma", "x": 2.5, "y": 3 },
+        { "name": "okamoto", "x": 5.5, "y": 3 },
+
+        { "name": "yamasaki", "x": -4, "y": 2 },
+        { "name": "kawano", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "つらけりゃ歯を食いしばれ！ Stick it out! 〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -1, "y": 3 },
+        { "name": "umeyama", "x": 1, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "minami", "x": -2.5, "y": 1 },
+        { "name": "shiroma", "x": 2.5, "y": 1 },
+        { "name": "okamoto", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "You should be strong now! 〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "okamoto", "x": -5.25, "y": 1 },
+        { "name": "kuroda", "x": -3.75, "y": 1 },
+        { "name": "yamasaki", "x": -2.25, "y": 1 },
+        { "name": "shinzawa", "x": -0.75, "y": 1 },
+        { "name": "umeyama", "x": 0.75, "y": 1 },
+        { "name": "shiroma", "x": 2.25, "y": 1 },
+        { "name": "kawano", "x": 3.75, "y": 1 },
+        { "name": "minami", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -3, "y": 4 },
+        { "name": "yamasaki", "x": 0, "y": 4 },
+        { "name": "kawano", "x": 3, "y": 4 },
+
+        { "name": "okamoto", "x": -2, "y": 3 },
+        { "name": "minami", "x": 2, "y": 3 },
+
+        { "name": "shinzawa", "x": -1, "y": 2 },
+        { "name": "umeyama", "x": 1, "y": 2 },
+
+        { "name": "shiroma", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！)  〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kuroda", "x": -5.5, "y": 3 },
+        { "name": "minami", "x": -2.5, "y": 3 },
+        { "name": "shiroma", "x": 2.5, "y": 3 },
+        { "name": "okamoto", "x": 5.5, "y": 3 },
+
+        { "name": "yamasaki", "x": -4, "y": 2 },
+        { "name": "kawano", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "shinzawa", "x": -1, "y": 3 },
+        { "name": "umeyama", "x": 1, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 1 },
+        { "name": "minami", "x": -2.5, "y": 1 },
+        { "name": "shiroma", "x": 2.5, "y": 1 },
+        { "name": "okamoto", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yamasaki", "x": -4, "y": 3 },
+        { "name": "kawano", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -5.5, "y": 2 },
+        { "name": "minami", "x": -2.5, "y": 2 },
+        { "name": "shiroma", "x": 2.5, "y": 2 },
+        { "name": "okamoto", "x": 5.5, "y": 2 },
+
+        { "name": "shinzawa", "x": -1, "y": 1 },
+        { "name": "umeyama", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
