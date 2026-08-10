@@ -1,0 +1,215 @@
+{
+  "title": "青くさいロック",
+
+  "memo": [
+    "① 村山下尾、谷口倉野尾、吉田黒須、吉川/多田",
+    "村山谷口/倉野尾下尾",
+    "② 吉川/多田、吉田/黒須、村山下尾、谷口倉野尾",
+    "②サビ後 村山下尾",
+    "ラストサビ前 村山下尾、谷口倉野尾",
+    "吉川吉田黒須多田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 4 },
+        { "name": "tada", "x": 3, "y": 4 },
+
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -4, "y": 3 },
+        { "name": "yoshida", "x": -2, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+        { "name": "tada", "x": 4, "y": 3 },
+
+        { "name": "taniguchi", "x": -3, "y": 2 },
+        { "name": "kuranoo", "x": 3, "y": 2 },
+
+        { "name": "murayama", "x": -1, "y": 1 },
+        { "name": "shitao", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "窓ガラス 石を投げたって〜",
+      "members": [
+        { "name": "yoshikawa", "x": -2, "y": 3 },
+        { "name": "tada", "x": 2, "y": 3 },
+
+        { "name": "taniguchi", "x": -3.5, "y": 2 },
+        { "name": "kuranoo", "x": 3.5, "y": 2 },
+
+        { "name": "murayama", "x": -5, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "kurosu", "x": 1, "y": 1 },
+        { "name": "shitao", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "青くさいロックの負けだ  あんなに叫び続けて〜",
+      "members": [
+        { "name": "yoshikawa", "x": -4, "y": 2 },
+        { "name": "taniguchi", "x": -2, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 },
+        { "name": "tada", "x": 4, "y": 2 },
+
+        { "name": "yoshida", "x": -3, "y": 1 },
+        { "name": "murayama", "x": -1, "y": 1 },
+        { "name": "shitao", "x": 1, "y": 1 },
+        { "name": "kurosu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "白けてしまった僕は  いつの間にか 大人になってた〜",
+      "members": [
+        { "name": "yoshikawa", "x": -4, "y": 2 },
+        { "name": "taniguchi", "x": -2, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 },
+        { "name": "tada", "x": 4, "y": 2 },
+
+        { "name": "yoshida", "x": -3, "y": 1 },
+        { "name": "murayama", "x": -1, "y": 1 },
+        { "name": "shitao", "x": 1, "y": 1 },
+        { "name": "kurosu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "Do! Do! Do! 1! 2! 3! 4! 〜",
+      "members": [
+        { "name": "yoshikawa", "x": -5.25, "y": 1 },
+        { "name": "yoshida", "x": -3.75, "y": 1 },
+        { "name": "taniguchi", "x": -2.25, "y": 1 },
+        { "name": "murayama", "x": -0.75, "y": 1 },
+        { "name": "shitao", "x": 0.75, "y": 1 },
+        { "name": "kuranoo", "x": 2.25, "y": 1 },
+        { "name": "kurosu", "x": 3.75, "y": 1 },
+        { "name": "tada", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "負け犬の遠吠えでいいんだ〜",
+      "members": [
+        { "name": "taniguchi", "x": -2.25, "y": 2 },
+        { "name": "murayama", "x": -0.75, "y": 2 },
+        { "name": "shitao", "x": 0.75, "y": 2 },
+        { "name": "kuranoo", "x": 2.25, "y": 2 },
+
+        { "name": "yoshikawa", "x": -2.25, "y": 1 },
+        { "name": "yoshida", "x": -0.75, "y": 1 },
+        { "name": "kurosu", "x": 0.75, "y": 1 },
+        { "name": "tada", "x": 2.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "あの頃よりも ストレートにぶつけたくなる〜",
+      "members": [
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "taniguchi", "x": -2.5, "y": 2 },
+        { "name": "kuranoo", "x": 2.5, "y": 2 },
+        { "name": "tada", "x": 6.5, "y": 2 },
+
+        { "name": "yoshida", "x": -4, "y": 1 },
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "kurosu", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "白けてしまった 僕は〜",
+      "members": [
+        { "name": "yoshikawa", "x": -4, "y": 2 },
+        { "name": "taniguchi", "x": -2, "y": 2 },
+        { "name": "kuranoo", "x": 2, "y": 2 },
+        { "name": "tada", "x": 4, "y": 2 },
+
+        { "name": "yoshida", "x": -3, "y": 1 },
+        { "name": "shitao", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "kurosu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "未来の自分  ロックしてるか？〜",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 4 },
+        { "name": "tada", "x": 3, "y": 4 },
+
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 4 },
+        { "name": "tada", "x": 3, "y": 4 },
+
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -3, "y": 4 },
+        { "name": "tada", "x": 3, "y": 4 },
+
+        { "name": "taniguchi", "x": -2, "y": 3 },
+        { "name": "yoshida", "x": 0, "y": 3 },
+        { "name": "kurosu", "x": 2, "y": 3 },
+
+        { "name": "shitao", "x": -1, "y": 2 },
+        { "name": "kuranoo", "x": 1, "y": 2 },
+
+        { "name": "murayama", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
