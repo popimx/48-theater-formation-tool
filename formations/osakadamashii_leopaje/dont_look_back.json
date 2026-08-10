@@ -150,11 +150,11 @@
       "members": [
         { "name": "hayakawa", "x": -5.25, "y": 1 },
         { "name": "kuroda", "x": -3.75, "y": 1 },
-        { "name": "deguchi", "x": -2.25, "y": 1 },
+        { "name": "wada", "x": -2.25, "y": 1 },
         { "name": "shobu", "x": -0.75, "y": 1 },
         { "name": "sadano", "x": 0.75, "y": 1 },
         { "name": "ishida", "x": 2.25, "y": 1 },
-        { "name": "wada", "x": 3.75, "y": 1 },
+        { "name": "deguchi", "x": 3.75, "y": 1 },
         { "name": "hori", "x": 5.25, "y": 1 }
       ]
     },
@@ -164,8 +164,8 @@
       "lyrics": "",
       "members": [
         { "name": "kuroda", "x": -3, "y": 4 },
-        { "name": "deguchi", "x": 0, "y": 4 },
-        { "name": "wada", "x": 3, "y": 4 },
+        { "name": "wada", "x": 0, "y": 4 },
+        { "name": "deguchi", "x": 3, "y": 4 },
 
         { "name": "hayakawa", "x": -2, "y": 3 },
         { "name": "hori", "x": 2, "y": 3 },
