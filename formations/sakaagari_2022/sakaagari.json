@@ -1,0 +1,129 @@
+{
+  "title": "逆上がり",
+
+  "memo": [
+    "① 山内茂木、髙橋田口、下口/山邊、市川服部",
+    "② 山邊下口、市川/服部、山内/茂木、田口髙橋"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "何年かぶりに来た 校庭の隅に〜",
+      "members": [
+        { "name": "shimoguchi", "x": -2.25, "y": 3 },
+        { "name": "ichikawa", "x": -0.75, "y": 3 },
+        { "name": "hattori", "x": 0.75, "y": 3 },
+        { "name": "yamabe", "x": 2.25, "y": 3 },
+
+        { "name": "mogi", "x": -3.75, "y": 2 },
+        { "name": "takahashi", "x": 3.75, "y": 2 },
+
+        { "name": "yamauchi", "x": -5.25, "y": 1 },
+        { "name": "taguchi", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "あの頃は怖かった〜",
+      "members": [
+        { "name": "shimoguchi", "x": -2.25, "y": 3 },
+        { "name": "ichikawa", "x": -0.75, "y": 3 },
+        { "name": "hattori", "x": 0.75, "y": 3 },
+        { "name": "yamabe", "x": 2.25, "y": 3 },
+
+        { "name": "takahashi", "x": -5.25, "y": 2 },
+        { "name": "mogi", "x": 5.25, "y": 2 },
+
+        { "name": "taguchi", "x": -3.75, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "takahashi", "x": -2, "y": 3 },
+        { "name": "mogi", "x": 2, "y": 3 },
+
+        { "name": "shimoguchi", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -1, "y": 2 },
+        { "name": "yamauchi", "x": 1, "y": 2 },
+        { "name": "yamabe", "x": 4, "y": 2 },
+
+        { "name": "ichikawa", "x": -3, "y": 1 },
+        { "name": "hattori", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "好きだった男の子 隣に並んで〜",
+      "members": [
+        { "name": "yamauchi", "x": -4, "y": 4 },
+        { "name": "taguchi", "x": 4, "y": 4 },
+
+        { "name": "mogi", "x": -2.5, "y": 3 },
+        { "name": "takahashi", "x": 2.5, "y": 3 },
+
+        { "name": "hattori", "x": -1, "y": 2 },
+        { "name": "ichikawa", "x": 1, "y": 2 },
+
+        { "name": "yamabe", "x": -5, "y": 1 },
+        { "name": "shimoguchi", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "初恋を教えようとしてくれてたのかな〜",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 3 },
+        { "name": "yamauchi", "x": -2, "y": 3 },
+        { "name": "mogi", "x": 2, "y": 3 },
+        { "name": "ichikawa", "x": 4, "y": 3 },
+
+        { "name": "yamabe", "x": -3, "y": 2 },
+        { "name": "shimoguchi", "x": 3, "y": 2 },
+
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hattori", "x": -4, "y": 3 },
+        { "name": "yamauchi", "x": -2, "y": 3 },
+        { "name": "mogi", "x": 2, "y": 3 },
+        { "name": "ichikawa", "x": 4, "y": 3 },
+
+        { "name": "yamabe", "x": -3, "y": 2 },
+        { "name": "shimoguchi", "x": 3, "y": 2 },
+
+        { "name": "taguchi", "x": -1, "y": 1 },
+        { "name": "takahashi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "知らぬ間にちゃんと回れること〜",
+      "members": [
+        { "name": "takahashi", "x": -2.5, "y": 2 },
+        { "name": "yamabe", "x": -0.5, "y": 2 },
+        { "name": "shimoguchi", "x": 1.5, "y": 2 },
+        { "name": "taguchi", "x": 3.5, "y": 2 },
+
+        { "name": "hattori", "x": -3.5, "y": 1 },
+        { "name": "yamauchi", "x": -1.5, "y": 1 },
+        { "name": "mogi", "x": 0.5, "y": 1 },
+        { "name": "ichikawa", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
