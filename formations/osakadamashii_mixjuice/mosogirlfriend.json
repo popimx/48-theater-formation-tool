@@ -1,0 +1,195 @@
+{
+  "title": "妄想ガールフレンド",
+
+  "memo": [
+    "① 梅山南、白間岡本、新澤山崎、河野/黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "君はガールフレンド(ガールフレンド) 〜",
+      "members": [
+        { "name": "umeyama", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "kawano", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -5, "y": 1 },
+        { "name": "shiroma", "x": -3, "y": 1 },
+        { "name": "okamoto", "x": 3, "y": 1 },
+        { "name": "yamasaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "僕のガールフレンド (ガールフレンド) 〜",
+      "members": [
+        { "name": "kawano", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -5, "y": 2 },
+        { "name": "shiroma", "x": -3, "y": 2 },
+        { "name": "okamoto", "x": 3, "y": 2 },
+        { "name": "yamasaki", "x": 5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawano", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "shiroma", "x": -1, "y": 2 },
+        { "name": "okamoto", "x": 1, "y": 2 },
+        { "name": "yamasaki", "x": 4, "y": 2 },
+
+        { "name": "umeyama", "x": -2, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "テレビの中で微笑む君と 初めて出会った瞬間〜",
+      "members": [
+        { "name": "kawano", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "shiroma", "x": -1, "y": 2 },
+        { "name": "okamoto", "x": 1, "y": 2 },
+        { "name": "yamasaki", "x": 4, "y": 2 },
+
+        { "name": "umeyama", "x": -2, "y": 1 },
+        { "name": "minami", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "そう 雷に打たれたように〜",
+      "members": [
+        { "name": "shinzawa", "x": -4, "y": 2 },
+        { "name": "kawano", "x": -2, "y": 2 },
+        { "name": "kuroda", "x": 2, "y": 2 },
+        { "name": "yamasaki", "x": 4, "y": 2 },
+
+        { "name": "umeyama", "x": -3, "y": 1 },
+        { "name": "shiroma", "x": -1, "y": 1 },
+        { "name": "okamoto", "x": 1, "y": 1 },
+        { "name": "minami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "僕はボーイフレンド (ボーイフレンド) 〜",
+      "members": [
+        { "name": "kawano", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -5, "y": 2 },
+        { "name": "shiroma", "x": -3, "y": 2 },
+        { "name": "okamoto", "x": 3, "y": 2 },
+        { "name": "yamasaki", "x": 5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "君のボーイフレンド(ボーイフレンド) 〜",
+      "members": [
+        { "name": "umeyama", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "kawano", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -5, "y": 1 },
+        { "name": "shiroma", "x": -3, "y": 1 },
+        { "name": "okamoto", "x": 3, "y": 1 },
+        { "name": "yamasaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "僕はボーイフレンド (ボーイフレンド) 〜",
+      "members": [
+        { "name": "kawano", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -5, "y": 2 },
+        { "name": "shiroma", "x": -3, "y": 2 },
+        { "name": "okamoto", "x": 3, "y": 2 },
+        { "name": "yamasaki", "x": 5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "君のボーイフレンド(ボーイフレンド) 〜",
+      "members": [
+        { "name": "umeyama", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "kawano", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -5, "y": 1 },
+        { "name": "shiroma", "x": -3, "y": 1 },
+        { "name": "okamoto", "x": 3, "y": 1 },
+        { "name": "yamasaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "君はガールフレンド(ガールフレンド) 〜",
+      "members": [
+        { "name": "umeyama", "x": -1, "y": 3 },
+        { "name": "minami", "x": 1, "y": 3 },
+
+        { "name": "kawano", "x": -4, "y": 2 },
+        { "name": "kuroda", "x": 4, "y": 2 },
+
+        { "name": "shinzawa", "x": -5, "y": 1 },
+        { "name": "shiroma", "x": -3, "y": 1 },
+        { "name": "okamoto", "x": 3, "y": 1 },
+        { "name": "yamasaki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "僕のガールフレンド (ガールフレンド) 〜",
+      "members": [
+        { "name": "kawano", "x": -4, "y": 3 },
+        { "name": "kuroda", "x": 4, "y": 3 },
+
+        { "name": "shinzawa", "x": -5, "y": 2 },
+        { "name": "shiroma", "x": -3, "y": 2 },
+        { "name": "okamoto", "x": 3, "y": 2 },
+        { "name": "yamasaki", "x": 5, "y": 2 },
+
+        { "name": "umeyama", "x": -1, "y": 1 },
+        { "name": "minami", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
