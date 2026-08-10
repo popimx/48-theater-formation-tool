@@ -1,0 +1,117 @@
+{
+  "title": "B Stars",
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -2.25, "y": 3 },
+        { "name": "hidaritomo", "x": 2.25, "y": 3 },
+
+        { "name": "sato", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "ishiwata", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -2.25, "y": 3 },
+        { "name": "hidaritomo", "x": 2.25, "y": 3 },
+
+        { "name": "sato", "x": -5.25, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "ishiwata", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -5.25, "y": 2 },
+        { "name": "tokunaga", "x": -3.75, "y": 2 },
+        { "name": "inagaki", "x": -2.25, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+        { "name": "ishiwata", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "B! B! B! B! B! B! B! B!  B! B! B! B! B! B! B! 〜",
+      "members": [
+        { "name": "asai", "x": -5.25, "y": 2 },
+        { "name": "sato", "x": -2.25, "y": 2 },
+        { "name": "tokunaga", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "sakaguchi", "x": -3.75, "y": 1 },
+        { "name": "inagaki", "x": -0.75, "y": 1 },
+        { "name": "ishiwata", "x": 2.25, "y": 1 },
+        { "name": "omori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "いつか 人が指差す  眩しい星に… 〜",
+      "members": [
+        { "name": "sakaguchi", "x": -3.75, "y": 2 },
+        { "name": "inagaki", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 },
+
+        { "name": "asai", "x": -5.25, "y": 1 },
+        { "name": "sato", "x": -2.25, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "sakaguchi", "x": -3.75, "y": 2 },
+        { "name": "inagaki", "x": -0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 },
+
+        { "name": "asai", "x": -5.25, "y": 1 },
+        { "name": "sato", "x": -2.25, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "asai", "x": -5.25, "y": 2 },
+        { "name": "sakaguchi", "x": -3.75, "y": 2 },
+        { "name": "sato", "x": -2.25, "y": 2 },
+        { "name": "inagaki", "x": -0.75, "y": 2 },
+        { "name": "tokunaga", "x": 0.75, "y": 2 },
+        { "name": "ishiwata", "x": 2.25, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+        { "name": "omori", "x": 5.25, "y": 2 }
+      ]
+    }
+  ]
+}
