@@ -1,0 +1,90 @@
+{
+  "title": "タンポポの決心",
+
+  "memo": [
+    "① 浅井/坂口、徳永大盛稲垣、佐藤左伴石綿",
+    "② 徳永大盛稲垣、左伴佐藤石綿、浅井坂口"
+  ],
+
+  "parts": [
+    {
+      "title": "2番Aメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -5.25, "y": 2 },
+        { "name": "ishiwata", "x": -2.25, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+
+        { "name": "sato", "x": -3.75, "y": 1 },
+        { "name": "asai", "x": -0.75, "y": 1 },
+        { "name": "tokunaga", "x": 2.25, "y": 1 },
+        { "name": "inagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -5.25, "y": 2 },
+        { "name": "ishiwata", "x": -2.25, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+
+        { "name": "sato", "x": -3.75, "y": 1 },
+        { "name": "asai", "x": -0.75, "y": 1 },
+        { "name": "tokunaga", "x": 2.25, "y": 1 },
+        { "name": "inagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "sato", "x": -3.75, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "tokunaga", "x": 2.25, "y": 2 },
+        { "name": "inagaki", "x": 5.25, "y": 2 },
+
+        { "name": "hidaritomo", "x": -5.25, "y": 1 },
+        { "name": "ishiwata", "x": -2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 0.75, "y": 1 },
+        { "name": "omori", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "こんな場所に タンポポが咲くなんて  生命力の強さと〜",
+      "members": [
+        { "name": "hidaritomo", "x": -5.25, "y": 2 },
+        { "name": "sato", "x": -3.75, "y": 2 },
+        { "name": "ishiwata", "x": -2.25, "y": 2 },
+        { "name": "asai", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "tokunaga", "x": 2.25, "y": 2 },
+        { "name": "omori", "x": 3.75, "y": 2 },
+        { "name": "inagaki", "x": 5.25, "y": 2 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "気づかなかった タンポポが揺れている  誰の心の中にも〜",
+      "members": [
+        { "name": "hidaritomo", "x": -5.5, "y": 3 },
+        { "name": "inagaki", "x": 5.5, "y": 3 },
+
+        { "name": "sato", "x": -4, "y": 2 },
+        { "name": "asai", "x": -1, "y": 2 },
+        { "name": "sakaguchi", "x": 1, "y": 2 },
+        { "name": "omori", "x": 4, "y": 2 },
+
+        { "name": "ishiwata", "x": -2.5, "y": 1 },
+        { "name": "tokunaga", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
