@@ -27,15 +27,15 @@
       "title": "2番Bメロ",
       "lyrics": "しあわせとふしあわせ 一緒に運ぶ〜",
       "members": [
-        { "name": "yamabe", "x": -5.25, "y": 1 },
-        { "name": "ichikawa", "x": -0.75, "y": 1 },
-        { "name": "shimoguchi", "x": 0.75, "y": 1 },
-        { "name": "hattori", "x": 5.25, "y": 1 },
+        { "name": "yamabe", "x": -5.25, "y": 2 },
+        { "name": "ichikawa", "x": -0.75, "y": 2 },
+        { "name": "shimoguchi", "x": 0.75, "y": 2 },
+        { "name": "hattori", "x": 5.25, "y": 2 },
 
-        { "name": "takahashi", "x": -3.75, "y": 2 },
-        { "name": "taguchi", "x": -2.25, "y": 2 },
-        { "name": "mogi", "x": 2.25, "y": 2 },
-        { "name": "yamauchi", "x": 3.75, "y": 2 }
+        { "name": "takahashi", "x": -3.75, "y": 1 },
+        { "name": "taguchi", "x": -2.25, "y": 1 },
+        { "name": "mogi", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 }
       ]
     },
 
@@ -43,15 +43,15 @@
       "title": "2番サビ",
       "lyrics": "",
       "members": [
-        { "name": "yamabe", "x": -5.25, "y": 1 },
-        { "name": "ichikawa", "x": -0.75, "y": 1 },
-        { "name": "shimoguchi", "x": 0.75, "y": 1 },
-        { "name": "hattori", "x": 5.25, "y": 1 },
+        { "name": "yamabe", "x": -5.25, "y": 2 },
+        { "name": "ichikawa", "x": -0.75, "y": 2 },
+        { "name": "shimoguchi", "x": 0.75, "y": 2 },
+        { "name": "hattori", "x": 5.25, "y": 2 },
 
-        { "name": "takahashi", "x": -3.75, "y": 2 },
-        { "name": "taguchi", "x": -2.25, "y": 2 },
-        { "name": "mogi", "x": 2.25, "y": 2 },
-        { "name": "yamauchi", "x": 3.75, "y": 2 }
+        { "name": "takahashi", "x": -3.75, "y": 1 },
+        { "name": "taguchi", "x": -2.25, "y": 1 },
+        { "name": "mogi", "x": 2.25, "y": 1 },
+        { "name": "yamauchi", "x": 3.75, "y": 1 }
       ]
     },
 
