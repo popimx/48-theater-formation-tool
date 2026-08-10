@@ -1,0 +1,101 @@
+{
+  "title": "不義理",
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "違う道を歩いた〜",
+      "members": [
+        { "name": "shimoguchi", "x": -3, "y": 2 },
+        { "name": "yamauchi", "x": -1, "y": 2 },
+        { "name": "mogi", "x": 1, "y": 2 },
+        { "name": "yamabe", "x": 3, "y": 2 },
+
+        { "name": "hattori", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "taguchi", "x": 2, "y": 1 },
+        { "name": "ichikawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "shimoguchi", "x": -3, "y": 2 },
+        { "name": "yamauchi", "x": -1, "y": 2 },
+        { "name": "mogi", "x": 1, "y": 2 },
+        { "name": "yamabe", "x": 3, "y": 2 },
+
+        { "name": "hattori", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "taguchi", "x": 2, "y": 1 },
+        { "name": "ichikawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shimoguchi", "x": -3, "y": 2 },
+        { "name": "yamauchi", "x": -1, "y": 2 },
+        { "name": "mogi", "x": 1, "y": 2 },
+        { "name": "yamabe", "x": 3, "y": 2 },
+
+        { "name": "hattori", "x": -4, "y": 1 },
+        { "name": "takahashi", "x": -2, "y": 1 },
+        { "name": "taguchi", "x": 2, "y": 1 },
+        { "name": "ichikawa", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "今日まで 蓋するように 義理を欠いてた〜",
+      "members": [
+        { "name": "ichikawa", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "takahashi", "x": 2, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "yamabe", "x": -3, "y": 1 },
+        { "name": "yamauchi", "x": -1, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ichikawa", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "takahashi", "x": 2, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "yamabe", "x": -3, "y": 1 },
+        { "name": "yamauchi", "x": -1, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "ichikawa", "x": -4, "y": 2 },
+        { "name": "taguchi", "x": -2, "y": 2 },
+        { "name": "takahashi", "x": 2, "y": 2 },
+        { "name": "hattori", "x": 4, "y": 2 },
+
+        { "name": "yamabe", "x": -3, "y": 1 },
+        { "name": "yamauchi", "x": -1, "y": 1 },
+        { "name": "mogi", "x": 1, "y": 1 },
+        { "name": "shimoguchi", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
