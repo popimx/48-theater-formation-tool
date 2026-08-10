@@ -1,0 +1,180 @@
+{
+  "title": "誰が私を泣かせた？",
+
+  "memo": [
+    "① 黒須下尾、村山吉田谷口、吉川倉野尾多田",
+    "② 吉川多田、倉野尾村山谷口、下尾吉田黒須",
+    "ラストサビ前 下尾、黒須、下尾黒須",
+    "吉田、村山、吉田村山、谷口、倉野尾",
+    "谷口倉野尾、吉川/多田",
+    "ラストサビ 下尾黒須、吉田/村山、倉野尾/谷口",
+    "吉川/多田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 3 },
+        { "name": "taniguchi", "x": 4, "y": 3 },
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "murayama", "x": -1, "y": 2 },
+        { "name": "yoshida", "x": 1, "y": 2 },
+        { "name": "tada", "x": 5.5, "y": 2 },
+        { "name": "kurosu", "x": -2.5, "y": 1 },
+        { "name": "shitao", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "誰が私を泣かせた？ 何に傷ついたのか？〜",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "yoshida", "x": -1, "y": 2 },
+        { "name": "murayama", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+        { "name": "yoshikawa", "x": -5.5, "y": 1 },
+        { "name": "shitao", "x": -2.5, "y": 1 },
+        { "name": "kurosu", "x": 2.5, "y": 1 },
+        { "name": "tada", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "誰が私を泣かせた？ 愛に触れたことがないんだ〜",
+      "members": [
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "shitao", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "tada", "x": 5.5, "y": 2 },
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "taniguchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "yoshida", "x": -1, "y": 2 },
+        { "name": "murayama", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+        { "name": "yoshikawa", "x": -5.5, "y": 1 },
+        { "name": "shitao", "x": -2.5, "y": 1 },
+        { "name": "kurosu", "x": 2.5, "y": 1 },
+        { "name": "tada", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "誰か私を叱って 頬を殴って欲しい〜",
+      "members": [
+        { "name": "kuranoo", "x": -4.5, "y": 3 },
+        { "name": "murayama", "x": 0, "y": 3 },
+        { "name": "taniguchi", "x": 4.5, "y": 3 },
+        { "name": "yoshikawa", "x": -1.5, "y": 2 },
+        { "name": "tada", "x": 1.5, "y": 2 },
+        { "name": "shitao", "x": -3, "y": 1 },
+        { "name": "yoshida", "x": 0, "y": 1 },
+        { "name": "kurosu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -4.5, "y": 3 },
+        { "name": "murayama", "x": 0, "y": 3 },
+        { "name": "taniguchi", "x": 4.5, "y": 3 },
+        { "name": "yoshikawa", "x": -1.5, "y": 2 },
+        { "name": "tada", "x": 1.5, "y": 2 },
+        { "name": "shitao", "x": -3, "y": 1 },
+        { "name": "yoshida", "x": 0, "y": 1 },
+        { "name": "kurosu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "誰が私を泣かせた？ 何に傷ついたのか？〜",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "yoshida", "x": -1, "y": 2 },
+        { "name": "murayama", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+        { "name": "yoshikawa", "x": -5.5, "y": 1 },
+        { "name": "shitao", "x": -2.5, "y": 1 },
+        { "name": "kurosu", "x": 2.5, "y": 1 },
+        { "name": "tada", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "誰が私を泣かせた？ 愛に触れたことがないんだ〜",
+      "members": [
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "shitao", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "tada", "x": 5.5, "y": 2 },
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "taniguchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kuranoo", "x": -4, "y": 2 },
+        { "name": "yoshida", "x": -1, "y": 2 },
+        { "name": "murayama", "x": 1, "y": 2 },
+        { "name": "taniguchi", "x": 4, "y": 2 },
+        { "name": "yoshikawa", "x": -5.5, "y": 1 },
+        { "name": "shitao", "x": -2.5, "y": 1 },
+        { "name": "kurosu", "x": 2.5, "y": 1 },
+        { "name": "tada", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "shitao", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "tada", "x": 5.5, "y": 2 },
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "taniguchi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshikawa", "x": -5.5, "y": 2 },
+        { "name": "shitao", "x": -2.5, "y": 2 },
+        { "name": "kurosu", "x": 2.5, "y": 2 },
+        { "name": "tada", "x": 5.5, "y": 2 },
+        { "name": "kuranoo", "x": -4, "y": 1 },
+        { "name": "yoshida", "x": -1, "y": 1 },
+        { "name": "murayama", "x": 1, "y": 1 },
+        { "name": "taniguchi", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
