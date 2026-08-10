@@ -1,0 +1,211 @@
+{
+  "title": "そばかすのキス",
+
+  "memo": [
+    "① 坂口浅井徳永左伴、稲垣佐藤石綿大盛",
+    "佐藤/石綿、稲垣大盛",
+    "② 稲垣佐藤石綿大盛、徳永左伴坂口浅井",
+    "坂口/浅井、徳永/左伴"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "asai", "x": -2.25, "y": 3 },
+        { "name": "ishiwata", "x": 2.25, "y": 3 },
+
+        { "name": "inagaki", "x": -5.25, "y": 2 },
+        { "name": "sato", "x": -0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "sakaguchi", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "omori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "真冬の海は 静かすぎるね〜",
+      "members": [
+        { "name": "inagaki", "x": -4, "y": 2 },
+        { "name": "sato", "x": -2, "y": 2 },
+        { "name": "ishiwata", "x": 2, "y": 2 },
+        { "name": "omori", "x": 4, "y": 2 },
+
+        { "name": "sakaguchi", "x": -3, "y": 1 },
+        { "name": "asai", "x": -1, "y": 1 },
+        { "name": "tokunaga", "x": 1, "y": 1 },
+        { "name": "hidaritomo", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "過ぎた季節が 砂に埋もれて〜",
+      "members": [
+        { "name": "asai", "x": -4, "y": 3 },
+        { "name": "tokunaga", "x": 4, "y": 3 },
+
+        { "name": "sakaguchi", "x": -5.5, "y": 2 },
+        { "name": "inagaki", "x": -2.5, "y": 2 },
+        { "name": "omori", "x": 2.5, "y": 2 },
+        { "name": "hidaritomo", "x": 5.5, "y": 2 },
+
+        { "name": "sato", "x": -1, "y": 1 },
+        { "name": "ishiwata", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ライフセーバーのあの人と 出会ったこの渚〜",
+      "members": [
+        { "name": "asai", "x": -5.5, "y": 3 },
+        { "name": "inagaki", "x": -1, "y": 3 },
+        { "name": "omori", "x": 1, "y": 3 },
+        { "name": "tokunaga", "x": 5.5, "y": 3 },
+
+        { "name": "sakaguchi", "x": -4, "y": 2 },
+        { "name": "hidaritomo", "x": 4, "y": 2 },
+
+        { "name": "sato", "x": -2.5, "y": 1 },
+        { "name": "ishiwata", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "tokunaga", "x": -2.25, "y": 2 },
+        { "name": "hidaritomo", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "asai", "x": 2.25, "y": 2 },
+
+        { "name": "inagaki", "x": -5.25, "y": 1 },
+        { "name": "sato", "x": -3.75, "y": 1 },
+        { "name": "ishiwata", "x": 3.75, "y": 1 },
+        { "name": "omori", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "涙が海になった〜",
+      "members": [
+        { "name": "tokunaga", "x": -2.25, "y": 2 },
+        { "name": "hidaritomo", "x": -0.75, "y": 2 },
+        { "name": "sakaguchi", "x": 0.75, "y": 2 },
+        { "name": "asai", "x": 2.25, "y": 2 },
+
+        { "name": "ishiwata", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "inagaki", "x": 3.75, "y": 1 },
+        { "name": "sato", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "監視台が立ってた辺りで はぐれたみたい〜",
+      "members": [
+        { "name": "omori", "x": -3.5, "y": 3 },
+        { "name": "inagaki", "x": 3.5, "y": 3 },
+
+        { "name": "ishiwata", "x": -5, "y": 2 },
+        { "name": "hidaritomo", "x": -1, "y": 2 },
+        { "name": "sakaguchi", "x": 1, "y": 2 },
+        { "name": "sato", "x": 5, "y": 2 },
+
+        { "name": "tokunaga", "x": -2.5, "y": 1 },
+        { "name": "asai", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "夏の恋は 続かないって  いつか 先輩から聞かされた〜",
+      "members": [
+        { "name": "sakaguchi", "x": -5.25, "y": 2 },
+        { "name": "ishiwata", "x": -2.25, "y": 2 },
+        { "name": "asai", "x": 0.75, "y": 2 },
+        { "name": "hidaritomo", "x": 3.75, "y": 2 },
+
+        { "name": "tokunaga", "x": -3.75, "y": 1 },
+        { "name": "omori", "x": -0.75, "y": 1 },
+        { "name": "sato", "x": 2.25, "y": 1 },
+        { "name": "inagaki", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "夏の恋は 続かないって  否定していたけど 本当ね〜",
+      "members": [
+        { "name": "tokunaga", "x": -3.75, "y": 2 },
+        { "name": "omori", "x": -0.75, "y": 2 },
+        { "name": "sato", "x": 2.25, "y": 2 },
+        { "name": "inagaki", "x": 5.25, "y": 2 },
+
+        { "name": "sakaguchi", "x": -5.25, "y": 1 },
+        { "name": "ishiwata", "x": -2.25, "y": 1 },
+        { "name": "asai", "x": 0.75, "y": 1 },
+        { "name": "hidaritomo", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "ishiwata", "x": -2, "y": 3 },
+        { "name": "sato", "x": 0, "y": 3 },
+        { "name": "hidaritomo", "x": 2, "y": 3 },
+
+        { "name": "omori", "x": -3, "y": 2 },
+        { "name": "sakaguchi", "x": -1, "y": 2 },
+        { "name": "tokunaga", "x": 1, "y": 2 },
+        { "name": "asai", "x": 3, "y": 2 },
+
+        { "name": "inagaki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -2.25, "y": 3 },
+        { "name": "hidaritomo", "x": 2.25, "y": 3 },
+
+        { "name": "sakaguchi", "x": -5.25, "y": 2 },
+        { "name": "ishiwata", "x": -0.75, "y": 2 },
+        { "name": "sato", "x": 3.75, "y": 2 },
+
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "asai", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "inagaki", "x": -2.25, "y": 3 },
+        { "name": "hidaritomo", "x": 2.25, "y": 3 },
+
+        { "name": "sakaguchi", "x": -5.25, "y": 2 },
+        { "name": "ishiwata", "x": -0.75, "y": 2 },
+        { "name": "sato", "x": 3.75, "y": 2 },
+
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "tokunaga", "x": 0.75, "y": 1 },
+        { "name": "asai", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
