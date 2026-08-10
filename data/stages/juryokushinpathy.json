@@ -1,0 +1,94 @@
+{
+  "stage": "AKB48「重力シンパシー」",
+  "stageId": "juryokushinpathy",
+
+  "members": [
+    {
+      "name": "大竹ひとみ",
+      "display": "大竹",
+      "id": "otake",
+      "image": "otake_hitomi_2022"
+    },
+    {
+      "name": "込山榛香",
+      "display": "込山",
+      "id": "komiyama",
+      "image": "komiyama_haruka_2022"
+    },
+    {
+      "name": "千葉恵里",
+      "display": "千葉",
+      "id": "chiba",
+      "image": "chiba_erii_2022"
+    },
+    {
+      "name": "中西智代梨",
+      "display": "中西",
+      "id": "nakanishi",
+      "image": "nakanishi_chiyori_2022"
+    },
+    {
+      "name": "福岡聖菜",
+      "display": "福岡",
+      "id": "fukuoka",
+      "image": "fukuoka_seina_2022"
+    },
+    {
+      "name": "本田仁美",
+      "display": "本田",
+      "id": "honda",
+      "image": "honda_hitomi_2022"
+    },
+    {
+      "name": "向井地美音",
+      "display": "向井地",
+      "id": "mukaichi",
+      "image": "mukaichi_mion_2022"
+    },
+    {
+      "name": "武藤小麟",
+      "display": "武藤",
+      "id": "muto",
+      "image": "muto_orin_2022"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "女神はどこで微笑む？",
+      "file": "megamiwadokodehohoemu.json"
+    },
+    {
+      "name": "ハートのベクトル",
+      "file": "heartnobekutoru.json"
+    },
+    {
+      "name": "重力シンパシー",
+      "file": "juryokushinpathy.json"
+    },
+    {
+      "name": "1994年の雷鳴",
+      "file": "1994nennoraimei.json"
+    },
+    {
+      "name": "涙に沈む太陽",
+      "file": "namidanishizumutaiyou.json"
+    },
+    {
+      "name": "素敵な三角関係",
+      "file": "sutekinasankakukankei.json"
+    },
+    {
+      "name": "デッサン",
+      "file": "dessan.json"
+    },
+    {
+      "name": "AKBフェスティバル",
+      "file": "akbfestival.json"
+    },
+    {
+      "name": "旅立ちのとき",
+      "file": "tabidachinotoki.json"
+    }
+  ]
+}
