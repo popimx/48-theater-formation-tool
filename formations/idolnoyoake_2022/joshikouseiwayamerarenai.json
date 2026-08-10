@@ -1,0 +1,194 @@
+{
+  "title": "女子高生はやめられない",
+
+  "memo": [
+    "① 稲垣、徳永左伴、大盛石綿",
+    "①サビ 稲垣、石綿大盛、左伴/徳永",
+    "② 浅井石綿/徳永佐藤、左伴大盛坂口稲垣",
+    "ラストサビ 左伴稲垣"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "私たち 可愛いじゃん  それなりのルックス〜",
+      "members": [
+        { "name": "hidaritomo", "x": -1.5, "y": 3 },
+        { "name": "ishiwata", "x": 1.5, "y": 3 },
+
+        { "name": "inagaki", "x": 0, "y": 2 },
+
+        { "name": "tokunaga", "x": -3, "y": 1 },
+        { "name": "omori", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "Teenage Teenage Teenage〜",
+      "members": [
+        { "name": "hidaritomo", "x": -3, "y": 2 },
+        { "name": "inagaki", "x": 0, "y": 2 },
+        { "name": "tokunaga", "x": 3, "y": 2 },
+
+        { "name": "ishiwata", "x": -1.5, "y": 1 },
+        { "name": "omori", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "売り手市場〜",
+      "members": [
+        { "name": "ishiwata", "x": -1.5, "y": 2 },
+        { "name": "omori", "x": 1.5, "y": 2 },
+
+        { "name": "hidaritomo", "x": -3, "y": 1 },
+        { "name": "inagaki", "x": 0, "y": 1 },
+        { "name": "tokunaga", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "女子高生はやめられない  この世はバラ色〜",
+      "members": [
+        { "name": "ishiwata", "x": -1.5, "y": 2 },
+        { "name": "omori", "x": 1.5, "y": 2 },
+
+        { "name": "hidaritomo", "x": -3, "y": 1 },
+        { "name": "inagaki", "x": 0, "y": 1 },
+        { "name": "tokunaga", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "WOW WOW WOW  賞味期限まで〜",
+      "members": [
+        { "name": "hidaritomo", "x": -3, "y": 2 },
+        { "name": "inagaki", "x": 0, "y": 2 },
+        { "name": "tokunaga", "x": 3, "y": 2 },
+
+        { "name": "ishiwata", "x": -1.5, "y": 1 },
+        { "name": "omori", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "イケイケイケイケ 強気なダイナマイト〜",
+      "members": [
+        { "name": "hidaritomo", "x": -4, "y": 1 },
+        { "name": "ishiwata", "x": -2, "y": 1 },
+        { "name": "inagaki", "x": 0, "y": 1 },
+        { "name": "omori", "x": 2, "y": 1 },
+        { "name": "tokunaga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hidaritomo", "x": -4, "y": 1 },
+        { "name": "ishiwata", "x": -2, "y": 1 },
+        { "name": "inagaki", "x": 0, "y": 1 },
+        { "name": "omori", "x": 2, "y": 1 },
+        { "name": "tokunaga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "omori", "x": -4, "y": 1 },
+        { "name": "tokunaga", "x": -2, "y": 1 },
+        { "name": "hidaritomo", "x": 0, "y": 1 },
+        { "name": "ishiwata", "x": 2, "y": 1 },
+        { "name": "inagaki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "女子高生はサイコーだよ 守られてるし... 〜",
+      "members": [
+        { "name": "sakaguchi", "x": -2, "y": 3 },
+        { "name": "omori", "x": 2, "y": 3 },
+
+        { "name": "ishiwata", "x": -3, "y": 2 },
+        { "name": "hidaritomo", "x": -1, "y": 2 },
+        { "name": "inagaki", "x": 1, "y": 2 },
+        { "name": "sato", "x": 3, "y": 2 },
+
+        { "name": "asai", "x": -4, "y": 1 },
+        { "name": "tokunaga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "この世はバラ色〜",
+      "members": [
+        { "name": "ishiwata", "x": -3, "y": 2 },
+        { "name": "hidaritomo", "x": -1, "y": 2 },
+        { "name": "inagaki", "x": 1, "y": 2 },
+        { "name": "sato", "x": 3, "y": 2 },
+
+        { "name": "asai", "x": -4, "y": 1 },
+        { "name": "sakaguchi", "x": -2, "y": 1 },
+        { "name": "omori", "x": 2, "y": 1 },
+        { "name": "tokunaga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "WOW WOW WOW 賞味期限まで〜",
+      "members": [
+        { "name": "sakaguchi", "x": -2, "y": 3 },
+        { "name": "omori", "x": 2, "y": 3 },
+
+        { "name": "ishiwata", "x": -3, "y": 2 },
+        { "name": "hidaritomo", "x": -1, "y": 2 },
+        { "name": "inagaki", "x": 1, "y": 2 },
+        { "name": "sato", "x": 3, "y": 2 },
+
+        { "name": "asai", "x": -4, "y": 1 },
+        { "name": "tokunaga", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "イケイケイケイケ 強気なダイナマイト〜",
+      "members": [
+        { "name": "asai", "x": -5.25, "y": 1 },
+        { "name": "ishiwata", "x": -3.75, "y": 1 },
+        { "name": "sakaguchi", "x": -2.25, "y": 1 },
+        { "name": "hidaritomo", "x": -0.75, "y": 1 },
+        { "name": "inagaki", "x": 0.75, "y": 1 },
+        { "name": "omori", "x": 2.25, "y": 1 },
+        { "name": "sato", "x": 3.75, "y": 1 },
+        { "name": "tokunaga", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "※ じゃんけん 立ち位置",
+      "members": [
+        { "name": "inagaki", "x": -5.25, "y": 1 },
+        { "name": "omori", "x": -3.75, "y": 1 },
+        { "name": "sato", "x": -2.25, "y": 1 },
+        { "name": "tokunaga", "x": -0.75, "y": 1 },
+        { "name": "asai", "x": 0.75, "y": 1 },
+        { "name": "ishiwata", "x": 2.25, "y": 1 },
+        { "name": "sakaguchi", "x": 3.75, "y": 1 },
+        { "name": "hidaritomo", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
