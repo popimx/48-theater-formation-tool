@@ -1,5 +1,25 @@
 [
   {
+    "stage": "AKB48「重力シンパシー」",
+    "stageId": "juryokushinpathy",
+    "file": "stages/juryokushinpathy.json"
+  },
+  {
+    "stage": "AKB48「逆上がり」",
+    "stageId": "sakaagari_2022",
+    "file": "stages/sakaagari_2022.json"
+  },
+  {
+    "stage": "AKB48「アイドルの夜明け」",
+    "stageId": "aidolnoyoake_2022",
+    "file": "stages/aidolnoyoake_2022.json"
+  },
+  {
+    "stage": "AKB48「サムネイル」",
+    "stageId": "thumbnail_2022",
+    "file": "stages/thumbnail_2022.json"
+  },
+  {
     "stage": "AKB48「RESET」",
     "stageId": "akb48_reset_2025",
     "file": "stages/akb48_reset_2025.json"
