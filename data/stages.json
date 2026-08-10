@@ -1,4 +1,4 @@
-[
+ [
   {
     "stage": "AKB48「重力シンパシー」",
     "stageId": "juryokushinpathy",
@@ -118,6 +118,31 @@
     "stage": "NMB48「僕のアオハル」",
     "stageId": "bokunoaoharu",
     "file": "stages/bokunoaoharu.json"
+  },
+  {
+    "stage": "LeopAje「大阪魂、捨てたらあかん」",
+    "stageId": "osakadamashii_leopaje",
+    "file": "stages/osakadamashii_leopaje.json"
+  },
+  {
+    "stage": "みっくすじゅーす「大阪魂、捨てたらあかん」",
+    "stageId": "osakadamashii_mixjuice",
+    "file": "stages/osakadamashii_mixjuice.json"
+  },
+  {
+    "stage": "W1N-C「大阪魂、捨てたらあかん」",
+    "stageId": "osakadamashii_w1nc",
+    "file": "stages/osakadamashii_w1nc.json"
+  },
+  {
+    "stage": "ちょうぜつかわE「大阪魂、捨てたらあかん」",
+    "stageId": "osakadamashii_chozetsukawae",
+    "file": "stages/osakadamashii_chozetsukawae.json"
+  },
+  {
+    "stage": "FRONTIER「大阪魂、捨てたらあかん」",
+    "stageId": "osakadamashii_frontier",
+    "file": "stages/osakadamashii_frontier.json"
   },
   {
     "stage": "NMB48「情熱！めっちゃ楽舞友」",
