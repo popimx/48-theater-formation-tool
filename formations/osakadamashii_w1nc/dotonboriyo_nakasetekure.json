@@ -1,0 +1,28 @@
+{
+  "title": "道頓堀よ、泣かせてくれ！",
+
+  "memo": [
+    "① 石塚",
+    "② 川上、河野/前田、出口水田、岡本平山"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 4 },
+        { "name": "ishizuka", "x": 3, "y": 4 },
+
+        { "name": "kawano", "x": -1, "y": 3 },
+        { "name": "maeda", "x": 1, "y": 3 },
+
+        { "name": "deguchi", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "mizuta", "x": -2, "y": 1 },
+        { "name": "okamoto", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
