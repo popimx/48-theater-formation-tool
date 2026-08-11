@@ -1,0 +1,179 @@
+{
+  "title": "Pioneer",
+
+  "memo": [
+    "① 安部上西、中川鵜野",
+    "平山瓶野中野浅尾、安部中川鵜野上西",
+    "② 安部上西、中川鵜野",
+    "平山瓶野中野浅尾、中川安部上西鵜野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -7, "y": 1 },
+        { "name": "kameno", "x": -5, "y": 1 },
+        { "name": "nakagawa", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 },
+        { "name": "nakano", "x": 5, "y": 1 },
+        { "name": "asao", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "いつかは一面 花咲く日が来るまで〜",
+      "members": [
+        { "name": "hirayama", "x": -4, "y": 2 },
+        { "name": "kameno", "x": -1, "y": 2 },
+        { "name": "nakano", "x": 1, "y": 2 },
+        { "name": "asao", "x": 4, "y": 2 },
+
+        { "name": "abe", "x": -5.5, "y": 1 },
+        { "name": "nakagawa", "x": -2.5, "y": 1 },
+        { "name": "uno", "x": 2.5, "y": 1 },
+        { "name": "jonishi", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "We're the FRONTIER! Pioneerよ  進め FRONTIER 信じるんだ〜",
+      "members": [
+        { "name": "hirayama", "x": -5.5, "y": 2 },
+        { "name": "kameno", "x": -2.5, "y": 2 },
+        { "name": "nakano", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "abe", "x": -4, "y": 1 },
+        { "name": "nakagawa", "x": -1, "y": 1 },
+        { "name": "uno", "x": 1, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "We're the FRONTIER! Pioneerよ 進め FRONTIER 汗を流せ〜",
+      "members": [
+        { "name": "hirayama", "x": -5.5, "y": 4 },
+        { "name": "asao", "x": 5.5, "y": 4 },
+
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "nakano", "x": 4, "y": 3 },
+
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "uno", "x": 2.5, "y": 2 },
+
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "行けよ FRONTIER 前を向いて〜",
+      "members": [
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "asao", "x": 1.5, "y": 4 },
+
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "nakano", "x": 4, "y": 3 },
+
+        { "name": "abe", "x": -2.5, "y": 2 },
+        { "name": "jonishi", "x": 2.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "uno", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 4 },
+
+        { "name": "kameno", "x": -6, "y": 3 },
+        { "name": "abe", "x": -2, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+        { "name": "asao", "x": 6, "y": 3 },
+
+        { "name": "jonishi", "x": 0, "y": 2 },
+
+        { "name": "nakagawa", "x": -4, "y": 1 },
+        { "name": "nakano", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 4 },
+
+        { "name": "kameno", "x": -6, "y": 3 },
+        { "name": "abe", "x": -2, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+        { "name": "asao", "x": 6, "y": 3 },
+
+        { "name": "jonishi", "x": 0, "y": 2 },
+
+        { "name": "nakagawa", "x": -4, "y": 1 },
+        { "name": "nakano", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 4 },
+
+        { "name": "kameno", "x": -6, "y": 3 },
+        { "name": "abe", "x": -2, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+        { "name": "asao", "x": 6, "y": 3 },
+
+        { "name": "jonishi", "x": 0, "y": 2 },
+
+        { "name": "nakagawa", "x": -4, "y": 1 },
+        { "name": "nakano", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -7, "y": 1 },
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 },
+        { "name": "nakano", "x": 5, "y": 1 },
+        { "name": "asao", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -7, "y": 1 },
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 },
+        { "name": "nakano", "x": 5, "y": 1 },
+        { "name": "asao", "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
