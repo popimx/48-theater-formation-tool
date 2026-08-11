@@ -1,0 +1,200 @@
+{
+  "title": "母校へ帰れ！",
+
+  "memo": [
+    "① 上西中川安部、鵜野中野、平山瓶野浅尾",
+    "鵜野中野、上西中川安部",
+    "② 中野鵜野 (上西中川安部)、鵜野中野",
+    "平山瓶野浅尾、上西中川安部、鵜野/中野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "いつの間にか君も僕も 大人になってしまったんだ〜",
+      "members": [
+        { "name": "jonishi", "x": -1, "y": 4 },
+        { "name": "abe", "x": 1, "y": 4 },
+
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "nakagawa", "x": 1, "y": 3 },
+
+        { "name": "kameno", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "nakano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "さあ 母校へ帰れ！人生の道 迷ったら〜",
+      "members": [
+        { "name": "hirayama", "x": -4, "y": 2 },
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "nakano", "x": 2, "y": 2 },
+        { "name": "asao", "x": 4, "y": 2 },
+
+        { "name": "uno", "x": -3, "y": 1 },
+        { "name": "jonishi", "x": -1, "y": 1 },
+        { "name": "nakagawa", "x": 1, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "さあ 母校へ帰れ！見失ってしまった夢は〜",
+      "members": [
+        { "name": "kameno", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "uno", "x": -1.25, "y": 2 },
+        { "name": "nakano", "x": 1.25, "y": 2 },
+        { "name": "asao", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "nakagawa", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "このベンチに座って ずっと眺めてたから〜",
+      "members": [
+        { "name": "uno", "x": -3, "y": 3 },
+        { "name": "nakano", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -3, "y": 2 },
+        { "name": "nakagawa", "x": 0, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "kameno", "x": 0, "y": 1 },
+        { "name": "asao", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "uno", "x": -1.25, "y": 2 },
+        { "name": "nakano", "x": 1.25, "y": 2 },
+        { "name": "asao", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "nakagawa", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "kameno", "x": 0, "y": 4 },
+        { "name": "asao", "x": 3, "y": 4 },
+
+        { "name": "uno", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 2, "y": 3 },
+
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+
+        { "name": "nakagawa", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "さあ 母校へ帰れ！もしも泣きたくなったら〜",
+      "members": [
+        { "name": "hirayama", "x": -7, "y": 1 },
+        { "name": "jonishi", "x": -5, "y": 1 },
+        { "name": "uno", "x": -3, "y": 1 },
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "nakagawa", "x": 1, "y": 1 },
+        { "name": "nakano", "x": 3, "y": 1 },
+        { "name": "abe", "x": 5, "y": 1 },
+        { "name": "asao", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "さあ母校へ帰れ！何もできなかった自分〜",
+      "members": [
+        { "name": "kameno", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "uno", "x": -1.25, "y": 2 },
+        { "name": "nakano", "x": 1.25, "y": 2 },
+        { "name": "asao", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "nakagawa", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": 0, "y": 3 },
+
+        { "name": "hirayama", "x": -3.75, "y": 2 },
+        { "name": "uno", "x": -1.25, "y": 2 },
+        { "name": "nakano", "x": 1.25, "y": 2 },
+        { "name": "asao", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -2.5, "y": 1 },
+        { "name": "nakagawa", "x": 0, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "kameno", "x": 0, "y": 4 },
+        { "name": "asao", "x": 3, "y": 4 },
+
+        { "name": "uno", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 2, "y": 3 },
+
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+
+        { "name": "nakagawa", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 4 },
+        { "name": "kameno", "x": 0, "y": 4 },
+        { "name": "asao", "x": 3, "y": 4 },
+
+        { "name": "uno", "x": -2, "y": 3 },
+        { "name": "nakano", "x": 2, "y": 3 },
+
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+
+        { "name": "nakagawa", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
