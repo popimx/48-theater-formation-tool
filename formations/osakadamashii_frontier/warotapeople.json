@@ -1,0 +1,182 @@
+{
+  "title": "ワロタピーポー",
+
+  "memo": [
+    "① 上西安部鵜野、中川中野、瓶野浅尾、",
+    "上西平山安部鵜野、中川瓶野浅尾中野",
+    "② 瓶野/浅尾、中野/中川",
+    "平山鵜野安部上西、浅尾中野中川瓶野",
+    "②サビ後 平山鵜野安部上西、浅尾中野中川瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ",
+      "lyrics": "何かをやれば叩かれる  反論すれば大炎上〜",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 4 },
+        { "name": "asao", "x": 4.5, "y": 4 },
+
+        { "name": "nakagawa", "x": -3, "y": 3 },
+        { "name": "nakano", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ① 終了後",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -1, "y": 4 },
+        { "name": "abe", "x": 1, "y": 4 },
+
+        { "name": "jonishi", "x": -2, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+
+        { "name": "nakagawa", "x": -3, "y": 2 },
+        { "name": "nakano", "x": 3, "y": 2 },
+
+        { "name": "kameno", "x": -4, "y": 1 },
+        { "name": "asao", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "大切なことは 目立たない心がけ〜",
+      "members": [
+        { "name": "nakagawa", "x": -5.5, "y": 2 },
+        { "name": "kameno", "x": -2.5, "y": 2 },
+        { "name": "asao", "x": 2.5, "y": 2 },
+        { "name": "nakano", "x": 5.5, "y": 2 },
+
+        { "name": "jonishi", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "uno", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 4 },
+        { "name": "asao", "x": 4.5, "y": 4 },
+
+        { "name": "nakagawa", "x": -3, "y": 3 },
+        { "name": "nakano", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "面倒な勇気 勘違いの偽善者〜",
+      "members": [
+        { "name": "asao", "x": -5.5, "y": 2 },
+        { "name": "nakano", "x": -2.5, "y": 2 },
+        { "name": "nakagawa", "x": 2.5, "y": 2 },
+        { "name": "kameno", "x": 5.5, "y": 2 },
+
+        { "name": "hirayama", "x": -4, "y": 1 },
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "asao", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -2, "y": 2 },
+        { "name": "nakagawa", "x": 2, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "uno", "x": -4, "y": 1 },
+        { "name": "abe", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "笑え！ワロタ ワロタ ワロタ ワロタピーポー どこの誰か名前隠して騒げ！〜",
+      "members": [
+        { "name": "asao", "x": -7, "y": 1 },
+        { "name": "hirayama", "x": -5, "y": 1 },
+        { "name": "nakano", "x": -3, "y": 1 },
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "nakagawa", "x": 3, "y": 1 },
+        { "name": "jonishi", "x": 5, "y": 1 },
+        { "name": "kameno", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "何で生きてるのか教えてくれ！〜",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "asao", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -2, "y": 2 },
+        { "name": "nakagawa", "x": 2, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "uno", "x": -4, "y": 1 },
+        { "name": "abe", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "asao", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -2, "y": 2 },
+        { "name": "nakagawa", "x": 2, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "uno", "x": -4, "y": 1 },
+        { "name": "abe", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": 0, "y": 3 },
+
+        { "name": "asao", "x": -6, "y": 2 },
+        { "name": "nakano", "x": -2, "y": 2 },
+        { "name": "nakagawa", "x": 2, "y": 2 },
+        { "name": "kameno", "x": 6, "y": 2 },
+
+        { "name": "uno", "x": -4, "y": 1 },
+        { "name": "abe", "x": 0, "y": 1 },
+        { "name": "jonishi", "x": 4, "y": 1 }
+      ]
+    }
+  ]
+}
