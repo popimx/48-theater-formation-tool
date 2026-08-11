@@ -1,0 +1,281 @@
+{
+  "title": "Don't look back!",
+
+  "memo": [
+    "① 鵜野上西安部、安部鵜野上西、上西安部鵜野",
+    "瓶野中川浅尾、中野/平山",
+    "② 中川浅尾、瓶野中野平山、鵜野上西安部",
+    "ラストサビ前 鵜野上西安部、瓶野中川浅尾",
+    "中野平山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "振り向くな！昨日より前に出ろ！ (前に出ろ！〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kameno", "x": -5.5, "y": 3 },
+        { "name": "nakagawa", "x": -2.5, "y": 3 },
+        { "name": "abe", "x": 2.5, "y": 3 },
+        { "name": "asao", "x": 5.5, "y": 3 },
+
+        { "name": "nakano", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "uno", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 1 },
+        { "name": "nakagawa", "x": -2.5, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "asao", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "戦えよ！やられても前を向け！(前を向け！) 〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！) 〜",
+      "members": [
+        { "name": "kameno", "x": -5.5, "y": 3 },
+        { "name": "nakagawa", "x": -2.5, "y": 3 },
+        { "name": "abe", "x": 2.5, "y": 3 },
+        { "name": "asao", "x": 5.5, "y": 3 },
+
+        { "name": "nakano", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "つらけりゃ歯を食いしばれ！ Stick it out! 〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "uno", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 1 },
+        { "name": "nakagawa", "x": -2.5, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "asao", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "You should be strong now! 〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "asao", "x": -5.25, "y": 1 },
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "nakano", "x": -2.25, "y": 1 },
+        { "name": "uno", "x": -0.75, "y": 1 },
+        { "name": "jonishi", "x": 0.75, "y": 1 },
+        { "name": "abe", "x": 2.25, "y": 1 },
+        { "name": "hirayama", "x": 3.75, "y": 1 },
+        { "name": "nakagawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "nakano", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 3, "y": 4 },
+
+        { "name": "asao", "x": -2, "y": 3 },
+        { "name": "nakagawa", "x": 2, "y": 3 },
+
+        { "name": "uno", "x": -1, "y": 2 },
+        { "name": "jonishi", "x": 1, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "戦えよ！全力で勝ちに行け！(勝ちに行け！)  〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "振り向くな！一歩目を踏み出せよ！(踏み出せよ！) 〜",
+      "members": [
+        { "name": "kameno", "x": -5.5, "y": 3 },
+        { "name": "nakagawa", "x": -2.5, "y": 3 },
+        { "name": "abe", "x": 2.5, "y": 3 },
+        { "name": "asao", "x": 5.5, "y": 3 },
+
+        { "name": "nakano", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "昨日の自分捨てて！ Hang in there! 〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "uno", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 1 },
+        { "name": "nakagawa", "x": -2.5, "y": 1 },
+        { "name": "abe", "x": 2.5, "y": 1 },
+        { "name": "asao", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "Never give up! Buddy!〜",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "nakano", "x": -4, "y": 3 },
+        { "name": "hirayama", "x": 4, "y": 3 },
+
+        { "name": "kameno", "x": -5.5, "y": 2 },
+        { "name": "nakagawa", "x": -2.5, "y": 2 },
+        { "name": "abe", "x": 2.5, "y": 2 },
+        { "name": "asao", "x": 5.5, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
