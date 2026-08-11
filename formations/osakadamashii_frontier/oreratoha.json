@@ -1,0 +1,279 @@
+{
+  "title": "俺らとは",
+
+  "memo": [
+    "① 安部中川/鵜野上西、中野浅尾平山瓶野",
+    "② 瓶野平山浅尾中野、安部鵜野中川上西"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "abe", "x": -7, "y": 1 },
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "nakano", "x": 1, "y": 1 },
+        { "name": "asao", "x": 3, "y": 1 },
+        { "name": "uno", "x": 5, "y": 1 },
+        { "name": "jonishi", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "風の中で 匂い立つのは〜",
+      "members": [
+        { "name": "nakagawa", "x": -4, "y": 2 },
+        { "name": "abe", "x": -1, "y": 2 },
+        { "name": "jonishi", "x": 1, "y": 2 },
+        { "name": "uno", "x": 4, "y": 2 },
+
+        { "name": "nakano", "x": -5.5, "y": 1 },
+        { "name": "asao", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 },
+        { "name": "kameno", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "花は咲いて 散るのが運命〜",
+      "members": [
+        { "name": "nakano", "x": -5.5, "y": 2 },
+        { "name": "asao", "x": -2.5, "y": 2 },
+        { "name": "hirayama", "x": 2.5, "y": 2 },
+        { "name": "kameno", "x": 5.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -4, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "uno", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "名乗り挙げたらしいが 笑わせるなよ〜",
+      "members": [
+        { "name": "nakagawa", "x": -3.5, "y": 4 },
+        { "name": "uno", "x": 3.5, "y": 4 },
+
+        { "name": "abe", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+
+        { "name": "nakano", "x": -5, "y": 2 },
+        { "name": "kameno", "x": 5, "y": 2 },
+
+        { "name": "asao", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "俺らとは 信じる者 心がぶれることはない〜",
+      "members": [
+        { "name": "nakagawa", "x": -3.5, "y": 4 },
+        { "name": "uno", "x": 3.5, "y": 4 },
+
+        { "name": "abe", "x": -1, "y": 3 },
+        { "name": "jonishi", "x": 1, "y": 3 },
+
+        { "name": "nakano", "x": -5, "y": 2 },
+        { "name": "kameno", "x": 5, "y": 2 },
+
+        { "name": "asao", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "日本一の旗 立てる〜",
+      "members": [
+        { "name": "asao", "x": -4.5, "y": 4 },
+        { "name": "abe", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 4.5, "y": 4 },
+
+        { "name": "nakano", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "nakagawa", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "asao", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "nakano", "x": -5, "y": 2 },
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 5, "y": 2 },
+
+        { "name": "nakagawa", "x": -3, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "横殴りの〜",
+      "members": [
+        { "name": "nakano", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "nakagawa", "x": -5, "y": 2 },
+        { "name": "asao", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+        { "name": "uno", "x": 5, "y": 2 },
+
+        { "name": "jonishi", "x": -3, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "雨に打たれて〜",
+      "members": [
+        { "name": "nakagawa", "x": -3, "y": 3 },
+        { "name": "uno", "x": 3, "y": 3 },
+
+        { "name": "jonishi", "x": -5, "y": 2 },
+        { "name": "nakano", "x": -1, "y": 2 },
+        { "name": "kameno", "x": 1, "y": 2 },
+        { "name": "abe", "x": 5, "y": 2 },
+
+        { "name": "asao", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ③",
+      "lyrics": "葉まで揺さぶられても ここに立ってる〜",
+      "members": [
+        { "name": "jonishi", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "asao", "x": -5, "y": 2 },
+        { "name": "nakagawa", "x": -1, "y": 2 },
+        { "name": "uno", "x": 1, "y": 2 },
+        { "name": "hirayama", "x": 5, "y": 2 },
+
+        { "name": "nakano", "x": -3, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "この世は戦国だ 命 賭けぶつかり〜",
+      "members": [
+        { "name": "abe", "x": -4.5, "y": 2 },
+        { "name": "uno", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+        { "name": "jonishi", "x": 4.5, "y": 2 },
+
+        { "name": "kameno", "x": -4.5, "y": 1 },
+        { "name": "hirayama", "x": -1.5, "y": 1 },
+        { "name": "asao", "x": 1.5, "y": 1 },
+        { "name": "nakano", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "勝ち鬨の声を上げる〜",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 4 },
+        { "name": "jonishi", "x": 0, "y": 4 },
+        { "name": "nakano", "x": 4.5, "y": 4 },
+
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "asao", "x": 3, "y": 3 },
+
+        { "name": "uno", "x": -1.5, "y": 2 },
+        { "name": "nakagawa", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 1 },
+        { "name": "nakano", "x": -5, "y": 1 },
+        { "name": "asao", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "kameno", "x": 5, "y": 1 },
+        { "name": "uno", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "俺らとは 信じる者 心がぶれることはない〜",
+      "members": [
+        { "name": "nakagawa", "x": -7, "y": 1 },
+        { "name": "nakano", "x": -5, "y": 1 },
+        { "name": "asao", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "kameno", "x": 5, "y": 1 },
+        { "name": "uno", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "日本一の旗 立てる〜",
+      "members": [
+        { "name": "asao", "x": -4.5, "y": 4 },
+        { "name": "abe", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 4.5, "y": 4 },
+
+        { "name": "nakano", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "nakagawa", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "asao", "x": -4.5, "y": 4 },
+        { "name": "abe", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 4.5, "y": 4 },
+
+        { "name": "nakano", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "nakagawa", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "jonishi", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
