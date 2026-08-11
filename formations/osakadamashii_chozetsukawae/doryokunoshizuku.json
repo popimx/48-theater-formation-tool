@@ -1,0 +1,82 @@
+{
+  "title": "努力の雫",
+
+  "memo": [
+    "① 清水安田泉、平山/杉浦、早川眞鍋芳野",
+    "② 平山/杉浦、早川眞鍋芳野、清水安田泉"
+  ],
+
+  "parts": [
+    {
+      "title": "1番サビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.5, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "hirayama", "x": -4, "y": 3 },
+        { "name": "manabe", "x": 4, "y": 3 },
+
+        { "name": "shimizu", "x": -2.5, "y": 2 },
+        { "name": "sugiura", "x": 2.5, "y": 2 },
+
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "この空も逃しはしない〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.5, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "hirayama", "x": -4, "y": 3 },
+        { "name": "manabe", "x": 4, "y": 3 },
+
+        { "name": "shimizu", "x": -2.5, "y": 2 },
+        { "name": "sugiura", "x": 2.5, "y": 2 },
+
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -2, "y": 4 },
+        { "name": "yoshino", "x": 2, "y": 4 },
+
+        { "name": "hirayama", "x": -2, "y": 3 },
+        { "name": "manabe", "x": 2, "y": 3 },
+
+        { "name": "shimizu", "x": -2, "y": 2 },
+        { "name": "sugiura", "x": 2, "y": 2 },
+
+        { "name": "yasuda", "x": -2, "y": 1 },
+        { "name": "izumi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "この崖は登れないんだ〜",
+      "members": [
+        { "name": "hayakawa", "x": -5.5, "y": 4 },
+        { "name": "yoshino", "x": 5.5, "y": 4 },
+
+        { "name": "hirayama", "x": -4, "y": 3 },
+        { "name": "manabe", "x": 4, "y": 3 },
+
+        { "name": "shimizu", "x": -2.5, "y": 2 },
+        { "name": "sugiura", "x": 2.5, "y": 2 },
+
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
