@@ -1,0 +1,193 @@
+{
+  "title": "すべては途中経過",
+
+  "memo": [
+    "① 安田、泉 (清水)、泉/清水、杉浦平山",
+    "芳野早川眞鍋",
+    "② 泉、清水、杉浦 (平山)、杉浦/平山、眞鍋",
+    "芳野早川眞鍋、泉/安田",
+    "②サビ後 杉浦安田泉清水、芳野早川/平山眞鍋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -4, "y": 2 },
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+        { "name": "yoshino", "x": 4, "y": 2 },
+
+        { "name": "sugiura", "x": -3, "y": 1 },
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "yasuda", "x": 1, "y": 1 },
+        { "name": "shimizu", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "人生は何度でも ゼロから始められる〜",
+      "members": [
+        { "name": "hayakawa", "x": -3, "y": 3 },
+        { "name": "izumi", "x": 0, "y": 3 },
+        { "name": "sugiura", "x": 3, "y": 3 },
+
+        { "name": "yoshino", "x": -4.5, "y": 2 },
+        { "name": "manabe", "x": -1.5, "y": 2 },
+        { "name": "shimizu", "x": 1.5, "y": 2 },
+        { "name": "hirayama", "x": 4.5, "y": 2 },
+
+        { "name": "yasuda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -1, "y": 4 },
+        { "name": "yasuda", "x": 1, "y": 4 },
+
+        { "name": "manabe", "x": -2.5, "y": 3 },
+        { "name": "shimizu", "x": 2.5, "y": 3 },
+
+        { "name": "hayakawa", "x": -4, "y": 2 },
+        { "name": "sugiura", "x": 4, "y": 2 },
+
+        { "name": "yoshino", "x": -5.5, "y": 1 },
+        { "name": "hirayama", "x": 5.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "誰かがいつでも (風の中で)  ちゃんと見守って (片隅から) 〜",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "manabe", "x": 3, "y": 3 },
+
+        { "name": "izumi", "x": -1, "y": 2 },
+        { "name": "yasuda", "x": 1, "y": 2 },
+
+        { "name": "sugiura", "x": -2, "y": 1 },
+        { "name": "shimizu", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "出遅れたタイムなら この先で巻き返そう〜",
+      "members": [
+        { "name": "sugiura", "x": -4.5, "y": 4 },
+        { "name": "shimizu", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 4.5, "y": 4 },
+
+        { "name": "yoshino", "x": -3, "y": 3 },
+        { "name": "manabe", "x": 3, "y": 3 },
+
+        { "name": "hayakawa", "x": -1.5, "y": 2 },
+        { "name": "yasuda", "x": 1.5, "y": 2 },
+
+        { "name": "izumi", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "sugiura", "x": -3.5, "y": 2 },
+        { "name": "hayakawa", "x": -1.5, "y": 2 },
+        { "name": "shimizu", "x": 0.5, "y": 2 },
+        { "name": "manabe", "x": 2.5, "y": 2 },
+
+        { "name": "yoshino", "x": -2.5, "y": 1 },
+        { "name": "izumi", "x": -0.5, "y": 1 },
+        { "name": "yasuda", "x": 1.5, "y": 1 },
+        { "name": "hirayama", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "まだまだ先は長い やり直せるさ  走り続けろ！〜",
+      "members": [
+        { "name": "sugiura", "x": -7, "y": 1 },
+        { "name": "yoshino", "x": -5, "y": 1 },
+        { "name": "hayakawa", "x": -3, "y": 1 },
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "manabe", "x": 5, "y": 1 },
+        { "name": "shimizu", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "人生は何度でも ゼロから始められる〜",
+      "members": [
+        { "name": "sugiura", "x": -7, "y": 1 },
+        { "name": "yoshino", "x": -5, "y": 1 },
+        { "name": "hayakawa", "x": -3, "y": 1 },
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "izumi", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "manabe", "x": 5, "y": 1 },
+        { "name": "shimizu", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "ああすればよかったと 後悔をしているなら〜",
+      "members": [
+        { "name": "izumi", "x": -7, "y": 1 },
+        { "name": "hirayama", "x": -5, "y": 1 },
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "shimizu", "x": -1, "y": 1 },
+        { "name": "sugiura", "x": 1, "y": 1 },
+        { "name": "yoshino", "x": 3, "y": 1 },
+        { "name": "hayakawa", "x": 5, "y": 1 },
+        { "name": "yasuda", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "izumi", "x": -7, "y": 1 },
+        { "name": "hirayama", "x": -5, "y": 1 },
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "shimizu", "x": -1, "y": 1 },
+        { "name": "sugiura", "x": 1, "y": 1 },
+        { "name": "yoshino", "x": 3, "y": 1 },
+        { "name": "hayakawa", "x": 5, "y": 1 },
+        { "name": "yasuda", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -4, "y": 4 },
+        { "name": "yoshino", "x": 4, "y": 4 },
+
+        { "name": "manabe", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "sugiura", "x": -2, "y": 2 },
+        { "name": "shimizu", "x": 2, "y": 2 },
+
+        { "name": "izumi", "x": -1, "y": 1 },
+        { "name": "yasuda", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
