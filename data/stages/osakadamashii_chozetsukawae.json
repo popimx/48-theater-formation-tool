@@ -1,0 +1,106 @@
+{
+  "stage": "ちょうぜつかわE「大阪魂、捨てたらあかん」",
+  "stageId": "osakadamashii_chozetsukawae",
+
+  "members": [
+    {
+      "name": "泉綾乃",
+      "display": "泉",
+      "id": "izumi",
+      "image": "izumi_ayano_2020"
+    },
+    {
+      "name": "清水里香",
+      "display": "清水",
+      "id": "shimizu",
+      "image": "shimizu_rika_2020"
+    },
+    {
+      "name": "杉浦琴音",
+      "display": "杉浦",
+      "id": "sugiura",
+      "image": "sugiura_kotone_2020"
+    },
+    {
+      "name": "早川夢菜",
+      "display": "早川",
+      "id": "hayakawa",
+      "image": "hayakawa_yuna_2020"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2020"
+    },
+    {
+      "name": "眞鍋杏樹",
+      "display": "眞鍋",
+      "id": "manabe",
+      "image": "manabe_anju_2020"
+    },
+    {
+      "name": "安田桃寧",
+      "display": "安田",
+      "id": "yasuda",
+      "image": "yasuda_momone_2020"
+    },
+    {
+      "name": "芳野心咲",
+      "display": "芳野",
+      "id": "yoshino",
+      "image": "yoshino_misaki_2020"
+    }
+  ],
+
+  "songs": [
+    {
+      "name": "俺らとは",
+      "file": "oreratoha.json"
+    },
+    {
+      "name": "努力の雫",
+      "file": "doryokunoshizuku.json"
+    },
+    {
+      "name": "Don't look back!",
+      "file": "dont_look_back.json"
+    },
+    {
+      "name": "すべては途中経過",
+      "file": "subetehatochukeika.json"
+    },
+    {
+      "name": "ウィンクの銃弾",
+      "file": "winknojudan.json"
+    },
+    {
+      "name": "True Purpose",
+      "file": "true_purpose.json"
+    },
+    {
+      "name": "母校へ帰れ!",
+      "file": "bokouhekaere.json"
+    },
+    {
+      "name": "シダレヤナギ",
+      "file": "shidareyanagi.json"
+    },
+    {
+      "name": "道頓堀よ、泣かせてくれ!",
+      "file": "dotonboriyo_nakasetekure.json"
+    },
+    {
+      "name": "遠距離ポスター",
+      "file": "poster.json"
+    },
+    {
+      "name": "サササ サイコー！",
+      "file": "sasasa_saiko.json"
+    },
+    {
+      "name": "ワロタピーポー",
+      "file": "warotapeople.json"
+    }
+  ]
+}
