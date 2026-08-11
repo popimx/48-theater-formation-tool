@@ -1,0 +1,104 @@
+{
+  "stage": "FRONTIER「大阪魂、捨てたらあかん」",
+  "stageId": "osakadamashii_frontier",
+  "members": [
+    {
+      "name": "浅尾桃香",
+      "display": "浅尾",
+      "id": "asao",
+      "image": "asao_momoka_2020"
+    },
+    {
+      "name": "安部若菜",
+      "display": "安部",
+      "id": "abe",
+      "image": "abe_wakana_2020"
+    },
+    {
+      "name": "鵜野みずき",
+      "display": "鵜野",
+      "id": "uno",
+      "image": "uno_mizuki_2020"
+    },
+    {
+      "name": "瓶野神音",
+      "display": "瓶野",
+      "id": "kameno",
+      "image": "kameno_zion_2020"
+    },
+    {
+      "name": "上西怜",
+      "display": "上西",
+      "id": "jonishi",
+      "image": "jonishi_rei_2020"
+    },
+    {
+      "name": "中川美音",
+      "display": "中川",
+      "id": "nakagawa",
+      "image": "nakagawa_mion_2020"
+    },
+    {
+      "name": "中野美来",
+      "display": "中野",
+      "id": "nakano",
+      "image": "nakano_mirai_2020"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2020"
+    }
+  ],
+  "songs": [
+    {
+      "name": "俺らとは",
+      "file": "oreratoha.json"
+    },
+    {
+      "name": "努力の雫",
+      "file": "doryokunoshizuku.json"
+    },
+    {
+      "name": "Don't look back!",
+      "file": "dont_look_back.json"
+    },
+    {
+      "name": "すべては途中経過",
+      "file": "subetehatochukeika.json"
+    },
+    {
+      "name": "ウィンクの銃弾",
+      "file": "winknojudan.json"
+    },
+    {
+      "name": "True Purpose",
+      "file": "true_purpose.json"
+    },
+    {
+      "name": "母校へ帰れ!",
+      "file": "bokouhekaere.json"
+    },
+    {
+      "name": "シダレヤナギ",
+      "file": "shidareyanagi.json"
+    },
+    {
+      "name": "道頓堀よ、泣かせてくれ!",
+      "file": "dotonboriyo_nakasetekure.json"
+    },
+    {
+      "name": "Pioneer",
+      "file": "pioneer.json"
+    },
+    {
+      "name": "サササ サイコー！",
+      "file": "sasasa_saiko.json"
+    },
+    {
+      "name": "ワロタピーポー",
+      "file": "warotapeople.json"
+    }
+  ]
+}
