@@ -1,0 +1,28 @@
+{
+  "title": "道頓堀よ、泣かせてくれ！",
+
+  "memo": [
+    "① 安部",
+    "② 上西、中川/鵜野、中野瓶野、浅尾平山"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "jonishi", "x": -3, "y": 4 },
+        { "name": "abe", "x": 3, "y": 4 },
+
+        { "name": "nakagawa", "x": -1, "y": 3 },
+        { "name": "uno", "x": 1, "y": 3 },
+
+        { "name": "nakano", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "kameno", "x": -2, "y": 1 },
+        { "name": "asao", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
