@@ -1,0 +1,200 @@
+{
+  "title": "母校へ帰れ！",
+
+  "memo": [
+    "① 安田杉浦泉、清水平山、芳野眞鍋早川",
+    "清水平山、安田杉浦泉",
+    "② 平山清水 (安田杉浦泉)、清水平山",
+    "芳野眞鍋早川、安田杉浦泉、清水/平山"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Bメロ",
+      "lyrics": "いつの間にか君も僕も 大人になってしまったんだ〜",
+      "members": [
+        { "name": "yasuda", "x": -1, "y": 4 },
+        { "name": "izumi", "x": 1, "y": 4 },
+
+        { "name": "yoshino", "x": -1, "y": 3 },
+        { "name": "sugiura", "x": 1, "y": 3 },
+
+        { "name": "manabe", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+
+        { "name": "shimizu", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "さあ 母校へ帰れ！人生の道 迷ったら〜",
+      "members": [
+        { "name": "yoshino", "x": -4, "y": 2 },
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+        { "name": "hayakawa", "x": 4, "y": 2 },
+
+        { "name": "shimizu", "x": -3, "y": 1 },
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "sugiura", "x": 1, "y": 1 },
+        { "name": "izumi", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "さあ 母校へ帰れ！見失ってしまった夢は〜",
+      "members": [
+        { "name": "manabe", "x": 0, "y": 3 },
+
+        { "name": "yoshino", "x": -3.75, "y": 2 },
+        { "name": "shimizu", "x": -1.25, "y": 2 },
+        { "name": "hirayama", "x": 1.25, "y": 2 },
+        { "name": "hayakawa", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -2.5, "y": 1 },
+        { "name": "sugiura", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "このベンチに座って ずっと眺めてたから〜",
+      "members": [
+        { "name": "shimizu", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": 3, "y": 3 },
+
+        { "name": "yasuda", "x": -3, "y": 2 },
+        { "name": "sugiura", "x": 0, "y": 2 },
+        { "name": "izumi", "x": 3, "y": 2 },
+
+        { "name": "yoshino", "x": -3, "y": 1 },
+        { "name": "manabe", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": 0, "y": 3 },
+
+        { "name": "yoshino", "x": -3.75, "y": 2 },
+        { "name": "shimizu", "x": -1.25, "y": 2 },
+        { "name": "hirayama", "x": 1.25, "y": 2 },
+        { "name": "hayakawa", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -2.5, "y": 1 },
+        { "name": "sugiura", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 4 },
+        { "name": "manabe", "x": 0, "y": 4 },
+        { "name": "hayakawa", "x": 3, "y": 4 },
+
+        { "name": "shimizu", "x": -2, "y": 3 },
+        { "name": "hirayama", "x": 2, "y": 3 },
+
+        { "name": "yasuda", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+
+        { "name": "sugiura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "さあ 母校へ帰れ！もしも泣きたくなったら〜",
+      "members": [
+        { "name": "yoshino", "x": -7, "y": 1 },
+        { "name": "yasuda", "x": -5, "y": 1 },
+        { "name": "shimizu", "x": -3, "y": 1 },
+        { "name": "manabe", "x": -1, "y": 1 },
+        { "name": "sugiura", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 },
+        { "name": "hayakawa", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "さあ母校へ帰れ！何もできなかった自分〜",
+      "members": [
+        { "name": "manabe", "x": 0, "y": 3 },
+
+        { "name": "yoshino", "x": -3.75, "y": 2 },
+        { "name": "shimizu", "x": -1.25, "y": 2 },
+        { "name": "hirayama", "x": 1.25, "y": 2 },
+        { "name": "hayakawa", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -2.5, "y": 1 },
+        { "name": "sugiura", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": 0, "y": 3 },
+
+        { "name": "yoshino", "x": -3.75, "y": 2 },
+        { "name": "shimizu", "x": -1.25, "y": 2 },
+        { "name": "hirayama", "x": 1.25, "y": 2 },
+        { "name": "hayakawa", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -2.5, "y": 1 },
+        { "name": "sugiura", "x": 0, "y": 1 },
+        { "name": "izumi", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 4 },
+        { "name": "manabe", "x": 0, "y": 4 },
+        { "name": "hayakawa", "x": 3, "y": 4 },
+
+        { "name": "shimizu", "x": -2, "y": 3 },
+        { "name": "hirayama", "x": 2, "y": 3 },
+
+        { "name": "yasuda", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+
+        { "name": "sugiura", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -3, "y": 4 },
+        { "name": "manabe", "x": 0, "y": 4 },
+        { "name": "hayakawa", "x": 3, "y": 4 },
+
+        { "name": "shimizu", "x": -2, "y": 3 },
+        { "name": "hirayama", "x": 2, "y": 3 },
+
+        { "name": "yasuda", "x": -1, "y": 2 },
+        { "name": "izumi", "x": 1, "y": 2 },
+
+        { "name": "sugiura", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
