@@ -1,0 +1,220 @@
+{
+  "title": "True Purpose",
+
+  "memo": [
+    "① 鵜野安部、瓶野中野、上西浅尾、中川平山",
+    "② 浅尾上西、中川平山、鵜野安部、瓶野中野",
+    "ラストサビ前 鵜野安部、瓶野/中野、浅尾/上西",
+    "中川平山"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -1.5, "y": 3 },
+        { "name": "nakano", "x": 1.5, "y": 3 },
+
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "asao", "x": 2.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -3.5, "y": 1 },
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "jonishi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "春夏秋冬  季節って 思ったよりも短い〜",
+      "members": [
+        { "name": "kameno", "x": -1.5, "y": 3 },
+        { "name": "nakano", "x": 1.5, "y": 3 },
+
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "asao", "x": 2.5, "y": 2 },
+
+        { "name": "nakagawa", "x": -3.5, "y": 1 },
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 },
+        { "name": "jonishi", "x": 3.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "uno", "x": -2, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+        { "name": "nakano", "x": 4, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "nakagawa", "x": -1, "y": 1 },
+        { "name": "jonishi", "x": 1, "y": 1 },
+        { "name": "asao", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "nakano", "x": 4, "y": 3 },
+
+        { "name": "uno", "x": -3, "y": 2 },
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "nakagawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "一分も一秒も 無駄になんてできないと〜",
+      "members": [
+        { "name": "kameno", "x": -4, "y": 3 },
+        { "name": "nakano", "x": 4, "y": 3 },
+
+        { "name": "uno", "x": -3, "y": 2 },
+        { "name": "jonishi", "x": -1, "y": 2 },
+        { "name": "asao", "x": 1, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "nakagawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -3.5, "y": 3 },
+        { "name": "asao", "x": 0, "y": 3 },
+        { "name": "hirayama", "x": 3.5, "y": 3 },
+
+        { "name": "kameno", "x": -5, "y": 2 },
+        { "name": "uno", "x": -2, "y": 2 },
+        { "name": "nakano", "x": 2, "y": 2 },
+        { "name": "jonishi", "x": 5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nakagawa", "x": -3, "y": 4 },
+        { "name": "hirayama", "x": 3, "y": 4 },
+
+        { "name": "uno", "x": -1, "y": 3 },
+        { "name": "abe", "x": 1, "y": 3 },
+
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "nakano", "x": 4, "y": 2 },
+
+        { "name": "asao", "x": -2, "y": 1 },
+        { "name": "jonishi", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "これが盛りならば 夢か現  yeah yeah yeah yeah 〜",
+      "members": [
+        { "name": "nakagawa", "x": -3, "y": 4 },
+        { "name": "asao", "x": 0, "y": 4 },
+        { "name": "hirayama", "x": 3, "y": 4 },
+
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "jonishi", "x": 2, "y": 3 },
+
+        { "name": "uno", "x": -1, "y": 2 },
+        { "name": "nakano", "x": 1, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "遊びだって構わない そんな深く考えない〜",
+      "members": [
+        { "name": "nakagawa", "x": -4, "y": 4 },
+        { "name": "hirayama", "x": 4, "y": 4 },
+
+        { "name": "asao", "x": -3, "y": 3 },
+        { "name": "jonishi", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -2, "y": 2 },
+        { "name": "nakano", "x": 2, "y": 2 },
+
+        { "name": "uno", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "これが盛りならば 夢か現  yeah yeah yeah yeah 〜",
+      "members": [
+        { "name": "asao", "x": -1.5, "y": 4 },
+        { "name": "hirayama", "x": 1.5, "y": 4 },
+
+        { "name": "nakagawa", "x": -3, "y": 3 },
+        { "name": "jonishi", "x": 3, "y": 3 },
+
+        { "name": "uno", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+
+        { "name": "kameno", "x": -2, "y": 1 },
+        { "name": "nakano", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "やがて醒めるまで 夢か現 Ah- 〜",
+      "members": [
+        { "name": "uno", "x": 0, "y": 4 },
+
+        { "name": "asao", "x": -2, "y": 3 },
+        { "name": "hirayama", "x": 2, "y": 3 },
+
+        { "name": "nakagawa", "x": -3, "y": 2 },
+        { "name": "abe", "x": 0, "y": 2 },
+        { "name": "jonishi", "x": 3, "y": 2 },
+
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "nakano", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "今が旬ならば 花よ喋よ  yeah yeah yeah yeah〜",
+      "members": [
+        { "name": "nakagawa", "x": -3.5, "y": 3 },
+        { "name": "asao", "x": 0, "y": 3 },
+        { "name": "hirayama", "x": 3.5, "y": 3 },
+
+        { "name": "kameno", "x": -5, "y": 2 },
+        { "name": "uno", "x": -2, "y": 2 },
+        { "name": "nakano", "x": 2, "y": 2 },
+        { "name": "jonishi", "x": 5, "y": 2 },
+
+        { "name": "abe", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
