@@ -1,0 +1,28 @@
+{
+  "title": "道頓堀よ、泣かせてくれ！",
+
+  "memo": [
+    "① 泉",
+    "② 安田、杉浦/清水、平山眞鍋、早川芳野"
+  ],
+
+  "parts": [
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yasuda", "x": -3, "y": 4 },
+        { "name": "izumi", "x": 3, "y": 4 },
+
+        { "name": "sugiura", "x": -1, "y": 3 },
+        { "name": "shimizu", "x": 1, "y": 3 },
+
+        { "name": "hirayama", "x": -4, "y": 2 },
+        { "name": "yoshino", "x": 4, "y": 2 },
+
+        { "name": "manabe", "x": -2, "y": 1 },
+        { "name": "hayakawa", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
