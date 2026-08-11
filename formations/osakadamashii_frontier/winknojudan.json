@@ -1,0 +1,139 @@
+{
+  "title": "ウィンクの銃弾",
+
+  "memo": [
+    "① 上西鵜野中野浅尾、平山中川安部瓶野",
+    "上西鵜野中野浅尾",
+    "② 平山中川安部瓶野、上西鵜野中野浅尾",
+    "平山中川安部瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -4.5, "y": 3 },
+        { "name": "nakagawa", "x": 0, "y": 3 },
+        { "name": "kameno", "x": 4.5, "y": 3 },
+
+        { "name": "abe", "x": -1.5, "y": 2 },
+        { "name": "asao", "x": 1.5, "y": 2 },
+
+        { "name": "jonishi", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "nakano", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "相性良いとか悪いとか そんなことどうでもいいぜ〜",
+      "members": [
+        { "name": "hirayama", "x": -5.25, "y": 2 },
+        { "name": "nakagawa", "x": -2.25, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -3.75, "y": 1 },
+        { "name": "uno", "x": -0.75, "y": 1 },
+        { "name": "nakano", "x": 2.25, "y": 1 },
+        { "name": "asao", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "行儀の良い奴はいねえ  タトゥー見りゃわかるだろう〜",
+      "members": [
+        { "name": "jonishi", "x": -3.75, "y": 2 },
+        { "name": "uno", "x": -0.75, "y": 2 },
+        { "name": "nakano", "x": 2.25, "y": 2 },
+        { "name": "asao", "x": 5.25, "y": 2 },
+
+        { "name": "hirayama", "x": -5.25, "y": 1 },
+        { "name": "nakagawa", "x": -2.25, "y": 1 },
+        { "name": "abe", "x": 0.75, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ああやることやればいい (ビッチと呼ばれて) 〜",
+      "members": [
+        { "name": "hirayama", "x": -4.5, "y": 2 },
+        { "name": "nakagawa", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "jonishi", "x": -4.5, "y": 1 },
+        { "name": "uno", "x": -1.5, "y": 1 },
+        { "name": "nakano", "x": 1.5, "y": 1 },
+        { "name": "asao", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nakano", "x": -7, "y": 1 },
+        { "name": "nakagawa", "x": -5, "y": 1 },
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "jonishi", "x": -1, "y": 1 },
+        { "name": "asao", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 },
+        { "name": "abe", "x": 5, "y": 1 },
+        { "name": "uno", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ウィンクの銃弾 くらってごらんよ〜",
+      "members": [
+        { "name": "hirayama", "x": -5.25, "y": 2 },
+        { "name": "nakagawa", "x": -2.25, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -3.75, "y": 1 },
+        { "name": "uno", "x": -0.75, "y": 1 },
+        { "name": "nakano", "x": 2.25, "y": 1 },
+        { "name": "asao", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "邪魔をするなよ 愛してやる〜",
+      "members": [
+        { "name": "hirayama", "x": -5.25, "y": 1 },
+        { "name": "jonishi", "x": -3.75, "y": 1 },
+        { "name": "nakagawa", "x": -2.25, "y": 1 },
+        { "name": "uno", "x": -0.75, "y": 1 },
+        { "name": "abe", "x": 0.75, "y": 1 },
+        { "name": "nakano", "x": 2.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 },
+        { "name": "asao", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "ヘイ ヘイ ヘイ 平和だよ stage is over〜",
+      "members": [
+        { "name": "hirayama", "x": -5.25, "y": 2 },
+        { "name": "nakagawa", "x": -2.25, "y": 2 },
+        { "name": "abe", "x": 0.75, "y": 2 },
+        { "name": "kameno", "x": 3.75, "y": 2 },
+
+        { "name": "jonishi", "x": -3.75, "y": 1 },
+        { "name": "uno", "x": -0.75, "y": 1 },
+        { "name": "nakano", "x": 2.25, "y": 1 },
+        { "name": "asao", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
