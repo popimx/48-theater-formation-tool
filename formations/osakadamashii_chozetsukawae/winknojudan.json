@@ -1,0 +1,139 @@
+{
+  "title": "ウィンクの銃弾",
+
+  "memo": [
+    "① 安田清水平山早川、芳野杉浦泉眞鍋",
+    "安田清水平山早川",
+    "② 芳野杉浦泉眞鍋、安田清水平山早川",
+    "芳野杉浦泉眞鍋"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yoshino", "x": -4.5, "y": 3 },
+        { "name": "sugiura", "x": 0, "y": 3 },
+        { "name": "manabe", "x": 4.5, "y": 3 },
+
+        { "name": "izumi", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "yasuda", "x": -3, "y": 1 },
+        { "name": "shimizu", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "相性良いとか悪いとか そんなことどうでもいいぜ〜",
+      "members": [
+        { "name": "yoshino", "x": -5.25, "y": 2 },
+        { "name": "sugiura", "x": -2.25, "y": 2 },
+        { "name": "izumi", "x": 0.75, "y": 2 },
+        { "name": "manabe", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -3.75, "y": 1 },
+        { "name": "shimizu", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "行儀の良い奴はいねえ  タトゥー見りゃわかるだろう〜",
+      "members": [
+        { "name": "yasuda", "x": -3.75, "y": 2 },
+        { "name": "shimizu", "x": -0.75, "y": 2 },
+        { "name": "hirayama", "x": 2.25, "y": 2 },
+        { "name": "hayakawa", "x": 5.25, "y": 2 },
+
+        { "name": "yoshino", "x": -5.25, "y": 1 },
+        { "name": "sugiura", "x": -2.25, "y": 1 },
+        { "name": "izumi", "x": 0.75, "y": 1 },
+        { "name": "manabe", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "ああやることやればいい (ビッチと呼ばれて) 〜",
+      "members": [
+        { "name": "yoshino", "x": -4.5, "y": 2 },
+        { "name": "sugiura", "x": -1.5, "y": 2 },
+        { "name": "izumi", "x": 1.5, "y": 2 },
+        { "name": "manabe", "x": 4.5, "y": 2 },
+
+        { "name": "yasuda", "x": -4.5, "y": 1 },
+        { "name": "shimizu", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 },
+        { "name": "hayakawa", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -7, "y": 1 },
+        { "name": "sugiura", "x": -5, "y": 1 },
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "yasuda", "x": -1, "y": 1 },
+        { "name": "hayakawa", "x": 1, "y": 1 },
+        { "name": "yoshino", "x": 3, "y": 1 },
+        { "name": "izumi", "x": 5, "y": 1 },
+        { "name": "shimizu", "x": 7, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "ウィンクの銃弾 くらってごらんよ〜",
+      "members": [
+        { "name": "yoshino", "x": -5.25, "y": 2 },
+        { "name": "sugiura", "x": -2.25, "y": 2 },
+        { "name": "izumi", "x": 0.75, "y": 2 },
+        { "name": "manabe", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -3.75, "y": 1 },
+        { "name": "shimizu", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "邪魔をするなよ 愛してやる〜",
+      "members": [
+        { "name": "yoshino", "x": -5.25, "y": 1 },
+        { "name": "yasuda", "x": -3.75, "y": 1 },
+        { "name": "sugiura", "x": -2.25, "y": 1 },
+        { "name": "shimizu", "x": -0.75, "y": 1 },
+        { "name": "izumi", "x": 0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "manabe", "x": 3.75, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "ヘイ ヘイ ヘイ 平和だよ stage is over〜",
+      "members": [
+        { "name": "yoshino", "x": -5.25, "y": 2 },
+        { "name": "sugiura", "x": -2.25, "y": 2 },
+        { "name": "izumi", "x": 0.75, "y": 2 },
+        { "name": "manabe", "x": 3.75, "y": 2 },
+
+        { "name": "yasuda", "x": -3.75, "y": 1 },
+        { "name": "shimizu", "x": -0.75, "y": 1 },
+        { "name": "hirayama", "x": 2.25, "y": 1 },
+        { "name": "hayakawa", "x": 5.25, "y": 1 }
+      ]
+    }
+  ]
+}
