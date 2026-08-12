@@ -1,0 +1,219 @@
+{
+  "title": "欲望者",
+
+  "memo": [
+    "① 山本、塩月、横野/川上、安部南波/鵜野",
+    "② 横野/川上、山本塩月、南波安部鵜野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "shiotsuki", "x": 1.5, "y": 3 },
+
+        { "name": "abe", "x": -4.5, "y": 2 },
+        { "name": "uno", "x": 4.5, "y": 2 },
+
+        { "name": "yokono", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "どれくらいの間 息を止めていられるんだろう？〜",
+      "members": [
+        { "name": "shiotsuki", "x": -1, "y": 3 },
+        { "name": "namba", "x": 1, "y": 3 },
+
+        { "name": "abe", "x": -2.5, "y": 2 },
+        { "name": "uno", "x": 2.5, "y": 2 },
+
+        { "name": "yokono", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "Woo  誰かのことを愛して〜",
+      "members": [
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "shiotsuki", "x": 1.5, "y": 3 },
+
+        { "name": "abe", "x": -4.5, "y": 2 },
+        { "name": "uno", "x": 4.5, "y": 2 },
+
+        { "name": "yokono", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "Woo  心の望み通りに  もっと野蛮に生きればいい〜",
+      "members": [
+        { "name": "abe", "x": -4.5, "y": 2 },
+        { "name": "namba", "x": -1.5, "y": 2 },
+        { "name": "shiotsuki", "x": 1.5, "y": 2 },
+        { "name": "uno", "x": 4.5, "y": 2 },
+
+        { "name": "yokono", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "uno", "x": 4, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "どういう嘘をついて  何を誤魔化してるんだ？〜",
+      "members": [
+        { "name": "abe", "x": -4.5, "y": 3 },
+        { "name": "uno", "x": 4.5, "y": 3 },
+
+        { "name": "namba", "x": -3, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+
+        { "name": "yokono", "x": -1.5, "y": 1 },
+        { "name": "kawakami", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "Woo 抱きしめるその力を 手加減しようかなんて愚かだ〜",
+      "members": [
+        { "name": "yokono", "x": -4, "y": 3 },
+        { "name": "namba", "x": -2, "y": 3 },
+        { "name": "abe", "x": 0, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+        { "name": "yamamoto", "x": 4, "y": 3 },
+
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "shiotsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": -6, "y": 4 },
+        { "name": "uno", "x": 6, "y": 4 },
+
+        { "name": "kawakami", "x": -4, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "yokono", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": -6, "y": 4 },
+        { "name": "uno", "x": 6, "y": 4 },
+
+        { "name": "kawakami", "x": -4, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "yokono", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "人は皆 手を伸ばし  際限なく求めようとする性だ〜",
+      "members": [
+        { "name": "namba", "x": -6, "y": 4 },
+        { "name": "uno", "x": 6, "y": 4 },
+
+        { "name": "kawakami", "x": -4, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "yokono", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "永遠に充たされない欲望〜",
+      "members": [
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "uno", "x": 4, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "uno", "x": 4, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "abe", "x": -4, "y": 3 },
+        { "name": "uno", "x": 4, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
