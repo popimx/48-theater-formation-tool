@@ -189,23 +189,6 @@
         { "name": "kuroda", "x": 0, "y": 1 },
         { "name": "manabe", "x": 3, "y": 1 }
       ]
-    },
-
-    {
-      "title": "ラスト",
-      "lyrics": "",
-      "members": [
-        { "name": "hayakawa", "x": -1.5, "y": 4 },
-        { "name": "wada", "x": 1.5, "y": 4 },
-
-        { "name": "kameno", "x": -2.5, "y": 3 },
-        { "name": "satsuki", "x": 2.5, "y": 3 },
-
-        { "name": "hirayama", "x": -1.25, "y": 2 },
-        { "name": "manabe", "x": 1.25, "y": 2 },
-
-        { "name": "kuroda", "x": 0, "y": 1 }
-      ]
     }
   ]
 }
