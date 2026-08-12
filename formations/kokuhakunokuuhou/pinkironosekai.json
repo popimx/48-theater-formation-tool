@@ -17,7 +17,7 @@
         { "name": "kawakami", "x": -1, "y": 4 },
         { "name": "shiozuki", "x": 1, "y": 4 },
 
-        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "namba", "x": -3, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
 
         { "name": "yamamoto", "x": -1.5, "y": 2 },
@@ -39,7 +39,7 @@
         { "name": "yokono", "x": -2, "y": 2 },
         { "name": "uno", "x": 2, "y": 2 },
 
-        { "name": "nanba", "x": 0, "y": 1 }
+        { "name": "namba", "x": 0, "y": 1 }
       ]
     },
 
@@ -47,7 +47,7 @@
       "title": "1番Aメロ ②",
       "lyrics": "でもおそらくそれは 片隅に隠れてる〜",
       "members": [
-        { "name": "nanba", "x": -3, "y": 4 },
+        { "name": "namba", "x": -3, "y": 4 },
         { "name": "abe", "x": 3, "y": 4 },
 
         { "name": "kawakami", "x": 0, "y": 3 },
@@ -67,7 +67,7 @@
         { "name": "kawakami", "x": -2, "y": 4 },
         { "name": "shiozuki", "x": 2, "y": 4 },
 
-        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "namba", "x": -3, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
 
         { "name": "yamamoto", "x": -1, "y": 2 },
@@ -84,7 +84,7 @@
         { "name": "kawakami", "x": -1, "y": 4 },
         { "name": "shiozuki", "x": 1, "y": 4 },
 
-        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "namba", "x": -3, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
 
         { "name": "yamamoto", "x": -1.5, "y": 2 },
@@ -101,7 +101,7 @@
         { "name": "kawakami", "x": -2, "y": 4 },
         { "name": "shiozuki", "x": 2, "y": 4 },
 
-        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "namba", "x": -3, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
 
         { "name": "yamamoto", "x": -1, "y": 2 },
@@ -118,7 +118,7 @@
         { "name": "kawakami", "x": -2, "y": 4 },
         { "name": "shiozuki", "x": 2, "y": 4 },
 
-        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "namba", "x": -3, "y": 3 },
         { "name": "abe", "x": 3, "y": 3 },
 
         { "name": "yamamoto", "x": -1, "y": 2 },
