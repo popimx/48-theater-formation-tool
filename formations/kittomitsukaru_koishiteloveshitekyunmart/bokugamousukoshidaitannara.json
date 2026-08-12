@@ -1,0 +1,130 @@
+{
+  "title": "僕がもう少し大胆なら",
+
+  "memo": [
+    "① 塩月、本郷、隅野佐月、渋谷原、加藤小嶋",
+    "② 佐月、隅野、渋谷/原、本郷/塩月、隅野佐月",
+    "ラストサビ前 本郷塩月、隅野/佐月 (渋谷/原)",
+    "加藤/小嶋",
+    "ラストサビ 本郷塩月、隅野/佐月、渋谷原"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "ねえ 透けて見えてるよ〜",
+      "members": [
+        { "name": "sumino", "x": -1.5, "y": 3 },
+        { "name": "satsuki", "x": 1.5, "y": 3 },
+
+        { "name": "hongo", "x": -2.5, "y": 2 },
+        { "name": "shiotsuki", "x": 2.5, "y": 2 },
+
+        { "name": "kato", "x": -4, "y": 1 },
+        { "name": "shibuya", "x": -1, "y": 1 },
+        { "name": "hara", "x": 1, "y": 1 },
+        { "name": "kojima", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "SKY  晴れた空 見上げ〜",
+      "members": [
+        { "name": "kato", "x": -3.5, "y": 3 },
+        { "name": "kojima", "x": 3.5, "y": 3 },
+
+        { "name": "hongo", "x": -2.5, "y": 2 },
+        { "name": "shiotsuki", "x": 2.5, "y": 2 },
+
+        { "name": "shibuya", "x": -4, "y": 1 },
+        { "name": "sumino", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "hara", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -3, "y": 3 },
+        { "name": "shibuya", "x": 0, "y": 3 },
+        { "name": "kojima", "x": 3, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "hongo", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4.5, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kato", "x": -3, "y": 3 },
+        { "name": "shibuya", "x": 0, "y": 3 },
+        { "name": "kojima", "x": 3, "y": 3 },
+
+        { "name": "sumino", "x": -4.5, "y": 2 },
+        { "name": "hongo", "x": -1.5, "y": 2 },
+        { "name": "satsuki", "x": 1.5, "y": 2 },
+        { "name": "hara", "x": 4.5, "y": 2 },
+
+        { "name": "shiotsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "君がもう少し繊細なら  やさしさに気がついて〜",
+      "members": [
+        { "name": "kato", "x": -4, "y": 3 },
+        { "name": "kojima", "x": 4, "y": 3 },
+
+        { "name": "shibuya", "x": -5.5, "y": 2 },
+        { "name": "sumino", "x": -2.5, "y": 2 },
+        { "name": "satsuki", "x": 2.5, "y": 2 },
+        { "name": "hara", "x": 5.5, "y": 2 },
+
+        { "name": "hongo", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "君がもう少し繊細なら  踏切で待ってたはず〜",
+      "members": [
+        { "name": "shibuya", "x": -5.5, "y": 3 },
+        { "name": "sumino", "x": -2.5, "y": 3 },
+        { "name": "satsuki", "x": 2.5, "y": 3 },
+        { "name": "hara", "x": 5.5, "y": 3 },
+
+        { "name": "kato", "x": -4, "y": 2 },
+        { "name": "kojima", "x": 4, "y": 2 },
+
+        { "name": "hongo", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "僕がもう少し大胆なら  サヨナラは言わなかった〜",
+      "members": [
+        { "name": "kato", "x": -7, "y": 1 },
+        { "name": "shibuya", "x": -5, "y": 1 },
+        { "name": "sumino", "x": -3, "y": 1 },
+        { "name": "hongo", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "satsuki", "x": 3, "y": 1 },
+        { "name": "hara", "x": 5, "y": 1 },
+        { "name": "kojima", "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
