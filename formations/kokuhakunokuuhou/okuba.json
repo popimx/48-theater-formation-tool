@@ -1,0 +1,192 @@
+{
+  "title": "奥歯",
+
+  "memo": [
+    "① 川上、安部/塩月、南波鵜野、山本/横野",
+    "② 南波鵜野、山本/横野、川上、安部/塩月",
+    "ラストサビ前 川上、安部川上塩月",
+    "山本南波鵜野横野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "丸い夕陽の縁 欠けるまで〜",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 3 },
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "uno", "x": 1.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "この胸のどこかにぽっかり",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 3 },
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "uno", "x": 1.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "kawakami", "x": 0, "y": 2 },
+
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "好きなあの娘に 「友達でいて」と〜",
+      "members": [
+        { "name": "kawakami", "x": 0, "y": 4 },
+
+        { "name": "yamamoto", "x": -3, "y": 3 },
+        { "name": "yokono", "x": 3, "y": 3 },
+
+        { "name": "namba", "x": -1, "y": 2 },
+        { "name": "uno", "x": 1, "y": 2 },
+
+        { "name": "abe", "x": -5, "y": 1 },
+        { "name": "shiotsuki", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "言われたくらいで 何で切ない？〜",
+      "members": [
+        { "name": "namba", "x": -2, "y": 3 },
+        { "name": "kawakami", "x": 0, "y": 3 },
+        { "name": "uno", "x": 2, "y": 3 },
+
+        { "name": "abe", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 4 },
+        { "name": "yokono", "x": 4.5, "y": 4 },
+
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "uno", "x": 1.5, "y": 3 },
+
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "「2人 このまま 変わりたくない」〜",
+      "members": [
+        { "name": "abe", "x": -3, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 2 },
+        { "name": "namba", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+        { "name": "yokono", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 4 },
+        { "name": "yokono", "x": 4.5, "y": 4 },
+
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "uno", "x": 1.5, "y": 3 },
+
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 4 },
+        { "name": "yokono", "x": 4.5, "y": 4 },
+
+        { "name": "namba", "x": -1.5, "y": 3 },
+        { "name": "uno", "x": 1.5, "y": 3 },
+
+        { "name": "abe", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "namba", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "雑草の上で ただぼんやりと〜",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "namba", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "namba", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "abe", "x": -3, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
