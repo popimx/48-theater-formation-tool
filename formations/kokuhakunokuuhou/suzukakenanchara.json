@@ -176,23 +176,7 @@
         { "name": "abe", "x": 1.5, "y": 1 }
       ]
     },
-
-    {
-      "title": "2番Aメロ ③",
-      "lyrics": "風に吹かれ どこか飛んでく〜",
-      "members": [
-        { "name": "yamamoto", "x": -5, "y": 4 },
-        { "name": "uno", "x": 0, "y": 4 },
-        { "name": "yokono", "x": 5, "y": 4 },
-
-        { "name": "kawakami", "x": -2.5, "y": 3 },
-        { "name": "namba", "x": 2.5, "y": 3 },
-
-        { "name": "shiotsuki", "x": -3.5, "y": 1 },
-        { "name": "abe", "x": 3.5, "y": 1 }
-      ]
-    },
-
+ 
     {
       "title": "2番Bメロ ①",
       "lyrics": "青空 瞬きもせず〜",
