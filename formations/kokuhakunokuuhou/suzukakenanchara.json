@@ -15,9 +15,9 @@
         { "name": "uno", "x": 0, "y": 4 },
 
         { "name": "kawakami", "x": -1.5, "y": 3 },
-        { "name": "nanba", "x": 1.5, "y": 3 },
+        { "name": "namba", "x": 1.5, "y": 3 },
 
-        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "shiozuki", "x": -3, "y": 2 },
         { "name": "abe", "x": 3, "y": 2 },
 
         { "name": "yamamoto", "x": -4.5, "y": 1 },
@@ -30,9 +30,9 @@
       "lyrics": "",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -42,12 +42,12 @@
 
     {
       "title": "イントロサビ ①",
-      "lyrics": "君の微笑みを (微笑みを)  夢に見る (夢に見る) いつも同じシチュエーション〜",
+      "lyrics": "君の微笑みを (微笑みを) 夢に見る (夢に見る) いつも同じシチュエーション〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -61,11 +61,11 @@
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 1 },
         { "name": "yamamoto", "x": -3, "y": 1 },
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 },
         { "name": "yokono", "x": 3, "y": 1 },
-        { "name": "nanba", "x": 4.5, "y": 1 }
+        { "name": "namba", "x": 4.5, "y": 1 }
       ]
     },
 
@@ -74,9 +74,9 @@
       "lyrics": "なぜだ？〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -94,9 +94,9 @@
         { "name": "uno", "x": 0, "y": 3 },
 
         { "name": "kawakami", "x": -6, "y": 2 },
-        { "name": "nanba", "x": 6, "y": 2 },
+        { "name": "namba", "x": 6, "y": 2 },
 
-        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "shiozuki", "x": -4, "y": 1 },
         { "name": "abe", "x": 4, "y": 1 }
       ]
     },
@@ -106,9 +106,9 @@
       "lyrics": "僕はこの想い (この想い) 語らない (語らない) 今の距離がちょうどいい〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -122,11 +122,11 @@
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 1 },
         { "name": "yamamoto", "x": -3, "y": 1 },
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 },
         { "name": "yokono", "x": 3, "y": 1 },
-        { "name": "nanba", "x": 4.5, "y": 1 }
+        { "name": "namba", "x": 4.5, "y": 1 }
       ]
     },
 
@@ -135,9 +135,9 @@
       "lyrics": "いよう〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -150,13 +150,13 @@
       "lyrics": "落ち葉 踏みしめると〜",
       "members": [
         { "name": "kawakami", "x": -2.5, "y": 4 },
-        { "name": "nanba", "x": 2.5, "y": 4 },
+        { "name": "namba", "x": 2.5, "y": 4 },
 
         { "name": "yamamoto", "x": -5, "y": 3 },
         { "name": "uno", "x": 0, "y": 3 },
         { "name": "yokono", "x": 5, "y": 3 },
 
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 }
       ]
     },
@@ -170,9 +170,9 @@
         { "name": "yokono", "x": 5, "y": 4 },
 
         { "name": "kawakami", "x": -2.5, "y": 3 },
-        { "name": "nanba", "x": 2.5, "y": 3 },
+        { "name": "namba", "x": 2.5, "y": 3 },
 
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 }
       ]
     },
@@ -186,9 +186,9 @@
         { "name": "yokono", "x": 5, "y": 4 },
 
         { "name": "kawakami", "x": -2.5, "y": 3 },
-        { "name": "nanba", "x": 2.5, "y": 3 },
+        { "name": "namba", "x": 2.5, "y": 3 },
 
-        { "name": "shiotsuki", "x": -3.5, "y": 1 },
+        { "name": "shiozuki", "x": -3.5, "y": 1 },
         { "name": "abe", "x": 3.5, "y": 1 }
       ]
     },
@@ -202,9 +202,9 @@
         { "name": "yokono", "x": 3, "y": 4 },
 
         { "name": "kawakami", "x": -1.5, "y": 3 },
-        { "name": "nanba", "x": 1.5, "y": 3 },
+        { "name": "namba", "x": 1.5, "y": 3 },
 
-        { "name": "shiotsuki", "x": -6, "y": 1 },
+        { "name": "shiozuki", "x": -6, "y": 1 },
         { "name": "abe", "x": 6, "y": 1 }
       ]
     },
@@ -214,13 +214,13 @@
       "lyrics": "僕は思う 運命の糸は長いんだ〜",
       "members": [
         { "name": "kawakami", "x": -1.5, "y": 4 },
-        { "name": "nanba", "x": 1.5, "y": 4 },
+        { "name": "namba", "x": 1.5, "y": 4 },
 
         { "name": "yamamoto", "x": -3, "y": 3 },
         { "name": "uno", "x": 0, "y": 3 },
         { "name": "yokono", "x": 3, "y": 3 },
 
-        { "name": "shiotsuki", "x": -6, "y": 1 },
+        { "name": "shiozuki", "x": -6, "y": 1 },
         { "name": "abe", "x": 6, "y": 1 }
       ]
     },
@@ -230,9 +230,9 @@
       "lyrics": "好きと叫ぶには (叫ぶには) まだ早い (まだ早い) 自分に言い聞かせたよ〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -246,11 +246,11 @@
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 1 },
         { "name": "yamamoto", "x": -3, "y": 1 },
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 },
         { "name": "yokono", "x": 3, "y": 1 },
-        { "name": "nanba", "x": 4.5, "y": 1 }
+        { "name": "namba", "x": 4.5, "y": 1 }
       ]
     },
 
@@ -259,9 +259,9 @@
       "lyrics": "いよう〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -274,12 +274,12 @@
       "lyrics": "大好きだ！",
       "members": [
         { "name": "kawakami", "x": -6, "y": 1 },
-        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "shiozuki", "x": -4, "y": 1 },
         { "name": "yamamoto", "x": -2, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "yokono", "x": 2, "y": 1 },
         { "name": "abe", "x": 4, "y": 1 },
-        { "name": "nanba", "x": 6, "y": 1 }
+        { "name": "namba", "x": 6, "y": 1 }
       ]
     },
 
@@ -288,12 +288,12 @@
       "lyrics": "君の微笑みを (微笑みを) 夢に見る (夢に見る) いつも同じシチュエーション〜",
       "members": [
         { "name": "kawakami", "x": -6, "y": 1 },
-        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "shiozuki", "x": -4, "y": 1 },
         { "name": "yamamoto", "x": -2, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "yokono", "x": 2, "y": 1 },
         { "name": "abe", "x": 4, "y": 1 },
-        { "name": "nanba", "x": 6, "y": 1 }
+        { "name": "namba", "x": 6, "y": 1 }
       ]
     },
 
@@ -302,9 +302,9 @@
       "lyrics": "木漏れ日が揺れる 鈴懸の道で〜",
       "members": [
         { "name": "kawakami", "x": -3.75, "y": 4 },
-        { "name": "nanba", "x": 3.75, "y": 4 },
+        { "name": "namba", "x": 3.75, "y": 4 },
 
-        { "name": "shiotsuki", "x": -2.5, "y": 3 },
+        { "name": "shiozuki", "x": -2.5, "y": 3 },
         { "name": "abe", "x": 2.5, "y": 3 },
 
         { "name": "yamamoto", "x": -1.25, "y": 2 },
@@ -319,9 +319,9 @@
       "lyrics": "君の微笑みを (微笑みを) 夢に見る (夢に見る) 僕は理由を知りたい〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
@@ -335,11 +335,11 @@
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 1 },
         { "name": "yamamoto", "x": -3, "y": 1 },
-        { "name": "shiotsuki", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": -1.5, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
         { "name": "abe", "x": 1.5, "y": 1 },
         { "name": "yokono", "x": 3, "y": 1 },
-        { "name": "nanba", "x": 4.5, "y": 1 }
+        { "name": "namba", "x": 4.5, "y": 1 }
       ]
     },
 
@@ -348,9 +348,9 @@
       "lyrics": "なぜだ？〜",
       "members": [
         { "name": "kawakami", "x": -4.5, "y": 2 },
-        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "shiozuki", "x": -1.5, "y": 2 },
         { "name": "abe", "x": 1.5, "y": 2 },
-        { "name": "nanba", "x": 4.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
 
         { "name": "yamamoto", "x": -3, "y": 1 },
         { "name": "uno", "x": 0, "y": 1 },
