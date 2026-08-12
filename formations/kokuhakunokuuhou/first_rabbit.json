@@ -1,0 +1,117 @@
+{
+  "title": "ファースト・ラビット",
+
+  "memo": [
+    "① 山本鵜野横野、川上塩月安部南波",
+    "山本鵜野横野、川上塩月/安部南波",
+    "② 川上塩月/安部南波、山本鵜野横野",
+    "川上塩月/安部南波、山本鵜野横野",
+    "②サビ後 山本鵜野横野、川上塩月/安部南波"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 4 },
+        { "name": "namba", "x": 4.5, "y": 4 },
+
+        { "name": "shiotsuki", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "yokono", "x": 1.5, "y": 2 },
+
+        { "name": "uno", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 2 },
+        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 2 },
+        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 2 },
+        { "name": "shiotsuki", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+        { "name": "namba", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前",
+      "lyrics": "生きてることを実感するんだ  命を無駄にするな〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 },
+        { "name": "namba", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 },
+        { "name": "namba", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 },
+        { "name": "namba", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
