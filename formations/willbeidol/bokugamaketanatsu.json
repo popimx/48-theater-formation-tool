@@ -1,0 +1,89 @@
+{
+  "title": "僕が負けた夏",
+
+  "memo": [
+    "① 平山、眞鍋早川、黒田和田 (眞鍋平山早川)",
+    "瓶野佐月"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "satsuki", "x": 3, "y": 4 },
+
+        { "name": "kuroda", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "砂の上のRadio (Radio)〜",
+      "members": [
+        { "name": "manabe", "x": -3, "y": 4 },
+        { "name": "hirayama", "x": 0, "y": 4 },
+        { "name": "hayakawa", "x": 3, "y": 4 },
+
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 1 },
+        { "name": "satsuki", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 3 },
+        { "name": "satsuki", "x": 4.5, "y": 3 },
+
+        { "name": "manabe", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 3 },
+        { "name": "satsuki", "x": 4.5, "y": 3 },
+
+        { "name": "manabe", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 2 },
+        { "name": "kuroda", "x": -4, "y": 2 },
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+        { "name": "wada", "x": 4, "y": 2 },
+        { "name": "satsuki", "x": 6, "y": 2 }
+      ]
+    }
+  ]
+}
