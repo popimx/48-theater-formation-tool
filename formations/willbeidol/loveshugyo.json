@@ -1,0 +1,75 @@
+{
+  "title": "LOVE修行",
+
+  "memo": [
+    "イントロサビ 眞鍋黒田平山、和田早川",
+    "① 眞鍋黒田平山、和田早川、佐月瓶野",
+    "眞鍋黒田平山、和田早川",
+    "② 瓶野佐月、和田/早川、眞鍋黒田平山",
+    "瓶野/佐月、和田早川",
+    "ラストサビ前 平山眞鍋黒田、瓶野和田",
+    "平山眞鍋黒田、早川佐月",
+    "ラストサビ 平山眞鍋黒田、和田/早川"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -3, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "hirayama", "x": 3, "y": 2 },
+
+        { "name": "satsuki", "x": -4.5, "y": 1 },
+        { "name": "wada", "x": -1.5, "y": 1 },
+        { "name": "hayakawa", "x": 1.5, "y": 1 },
+        { "name": "kameno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "人を好きになるって 切なくつらいものね〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "wada", "x": -4, "y": 1 },
+        { "name": "manabe", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 },
+        { "name": "hayakawa", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    }
+  ]
+}
