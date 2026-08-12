@@ -1,0 +1,248 @@
+{
+  "title": "最後のカタルシス",
+
+  "memo": [
+    "① 眞鍋、黒田、黒田/和田、平山早川、佐月瓶野",
+    "② 佐月/瓶野、平山早川、眞鍋、黒田/和田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "hayakawa", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "やさしい瞳で 叱ってくれたね〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "hayakawa", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "wada", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "まわりの大人は あきらめてたのに〜",
+      "members": [
+        { "name": "hirayama", "x": -2, "y": 3 },
+        { "name": "hayakawa", "x": 2, "y": 3 },
+
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "kameno", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "wada", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "路地裏のネオン  雨に打たれた猫〜",
+      "members": [
+        { "name": "kuroda", "x": -3, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "hayakawa", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "荒んでた心に 希望の光が射す〜",
+      "members": [
+        { "name": "kuroda", "x": -3, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "satsuki", "x": -1, "y": 2 },
+        { "name": "kameno", "x": 1, "y": 2 },
+
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "hayakawa", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -3.75, "y": 3 },
+        { "name": "hirayama", "x": -1.25, "y": 3 },
+        { "name": "hayakawa", "x": 1.25, "y": 3 },
+        { "name": "wada", "x": 3.75, "y": 3 },
+
+        { "name": "manabe", "x": 0, "y": 2 },
+
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "kameno", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ①",
+      "lyrics": "少ない金貨を 握らせてくれた〜",
+      "members": [
+        { "name": "kuroda", "x": -3.75, "y": 3 },
+        { "name": "hirayama", "x": -1.25, "y": 3 },
+        { "name": "hayakawa", "x": 1.25, "y": 3 },
+        { "name": "wada", "x": 3.75, "y": 3 },
+
+        { "name": "manabe", "x": 0, "y": 2 },
+
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "kameno", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ ②",
+      "lyrics": "あなたに 返しに来るから〜",
+      "members": [
+        { "name": "satsuki", "x": -2.5, "y": 3 },
+        { "name": "kameno", "x": 2.5, "y": 3 },
+
+        { "name": "manabe", "x": 0, "y": 2 },
+
+        { "name": "kuroda", "x": -3.75, "y": 1 },
+        { "name": "hirayama", "x": -1.25, "y": 1 },
+        { "name": "hayakawa", "x": 1.25, "y": 1 },
+        { "name": "wada", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "道のゴミ袋  誰かの怒鳴り声〜",
+      "members": [
+        { "name": "hirayama", "x": -2.5, "y": 3 },
+        { "name": "hayakawa", "x": 2.5, "y": 3 },
+
+        { "name": "manabe", "x": 0, "y": 2 },
+
+        { "name": "satsuki", "x": -3.75, "y": 1 },
+        { "name": "kuroda", "x": -1.25, "y": 1 },
+        { "name": "wada", "x": 1.25, "y": 1 },
+        { "name": "kameno", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 3 },
+        { "name": "kuroda", "x": -4, "y": 3 },
+        { "name": "wada", "x": 4, "y": 3 },
+        { "name": "kameno", "x": 6, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "もう一度 生きようか？ ここから抜け出すんだ〜",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 3 },
+        { "name": "kuroda", "x": -4, "y": 3 },
+        { "name": "wada", "x": 4, "y": 3 },
+        { "name": "kameno", "x": 6, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "俺たちは生きるんだ  たとえ何があっても〜",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 1 },
+        { "name": "kuroda", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "manabe", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "kameno", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
