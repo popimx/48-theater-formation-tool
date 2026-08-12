@@ -58,11 +58,11 @@
       "title": "2番Bメロ",
       "lyrics": "スタイリストになるのが夢と いつか話してくれたけど〜",
       "members": [
-        { "name": "kameno", "x": -3, "y": 4 },
-        { "name": "manabe", "x": -1.5, "y": 4 },
-        { "name": "hayakawa", "x": 0, "y": 4 },
-        { "name": "wada", "x": 1.5, "y": 4 },
-        { "name": "satsuki", "x": 3, "y": 4 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "manabe", "x": -1.5, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
 
         { "name": "kuroda", "x": -5, "y": 1 },
         { "name": "hirayama", "x": 5, "y": 1 }
