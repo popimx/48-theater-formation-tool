@@ -1,0 +1,282 @@
+{
+  "title": "告白の空砲",
+
+  "memo": [
+    "① 鵜野、山本横野、塩月安部、川上南波",
+    "② 塩月安部、川上南波、山本鵜野横野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -2, "y": 3 },
+        { "name": "namba", "x": 2, "y": 3 },
+
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -1, "y": 1 },
+        { "name": "yokono", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "太陽はいつだって 思ったよりも〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "yokono", "x": 1, "y": 2 },
+
+        { "name": "kawakami", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "namba", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "告白の空砲〜",
+      "members": [
+        { "name": "kawakami", "x": -1, "y": 3 },
+        { "name": "namba", "x": 1, "y": 3 },
+
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "言葉にはできない〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 4 },
+        { "name": "abe", "x": 3, "y": 4 },
+
+        { "name": "yamamoto", "x": -2, "y": 3 },
+        { "name": "yokono", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+
+        { "name": "uno", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "愛しさは伝わるか〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "情熱の (情熱の)  音がする (音がする) 〜",
+      "members": [
+        { "name": "shiotsuki", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shiotsuki", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "傘もなく 雨宿りする場所もなく〜",
+      "members": [
+        { "name": "uno", "x": 0, "y": 4 },
+
+        { "name": "yamamoto", "x": -2, "y": 3 },
+        { "name": "yokono", "x": 2, "y": 3 },
+
+        { "name": "shiotsuki", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "namba", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "告白の衝動〜",
+      "members": [
+        { "name": "shiotsuki", "x": -1, "y": 3 },
+        { "name": "abe", "x": 1, "y": 3 },
+
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "namba", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "抑えても無駄だろう〜",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 3 },
+        { "name": "namba", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 2, "y": 2 },
+
+        { "name": "shiotsuki", "x": -1, "y": 1 },
+        { "name": "abe", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ③",
+      "lyrics": "落雷が (落雷が) この愛の強さだ〜",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 4 },
+        { "name": "namba", "x": 3, "y": 4 },
+
+        { "name": "yamamoto", "x": -1, "y": 3 },
+        { "name": "yokono", "x": 1, "y": 3 },
+
+        { "name": "uno", "x": 0, "y": 2 },
+
+        { "name": "shiotsuki", "x": -2, "y": 1 },
+        { "name": "abe", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ④",
+      "lyrics": "僕は臆病者だよ〜",
+      "members": [
+        { "name": "yamamoto", "x": -1, "y": 3 },
+        { "name": "yokono", "x": 1, "y": 3 },
+
+        { "name": "shiotsuki", "x": -2, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "namba", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "shiotsuki", "x": -4, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 },
+        { "name": "abe", "x": 4, "y": 1 },
+        { "name": "namba", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "告白の空砲〜",
+      "members": [
+        { "name": "kawakami", "x": -1, "y": 3 },
+        { "name": "namba", "x": 1, "y": 3 },
+
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "言葉にはできない〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 4 },
+        { "name": "abe", "x": 3, "y": 4 },
+
+        { "name": "yamamoto", "x": -2, "y": 3 },
+        { "name": "yokono", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+
+        { "name": "uno", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "愛しさは伝わるか？〜",
+      "members": [
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ④",
+      "lyrics": "情熱の (情熱の)  音がする (音がする) 〜",
+      "members": [
+        { "name": "shiotsuki", "x": -2, "y": 3 },
+        { "name": "abe", "x": 2, "y": 3 },
+
+        { "name": "kawakami", "x": -1, "y": 2 },
+        { "name": "namba", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
