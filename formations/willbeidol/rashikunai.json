@@ -75,10 +75,10 @@
       "lyrics": "",
       "members": [
         { "name": "satsuki", "x": -3, "y": 3 },
-        { "name": "hayakawa", "x": 0, "y": 3 },
         { "name": "kameno", "x": 3, "y": 3 },
 
         { "name": "manabe", "x": -4.5, "y": 2 },
+        { "name": "hayakawa", "x": 0, "y": 2 },
         { "name": "wada", "x": 4.5, "y": 2 },
 
         { "name": "kuroda", "x": -1.5, "y": 1 },
@@ -91,10 +91,10 @@
       "lyrics": "",
       "members": [
         { "name": "satsuki", "x": -3, "y": 3 },
-        { "name": "hayakawa", "x": 0, "y": 3 },
         { "name": "kameno", "x": 3, "y": 3 },
 
         { "name": "manabe", "x": -4.5, "y": 2 },
+        { "name": "hayakawa", "x": 0, "y": 2 },
         { "name": "wada", "x": 4.5, "y": 2 },
 
         { "name": "kuroda", "x": -1.5, "y": 1 },
