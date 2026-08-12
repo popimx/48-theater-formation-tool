@@ -1,0 +1,116 @@
+{
+  "stage": "NMB48「きっと見つかる、KOIしてLOVEしてきゅんmart」",
+  "stageId": "kittomitsukaru_koishiteloveshitekyunmart",
+  "members": [
+    {
+      "name": "加藤夕夏",
+      "display": "加藤",
+      "id": "kato",
+      "image": "kato_yuka_2020"
+    },
+    {
+      "name": "小嶋花梨",
+      "display": "小嶋",
+      "id": "kojima",
+      "image": "kojima_karin_2020"
+    },
+    {
+      "name": "佐月愛果",
+      "display": "佐月",
+      "id": "satsuki",
+      "image": "satsuki_aika_2020"
+    },
+    {
+      "name": "塩月希依音",
+      "display": "塩月",
+      "id": "shiotsuki",
+      "image": "shiotsuki_keito_2020"
+    },
+    {
+      "name": "渋谷凪咲",
+      "display": "渋谷",
+      "id": "shibuya",
+      "image": "shibuya_nagisa_2020"
+    },
+    {
+      "name": "隅野和奏",
+      "display": "隅野",
+      "id": "sumino",
+      "image": "sumino_wakana_2020"
+    },
+    {
+      "name": "原かれん",
+      "display": "原",
+      "id": "hara",
+      "image": "hara_karen_2020"
+    },
+    {
+      "name": "本郷柚巴",
+      "display": "本郷",
+      "id": "hongo",
+      "image": "hongo_yuzuha_2020"
+    }
+  ],
+  "songs": [
+    {
+      "name": "嘘つきマシーン",
+      "file": "usotsukimachine.json"
+    },
+    {
+      "name": "アイヲクレ",
+      "file": "aiwokure.json"
+    },
+    {
+      "name": "スクラップ＆ビルド",
+      "file": "scrapandbuild.json"
+    },
+    {
+      "name": "アイラブ豚まん",
+      "file": "ilovebutaman.json"
+    },
+    {
+      "name": "初恋至上主義",
+      "file": "hatsukoishijoushugi.json"
+    },
+    {
+      "name": "キスは待つしかないのでしょうか？",
+      "file": "kisswamatsushikanainodeshouka.json"
+    },
+    {
+      "name": "儚い物語",
+      "file": "hakanaimonogatari.json"
+    },
+    {
+      "name": "戸惑ってためらって",
+      "file": "tomadottetameratte.json"
+    },
+    {
+      "name": "シャムネコ",
+      "file": "shamuneko.json"
+    },
+    {
+      "name": "だらしない愛し方",
+      "file": "darashinaiaishikata.json"
+    },
+    {
+      "name": "妄想マシーン3号機",
+      "file": "mousoumachine3gouki.json"
+    },
+    {
+      "name": "僕がもう少し大胆なら",
+      "file": "bokugamousukoshidaitannara.json"
+    },
+    {
+      "name": "イビサガール",
+      "file": "ibizagirl.json"
+    },
+    {
+      "name": "君と出会って僕は変わった",
+      "file": "kimitodeattebokuwakawatta.json"
+    },
+    {
+      "name": "選ばれし者たち",
+      "file": "erabareshimonotachi.json"
+    }
+  ]
+}
