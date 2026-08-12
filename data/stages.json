@@ -135,6 +135,16 @@
     "file": "stages/tenshinoutopia.json"
   },
   {
+    "stage": "NMB48「告白の空砲」",
+    "stageId": "kokuhakunokuuhou",
+    "file": "stages/kokuhakunokuuhou.json"
+  },
+  {
+    "stage": "NMB48「きっと見つかる、KOIしてLOVEしてきゅんmart」",
+    "stageId": "kittomitsukaru_koishiteloveshitekyunmart",
+    "file": "stages/kittomitsukaru_koishiteloveshitekyunmart.json"
+  },
+  {
     "stage": "LeopAje「大阪魂、捨てたらあかん」",
     "stageId": "osakadamashii_leopaje",
     "file": "stages/osakadamashii_leopaje.json"
@@ -178,6 +188,11 @@
     "stage": "NMB48「無限大ノック」",
     "stageId": "mugendaiknock",
     "file": "stages/mugendaiknock.json"
+  },
+  {
+    "stage": "NMB48「Will be idol」",
+    "stageId": "willbeidol",
+    "file": "stages/willbeidol.json"
   },
   {
     "stage": "NMB48「世代交代前夜」",
