@@ -1,0 +1,140 @@
+{
+  "title": "絶滅黒髪少女",
+
+  "memo": [
+    "① 黒田平山、和田/眞鍋、佐月早川、瓶野和田",
+    "黒田眞鍋平山",
+    "② 和田/早川、瓶野/佐月、黒田眞鍋平山",
+    "瓶野和田/早川佐月"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -1, "y": 4 },
+        { "name": "satsuki", "x": 1, "y": 4 },
+
+        { "name": "wada", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+
+        { "name": "manabe", "x": -1.5, "y": 2 },
+        { "name": "hirayama", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "みんなの視線集めて 海の家まで歩く〜",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "kuroda", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "wada", "x": -3, "y": 1 },
+        { "name": "manabe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 2 },
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 3, "y": 2 },
+        { "name": "satsuki", "x": 5, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "kuroda", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "kuroda", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "manabe", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "kuroda", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 }
+      ]
+    }
+  ]
+}
