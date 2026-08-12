@@ -1,0 +1,191 @@
+{
+  "title": "Overtake",
+
+  "memo": [
+    "① 安部塩月、山本鵜野、川上横野南波、安部塩月",
+    "南波川上横野、山本安部塩月鵜野",
+    "② 南波川上、横野、鵜野、山本、塩月安部",
+    "ラストサビ前 山本塩月安部鵜野、川上南波横野"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "shizuki", "x": -1, "y": 2 },
+        { "name": "abe", "x": 1, "y": 2 },
+        { "name": "nanba", "x": 3, "y": 2 },
+
+        { "name": "uno", "x": -2, "y": 1 },
+        { "name": "yokono", "x": 0, "y": 1 },
+        { "name": "yamamoto", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "nanba", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "shizuki", "x": -1.5, "y": 1 },
+        { "name": "abe", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "shizuki", "x": -4.5, "y": 1 },
+        { "name": "nanba", "x": -3, "y": 1 },
+        { "name": "yamamoto", "x": -1.5, "y": 1 },
+        { "name": "kawakami", "x": 0, "y": 1 },
+        { "name": "uno", "x": 1.5, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 },
+        { "name": "abe", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ後",
+      "lyrics": "",
+      "members": [
+        { "name": "yokono", "x": 0, "y": 4 },
+
+        { "name": "shizuki", "x": -1.25, "y": 3 },
+        { "name": "abe", "x": 1.25, "y": 3 },
+
+        { "name": "uno", "x": -2.5, "y": 2 },
+        { "name": "yamamoto", "x": 2.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3.75, "y": 1 },
+        { "name": "nanba", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 3 },
+        { "name": "yokono", "x": 4.5, "y": 3 },
+
+        { "name": "nanba", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "shizuki", "x": 0, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "shizuki", "x": -1.5, "y": 1 },
+        { "name": "nanba", "x": 0, "y": 1 },
+        { "name": "abe", "x": 1.5, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 },
+        { "name": "uno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "nanba", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "shizuki", "x": -1.5, "y": 1 },
+        { "name": "abe", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ①",
+      "lyrics": "大切な目的は〜",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 2 },
+        { "name": "shizuki", "x": -1.5, "y": 2 },
+        { "name": "abe", "x": 1.5, "y": 2 },
+        { "name": "uno", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "nanba", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ前 ②",
+      "lyrics": "チームが勝つことさ〜",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "nanba", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "shizuki", "x": -1.5, "y": 1 },
+        { "name": "abe", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "さあ 越えて行け！ 今 僕たちを...  言い訳はすべて捨て去るんだ〜",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 2 },
+        { "name": "nanba", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "shizuki", "x": -1.5, "y": 1 },
+        { "name": "abe", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "nanba", "x": -4.5, "y": 1 },
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1.5, "y": 1 },
+        { "name": "shizuki", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 },
+        { "name": "kawakami", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "nanba", "x": -4.5, "y": 1 },
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "abe", "x": -1.5, "y": 1 },
+        { "name": "shizuki", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 1.5, "y": 1 },
+        { "name": "uno", "x": 3, "y": 1 },
+        { "name": "kawakami", "x": 4.5, "y": 1 }
+      ]
+    }
+  ]
+}
