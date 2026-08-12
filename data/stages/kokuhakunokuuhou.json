@@ -68,7 +68,7 @@
     },
     {
       "name": "欲望者",
-      "file": "yokubousha.json"
+      "file": "yokubomono.json"
     },
     {
       "name": "告白の空砲",
@@ -76,11 +76,11 @@
     },
     {
       "name": "ファースト・ラビット",
-      "file": "firstrabbit.json"
+      "file": "first_rabbit.json"
     },
     {
       "name": "高嶺の林檎",
-      "file": "takane_no_ringo.json"
+      "file": "takanenoringo.json"
     }
   ]
 }
