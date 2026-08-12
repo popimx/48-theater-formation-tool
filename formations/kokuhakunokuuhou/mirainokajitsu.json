@@ -1,0 +1,264 @@
+{
+  "title": "未来の果実",
+
+  "memo": [
+    "① 南波川上、鵜野/塩月、横野山本安部",
+    "鵜野南波川上、横野山本/塩月安部",
+    "② 鵜野/塩月、横野山本安部、南波/川上",
+    "鵜野/塩月、横野山本安部",
+    "②サビ後 鵜野南波川上、横野山本/塩月安部"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ",
+      "lyrics": "Boys & Girls! 明るく行こうぜ! 水と緑がある限り〜",
+      "members": [
+        { "name": "uno", "x": -4, "y": 3 },
+        { "name": "namba", "x": 4, "y": 3 },
+
+        { "name": "yokono", "x": -6, "y": 2 },
+        { "name": "shiotsuki", "x": -2, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+        { "name": "yamamoto", "x": 6, "y": 2 },
+
+        { "name": "kawakami", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "yokono", "x": -4, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "kawakami", "x": 2, "y": 2 },
+
+        { "name": "uno", "x": -6, "y": 1 },
+        { "name": "namba", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "たった一度の青春 誰も全然気づかないもの〜",
+      "members": [
+        { "name": "yokono", "x": -6, "y": 3 },
+        { "name": "yamamoto", "x": 0, "y": 3 },
+        { "name": "abe", "x": 6, "y": 3 },
+
+        { "name": "uno", "x": -3.5, "y": 2 },
+        { "name": "shiotsuki", "x": 3.5, "y": 2 },
+
+        { "name": "namba", "x": -1, "y": 1 },
+        { "name": "kawakami", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "とにかく前へ歩けば 夢はだんだん近づくよ〜",
+      "members": [
+        { "name": "namba", "x": -1, "y": 3 },
+        { "name": "kawakami", "x": 1, "y": 3 },
+
+        { "name": "uno", "x": -3.5, "y": 2 },
+        { "name": "shiotsuki", "x": 3.5, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": 0, "y": 1 },
+        { "name": "abe", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "Boys & Girls! みんなで行こうぜ! 風は未来から吹いている〜",
+      "members": [
+        { "name": "yokono", "x": -4.5, "y": 4 },
+        { "name": "abe", "x": 4.5, "y": 4 },
+
+        { "name": "yamamoto", "x": -3, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+
+        { "name": "uno", "x": -1.5, "y": 2 },
+        { "name": "kawakami", "x": 1.5, "y": 2 },
+
+        { "name": "namba", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "Boys & Girls! みんなで行こうぜ! 水と緑が続く道〜",
+      "members": [
+        { "name": "yokono", "x": -6, "y": 2 },
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+        { "name": "abe", "x": 6, "y": 2 },
+
+        { "name": "uno", "x": -4, "y": 1 },
+        { "name": "namba", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "uno", "x": -4, "y": 2 },
+        { "name": "namba", "x": 0, "y": 2 },
+        { "name": "kawakami", "x": 4, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "abe", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": -2.5, "y": 3 },
+        { "name": "kawakami", "x": 2.5, "y": 3 },
+
+        { "name": "yokono", "x": -5, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "abe", "x": 5, "y": 2 },
+
+        { "name": "uno", "x": -2, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "こんな恵まれてること すぐに忘れてしまいそうだね〜",
+      "members": [
+        { "name": "namba", "x": -2.5, "y": 3 },
+        { "name": "kawakami", "x": 2.5, "y": 3 },
+
+        { "name": "yokono", "x": -5, "y": 2 },
+        { "name": "yamamoto", "x": 0, "y": 2 },
+        { "name": "abe", "x": 5, "y": 2 },
+
+        { "name": "uno", "x": -2, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "誰かに笑顔を見せれば 誰かも微笑んで〜",
+      "members": [
+        { "name": "yamamoto", "x": 0, "y": 4 },
+
+        { "name": "yokono", "x": -1.5, "y": 3 },
+        { "name": "abe", "x": 1.5, "y": 3 },
+
+        { "name": "namba", "x": -3, "y": 2 },
+        { "name": "kawakami", "x": 3, "y": 2 },
+
+        { "name": "uno", "x": -4.5, "y": 1 },
+        { "name": "shiotsuki", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "uno", "x": -4, "y": 2 },
+        { "name": "namba", "x": 0, "y": 2 },
+        { "name": "kawakami", "x": 4, "y": 2 },
+
+        { "name": "yokono", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "abe", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "僕たちに与えられた この自然〜",
+      "members": [
+        { "name": "uno", "x": -1.5, "y": 3 },
+        { "name": "kawakami", "x": 1.5, "y": 3 },
+
+        { "name": "yokono", "x": -4.5, "y": 2 },
+        { "name": "namba", "x": 0, "y": 2 },
+        { "name": "abe", "x": 4.5, "y": 2 },
+
+        { "name": "yamamoto", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "Boys & Girls! みんなで行こうぜ! 風は未来から吹いている〜",
+      "members": [
+        { "name": "kawakami", "x": -7.5, "y": 1 },
+        { "name": "shiotsuki", "x": -5, "y": 1 },
+        { "name": "abe", "x": -2.5, "y": 1 },
+        { "name": "yokono", "x": 0, "y": 1 },
+        { "name": "yamamoto", "x": 2.5, "y": 1 },
+        { "name": "uno", "x": 5, "y": 1 },
+        { "name": "namba", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "Boys & Girls! どんな今日だって 一度しか来ないんだ〜",
+      "members": [
+        { "name": "yokono", "x": -7.5, "y": 1 },
+        { "name": "yamamoto", "x": -5, "y": 1 },
+        { "name": "uno", "x": -2.5, "y": 1 },
+        { "name": "namba", "x": 0, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 },
+        { "name": "shiotsuki", "x": 5, "y": 1 },
+        { "name": "abe", "x": 7.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": 0, "y": 3 },
+
+        { "name": "abe", "x": -3.75, "y": 2 },
+        { "name": "yamamoto", "x": -1.25, "y": 2 },
+        { "name": "shiotsuki", "x": 1.25, "y": 2 },
+        { "name": "uno", "x": 3.75, "y": 2 },
+
+        { "name": "yokono", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "namba", "x": 0, "y": 3 },
+
+        { "name": "abe", "x": -3.75, "y": 2 },
+        { "name": "yamamoto", "x": -1.25, "y": 2 },
+        { "name": "shiotsuki", "x": 1.25, "y": 2 },
+        { "name": "uno", "x": 3.75, "y": 2 },
+
+        { "name": "yokono", "x": -2.5, "y": 1 },
+        { "name": "kawakami", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
