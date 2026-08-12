@@ -1,0 +1,165 @@
+{
+  "title": "Seventeen",
+
+  "memo": [
+    "① 黒田平山、眞鍋和田、瓶野早川佐月、黒田/平山",
+    "② 眞鍋和田、瓶野早川佐月、黒田/平山、眞鍋和田"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "manabe", "x": -3, "y": 2 },
+        { "name": "hayakawa", "x": 0, "y": 2 },
+        { "name": "wada", "x": 3, "y": 2 },
+
+        { "name": "kameno", "x": -4.5, "y": 1 },
+        { "name": "kuroda", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 },
+        { "name": "satsuki", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 3 },
+        { "name": "hayakawa", "x": -4, "y": 3 },
+        { "name": "wada", "x": 4, "y": 3 },
+        { "name": "satsuki", "x": 6, "y": 3 },
+
+        { "name": "manabe", "x": 0, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kuroda", "x": -3.75, "y": 3 },
+        { "name": "hirayama", "x": 3.75, "y": 3 },
+
+        { "name": "kameno", "x": -2.5, "y": 2 },
+        { "name": "hayakawa", "x": 0, "y": 2 },
+        { "name": "satsuki", "x": 2.5, "y": 2 },
+
+        { "name": "manabe", "x": -1.25, "y": 1 },
+        { "name": "wada", "x": 1.25, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ",
+      "lyrics": "スタイリストになるのが夢と いつか話してくれたけど〜",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 4 },
+        { "name": "manabe", "x": -1.5, "y": 4 },
+        { "name": "hayakawa", "x": 0, "y": 4 },
+        { "name": "wada", "x": 1.5, "y": 4 },
+        { "name": "satsuki", "x": 3, "y": 4 },
+
+        { "name": "kuroda", "x": -5, "y": 1 },
+        { "name": "hirayama", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "結婚したって聞いたよ  好きだというのが遅すぎた〜",
+      "members": [
+        { "name": "satsuki", "x": -4, "y": 3 },
+        { "name": "kameno", "x": 0, "y": 3 },
+        { "name": "hayakawa", "x": 4, "y": 3 },
+
+        { "name": "kuroda", "x": -2, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": -6, "y": 1 },
+        { "name": "wada", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "話しかけずに さらば青春〜",
+      "members": [
+        { "name": "kameno", "x": 0, "y": 4 },
+
+        { "name": "kuroda", "x": -1.5, "y": 3 },
+        { "name": "hayakawa", "x": 1.5, "y": 3 },
+
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "hirayama", "x": 3, "y": 2 },
+
+        { "name": "manabe", "x": -4.5, "y": 1 },
+        { "name": "wada", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "今でも 君が一番だ〜",
+      "members": [
+        { "name": "satsuki", "x": -6, "y": 1 },
+        { "name": "manabe", "x": -4, "y": 1 },
+        { "name": "hayakawa", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "hirayama", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "何度めくって 確かめただろう〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 2 },
+        { "name": "wada", "x": -2, "y": 2 },
+        { "name": "hayakawa", "x": 2, "y": 2 },
+        { "name": "satsuki", "x": 6, "y": 2 },
+
+        { "name": "hirayama", "x": -4, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "hirayama", "x": -4, "y": 1 },
+        { "name": "wada", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 2, "y": 1 },
+        { "name": "manabe", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -1.5, "y": 4 },
+        { "name": "manabe", "x": 1.5, "y": 4 },
+
+        { "name": "kuroda", "x": 0, "y": 3 },
+
+        { "name": "hayakawa", "x": -2.5, "y": 2 },
+        { "name": "wada", "x": 2.5, "y": 2 },
+
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    }
+  ]
+}
