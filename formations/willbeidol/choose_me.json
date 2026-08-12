@@ -1,0 +1,308 @@
+{
+  "title": "Choose me!",
+
+  "memo": [
+    "① 黒田平山、眞鍋和田、佐月瓶野早川",
+    "瓶野佐月早川、佐月早川瓶野、和田眞鍋平山黒田",
+    "② 早川和田、佐月瓶野、黒田眞鍋平山",
+    "眞鍋平山黒田、平山黒田眞鍋、瓶野佐月和田早川"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ ①",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "manabe", "x": 1, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+        { "name": "hayakawa", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 2, "y": 3 },
+
+        { "name": "manabe", "x": -4, "y": 2 },
+        { "name": "hirayama", "x": 4, "y": 2 },
+
+        { "name": "wada", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ①",
+      "lyrics": "ハート どこか欠けてて〜",
+      "members": [
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "wada", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+        { "name": "hirayama", "x": 4.5, "y": 3 },
+
+        { "name": "satsuki", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "kameno", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ②",
+      "lyrics": "何も自信がないから〜",
+      "members": [
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "wada", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+        { "name": "hirayama", "x": 4.5, "y": 3 },
+
+        { "name": "kameno", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+
+        { "name": "satsuki", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ ③",
+      "lyrics": "風に吹かれてしまうと 不安になるの〜",
+      "members": [
+        { "name": "manabe", "x": -4.5, "y": 3 },
+        { "name": "wada", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 3, "y": 3 },
+        { "name": "hirayama", "x": 4.5, "y": 3 },
+
+        { "name": "satsuki", "x": -1.5, "y": 2 },
+        { "name": "kameno", "x": 1.5, "y": 2 },
+
+        { "name": "hayakawa", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "愛を選んでください〜",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "wada", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -1.5, "y": 1 },
+        { "name": "hirayama", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "たった一人だけの誰かが そう あなたの恋人〜",
+      "members": [
+        { "name": "hirayama", "x": -3, "y": 3 },
+        { "name": "manabe", "x": 3, "y": 3 },
+
+        { "name": "hayakawa", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "wada", "x": 4.5, "y": 2 },
+
+        { "name": "satsuki", "x": -1.5, "y": 1 },
+        { "name": "kameno", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ③",
+      "lyrics": "みんな可愛い子ばかりだし みんな性格もいい子だし〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "kameno", "x": 3, "y": 3 },
+
+        { "name": "hayakawa", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "wada", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -1.5, "y": 1 },
+        { "name": "manabe", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ④",
+      "lyrics": "たったひとつ 勝てることは 誰よりも あなたが好きです〜",
+      "members": [
+        { "name": "hayakawa", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": -1.25, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 1.25, "y": 1 },
+        { "name": "kameno", "x": 2.5, "y": 1 },
+        { "name": "wada", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -3.75, "y": 2 },
+        { "name": "hirayama", "x": -1.25, "y": 2 },
+        { "name": "manabe", "x": 1.25, "y": 2 },
+        { "name": "wada", "x": 3.75, "y": 2 },
+
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "kameno", "x": 2.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ①",
+      "lyrics": "体 濡れてしまって〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+        { "name": "wada", "x": 4.5, "y": 3 },
+
+        { "name": "kuroda", "x": -1.5, "y": 2 },
+        { "name": "hirayama", "x": 1.5, "y": 2 },
+
+        { "name": "manabe", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ②",
+      "lyrics": "心 震えているから〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+        { "name": "wada", "x": 4.5, "y": 3 },
+
+        { "name": "manabe", "x": -1.5, "y": 2 },
+        { "name": "kuroda", "x": 1.5, "y": 2 },
+
+        { "name": "hirayama", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Bメロ ③",
+      "lyrics": "強い腕のぬくもりで 包んで欲しい〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 3 },
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "hayakawa", "x": 3, "y": 3 },
+        { "name": "wada", "x": 4.5, "y": 3 },
+
+        { "name": "hirayama", "x": -1.5, "y": 2 },
+        { "name": "manabe", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "愛に気づいてください 同じ教室の片隅〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -1.5, "y": 1 },
+        { "name": "manabe", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "告るなんて できないから いつまでも あなたを待つだけ〜",
+      "members": [
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": -1.25, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 1.25, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "愛を選んでください クラスメイトのその中から〜",
+      "members": [
+        { "name": "satsuki", "x": -2, "y": 3 },
+        { "name": "wada", "x": 2, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "manabe", "x": 1, "y": 2 },
+
+        { "name": "kameno", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hayakawa", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "愛を選んでください みんな可愛い子ばかりだし〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 3 },
+        { "name": "wada", "x": 3, "y": 3 },
+
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "hayakawa", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -1.5, "y": 1 },
+        { "name": "manabe", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "たったひとつ 勝てることは 誰よりも あなたが好きです〜",
+      "members": [
+        { "name": "kameno", "x": -3.75, "y": 1 },
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "hirayama", "x": -1.25, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 1.25, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 },
+        { "name": "hayakawa", "x": 3.75, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3.75, "y": 2 },
+        { "name": "hirayama", "x": -1.25, "y": 2 },
+        { "name": "manabe", "x": 1.25, "y": 2 },
+        { "name": "hayakawa", "x": 3.75, "y": 2 },
+
+        { "name": "satsuki", "x": -2.5, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "wada", "x": 2.5, "y": 1 }
+      ]
+    }
+  ]
+}
