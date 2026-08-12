@@ -1,0 +1,168 @@
+{
+  "title": "高嶺の林檎",
+
+  "memo": [
+    "① 鵜野、山本/横野、塩月安部、川上/南波",
+    "鵜野 (塩月/安部)、山本川上/南波横野",
+    "② 塩月/安部、川上南波、山本鵜野横野、川上南波",
+    "塩月安部 (山本鵜野横野)、川上南波"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 4 },
+        { "name": "namba", "x": 6, "y": 4 },
+
+        { "name": "shiotsuki", "x": -4, "y": 3 },
+        { "name": "abe", "x": 4, "y": 3 },
+
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "yokono", "x": 2, "y": 2 },
+
+        { "name": "uno", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ",
+      "lyrics": "みんながあきらめてるような  高い木の上 探さないのか？〜",
+      "members": [
+        { "name": "kawakami", "x": -4.5, "y": 3 },
+        { "name": "namba", "x": 4.5, "y": 3 },
+
+        { "name": "shiotsuki", "x": -3, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "abe", "x": 3, "y": 2 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 1 },
+        { "name": "yokono", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 3 },
+        { "name": "namba", "x": 6, "y": 3 },
+
+        { "name": "shiotsuki", "x": -2, "y": 2 },
+        { "name": "abe", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "どうせやるのなら 1位を狙え〜",
+      "members": [
+        { "name": "yamamoto", "x": -2, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 2, "y": 2 },
+
+        { "name": "kawakami", "x": -3, "y": 1 },
+        { "name": "namba", "x": -1, "y": 1 },
+        { "name": "shiotsuki", "x": 1, "y": 1 },
+        { "name": "abe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "どうせやるのなら ランク落とすな〜",
+      "members": [
+        { "name": "yamamoto", "x": -4.5, "y": 2 },
+        { "name": "uno", "x": 0, "y": 2 },
+        { "name": "yokono", "x": 4.5, "y": 2 },
+
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "namba", "x": -3, "y": 1 },
+        { "name": "shiotsuki", "x": 3, "y": 1 },
+        { "name": "abe", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 2 },
+        { "name": "namba", "x": -3, "y": 2 },
+        { "name": "shiotsuki", "x": 3, "y": 2 },
+        { "name": "abe", "x": 6, "y": 2 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 4.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "僕は無理をする  妥協はしない〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 1 },
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "namba", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "shiotsuki", "x": 2, "y": 1 },
+        { "name": "yokono", "x": 4, "y": 1 },
+        { "name": "abe", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "僕は無理をする  すべてを懸けて〜",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 3 },
+        { "name": "abe", "x": 6, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -6, "y": 3 },
+        { "name": "abe", "x": 6, "y": 3 },
+
+        { "name": "namba", "x": -2, "y": 2 },
+        { "name": "shiotsuki", "x": 2, "y": 2 },
+
+        { "name": "yamamoto", "x": -4, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "namba", "x": -1, "y": 2 },
+        { "name": "shiotsuki", "x": 1, "y": 2 },
+
+        { "name": "yamamoto", "x": -2, "y": 1 },
+        { "name": "uno", "x": 0, "y": 1 },
+        { "name": "yokono", "x": 2, "y": 1 }
+      ]
+    }
+  ]
+}
