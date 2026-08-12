@@ -1,0 +1,131 @@
+{
+  "title": "ピンク色の世界",
+
+  "memo": [
+    "① 横野、鵜野、山本、安部、南波、塩月、川上",
+    "横野、山本鵜野、南波安部、川上/塩月",
+    "② 南波安部、川上塩月、横野、山本鵜野",
+    "ラストサビ前 横野、山本/鵜野、南波安部",
+    "川上/塩月"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -1, "y": 4 },
+        { "name": "shiozuki", "x": 1, "y": 4 },
+
+        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "yokono", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "僕たちが思ってるより〜",
+      "members": [
+        { "name": "yamamoto", "x": -3, "y": 3 },
+        { "name": "kawakami", "x": -1, "y": 3 },
+        { "name": "shiozuki", "x": 1, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yokono", "x": -2, "y": 2 },
+        { "name": "uno", "x": 2, "y": 2 },
+
+        { "name": "nanba", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "でもおそらくそれは 片隅に隠れてる〜",
+      "members": [
+        { "name": "nanba", "x": -3, "y": 4 },
+        { "name": "abe", "x": 3, "y": 4 },
+
+        { "name": "kawakami", "x": 0, "y": 3 },
+
+        { "name": "yamamoto", "x": -4.5, "y": 2 },
+        { "name": "uno", "x": 4.5, "y": 2 },
+
+        { "name": "yokono", "x": -1.5, "y": 1 },
+        { "name": "shiozuki", "x": 1.5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ",
+      "lyrics": "世界中がピンクに染まったら  しあわせな気持ちになれるだろう〜",
+      "members": [
+        { "name": "kawakami", "x": -2, "y": 4 },
+        { "name": "shiozuki", "x": 2, "y": 4 },
+
+        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "uno", "x": 1, "y": 2 },
+
+        { "name": "yokono", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -1, "y": 4 },
+        { "name": "shiozuki", "x": 1, "y": 4 },
+
+        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1.5, "y": 2 },
+        { "name": "uno", "x": 1.5, "y": 2 },
+
+        { "name": "yokono", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "すべてのものがピンクに染まったら  争いごとなどなくなるはず〜",
+      "members": [
+        { "name": "kawakami", "x": -2, "y": 4 },
+        { "name": "shiozuki", "x": 2, "y": 4 },
+
+        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "uno", "x": 1, "y": 2 },
+
+        { "name": "yokono", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "",
+      "members": [
+        { "name": "kawakami", "x": -2, "y": 4 },
+        { "name": "shiozuki", "x": 2, "y": 4 },
+
+        { "name": "nanba", "x": -3, "y": 3 },
+        { "name": "abe", "x": 3, "y": 3 },
+
+        { "name": "yamamoto", "x": -1, "y": 2 },
+        { "name": "uno", "x": 1, "y": 2 },
+
+        { "name": "yokono", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
