@@ -10,14 +10,14 @@
       "title": "イントロサビ ①",
       "lyrics": "どこからか ある日 やって来て  勝手に住みついた シャムネコさ〜",
       "members": [
-        { "name": "sumino", "x": -7, "y": 1 },
-        { "name": "hongo", "x": -5, "y": 1 },
-        { "name": "shibuya", "x": -3, "y": 1 },
-        { "name": "kato", "x": -1, "y": 1 },
-        { "name": "hara", "x": 1, "y": 1 },
-        { "name": "shiotsuki", "x": 3, "y": 1 },
-        { "name": "kojima", "x": 5, "y": 1 },
-        { "name": "satsuki", "x": 7, "y": 1 }
+        { "name": "sumino", "x": -7, "y": 3 },
+        { "name": "hongo", "x": -5, "y": 3 },
+        { "name": "shibuya", "x": -3, "y": 3 },
+        { "name": "kato", "x": -1, "y": 3 },
+        { "name": "hara", "x": 1, "y": 3 },
+        { "name": "shiotsuki", "x": 3, "y": 3 },
+        { "name": "kojima", "x": 5, "y": 3 },
+        { "name": "satsuki", "x": 7, "y": 3 }
       ]
     },
 
