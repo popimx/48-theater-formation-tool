@@ -1,0 +1,211 @@
+{
+  "title": "恋なんか No thank you!",
+
+  "memo": [
+    "① 黒田、平山/眞鍋、早川和田、瓶野佐月",
+    "黒田平山眞鍋、早川和田、瓶野佐月",
+    "② 平山眞鍋、早川/和田、瓶野/佐月",
+    "平山黒田眞鍋、早川和田、瓶野佐月"
+  ],
+
+  "parts": [
+    {
+      "title": "イントロサビ ①",
+      "lyrics": "ねえそんなに優しくされちゃ  嫌いになんかなれないじゃない〜",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "satsuki", "x": 5, "y": 3 },
+
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "manabe", "x": 2.5, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロサビ ②",
+      "lyrics": "もう一生顔も見たくない  そんな風に思わせて欲しい〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "hayakawa", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "イントロ",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "hayakawa", "x": -1.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "なぜあなたが離れてくのに  いい人のままいようなんて〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "hayakawa", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "愛してたなら幻滅させてよ  恨んだり 憎んだりして〜",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "satsuki", "x": 5, "y": 3 },
+
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "manabe", "x": 2.5, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "遠回りだけど幸せだった  最後くらい強がらせて〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "hayakawa", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ①",
+      "lyrics": "",
+      "members": [
+        { "name": "hirayama", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+
+        { "name": "hayakawa", "x": -2.5, "y": 2 },
+        { "name": "manabe", "x": 2.5, "y": 2 },
+
+        { "name": "kameno", "x": -4, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "satsuki", "x": 4, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後 ②",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "kuroda", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "manabe", "x": 1, "y": 2 },
+
+        { "name": "hayakawa", "x": -2, "y": 1 },
+        { "name": "wada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ①",
+      "lyrics": "なぜあなたが離れてくのに  いい人のままいようなんて〜",
+      "members": [
+        { "name": "kameno", "x": -3, "y": 3 },
+        { "name": "manabe", "x": 0, "y": 3 },
+        { "name": "satsuki", "x": 3, "y": 3 },
+
+        { "name": "kuroda", "x": -1, "y": 2 },
+        { "name": "hirayama", "x": 1, "y": 2 },
+
+        { "name": "hayakawa", "x": -2, "y": 1 },
+        { "name": "wada", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ②",
+      "lyrics": "もっとちゃんと傷つけて〜",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": -1.5, "y": 3 },
+        { "name": "wada", "x": 1.5, "y": 3 },
+        { "name": "satsuki", "x": 5, "y": 3 },
+
+        { "name": "hirayama", "x": -2.5, "y": 2 },
+        { "name": "manabe", "x": 2.5, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ ③",
+      "lyrics": "愛してたなら 幻滅させてよ  恨んだり 憎んだりして〜",
+      "members": [
+        { "name": "kameno", "x": -6, "y": 1 },
+        { "name": "hayakawa", "x": -4, "y": 1 },
+        { "name": "hirayama", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 2, "y": 1 },
+        { "name": "wada", "x": 4, "y": 1 },
+        { "name": "satsuki", "x": 6, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "kameno", "x": -4.5, "y": 2 },
+        { "name": "hayakawa", "x": -1.5, "y": 2 },
+        { "name": "wada", "x": 1.5, "y": 2 },
+        { "name": "satsuki", "x": 4.5, "y": 2 },
+
+        { "name": "hirayama", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラスト",
+      "lyrics": "",
+      "members": [
+        { "name": "hayakawa", "x": -1.5, "y": 4 },
+        { "name": "wada", "x": 1.5, "y": 4 },
+
+        { "name": "kameno", "x": -2.5, "y": 3 },
+        { "name": "satsuki", "x": 2.5, "y": 3 },
+
+        { "name": "hirayama", "x": -1.25, "y": 2 },
+        { "name": "manabe", "x": 1.25, "y": 2 },
+
+        { "name": "kuroda", "x": 0, "y": 1 }
+      ]
+    }
+  ]
+}
