@@ -1,0 +1,98 @@
+{
+  "stage": "NMB48「Will be idol」",
+  "stageId": "willbeidol",
+  "members": [
+    {
+      "name": "瓶野神音",
+      "display": "瓶野",
+      "id": "kameno",
+      "image": "kameno_zion_2020"
+    },
+    {
+      "name": "黒田楓和",
+      "display": "黒田",
+      "id": "kuroda",
+      "image": "kuroda_fuwa_2020"
+    },
+    {
+      "name": "佐月愛果",
+      "display": "佐月",
+      "id": "satsuki",
+      "image": "satsuki_aika_2020"
+    },
+    {
+      "name": "早川夢菜",
+      "display": "早川",
+      "id": "hayakawa",
+      "image": "hayakawa_yuna_2020"
+    },
+    {
+      "name": "平山真衣",
+      "display": "平山",
+      "id": "hirayama",
+      "image": "hirayama_mai_2020"
+    },
+    {
+      "name": "眞鍋杏樹",
+      "display": "眞鍋",
+      "id": "manabe",
+      "image": "manabe_anju_2020"
+    },
+    {
+      "name": "和田海佑",
+      "display": "和田",
+      "id": "wada",
+      "image": "wada_miyu_2020"
+    }
+  ],
+  "songs": [
+    {
+      "name": "LOVE修行",
+      "file": "loveshugyo.json"
+    },
+    {
+      "name": "Seventeen",
+      "file": "seventeen.json"
+    },
+    {
+      "name": "恋なんかNo thank you!",
+      "file": "koinankano_thank_you.json"
+    },
+    {
+      "name": "Choose me!",
+      "file": "choose_me.json"
+    },
+    {
+      "name": "制服が邪魔をする",
+      "file": "seifukugajamawosuru.json"
+    },
+    {
+      "name": "最後のカタルシス",
+      "file": "saigonocatharsis.json"
+    },
+    {
+      "name": "絶滅黒髪少女",
+      "file": "zetsumetsukurokamishoujo.json"
+    },
+    {
+      "name": "らしくない",
+      "file": "rashikunai.json"
+    },
+    {
+      "name": "僕が負けた夏",
+      "file": "bokugamaketanatsu.json"
+    },
+    {
+      "name": "待ってました、新学期",
+      "file": "mattemashita_shingakki.json"
+    },
+    {
+      "name": "高嶺の林檎",
+      "file": "takanenoringo.json"
+    },
+    {
+      "name": "夢に色がない理由",
+      "file": "yumeniiroganairiyuu.json"
+    }
+  ]
+}
