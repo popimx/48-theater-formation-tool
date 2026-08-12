@@ -1,0 +1,144 @@
+{
+  "title": "制服が邪魔をする",
+
+  "memo": [
+    "イントロ 平山、黒田、眞鍋",
+    "① 平山、黒田、眞鍋和田、眞鍋、平山、和田",
+    "眞鍋黒田",
+    "①サビ 眞鍋、平山、黒田和田",
+    "①サビ後 和田、佐月、瓶野、早川",
+    "② 早川佐月、眞鍋/瓶野、早川佐月",
+    "眞鍋佐月早川瓶野、黒田、平山、眞鍋/和田",
+    "②サビ 和田、眞鍋、平山黒田、佐月",
+    "ラストサビ 和田平山、黒田/眞鍋、佐月早川瓶野",
+    "眞鍋、平山、眞鍋、平山、和田/黒田"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "ちょっと 会っただけ  2人 普通に学校帰り〜",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+
+        { "name": "hayakawa", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": -1, "y": 1 },
+        { "name": "kuroda", "x": 1, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "あっという間に 門限近くのゲーセン〜",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+
+        { "name": "hayakawa", "x": -4, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "manabe", "x": -1, "y": 1 },
+        { "name": "wada", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ③",
+      "lyrics": "だった 恋の初めは いろいろあるから〜",
+      "members": [
+        { "name": "kameno", "x": -2, "y": 3 },
+
+        { "name": "hayakawa", "x": -4, "y": 2 },
+        { "name": "wada", "x": -1, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "manabe", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "制服が邪魔をする  もっと 自由に愛されたいの〜",
+      "members": [
+        { "name": "kameno", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": -2, "y": 3 },
+        { "name": "satsuki", "x": 5, "y": 3 },
+
+        { "name": "manabe", "x": -3, "y": 2 },
+        { "name": "wada", "x": 3, "y": 2 },
+
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "hirayama", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "関係ないわよ  キスしなさい〜",
+      "members": [
+        { "name": "kameno", "x": -4, "y": 2 },
+        { "name": "hayakawa", "x": -2, "y": 2 },
+        { "name": "satsuki", "x": 4, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": -1, "y": 1 },
+        { "name": "wada", "x": 1, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "どんな視線も 愛の本能 止められない〜",
+      "members": [
+        { "name": "kuroda", "x": -6, "y": 2 },
+        { "name": "wada", "x": 4, "y": 2 },
+        { "name": "hirayama", "x": 6, "y": 2 },
+
+        { "name": "manabe", "x": -5, "y": 1 },
+        { "name": "hayakawa", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 },
+        { "name": "kameno", "x": 5, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ",
+      "lyrics": "制服を脱ぎ捨てて  もっと 不埒な遊びをしたいの〜",
+      "members": [
+        { "name": "satsuki", "x": -5, "y": 3 },
+        { "name": "hayakawa", "x": 2, "y": 3 },
+        { "name": "kameno", "x": 5, "y": 3 },
+
+        { "name": "hirayama", "x": -1, "y": 2 },
+        { "name": "kuroda", "x": 1, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "wada", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "制服が邪魔をする  もっと 自由に愛したいの〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 3 },
+        { "name": "hayakawa", "x": 4.5, "y": 3 },
+
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "kameno", "x": 1.5, "y": 2 },
+
+        { "name": "kuroda", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 0, "y": 1 },
+        { "name": "manabe", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
