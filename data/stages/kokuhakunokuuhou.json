@@ -1,0 +1,86 @@
+{
+  "stage": "NMB48「告白の空砲」",
+  "stageId": "kokuhakunokuuhou",
+  "members": [
+    {
+      "name": "安部若菜",
+      "display": "安部",
+      "id": "abe",
+      "image": "abe_wakana_2020"
+    },
+    {
+      "name": "鵜野みずき",
+      "display": "鵜野",
+      "id": "uno",
+      "image": "uno_mizuki_2020"
+    },
+    {
+      "name": "川上千尋",
+      "display": "川上",
+      "id": "kawakami",
+      "image": "kawakami_chihiro_2020"
+    },
+    {
+      "name": "塩月希依音",
+      "display": "塩月",
+      "id": "shiotsuki",
+      "image": "shiotsuki_keito_2020"
+    },
+    {
+      "name": "南波陽向",
+      "display": "南波",
+      "id": "namba",
+      "image": "namba_hinata_2020"
+    },
+    {
+      "name": "山本望叶",
+      "display": "山本",
+      "id": "yamamoto",
+      "image": "yamamoto_mikana_2020"
+    },
+    {
+      "name": "横野すみれ",
+      "display": "横野",
+      "id": "yokono",
+      "image": "yokono_sumire_2020"
+    }
+  ],
+  "songs": [
+    {
+      "name": "鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの",
+      "file": "suzukakenokinomichi.json"
+    },
+    {
+      "name": "ピンク色の世界",
+      "file": "pinkironosekai.json"
+    },
+    {
+      "name": "Overtake",
+      "file": "overtake.json"
+    },
+    {
+      "name": "奥歯",
+      "file": "okuba.json"
+    },
+    {
+      "name": "未来の果実",
+      "file": "mirainokajitsu.json"
+    },
+    {
+      "name": "欲望者",
+      "file": "yokubousha.json"
+    },
+    {
+      "name": "告白の空砲",
+      "file": "kokuhakunokuuhou.json"
+    },
+    {
+      "name": "ファースト・ラビット",
+      "file": "firstrabbit.json"
+    },
+    {
+      "name": "高嶺の林檎",
+      "file": "takane_no_ringo.json"
+    }
+  ]
+}
