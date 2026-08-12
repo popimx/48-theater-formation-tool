@@ -1,0 +1,181 @@
+{
+  "title": "夢に色がない理由",
+
+  "memo": [
+    "① 眞鍋黒田平山、佐月和田早川瓶野",
+    "眞鍋黒田平山、佐月早川/和田瓶野",
+    "② 和田/早川、瓶野佐月、眞鍋黒田平山",
+    "和田佐月/瓶野早川",
+    "ラストサビ 眞鍋黒田平山、佐月和田早川瓶野"
+  ],
+
+  "parts": [
+    {
+      "title": "1番Aメロ ①",
+      "lyrics": "胸の奥に風が吹くよ 弱い部分 震わせるように… 〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "wada", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 3, "y": 2 },
+
+        { "name": "manabe", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Aメロ ②",
+      "lyrics": "自分らしく生きていない その隙間から不安が広がる〜",
+      "members": [
+        { "name": "manabe", "x": -2, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "hirayama", "x": 2, "y": 2 },
+
+        { "name": "satsuki", "x": -3, "y": 1 },
+        { "name": "wada", "x": -1, "y": 1 },
+        { "name": "hayakawa", "x": 1, "y": 1 },
+        { "name": "kameno", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番Bメロ",
+      "lyrics": "人は誰でも変われることを... 〜",
+      "members": [
+        { "name": "hayakawa", "x": -1, "y": 3 },
+        { "name": "wada", "x": 1, "y": 3 },
+
+        { "name": "satsuki", "x": -2, "y": 2 },
+        { "name": "kuroda", "x": 0, "y": 2 },
+        { "name": "kameno", "x": 2, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ①",
+      "lyrics": "夢に色がないのは 答え合わせするためさ〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "wada", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 3, "y": 2 },
+
+        { "name": "manabe", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "1番サビ ②",
+      "lyrics": "後で直せるように 色がついていないんだ〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番Aメロ",
+      "lyrics": "間違ってもいいじゃないか 開き直れば楽しそうだよ〜",
+      "members": [
+        { "name": "kuroda", "x": 0, "y": 4 },
+
+        { "name": "hirayama", "x": -1.5, "y": 3 },
+        { "name": "manabe", "x": 1.5, "y": 3 },
+
+        { "name": "wada", "x": -3, "y": 2 },
+        { "name": "hayakawa", "x": 3, "y": 2 },
+
+        { "name": "kameno", "x": -1, "y": 1 },
+        { "name": "satsuki", "x": 1, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ①",
+      "lyrics": "明日が見えてないのは まだまだ白紙だからさ〜",
+      "members": [
+        { "name": "satsuki", "x": -3, "y": 2 },
+        { "name": "wada", "x": -1, "y": 2 },
+        { "name": "hayakawa", "x": 1, "y": 2 },
+        { "name": "kameno", "x": 3, "y": 2 },
+
+        { "name": "manabe", "x": -2, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 2, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ ②",
+      "lyrics": "未来 決まっていたら 努力しようがないよね〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "2番サビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ",
+      "lyrics": "後で直せるように 色がついていないんだ〜",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    },
+
+    {
+      "title": "ラストサビ後",
+      "lyrics": "",
+      "members": [
+        { "name": "satsuki", "x": -4.5, "y": 2 },
+        { "name": "wada", "x": -1.5, "y": 2 },
+        { "name": "hayakawa", "x": 1.5, "y": 2 },
+        { "name": "kameno", "x": 4.5, "y": 2 },
+
+        { "name": "manabe", "x": -3, "y": 1 },
+        { "name": "kuroda", "x": 0, "y": 1 },
+        { "name": "hirayama", "x": 3, "y": 1 }
+      ]
+    }
+  ]
+}
